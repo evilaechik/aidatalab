@@ -1,0 +1,17 @@
+fortune_500_2025_rank,company,geography_flag,current_hq_or_primary_office,license_file_match,timeline_event,timeline_year,research_status
+24,The Home Depot,Metro Atlanta - outside City of Atlanta,2455 Paces Ferry Road Atlanta GA 30339,Yes - 3 distinct Home Depot license records,Founded in Atlanta; first stores opened in Atlanta,1978,Verified
+47,United Parcel Service,Metro Atlanta - Sandy Springs,55 Glenlake Parkway Atlanta GA 30328,No corporate-HQ match; UPS Store franchises are present,HQ moved to Atlanta,1994,Verified
+70,Delta Air Lines,City of Atlanta,1030 Delta Boulevard Atlanta GA 30354,Yes - 2 distinct Delta Air Lines license records,HQ listed as Atlanta; exact HQ-move year still to source,,Partially verified
+97,The Coca-Cola Company,City of Atlanta,One Coca-Cola Plaza Atlanta GA 30313,Yes - 7 Coca-Cola-named license records,Atlanta-origin company; predecessor Georgia company organized in 1892,1892,Verified
+161,Southern Company,City of Atlanta,30 Ivan Allen Jr Boulevard NW Atlanta GA 30308,Yes - 1 Southern Company license record,Current HQ identified; Atlanta move/founding event still to source,,Partially verified
+187,Genuine Parts Company,Metro Atlanta - Cobb County,2999 Wildwood Parkway Atlanta GA 30339,Yes - 2 Genuine Parts license records,Founded in Atlanta,1928,Verified
+222,Aflac,Georgia outside Metro Atlanta,Columbus GA,No,Georgia Fortune 500 company marked outside Metro Atlanta,,Verified geography only
+229,PulteGroup,City of Atlanta,3350 Peachtree Road NE Atlanta GA 30326,Yes - 1 Pulte Group license record,Corporate offices relocated from Bloomfield Hills MI to Atlanta,2014,Verified
+242,Asbury Automotive Group,Metro Atlanta - Duluth,Duluth GA,No,Current metro-HQ location needs primary-source address capture,,Research pending
+346,Norfolk Southern,City of Atlanta,650 West Peachtree Street NW Atlanta GA 30308,No corporate-HQ match,HQ relocated from Norfolk VA; new Midtown HQ opened,2021,Verified
+356,Assurant,Metro Atlanta - exact city/address pending,Atlanta corporate office,No,Current office identified; relocation event still to source,,Research pending
+361,Intercontinental Exchange,Metro Atlanta - Sandy Springs,5660 New Northside Drive Atlanta GA 30328,No,Founded in 2000; company describes Atlanta and New York as co-headquarters,2000,Verified
+364,AGCO,Metro Atlanta - Duluth,Duluth GA,No,Current metro-HQ location needs primary-source address capture,,Research pending
+391,Mohawk Industries,Georgia outside Metro Atlanta,Calhoun GA,No,Georgia Fortune 500 company marked outside Metro Atlanta,,Verified geography only
+413,Global Payments,City of Atlanta,3550 Lenox Road Atlanta GA 30326,No corporate-HQ match,Launched as National Data Corporation in Atlanta; renamed Global Payments,1967,Verified
+444,Graphic Packaging Holding,Metro Atlanta - exact city/address pending,Atlanta-area corporate office,No,Current HQ/address and relocation timeline still to source,,Research pending
