@@ -1,0 +1,101 @@
+fortune_2025_rank,company,screening_bucket,presence_type,geography,evidence_status,location_or_note
+1,Walmart,has_atlanta_office,corporate_or_operational_office,City of Atlanta,screened_source_needed,Atlanta R&D or operational-office lead
+2,Amazon,has_atlanta_office,corporate_or_operational_office,City of Atlanta,screened_source_needed,Atlanta office and data-services lead
+3,UnitedHealth,has_atlanta_metro_office,regional_health_plan_office,Metro Atlanta,company_source_checked,UnitedHealthcare of Georgia at 2100 RiverEdge Pkwy
+4,Apple,store_or_distribution,retail_store,Metro Atlanta,screened_source_needed,Apple retail footprint
+5,CVS Health,store_or_distribution,retail_pharmacy,Metro Atlanta,screened_source_needed,CVS Pharmacy footprint
+6,Berkshire Hathaway,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+7,Alphabet,has_atlanta_office,corporate_or_technology_office,City of Atlanta,screened_source_needed,Google Atlanta office lead
+8,Exxon Mobil,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+9,McKesson,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,North-metro office lead
+10,Cencora,store_or_distribution,distribution,Metro Atlanta,screened_source_needed,Distribution lead
+11,JPMorgan Chase,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+12,Costco,store_or_distribution,retail_warehouse,Metro Atlanta,screened_source_needed,Costco warehouse footprint
+13,Cigna,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,North-metro office lead
+14,Microsoft,has_atlanta_office,corporate_or_technology_office,City of Atlanta,screened_source_needed,Midtown office lead
+15,Cardinal Health,store_or_distribution,distribution,Metro Atlanta,screened_source_needed,Distribution lead
+16,Chevron,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+17,Bank of America,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+18,General Motors,has_atlanta_metro_office,technology_or_regional_office,Metro Atlanta,screened_source_needed,North-metro office lead
+19,Ford Motor,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+20,Elevance Health,has_atlanta_office,regional_health_plan_office,City of Atlanta,screened_source_needed,Atlanta health-plan office lead
+21,Citi,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+22,Meta,has_atlanta_office,technology_office,City of Atlanta,screened_source_needed,Midtown office lead
+23,Centene,has_atlanta_metro_office,regional_health_plan_office,Metro Atlanta,screened_source_needed,Georgia health-plan office lead
+24,Home Depot,has_atlanta_metro_office,headquarters,Metro Atlanta,screened_source_needed,Cobb County headquarters campus
+25,Fannie Mae,has_atlanta_office,regional_office,City of Atlanta,screened_source_needed,Atlanta regional office lead
+26,Walgreens,store_or_distribution,retail_pharmacy,Metro Atlanta,screened_source_needed,Walgreens retail footprint
+27,Kroger,has_atlanta_metro_office,division_office,Metro Atlanta,screened_source_needed,Atlanta division-office lead
+28,Phillips 66,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+29,Marathon Petroleum,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+30,Verizon,has_atlanta_office,corporate_or_telecom_office,City of Atlanta,screened_source_needed,Atlanta office lead
+31,Nvidia,has_atlanta_metro_office,technology_office,Metro Atlanta,screened_source_needed,North-metro office lead
+32,Goldman Sachs,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+33,Wells Fargo,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+34,Valero Energy,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+35,Comcast,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+36,State Farm,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,North-metro office lead
+37,AT&T,has_atlanta_metro_office,corporate_or_telecom_office,Metro Atlanta,screened_source_needed,Metro office lead
+38,Freddie Mac,has_atlanta_office,regional_office,City of Atlanta,screened_source_needed,Atlanta regional office lead
+39,Humana,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+40,Morgan Stanley,has_atlanta_office,corporate_or_financial_office,City of Atlanta,screened_source_needed,Atlanta financial-office lead
+41,Target,store_or_distribution,retail_store,Metro Atlanta,screened_source_needed,Target retail footprint
+42,StoneX,has_atlanta_metro_office,financial_or_trading_office,Metro Atlanta,screened_source_needed,Metro office lead
+43,Tesla,store_or_distribution,retail_and_service,Metro Atlanta,screened_source_needed,Tesla retail and service footprint
+44,Dell Technologies,has_atlanta_metro_office,technology_or_sales_office,Metro Atlanta,screened_source_needed,Metro office lead
+45,PepsiCo,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+46,Walt Disney,has_atlanta_office,corporate_or_media_office,City of Atlanta,screened_source_needed,Atlanta office lead
+47,UPS,has_atlanta_metro_office,headquarters,Metro Atlanta,screened_source_needed,Sandy Springs headquarters
+48,Johnson & Johnson,has_atlanta_office,healthcare_or_sales_office,City of Atlanta,screened_source_needed,Atlanta office lead
+49,FedEx,store_or_distribution,retail_and_logistics,Metro Atlanta,screened_source_needed,FedEx retail and logistics footprint
+50,Archer Daniels Midland,has_atlanta_office,commercial_office,City of Atlanta,screened_source_needed,Atlanta commercial-office lead
+51,Procter & Gamble,has_atlanta_metro_office,regional_sales_office,Metro Atlanta,screened_source_needed,Metro sales-office lead
+52,Lowe's,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Kennesaw office lead
+53,Energy Transfer,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+54,RTX,has_atlanta_metro_office,technology_or_regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+55,Albertsons,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+56,Sysco,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,College Park regional hub lead
+57,Progressive,has_atlanta_metro_office,claims_or_operational_office,Metro Atlanta,screened_source_needed,Metro claims-office lead
+58,American Express,has_atlanta_office,corporate_office,City of Atlanta,company_source_checked,Midtown Atlanta office
+59,Lockheed Martin,has_atlanta_metro_office,engineering_manufacturing_and_administration,Metro Atlanta,company_source_checked,Marietta campus
+60,MetLife,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Sandy Springs and Buckhead office leads
+61,HCA Healthcare,has_atlanta_metro_office,regional_division_office,Metro Atlanta,screened_source_needed,Norcross division-office lead
+62,Prudential Financial,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+63,Boeing,has_atlanta_metro_office,defense_or_technical_office,Metro Atlanta,screened_source_needed,Metro office lead
+64,Caterpillar,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,Athens activity is outside the metro screen
+65,Merck,has_atlanta_office,commercial_office,City of Atlanta,screened_source_needed,Atlanta commercial-office lead
+66,Allstate,has_atlanta_metro_office,regional_or_claims_office,Metro Atlanta,screened_source_needed,Metro office lead
+67,Pfizer,has_atlanta_office,commercial_office,City of Atlanta,screened_source_needed,Buckhead commercial-office lead
+68,IBM,has_atlanta_office,technology_office,City of Atlanta,screened_source_needed,Midtown client-center lead
+69,New York Life Insurance,has_atlanta_office,regional_office,City of Atlanta,screened_source_needed,Atlanta regional-office lead
+70,Delta Airlines,has_atlanta_office,headquarters,City of Atlanta,company_source_checked,1030 Delta Boulevard
+71,Publix Super Markets,has_atlanta_metro_office,division_office,Metro Atlanta,screened_source_needed,Marietta division-office lead
+72,Nationwide,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Metro office lead
+73,TD Synnex,has_atlanta_metro_office,office_and_distribution,Metro Atlanta,screened_source_needed,Norcross and Suwanee leads
+74,United Airlines,store_or_distribution,airport_operations,City of Atlanta,screened_source_needed,Hartsfield-Jackson operating presence only
+75,ConocoPhillips,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+76,TJX,store_or_distribution,retail_and_logistics,Metro Atlanta,screened_source_needed,TJX retail and logistics footprint
+77,AbbVie,has_atlanta_office,commercial_office,City of Atlanta,screened_source_needed,Buckhead commercial-office lead
+78,Enterprise Products Partners,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+79,Charter Communications,has_atlanta_metro_office,regional_office,Metro Atlanta,screened_source_needed,Duluth office lead
+80,Performance Food,store_or_distribution,distribution,Metro Atlanta,screened_source_needed,Metro distribution footprint
+81,American Airlines,store_or_distribution,airport_operations,City of Atlanta,screened_source_needed,Hartsfield-Jackson operating presence only
+82,Capital One,has_atlanta_office,technology_office,City of Atlanta,company_source_checked,Ponce City Market office
+83,Cisco Systems,has_atlanta_office,technology_office,City of Atlanta,company_source_checked,756 W Peachtree St NW
+84,HP,has_atlanta_metro_office,technology_or_sales_office,Metro Atlanta,screened_source_needed,Metro office lead
+85,Tyson Foods,store_or_distribution,processing_or_distribution,Metro Atlanta,screened_source_needed,North-metro processing footprint
+86,Intel,has_atlanta_metro_office,technology_office,Metro Atlanta,screened_source_needed,Metro office lead
+87,Oracle,has_atlanta_office,technology_office,City of Atlanta,screened_source_needed,Atlanta office lead
+88,Broadcom,has_atlanta_metro_office,technology_office,Metro Atlanta,screened_source_needed,Perimeter and Duluth office leads
+89,Deere,store_or_distribution,distribution,Metro Atlanta,screened_source_needed,McDonough distribution center
+90,Nike,store_or_distribution,retail_store,Metro Atlanta,screened_source_needed,Nike retail footprint
+91,Liberty Mutual Insurance,has_atlanta_metro_office,regional_or_claims_office,Metro Atlanta,screened_source_needed,Metro office lead
+92,Plains GP,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+93,USAA,has_atlanta_metro_office,regional_or_service_office,Metro Atlanta,screened_source_needed,Metro office lead
+94,Bristol-Myers Squibb,no_verified_material_presence,no_verified_material_presence,Metro Atlanta,screened_source_needed,No material local corporate footprint identified
+95,Ingram Micro,has_atlanta_metro_office,office_and_distribution,Metro Atlanta,screened_source_needed,Metro office and logistics lead
+96,General Dynamics,has_atlanta_metro_office,technology_or_defense_office,Metro Atlanta,screened_source_needed,Metro subsidiary-office lead
+97,Coca-Cola,has_atlanta_office,headquarters,City of Atlanta,screened_source_needed,Atlanta headquarters
+98,TIAA,has_atlanta_office,regional_office,City of Atlanta,screened_source_needed,Atlanta regional-office lead
+99,Travelers,has_atlanta_office,technology_office,City of Atlanta,company_source_checked,Coda technology hub
+100,Eli Lilly,has_atlanta_office,commercial_office,City of Atlanta,screened_source_needed,Atlanta commercial-office lead
