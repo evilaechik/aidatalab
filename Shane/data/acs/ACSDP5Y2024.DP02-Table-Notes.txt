@@ -1,0 +1,125 @@
+
+
+=============================================================================================================
+Key Table Information
+=============================================================================================================
+
+Table Title
+
+  Selected Social Characteristics in the United States
+  
+-------------------------------------------------------------------------------------------------------------
+
+Table ID
+
+  ACSDP5Y2024.DP02
+  
+-------------------------------------------------------------------------------------------------------------
+
+Survey/Program
+
+  American Community Survey
+  
+-------------------------------------------------------------------------------------------------------------
+
+Year
+
+  2024
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset
+
+  ACS 5-Year Estimates Data Profiles
+  
+-------------------------------------------------------------------------------------------------------------
+
+Source
+
+  U.S. Census Bureau, 2024 American Community Survey, 5-Year Estimates
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset Universe
+
+  The dataset universe of the American Community Survey (ACS) is the U.S. resident population and housing. For more information about ACS residence rules, see the <a href=\"https://www.census.gov/programs-surveys/acs/methodology/design-and-methodology.html\">ACS Design and Methodology Report<\/a>. Note that each table describes the specific universe of interest for that set of estimates.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Methodology
+=============================================================================================================
+
+Unit(s) of Observation
+
+  American Community Survey (ACS) data are collected from individuals living in housing units and group quarters, and about housing units whether occupied or vacant. For more information about ACS sampling and data collection, see the <a href=\"https://www.census.gov/programs-surveys/acs/methodology/design-and-methodology.html\">ACS Design and Methodology Report<\/a>.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Geography Coverage
+
+  ACS data generally reflect the geographic boundaries of legal and statistical areas as of January 1 of the estimate year. For more information, see <a href=\"https://www.census.gov/programs-surveys/acs/geography-acs/geography-boundaries-by-year.html\"> Geography Boundaries by Year<\/a>.<br /><br />Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on 2020 Census data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Sampling
+
+  The ACS consists of two separate samples: housing unit addresses and group quarters facilities. Independent housing unit address samples are selected for each county or county-equivalent in the U.S. and Puerto Rico, with sampling rates depending on a measure of size for the area. For more information on sampling in the ACS, see the <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Accuracy of the Data document<\/a>.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Confidentiality
+
+  The Census Bureau has modified or suppressed some estimates in ACS data products to protect respondents' confidentiality. Title 13 United States Code, Section 9, prohibits the Census Bureau from publishing results in which an individual's data can be identified. For more information on confidentiality protection in the ACS, see the <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Accuracy of the Data document<\/a>.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Technical Documentation/Methodology
+
+  Information about the American Community Survey (ACS) can be found on the <a href=\"https://www.census.gov/programs-surveys/acs.html\">ACS website<\/a>. Supporting documentation including code lists, subject definitions, data accuracy, and statistical testing, and a full list of ACS tables and table shells (without estimates) can be found on the <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Technical Documentation<\/a> section of the ACS website.<br /><br />Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the <a href=\"https://www.census.gov/acs/www/methodology/sample_size_and_data_quality/\">Methodology<\/a> section.<br /><br />Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted roughly as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation.html\">ACS Technical Documentation<\/a>). The effect of nonsampling error is not represented in these tables.<br /><br />Users must consider potential differences in geographic boundaries, questionnaire content or coding, or other methodological issues when comparing ACS data from different years. Statistically significant differences shown in ACS Comparison Profiles, or in data users' own analysis, may be the result of these differences and thus might not necessarily reflect changes to the social, economic, housing, or demographic characteristics being compared. For more information, see <a href=\"https://www.census.gov/programs-surveys/acs/guidance/comparing-acs-data.html\"> Comparing ACS Data<\/a>.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Weights
+
+  ACS estimates are obtained from a raking ratio estimation procedure that results in the assignment of two sets of weights: a weight to each sample person record and a weight to each sample housing unit record. Estimates of person characteristics are based on the person weight. Estimates of family, household, and housing unit characteristics are based on the housing unit weight. For any given geographic area, a characteristic total is estimated by summing the weights assigned to the persons, households, families or housing units possessing the characteristic in the geographic area. For more information on weighting and estimation in the ACS, see the <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Accuracy of the Data document<\/a>.<br /><br />Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, the decennial census is the official source of population totals for April 1st of each decennial year. In between censuses, the Census Bureau's Population Estimates Program produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units and the group quarters population for states and counties.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Table Information
+=============================================================================================================
+
+API Information
+
+  American Community Survey (ACS) data is available via API. For more information on available APIs, please see Census Developers page at <a href=\"https://www.census.gov/data/developers/data-sets.html\">API Information<\/a>.<br/><br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Symbols
+
+  Explanation of Symbols:<TABLE><TR><TD>-<\/TD><TD> The estimate could not be computed because there were an insufficient number of sample observations. For a ratio of medians estimate, one or both of the median estimates falls in the lowest interval or highest interval of an open-ended distribution. For a 5-year median estimate, the margin of error associated with a median was larger than the median itself.<\/TD><\/TR><TR><TD>N<\/TD><TD> The estimate or margin of error cannot be displayed because there were an insufficient number of sample cases in the selected geographic area.<\/TD><\/TR><TR><TD> (X)<\/TD><TD> The estimate or margin of error is not applicable or not available.<\/TD><\/TR><TR><TD>median-<\/TD><TD> The median falls in the lowest interval of an open-ended distribution (for example \"2,500-\")<\/TD><\/TR><TR><TD>median+<\/TD><TD> The median falls in the highest interval of an open-ended distribution (for example \"250,000+\").<\/TD><\/TR><TR><TD>**<\/TD><TD> The margin of error could not be computed because there were an insufficient number of sample observations.<\/TD><\/TR><TR><TD>***<\/TD><TD> The margin of error could not be computed because the median falls in the lowest interval or highest interval of an open-ended distribution.<\/TD><\/TR><TR><TD>*****<\/TD><TD> A margin of error is not appropriate because the corresponding estimate is controlled to an independent population or housing estimate. Effectively, the corresponding estimate has no sampling error and the margin of error may be treated as zero.<\/TD><\/TR><\/TABLE><br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Data-Specific Notes
+
+  Some of the population groups in this table are listed in both ancestry and race profiles. For example, German may be included in either an ancestry or race table because the response can be captured from the ancestry or race question. Detailed White, Black or African American, and Some Other Race groups have historically been tabulated from the ancestry question on the American Community Survey (ACS). However, improvements made to the race question in 2020 led to more detailed race groups being collected. Beginning with the 2024 ACS data products, detailed race data for White, Black or African American, and Some Other Race groups are included in race tabulations. Differences in the way the ancestry and race questions are asked, processed, and tabulated may lead to differences between ancestry and race estimates for a given group. For more information on ancestry and race estimates, please see the ACS User Note, <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2025-01.html\">Overlapping Race and Ancestry Estimates in the American Community Survey Data Products<\/a> website.<br/><br/>Ancestry listed in this table refers to the total number of people who responded with a particular ancestry; for example, the estimate given for German represents the number of people who listed German as either their first or second ancestry. This table lists only the largest ancestry groups; see the Detailed Tables for more categories. Race and Hispanic origin groups are not included in this table because data for those groups come from the Race and Hispanic origin questions rather than the ancestry question (see Demographic Table).<br/><br/>Data for year of entry of the native population reflect the year of entry into the U.S. by people who were born in Puerto Rico or U.S. Island Areas or born outside the U.S. to a U.S. citizen parent and who subsequently moved to the U.S.<br/><br/>The category \"with a broadband Internet subscription\" refers to those who said \"Yes\" to at least one of the following types of Internet subscriptions: Broadband such as cable, fiber optic, or DSL; a cellular data plan; satellite; a fixed wireless subscription; or other non-dial up subscription types.<br/><br/>An Internet \"subscription\" refers to a type of service that someone pays for to access the Internet such as a cellular data plan, broadband such as cable, fiber optic or DSL, or other type of service. This will normally refer to a service that someone is billed for directly for Internet alone or sometimes as part of a bundle.<br/><br/>\"With a computer\" includes those who said \"Yes\" to at least one of the following types of computers: Desktop or laptop; smartphone; tablet or other portable wireless computer; or some other type of computer.<br/><br/>Caution should be used when comparing data for computer and Internet use before and after 2016. Changes in 2016 to the questions involving the wording as well as the response options resulted in changed response patterns in the data. Most noticeable are increases in overall computer ownership or use, the total of Internet subscriptions, satellite subscriptions, and cellular data plans for a smartphone or other mobile device. For more detailed information about these changes, see the 2016 American Community Survey Content Test Report for Computer and Internet Use located at <a href=\"https://www.census.gov/library/working-papers/2017/acs/2017_Lewis_01.html\">https://www.census.gov/library/working-papers/2017/acs/2017_Lewis_01.html<\/a> or the user note regarding changes in the 2016 questions located at <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2017-03.html\">https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2017-03.html<\/a>.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Additional Information
+=============================================================================================================
+
+Contact Information
+
+  Contact the Census Bureau Customer Help Center at 1-800-923-8282 or submit a question at ask.census.gov.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Suggested Citation
+
+  U.S. Census Bureau. \"Selected Social Characteristics in the United States\" American Community Survey, ACS 5-Year Estimates Data Profiles, Table DP02, 2024, https://data.census.gov/table/ACSDP5Y2024.DP02?q=DP02: Accessed on October 01, 2026.
+  
+-------------------------------------------------------------------------------------------------------------

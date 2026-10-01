@@ -1,0 +1,162 @@
+[
+  {
+    "msa": "12060",
+    "area_name": "Atlanta-Sandy Springs-Roswell, GA",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0012060/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0012060",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_12060_raw.json"
+  },
+  {
+    "msa": "16740",
+    "area_name": "Charlotte-Concord-Gastonia, NC-SC",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0016740/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0016740",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_16740_raw.json"
+  },
+  {
+    "msa": "39580",
+    "area_name": "Raleigh-Cary, NC",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0039580/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0039580",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_39580_raw.json"
+  },
+  {
+    "msa": "34980",
+    "area_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0034980/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0034980",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_34980_raw.json"
+  },
+  {
+    "msa": "19100",
+    "area_name": "Dallas-Fort Worth-Arlington, TX",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0019100/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0019100",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_19100_raw.json"
+  },
+  {
+    "msa": "12420",
+    "area_name": "Austin-Round Rock-San Marcos, TX",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0012420/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0012420",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_12420_raw.json"
+  },
+  {
+    "msa": "26420",
+    "area_name": "Houston-Pasadena-The Woodlands, TX",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0026420/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0026420",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_26420_raw.json"
+  },
+  {
+    "msa": "45300",
+    "area_name": "Tampa-St. Petersburg-Clearwater, FL",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0045300/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0045300",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_45300_raw.json"
+  },
+  {
+    "msa": "19740",
+    "area_name": "Denver-Aurora-Centennial, CO",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0019740/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0019740",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_19740_raw.json"
+  },
+  {
+    "msa": "38060",
+    "area_name": "Phoenix-Mesa-Chandler, AZ",
+    "year": 2025,
+    "source_url": "https://data.bls.gov/oes/#/area/0038060/2025",
+    "endpoint": "https://data.bls.gov/OESServices/prefilter/table",
+    "request": {
+      "areaCode": "0038060",
+      "industryCode": "000000",
+      "year": "2025",
+      "tableSuffix": "pub",
+      "userId": "",
+      "pwd": ""
+    },
+    "path": "oews/oews_may2025_38060_raw.json"
+  }
+]
