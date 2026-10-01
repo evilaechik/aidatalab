@@ -1,0 +1,32 @@
+# Keep private Invest Atlanta files local.
+/Invest-atlanta/private/
+/Invest_ATL_private/
+
+# Ignore source downloads by default; share documentation and selected inputs.
+/data/**
+!/data/**/
+!/data/**/*.md
+!/data/download_manifest.csv
+
+# ACS: one extracted copy of each public table, with metadata and notes.
+!/data/acs/ACSDP5Y2019.DP02-Data.csv
+!/data/acs/ACSDP5Y2019.DP02-Column-Metadata.csv
+!/data/acs/ACSDP5Y2019.DP02-Table-Notes.txt
+!/data/acs/ACSDP5Y2019.DP03-Data.csv
+!/data/acs/ACSDP5Y2019.DP03-Column-Metadata.csv
+!/data/acs/ACSDP5Y2019.DP03-Table-Notes.txt
+!/data/acs/ACSDP5Y2024.DP02-Data.csv
+!/data/acs/ACSDP5Y2024.DP02-Column-Metadata.csv
+!/data/acs/ACSDP5Y2024.DP02-Table-Notes.txt
+!/data/acs/ACSDP5Y2024.DP03-Data.csv
+!/data/acs/ACSDP5Y2024.DP03-Column-Metadata.csv
+!/data/acs/ACSDP5Y2024.DP03-Table-Notes.txt
+
+# OEWS: one combined table, its definitions, and exact public requests.
+!/data/oews/oews_may2025_selected_metros.csv
+!/data/oews/datatype_definitions.json
+!/data/oews/footnote_definitions.json
+!/data/oews/selected_metros_sources.json
+
+# Private files stay excluded even when they are Markdown documentation.
+/data/Invest_ATL_private/
