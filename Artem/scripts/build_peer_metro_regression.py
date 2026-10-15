@@ -21,8 +21,9 @@ from openpyxl import load_workbook
 
 
 ROOT = Path(__file__).resolve().parents[2]
-OUTPUT_DIR = ROOT / "data" / "peer_metro_regression"
-CACHE_DIR = Path("/tmp/aidatalab_peer_metro_inputs")
+ARTEM_DIR = ROOT / "Artem"
+OUTPUT_DIR = ARTEM_DIR / "data" / "peer_metro_regression"
+RAW_INPUT_DIR = OUTPUT_DIR / "raw_inputs"
 DELINEATION_URL = (
     "https://www2.census.gov/programs-surveys/metro-micro/geographies/"
     "reference-files/2023/delineation-files/list1_2023.xlsx"
@@ -74,9 +75,11 @@ def read_qcew_year(year: int, counties: dict[str, set[str]]) -> list[dict]:
     rows: list[dict] = []
     for metro, fips_codes in counties.items():
         for fips in fips_codes:
-            repo_file = ROOT / "Artem" / "data" / "public_sources" / "qcew" / f"qcew_{year}_q4_{fips}.csv"
-            source_file = repo_file if repo_file.exists() else CACHE_DIR / f"qcew_{year}_q4_{fips}.csv"
+            raw_file = RAW_INPUT_DIR / "qcew" / f"qcew_{year}_q4_{fips}.csv"
+            legacy_file = ARTEM_DIR / "data" / "public_sources" / "qcew" / f"qcew_{year}_q4_{fips}.csv"
+            source_file = raw_file if raw_file.exists() else legacy_file
             if not source_file.exists():
+                source_file = raw_file
                 download(QCEW_URL.format(year=year, county=fips), source_file)
             values: dict[str, dict[str, float]] = {}
             with source_file.open(encoding="utf-8-sig") as file:
@@ -144,7 +147,7 @@ def main() -> None:
     args = parser.parse_args()
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
-    delineation_path = CACHE_DIR / "list1_2023.xlsx"
+    delineation_path = RAW_INPUT_DIR / "census_cbsa_county_delineation_2023.xlsx"
     download(DELINEATION_URL, delineation_path)
     counties = metro_counties(delineation_path)
     source_rows = []
