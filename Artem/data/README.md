@@ -1,3 +1,15 @@
+# Public research datasets
+
+This folder contains only public, shareable research artifacts. It does **not** contain restricted Invest Atlanta records, including the separately held business-license file.
+
+## Peer-metro research
+
+- `peer_metro_baseline_2025.csv`: annual QCEW/Bureau of Economic Analysis peer baseline for Atlanta, Austin, and Charlotte.
+- `peer_metro_regression/`: Q4 county employment-growth panel, sector trends, and a reproducible exploratory-regression output.
+- `peer_metro_decision_tracker_public.csv`: source-linked public announcements of office, headquarters, R&D, manufacturing, and operations decisions. It distinguishes City and metro locations and records announcements rather than treating them as delivered outcomes.
+
+See [`../PUBLIC_DATA_CATALOG.md`](../PUBLIC_DATA_CATALOG.md) for a description of each dataset, its intended use, and limitations.
+
 # Fortune 100 Atlanta presence screen
 
 `fortune_100_atlanta_presence_2025.csv` is a one-row-per-company research screen for the 2025 Fortune 100 list.
@@ -27,5 +39,4 @@ The distinction matters for Invest Atlanta: its formal jurisdiction is City of A
 ## Source basis
 
 - Fortune 500 Companies 2025 dataset (50Pros/Kaggle), used for the rank and company universe.
-- City of Atlanta Business License Records 2025, supplied in this repository, used as a lead source only.
 - Company-owned location and careers pages used for the currently checked rows.
