@@ -26,6 +26,14 @@ Use `has_atlanta_office` for City of Atlanta findings. Keep `has_atlanta_metro_o
 
 The provided files do not yet include the BLS industry-growth/loss series or comparable-region incentive data named in the project brief. They are needed to make defensible claims about Atlanta's competitiveness relative to peer metros.
 
+## Public peer-metro research
+
+The project now includes a public baseline for Atlanta, Austin, and Charlotte; a short QCEW county panel for exploratory analysis; and a source-linked company-decision tracker. The tracker contains 15 announced attraction, expansion, headquarters, R&D, manufacturing, and operations-hub cases, with City and metro locations explicitly separated.
+
+Start with [`PUBLIC_DATA_CATALOG.md`](PUBLIC_DATA_CATALOG.md) for the data inventory and limitations. The company-decision data is at [`data/peer_metro_decision_tracker_public.csv`](data/peer_metro_decision_tracker_public.csv); the peer comparison and regression interpretation are in [`PEER_METRO_DEEP_DIVE.md`](PEER_METRO_DEEP_DIVE.md).
+
+All files added in this section are public and shareable. Do not place restricted Invest Atlanta business records in this repository.
+
 ## First analysis direction
 
 Create an industry-by-place opportunity map that identifies Atlanta areas with:
