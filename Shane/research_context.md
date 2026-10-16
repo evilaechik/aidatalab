@@ -1,171 +1,91 @@
-# Research Context
+# Atlanta business attraction and retention: research plan
 
-## Project Focus
+Updated October 15, 2026. **Current phase: Dallas/Denver pilot data collection and source verification are complete; the benchmarking specification and analysis remain to be completed.**
 
-This project examines **business attraction and retention in Atlanta**, with the goal of identifying where Atlanta is underperforming relative to comparable metropolitan areas and determining which economic development incentives or strategies used elsewhere may be relevant for Atlanta.
+## Aim
 
-The project initially began with the idea of building a machine learning model to identify firms that are likely to relocate and firms that may be strong candidates for relocation to Atlanta. The framing then broadened to focus first on the underlying economic-development question: **Where is Atlanta lagging in business attraction and retention, why is it lagging, and which incentive strategies used by stronger-performing regions could help address those gaps?**
+**Where is Atlanta lagging in business attraction and retention, what factors are causing this, and what incentives can be implemented or expanded to increase business attraction and retention?**
 
-## Core Research Question
+Identify persistent gaps by industry and firm type, investigate their causes, and recommend feasible incentive strategies tied to those gaps. Expansion is a related outcome to examine alongside attraction and retention. The intended result is a prioritized set of industries/business types and policy opportunities, with an evidence-based rationale and a plan to evaluate results.
 
-**In which industries and firm segments is Atlanta underperforming comparable metropolitan areas in business attraction, expansion, and retention; what economic and policy factors are associated with these gaps; and which incentive strategies used by stronger-performing regions warrant further evaluation for Atlanta?**
+## Scope and definitions to settle first
 
-Supporting questions include:
+- **Geography:** The collected pilot covers Dallas–Fort Worth–Arlington (CBSA 19100) and Denver–Aurora–Centennial (CBSA 19740). Use a consistently defined Atlanta metro for regional comparisons. Separately define the City of Atlanta policy jurisdiction; metro results do not establish city outcomes or Invest Atlanta program effects.
+- **Peers:** Dallas and Denver are pilot comparison areas. Their collection does not establish the final peer group. Select and justify peers using baseline size, industry mix, growth conditions, and relevant regional characteristics before ranking performance.
+- **Time:** The current collection starts in 2023 for annual sources, with the explicitly requested 2022 Economic Census exception. **2023 is the common available annual reference year** for QCEW, CBP, BDS and GDP in the pilot. QCEW extends to 2025 and GDP to 2024; revenue, tax and headquarters observations have separate reference years. The earlier proposed 2015–2023 window is not represented in these refreshed folders. Set the research window explicitly before making trend or recovery claims.
+- **Segments:** The pilot supports source-specific industry comparisons and CBP establishment-size groups. Finalize compatible industry groupings and distinguish establishment size from firm size; the current files do not provide a common firm-size dimension across all sources.
 
-- Where is Atlanta gaining or losing businesses relative to comparable cities and national industry trends?
-- Which industries, firm sizes, or business types show the largest attraction or retention gaps?
-- What regional, firm-level, labor-market, real-estate, or policy characteristics are associated with stronger business attraction and retention?
-- What incentives are used by regions that outperform Atlanta in areas where Atlanta is lagging?
-- Which of those incentives or program structures appear relevant to Atlanta's specific gaps?
-- Which types of firms could ultimately be the most relevant targets for attraction or retention efforts?
+| Outcome | Working definition | Measurement decision |
+| --- | --- | --- |
+| Attraction | Businesses establish a new local presence from outside the area | Prefer verified new-location/relocation events, jobs, and investment. Aggregate entry counts also include local startups; classify them separately where possible. |
+| Expansion | Existing local businesses increase activity | Prefer verified expansions and employment/investment changes at existing businesses. Aggregate growth and job creation are broader proxies. |
+| Retention | Existing businesses continue operating locally | Define a starting cohort and follow continued presence, closures, relocations, and employment. Aggregate exit rates indicate risk but do not identify why businesses leave. |
 
-## Thought Process and Research Logic
+Set denominators, units, and comparison periods for each measure. Distinguish direct observations from proxies; net employment or establishment growth alone cannot separate these three outcomes.
 
-The key shift in the project was moving from a **firm-first prediction problem** to a **market-first economic development analysis**.
+## Available pilot evidence
 
-A relocation model by itself could identify firms that appear likely to move, but it would not answer whether Atlanta is actually weak in attracting those types of firms or whether incentives are the appropriate intervention. The broader approach therefore starts by diagnosing Atlanta's competitive gaps before identifying policy solutions or individual companies to target.
+Each city folder contains nine data files matching the requested source table, with verified sources and documented coverage. The table below groups overlapping files by source. Detailed file inventories and acquisition records are in the [dataset context](us_city_economic_datasets_context.md), [Dallas documentation](Data/dallas_data/README.md), and [Denver documentation](Data/denver_data/README.md).
 
-The research logic is:
+| Source | Collected reference year(s) | Use in the research |
+| --- | --- | --- |
+| QCEW | 2023–2025 | Employment, wages and establishments. Industry comparisons are available for 2023–2024; the 2025 metro annual files contain only an all-ownership, all-industry total. |
+| CBP employment and establishment views | 2023 | Industry employment, payroll, establishment counts and establishment-size composition. Establishments provide a location-count proxy, not a named company-office roster. |
+| 2022 Economic Census geographic detail and sector summary | 2022 | Industry sales/receipts as a dated structural baseline. The two files overlap within EC2200BASIC and must not be treated as independent revenue observations. |
+| BEA county GDP | 2023–2024 | County economic output and documented all-industry metro sums using July 2023 county delineations. Values are nominal; changes combine price and real-output changes. |
+| State corporate income tax | 2026 | Colorado and Texas statutory tax context. These observations do not measure effective business tax burdens or conditions in 2023. |
+| Fortune 500 | 2025 | Large-company headquarters presence from verified ranking membership and documented location sources. Headquarters presence does not measure all local company operations. |
+| BDS metro | 2023 | Establishment entry/exit and job flows as attraction/retention proxies. A single reference year does not establish a trend or identify relocation. |
 
-**Industry / market gap -> explanation of the gap -> incentive comparison -> policy opportunity -> firm targeting**
+The annual baseline can support a 2023 comparison once equivalent Atlanta extracts and the comparison rules are established. The current collection does not by itself support a common multi-year industry panel across all sources, pre-pandemic comparisons, company-level revenue analysis, or causal estimates of incentive effects. Treat the separately dated revenue, headquarters and tax observations as contextual evidence unless the analysis explicitly accommodates their timing.
 
-This creates a clearer connection between the evidence and any eventual recommendations. It also avoids assuming in advance that larger or more numerous incentives necessarily improve business attraction.
+The headquarters location checks identified a material qualification: Denver's reported 2025 roster contains eight entries, but QVC moved its principal executive office to Pennsylvania effective May 29, 2025. Its historical Englewood entry is retained and flagged; seven entries are verified within the Denver metro at retrieval. Choose and document the headquarters observation date before comparing counts.
 
-## Methodology
+## Immediate research decisions
 
-### 1. Benchmark Atlanta's Performance
+1. Finalize the Atlanta geography and obtain equivalent public-source extracts; assess any existing Atlanta inputs against the same definitions before combining them.
+2. Establish the final peer-selection criteria and decide whether Dallas and Denver remain in the comparison group.
+3. Specify a 2023 baseline and the supported source-specific follow-up periods, or revise the research window with an explicit acquisition plan. Keep the 2022 revenue, 2025 headquarters and 2026 tax dates visible.
+4. Set compatible industry groups, denominators, ownership coverage, size definitions, and suppression rules. Account for the overlaps between source views before calculating totals.
+5. Produce the first comparable benchmark tables and identify gaps worth investigating. Driver analysis, incentive comparisons and policy recommendations follow that evidence.
 
-Compare Atlanta with a set of comparable metropolitan areas and broader national industry trends.
+No industry performance ranking, causal driver finding, or incentive recommendation has been established by this collection step.
 
-The goal is to identify areas where Atlanta is over- or underperforming in:
+## Research steps and planning outputs
 
-- business attraction
-- business retention
-- firm expansion
-- establishment growth or decline
-- employment growth or loss
-- business survival
+### 1. Benchmark Atlanta's performance
 
-The comparison should be segmented where possible by industry, firm size, and business type so that broad regional growth does not hide specific weaknesses.
+Compare Atlanta with similar metros across industries and firm types to identify persistent over- and underperformance in attraction, expansion, and retention.
 
-### 2. Identify Key Drivers of Performance
+**Plan:** Finalize definitions, peer-selection rules, geography, time window, segment classifications, and a metric-to-source map. Specify how to handle missing/suppressed values and how to test whether rankings change with peer or period choices.
 
-For the industries or firm segments where meaningful gaps appear, examine the conditions associated with stronger or weaker outcomes across cities.
+**Output:** A benchmarking specification, followed by comparable tables and a shortlist of gaps that warrant explanation.
 
-Potential categories include:
+### 2. Identify key drivers of performance
 
-- workforce availability and wages
-- industry concentration and cluster strength
-- commercial real-estate conditions
-- business costs
-- regional economic growth
-- firm size and growth characteristics
-- local business environment
-- incentive availability and eligibility
+Investigate whether workforce availability, costs, real estate, industry trends, infrastructure, and the local business environment explain the identified gaps.
 
-The purpose is to distinguish Atlanta-specific weaknesses from broader national or industry-wide trends.
+**Plan:** Develop hypotheses for each gap, identify measurable drivers and plausible mechanisms, and consider competing explanations. Choose an analysis design that separates association from stronger causal evidence, accounting for baseline conditions, timing, and confounding factors.
 
-### 3. Compare Incentive Strategies
+**Output:** A hypothesis/evidence matrix and a proposed driver-analysis design. Describe causal explanations as provisional until the evidence supports them.
 
-Review the incentives and economic-development programs used by regions that perform strongly in areas where Atlanta is lagging.
+### 3. Compare incentive strategies
 
-The comparison should focus on differences in:
+Review programs in regions performing well in Atlanta's weak segments, alongside Atlanta's existing programs.
 
-- incentive type
-- eligibility requirements
-- targeted industries
-- job creation requirements
-- capital investment requirements
-- workforce support
-- real-estate or infrastructure support
-- geographic targeting
-- program size and duration
+**Plan:** Compare program type, eligibility, industry/firm targeting, award structure, job/investment requirements, funding, delivery, and accountability. Seek evaluations and realized outcomes as well as program descriptions; distinguish commitments, payouts, and achieved results.
 
-The objective is not simply to find which city offers the largest incentives, but to identify program structures that align with stronger observed outcomes.
+**Output:** A program-comparison framework and evidence-quality assessment. Strong regional performance alone does not establish that incentives caused it.
 
-### 4. Identify Actionable Opportunities
+### 4. Identify actionable opportunities
 
-Translate the benchmarking and incentive analysis into areas for further evaluation in Atlanta.
+Determine which incentives could be implemented or expanded to address Atlanta's specific gaps, and which industries or business types are suitable targets.
 
-This step should identify:
+**Plan:** Assess the mechanism connecting each proposal to the gap, policy jurisdiction, feasibility, costs, likely additional activity, and risks. Specify implementation conditions and success measures before recommending adoption.
 
-- industries or firm segments that represent the clearest attraction or retention opportunities
-- gaps in Atlanta's existing incentive structure
-- incentive approaches used elsewhere that may be relevant to those gaps
-- areas where existing Atlanta programs may need expansion, redesign, or better targeting
+**Output:** Prioritized policy options and target segments, with rationale, uncertainties, and an evaluation plan. Firm-level targeting follows the segment and policy analysis.
 
-Recommendations should remain tied to the specific competitive gap identified earlier in the analysis.
+## Context files and references
 
-### 5. Add Firm-Level Targeting
-
-Once the broader market and policy gaps are understood, a firm-level relocation or expansion model can be used as a final targeting layer.
-
-The model would aim to identify businesses that:
-
-1. show signs of potential relocation or expansion,
-2. appear compatible with Atlanta's economic and industry strengths,
-3. fit the industries or firm segments Atlanta is trying to attract or retain, and
-4. may qualify for relevant Invest Atlanta programs.
-
-This creates a practical pipeline from broad economic analysis to specific business-development targets.
-
-## Initial Data Available
-
-Current project data includes:
-
-- registered businesses in Atlanta
-- Invest Atlanta business incentives
-- tax parcel records
-- BLS data on industry trends and business growth/loss in Atlanta and other regions
-- registered business revenue data
-- registered business employment data
-
-Additional public data may be incorporated from:
-
-- local and state governments
-- comparable metropolitan areas
-- public company filings
-- Census business and labor-market datasets
-- SEC filings
-- public economic-development agencies
-- publicly available property, permit, workforce, and industry data
-
-## Potential Additional Data Sources
-
-Useful sources may include:
-
-- **BLS QCEW** for establishment counts, employment, wages, and industry growth
-- **Census Business Dynamics Statistics** for firm births, deaths, expansion, contraction, and job creation/destruction
-- **Census QWI** for hiring, separations, earnings, and workforce turnover
-- **Census LODES** for employment geography and commuting patterns
-- **ACS** for workforce and demographic characteristics
-- **BEA** for metro and industry economic output
-- **SEC EDGAR** for public-company revenue, employment, facilities, M&A, and expansion information
-- state or local business registries for establishment locations and changes
-- building permit and parcel data for facility growth and real-estate activity
-
-## Longer-Term Modeling Concept
-
-A later phase could create a business-targeting framework with several components:
-
-- **Relocation / expansion propensity:** Which firms appear likely to move or grow?
-- **Atlanta fit:** Which firms have characteristics that match Atlanta's labor force, industries, infrastructure, and real estate?
-- **Incentive fit:** Which firms qualify for or could benefit from existing or proposed incentives?
-- **Economic impact:** Which firms would create meaningful jobs, wages, investment, or tax base?
-
-Conceptually:
-
-`Target Opportunity = Relocation Propensity x Atlanta Fit x Incentive Fit x Economic Impact`
-
-The component scores should remain visible rather than relying entirely on one black-box ranking so that policymakers can understand why a business is being identified as a target.
-
-## Key Research Principle
-
-The project should avoid assuming that incentives cause stronger business attraction simply because they are present in successful regions. The analysis should first establish:
-
-1. where Atlanta is lagging,
-2. what factors are associated with the gap,
-3. whether incentive differences plausibly relate to the gap, and
-4. which outside strategies are relevant enough to warrant deeper evaluation.
-
-This keeps the project focused on evidence-based economic-development strategy rather than incentive expansion for its own sake.
+- This file defines the research aim, planning decisions, and intended outputs. Record unresolved design choices explicitly; do not present proposed measures or hypotheses as findings.
+- [Dataset context](us_city_economic_datasets_context.md) holds candidate sources, variables, geography, coverage limitations, and collection guidance. Keep download status, schemas, and technical acquisition details there.
