@@ -1,0 +1,291 @@
+metro,cbsa,county_fips,county,state
+Atlanta,12060,13013,Barrow County,Georgia
+Atlanta,12060,13035,Butts County,Georgia
+Atlanta,12060,13045,Carroll County,Georgia
+Atlanta,12060,13063,Clayton County,Georgia
+Atlanta,12060,13077,Coweta County,Georgia
+Atlanta,12060,13085,Dawson County,Georgia
+Atlanta,12060,13089,DeKalb County,Georgia
+Atlanta,12060,13097,Douglas County,Georgia
+Atlanta,12060,13113,Fayette County,Georgia
+Atlanta,12060,13117,Forsyth County,Georgia
+Atlanta,12060,13121,Fulton County,Georgia
+Atlanta,12060,13135,Gwinnett County,Georgia
+Atlanta,12060,13149,Heard County,Georgia
+Atlanta,12060,13151,Henry County,Georgia
+Atlanta,12060,13159,Jasper County,Georgia
+Atlanta,12060,13187,Lumpkin County,Georgia
+Atlanta,12060,13199,Meriwether County,Georgia
+Atlanta,12060,13211,Morgan County,Georgia
+Atlanta,12060,13217,Newton County,Georgia
+Atlanta,12060,13227,Pickens County,Georgia
+Atlanta,12060,13231,Pike County,Georgia
+Atlanta,12060,13247,Rockdale County,Georgia
+Atlanta,12060,13255,Spalding County,Georgia
+Atlanta,12060,13297,Walton County,Georgia
+Atlanta,12060,13015,Bartow County,Georgia
+Atlanta,12060,13057,Cherokee County,Georgia
+Atlanta,12060,13067,Cobb County,Georgia
+Atlanta,12060,13143,Haralson County,Georgia
+Atlanta,12060,13223,Paulding County,Georgia
+Austin,12420,48021,Bastrop County,Texas
+Austin,12420,48055,Caldwell County,Texas
+Austin,12420,48209,Hays County,Texas
+Austin,12420,48453,Travis County,Texas
+Austin,12420,48491,Williamson County,Texas
+Baltimore,12580,24003,Anne Arundel County,Maryland
+Baltimore,12580,24005,Baltimore County,Maryland
+Baltimore,12580,24013,Carroll County,Maryland
+Baltimore,12580,24025,Harford County,Maryland
+Baltimore,12580,24027,Howard County,Maryland
+Baltimore,12580,24035,Queen Anne's County,Maryland
+Baltimore,12580,24510,Baltimore city,Maryland
+Boston,14460,25021,Norfolk County,Massachusetts
+Boston,14460,25023,Plymouth County,Massachusetts
+Boston,14460,25025,Suffolk County,Massachusetts
+Boston,14460,25009,Essex County,Massachusetts
+Boston,14460,25017,Middlesex County,Massachusetts
+Boston,14460,33015,Rockingham County,New Hampshire
+Boston,14460,33017,Strafford County,New Hampshire
+Charlotte,16740,37007,Anson County,North Carolina
+Charlotte,16740,37025,Cabarrus County,North Carolina
+Charlotte,16740,37071,Gaston County,North Carolina
+Charlotte,16740,37097,Iredell County,North Carolina
+Charlotte,16740,37109,Lincoln County,North Carolina
+Charlotte,16740,37119,Mecklenburg County,North Carolina
+Charlotte,16740,37159,Rowan County,North Carolina
+Charlotte,16740,37179,Union County,North Carolina
+Charlotte,16740,45023,Chester County,South Carolina
+Charlotte,16740,45057,Lancaster County,South Carolina
+Charlotte,16740,45091,York County,South Carolina
+Chicago,16980,17031,Cook County,Illinois
+Chicago,16980,17043,DuPage County,Illinois
+Chicago,16980,17063,Grundy County,Illinois
+Chicago,16980,17111,McHenry County,Illinois
+Chicago,16980,17197,Will County,Illinois
+Chicago,16980,17037,DeKalb County,Illinois
+Chicago,16980,17089,Kane County,Illinois
+Chicago,16980,17093,Kendall County,Illinois
+Chicago,16980,17097,Lake County,Illinois
+Chicago,16980,18073,Jasper County,Indiana
+Chicago,16980,18089,Lake County,Indiana
+Chicago,16980,18111,Newton County,Indiana
+Chicago,16980,18127,Porter County,Indiana
+Cincinnati,17140,18029,Dearborn County,Indiana
+Cincinnati,17140,18047,Franklin County,Indiana
+Cincinnati,17140,18115,Ohio County,Indiana
+Cincinnati,17140,21015,Boone County,Kentucky
+Cincinnati,17140,21023,Bracken County,Kentucky
+Cincinnati,17140,21037,Campbell County,Kentucky
+Cincinnati,17140,21077,Gallatin County,Kentucky
+Cincinnati,17140,21081,Grant County,Kentucky
+Cincinnati,17140,21117,Kenton County,Kentucky
+Cincinnati,17140,21191,Pendleton County,Kentucky
+Cincinnati,17140,39015,Brown County,Ohio
+Cincinnati,17140,39017,Butler County,Ohio
+Cincinnati,17140,39025,Clermont County,Ohio
+Cincinnati,17140,39061,Hamilton County,Ohio
+Cincinnati,17140,39165,Warren County,Ohio
+Columbus OH,18140,39041,Delaware County,Ohio
+Columbus OH,18140,39045,Fairfield County,Ohio
+Columbus OH,18140,39049,Franklin County,Ohio
+Columbus OH,18140,39073,Hocking County,Ohio
+Columbus OH,18140,39089,Licking County,Ohio
+Columbus OH,18140,39097,Madison County,Ohio
+Columbus OH,18140,39117,Morrow County,Ohio
+Columbus OH,18140,39127,Perry County,Ohio
+Columbus OH,18140,39129,Pickaway County,Ohio
+Columbus OH,18140,39159,Union County,Ohio
+Dallas,19100,48085,Collin County,Texas
+Dallas,19100,48113,Dallas County,Texas
+Dallas,19100,48121,Denton County,Texas
+Dallas,19100,48139,Ellis County,Texas
+Dallas,19100,48231,Hunt County,Texas
+Dallas,19100,48257,Kaufman County,Texas
+Dallas,19100,48397,Rockwall County,Texas
+Dallas,19100,48251,Johnson County,Texas
+Dallas,19100,48367,Parker County,Texas
+Dallas,19100,48439,Tarrant County,Texas
+Dallas,19100,48497,Wise County,Texas
+Denver,19740,08001,Adams County,Colorado
+Denver,19740,08005,Arapahoe County,Colorado
+Denver,19740,08014,Broomfield County,Colorado
+Denver,19740,08019,Clear Creek County,Colorado
+Denver,19740,08031,Denver County,Colorado
+Denver,19740,08035,Douglas County,Colorado
+Denver,19740,08039,Elbert County,Colorado
+Denver,19740,08047,Gilpin County,Colorado
+Denver,19740,08059,Jefferson County,Colorado
+Denver,19740,08093,Park County,Colorado
+Houston,26420,48015,Austin County,Texas
+Houston,26420,48039,Brazoria County,Texas
+Houston,26420,48071,Chambers County,Texas
+Houston,26420,48157,Fort Bend County,Texas
+Houston,26420,48167,Galveston County,Texas
+Houston,26420,48201,Harris County,Texas
+Houston,26420,48291,Liberty County,Texas
+Houston,26420,48339,Montgomery County,Texas
+Houston,26420,48407,San Jacinto County,Texas
+Houston,26420,48473,Waller County,Texas
+Indianapolis,26900,18011,Boone County,Indiana
+Indianapolis,26900,18013,Brown County,Indiana
+Indianapolis,26900,18057,Hamilton County,Indiana
+Indianapolis,26900,18059,Hancock County,Indiana
+Indianapolis,26900,18063,Hendricks County,Indiana
+Indianapolis,26900,18081,Johnson County,Indiana
+Indianapolis,26900,18095,Madison County,Indiana
+Indianapolis,26900,18097,Marion County,Indiana
+Indianapolis,26900,18109,Morgan County,Indiana
+Indianapolis,26900,18145,Shelby County,Indiana
+Indianapolis,26900,18159,Tipton County,Indiana
+Kansas City,28140,20091,Johnson County,Kansas
+Kansas City,28140,20103,Leavenworth County,Kansas
+Kansas City,28140,20107,Linn County,Kansas
+Kansas City,28140,20121,Miami County,Kansas
+Kansas City,28140,20209,Wyandotte County,Kansas
+Kansas City,28140,29013,Bates County,Missouri
+Kansas City,28140,29025,Caldwell County,Missouri
+Kansas City,28140,29037,Cass County,Missouri
+Kansas City,28140,29047,Clay County,Missouri
+Kansas City,28140,29049,Clinton County,Missouri
+Kansas City,28140,29095,Jackson County,Missouri
+Kansas City,28140,29107,Lafayette County,Missouri
+Kansas City,28140,29165,Platte County,Missouri
+Kansas City,28140,29177,Ray County,Missouri
+Los Angeles,31080,06059,Orange County,California
+Los Angeles,31080,06037,Los Angeles County,California
+Miami,33100,12011,Broward County,Florida
+Miami,33100,12086,Miami-Dade County,Florida
+Miami,33100,12099,Palm Beach County,Florida
+Minneapolis,33460,27003,Anoka County,Minnesota
+Minneapolis,33460,27019,Carver County,Minnesota
+Minneapolis,33460,27025,Chisago County,Minnesota
+Minneapolis,33460,27037,Dakota County,Minnesota
+Minneapolis,33460,27053,Hennepin County,Minnesota
+Minneapolis,33460,27059,Isanti County,Minnesota
+Minneapolis,33460,27079,Le Sueur County,Minnesota
+Minneapolis,33460,27095,Mille Lacs County,Minnesota
+Minneapolis,33460,27123,Ramsey County,Minnesota
+Minneapolis,33460,27139,Scott County,Minnesota
+Minneapolis,33460,27141,Sherburne County,Minnesota
+Minneapolis,33460,27163,Washington County,Minnesota
+Minneapolis,33460,27171,Wright County,Minnesota
+Minneapolis,33460,55093,Pierce County,Wisconsin
+Minneapolis,33460,55109,St. Croix County,Wisconsin
+Nashville,34980,47015,Cannon County,Tennessee
+Nashville,34980,47021,Cheatham County,Tennessee
+Nashville,34980,47037,Davidson County,Tennessee
+Nashville,34980,47043,Dickson County,Tennessee
+Nashville,34980,47081,Hickman County,Tennessee
+Nashville,34980,47111,Macon County,Tennessee
+Nashville,34980,47119,Maury County,Tennessee
+Nashville,34980,47147,Robertson County,Tennessee
+Nashville,34980,47149,Rutherford County,Tennessee
+Nashville,34980,47159,Smith County,Tennessee
+Nashville,34980,47165,Sumner County,Tennessee
+Nashville,34980,47169,Trousdale County,Tennessee
+Nashville,34980,47187,Williamson County,Tennessee
+Nashville,34980,47189,Wilson County,Tennessee
+New York,35620,34023,Middlesex County,New Jersey
+New York,35620,34025,Monmouth County,New Jersey
+New York,35620,34029,Ocean County,New Jersey
+New York,35620,34035,Somerset County,New Jersey
+New York,35620,36059,Nassau County,New York
+New York,35620,36103,Suffolk County,New York
+New York,35620,34013,Essex County,New Jersey
+New York,35620,34019,Hunterdon County,New Jersey
+New York,35620,34027,Morris County,New Jersey
+New York,35620,34037,Sussex County,New Jersey
+New York,35620,34039,Union County,New Jersey
+New York,35620,34003,Bergen County,New Jersey
+New York,35620,34017,Hudson County,New Jersey
+New York,35620,34031,Passaic County,New Jersey
+New York,35620,36005,Bronx County,New York
+New York,35620,36047,Kings County,New York
+New York,35620,36061,New York County,New York
+New York,35620,36079,Putnam County,New York
+New York,35620,36081,Queens County,New York
+New York,35620,36085,Richmond County,New York
+New York,35620,36087,Rockland County,New York
+New York,35620,36119,Westchester County,New York
+Orlando,36740,12069,Lake County,Florida
+Orlando,36740,12095,Orange County,Florida
+Orlando,36740,12097,Osceola County,Florida
+Orlando,36740,12117,Seminole County,Florida
+Philadelphia,37980,34005,Burlington County,New Jersey
+Philadelphia,37980,34007,Camden County,New Jersey
+Philadelphia,37980,34015,Gloucester County,New Jersey
+Philadelphia,37980,42017,Bucks County,Pennsylvania
+Philadelphia,37980,42029,Chester County,Pennsylvania
+Philadelphia,37980,42091,Montgomery County,Pennsylvania
+Philadelphia,37980,42045,Delaware County,Pennsylvania
+Philadelphia,37980,42101,Philadelphia County,Pennsylvania
+Philadelphia,37980,10003,New Castle County,Delaware
+Philadelphia,37980,24015,Cecil County,Maryland
+Philadelphia,37980,34033,Salem County,New Jersey
+Phoenix,38060,04013,Maricopa County,Arizona
+Phoenix,38060,04021,Pinal County,Arizona
+Pittsburgh,38300,42003,Allegheny County,Pennsylvania
+Pittsburgh,38300,42005,Armstrong County,Pennsylvania
+Pittsburgh,38300,42007,Beaver County,Pennsylvania
+Pittsburgh,38300,42019,Butler County,Pennsylvania
+Pittsburgh,38300,42051,Fayette County,Pennsylvania
+Pittsburgh,38300,42073,Lawrence County,Pennsylvania
+Pittsburgh,38300,42125,Washington County,Pennsylvania
+Pittsburgh,38300,42129,Westmoreland County,Pennsylvania
+Portland OR,38900,41005,Clackamas County,Oregon
+Portland OR,38900,41009,Columbia County,Oregon
+Portland OR,38900,41051,Multnomah County,Oregon
+Portland OR,38900,41067,Washington County,Oregon
+Portland OR,38900,41071,Yamhill County,Oregon
+Portland OR,38900,53011,Clark County,Washington
+Portland OR,38900,53059,Skamania County,Washington
+Raleigh,39580,37069,Franklin County,North Carolina
+Raleigh,39580,37101,Johnston County,North Carolina
+Raleigh,39580,37183,Wake County,North Carolina
+Salt Lake City,41620,49035,Salt Lake County,Utah
+Salt Lake City,41620,49045,Tooele County,Utah
+San Antonio,41700,48013,Atascosa County,Texas
+San Antonio,41700,48019,Bandera County,Texas
+San Antonio,41700,48029,Bexar County,Texas
+San Antonio,41700,48091,Comal County,Texas
+San Antonio,41700,48187,Guadalupe County,Texas
+San Antonio,41700,48259,Kendall County,Texas
+San Antonio,41700,48325,Medina County,Texas
+San Antonio,41700,48493,Wilson County,Texas
+San Diego,41740,06073,San Diego County,California
+San Francisco,41860,06001,Alameda County,California
+San Francisco,41860,06013,Contra Costa County,California
+San Francisco,41860,06075,San Francisco County,California
+San Francisco,41860,06081,San Mateo County,California
+San Francisco,41860,06041,Marin County,California
+Seattle,42660,53061,Snohomish County,Washington
+Seattle,42660,53033,King County,Washington
+Seattle,42660,53053,Pierce County,Washington
+Tampa,45300,12103,Pinellas County,Florida
+Tampa,45300,12053,Hernando County,Florida
+Tampa,45300,12057,Hillsborough County,Florida
+Tampa,45300,12101,Pasco County,Florida
+Washington DC,47900,51013,Arlington County,Virginia
+Washington DC,47900,51043,Clarke County,Virginia
+Washington DC,47900,51047,Culpeper County,Virginia
+Washington DC,47900,51059,Fairfax County,Virginia
+Washington DC,47900,51061,Fauquier County,Virginia
+Washington DC,47900,51107,Loudoun County,Virginia
+Washington DC,47900,51153,Prince William County,Virginia
+Washington DC,47900,51157,Rappahannock County,Virginia
+Washington DC,47900,51177,Spotsylvania County,Virginia
+Washington DC,47900,51179,Stafford County,Virginia
+Washington DC,47900,51187,Warren County,Virginia
+Washington DC,47900,51510,Alexandria city,Virginia
+Washington DC,47900,51600,Fairfax city,Virginia
+Washington DC,47900,51610,Falls Church city,Virginia
+Washington DC,47900,51630,Fredericksburg city,Virginia
+Washington DC,47900,51683,Manassas city,Virginia
+Washington DC,47900,51685,Manassas Park city,Virginia
+Washington DC,47900,54037,Jefferson County,West Virginia
+Washington DC,47900,24021,Frederick County,Maryland
+Washington DC,47900,24031,Montgomery County,Maryland
+Washington DC,47900,11001,District of Columbia,District of Columbia
+Washington DC,47900,24017,Charles County,Maryland
+Washington DC,47900,24033,Prince George's County,Maryland
