@@ -1,0 +1,97 @@
+metro,cbsa,county_fips,county,state
+Atlanta,12060,13013,Barrow County,Georgia
+Atlanta,12060,13035,Butts County,Georgia
+Atlanta,12060,13045,Carroll County,Georgia
+Atlanta,12060,13063,Clayton County,Georgia
+Atlanta,12060,13077,Coweta County,Georgia
+Atlanta,12060,13085,Dawson County,Georgia
+Atlanta,12060,13089,DeKalb County,Georgia
+Atlanta,12060,13097,Douglas County,Georgia
+Atlanta,12060,13113,Fayette County,Georgia
+Atlanta,12060,13117,Forsyth County,Georgia
+Atlanta,12060,13121,Fulton County,Georgia
+Atlanta,12060,13135,Gwinnett County,Georgia
+Atlanta,12060,13149,Heard County,Georgia
+Atlanta,12060,13151,Henry County,Georgia
+Atlanta,12060,13159,Jasper County,Georgia
+Atlanta,12060,13187,Lumpkin County,Georgia
+Atlanta,12060,13199,Meriwether County,Georgia
+Atlanta,12060,13211,Morgan County,Georgia
+Atlanta,12060,13217,Newton County,Georgia
+Atlanta,12060,13227,Pickens County,Georgia
+Atlanta,12060,13231,Pike County,Georgia
+Atlanta,12060,13247,Rockdale County,Georgia
+Atlanta,12060,13255,Spalding County,Georgia
+Atlanta,12060,13297,Walton County,Georgia
+Atlanta,12060,13015,Bartow County,Georgia
+Atlanta,12060,13057,Cherokee County,Georgia
+Atlanta,12060,13067,Cobb County,Georgia
+Atlanta,12060,13143,Haralson County,Georgia
+Atlanta,12060,13223,Paulding County,Georgia
+Austin,12420,48021,Bastrop County,Texas
+Austin,12420,48055,Caldwell County,Texas
+Austin,12420,48209,Hays County,Texas
+Austin,12420,48453,Travis County,Texas
+Austin,12420,48491,Williamson County,Texas
+Charlotte,16740,37007,Anson County,North Carolina
+Charlotte,16740,37025,Cabarrus County,North Carolina
+Charlotte,16740,37071,Gaston County,North Carolina
+Charlotte,16740,37097,Iredell County,North Carolina
+Charlotte,16740,37109,Lincoln County,North Carolina
+Charlotte,16740,37119,Mecklenburg County,North Carolina
+Charlotte,16740,37159,Rowan County,North Carolina
+Charlotte,16740,37179,Union County,North Carolina
+Charlotte,16740,45023,Chester County,South Carolina
+Charlotte,16740,45057,Lancaster County,South Carolina
+Charlotte,16740,45091,York County,South Carolina
+Dallas,19100,48085,Collin County,Texas
+Dallas,19100,48113,Dallas County,Texas
+Dallas,19100,48121,Denton County,Texas
+Dallas,19100,48139,Ellis County,Texas
+Dallas,19100,48231,Hunt County,Texas
+Dallas,19100,48257,Kaufman County,Texas
+Dallas,19100,48397,Rockwall County,Texas
+Dallas,19100,48251,Johnson County,Texas
+Dallas,19100,48367,Parker County,Texas
+Dallas,19100,48439,Tarrant County,Texas
+Dallas,19100,48497,Wise County,Texas
+Denver,19740,08001,Adams County,Colorado
+Denver,19740,08005,Arapahoe County,Colorado
+Denver,19740,08014,Broomfield County,Colorado
+Denver,19740,08019,Clear Creek County,Colorado
+Denver,19740,08031,Denver County,Colorado
+Denver,19740,08035,Douglas County,Colorado
+Denver,19740,08039,Elbert County,Colorado
+Denver,19740,08047,Gilpin County,Colorado
+Denver,19740,08059,Jefferson County,Colorado
+Denver,19740,08093,Park County,Colorado
+Houston,26420,48015,Austin County,Texas
+Houston,26420,48039,Brazoria County,Texas
+Houston,26420,48071,Chambers County,Texas
+Houston,26420,48157,Fort Bend County,Texas
+Houston,26420,48167,Galveston County,Texas
+Houston,26420,48201,Harris County,Texas
+Houston,26420,48291,Liberty County,Texas
+Houston,26420,48339,Montgomery County,Texas
+Houston,26420,48407,San Jacinto County,Texas
+Houston,26420,48473,Waller County,Texas
+Miami,33100,12011,Broward County,Florida
+Miami,33100,12086,Miami-Dade County,Florida
+Miami,33100,12099,Palm Beach County,Florida
+Nashville,34980,47015,Cannon County,Tennessee
+Nashville,34980,47021,Cheatham County,Tennessee
+Nashville,34980,47037,Davidson County,Tennessee
+Nashville,34980,47043,Dickson County,Tennessee
+Nashville,34980,47081,Hickman County,Tennessee
+Nashville,34980,47111,Macon County,Tennessee
+Nashville,34980,47119,Maury County,Tennessee
+Nashville,34980,47147,Robertson County,Tennessee
+Nashville,34980,47149,Rutherford County,Tennessee
+Nashville,34980,47159,Smith County,Tennessee
+Nashville,34980,47165,Sumner County,Tennessee
+Nashville,34980,47169,Trousdale County,Tennessee
+Nashville,34980,47187,Williamson County,Tennessee
+Nashville,34980,47189,Wilson County,Tennessee
+Raleigh,39580,37069,Franklin County,North Carolina
+Raleigh,39580,37101,Johnston County,North Carolina
+Raleigh,39580,37183,Wake County,North Carolina
