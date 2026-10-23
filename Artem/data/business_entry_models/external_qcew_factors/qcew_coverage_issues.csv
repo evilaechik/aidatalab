@@ -1,0 +1,20 @@
+msa,year,expected_counties,available_qcew_totals,suppressed_qcew_totals,reason
+14860.0,2017,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+14860.0,2018,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+14860.0,2019,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+14860.0,2020,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+14860.0,2021,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+14860.0,2022,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2017,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2018,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2019,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2020,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2021,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+25540.0,2022,2,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2017,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2018,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2019,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2020,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2021,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+35300.0,2022,1,0,0,historical QCEW county coverage does not match the 2023 MSA delineation
+39300.0,2017,6,6,2,historical QCEW county coverage does not match the 2023 MSA delineation

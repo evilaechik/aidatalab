@@ -1,0 +1,591 @@
+msa,division_msa,county_fips,county,state,msa_title,member_states,panel_south_sunbelt
+10420.0,,39133,Portage County,Ohio,"Akron, OH",Ohio,False
+10420.0,,39153,Summit County,Ohio,"Akron, OH",Ohio,False
+10580.0,,36001,Albany County,New York,"Albany-Schenectady-Troy, NY",New York,False
+10580.0,,36083,Rensselaer County,New York,"Albany-Schenectady-Troy, NY",New York,False
+10580.0,,36091,Saratoga County,New York,"Albany-Schenectady-Troy, NY",New York,False
+10580.0,,36093,Schenectady County,New York,"Albany-Schenectady-Troy, NY",New York,False
+10580.0,,36095,Schoharie County,New York,"Albany-Schenectady-Troy, NY",New York,False
+10740.0,,35001,Bernalillo County,New Mexico,"Albuquerque, NM",New Mexico,True
+10740.0,,35043,Sandoval County,New Mexico,"Albuquerque, NM",New Mexico,True
+10740.0,,35057,Torrance County,New Mexico,"Albuquerque, NM",New Mexico,True
+10740.0,,35061,Valencia County,New Mexico,"Albuquerque, NM",New Mexico,True
+10900.0,,34041,Warren County,New Jersey,"Allentown-Bethlehem-Easton, PA-NJ",New Jersey; Pennsylvania,False
+10900.0,,42025,Carbon County,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",New Jersey; Pennsylvania,False
+10900.0,,42077,Lehigh County,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",New Jersey; Pennsylvania,False
+10900.0,,42095,Northampton County,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",New Jersey; Pennsylvania,False
+12060.0,12054.0,13013,Barrow County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13035,Butts County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13045,Carroll County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13063,Clayton County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13077,Coweta County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13085,Dawson County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13089,DeKalb County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13097,Douglas County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13113,Fayette County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13117,Forsyth County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13121,Fulton County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13135,Gwinnett County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13149,Heard County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13151,Henry County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13159,Jasper County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13187,Lumpkin County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13199,Meriwether County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13211,Morgan County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13217,Newton County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13227,Pickens County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13231,Pike County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13247,Rockdale County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13255,Spalding County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,12054.0,13297,Walton County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,31924.0,13015,Bartow County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,31924.0,13057,Cherokee County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,31924.0,13067,Cobb County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,31924.0,13143,Haralson County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12060.0,31924.0,13223,Paulding County,Georgia,"Atlanta-Sandy Springs-Roswell, GA",Georgia,True
+12420.0,,48021,Bastrop County,Texas,"Austin-Round Rock-San Marcos, TX",Texas,True
+12420.0,,48055,Caldwell County,Texas,"Austin-Round Rock-San Marcos, TX",Texas,True
+12420.0,,48209,Hays County,Texas,"Austin-Round Rock-San Marcos, TX",Texas,True
+12420.0,,48453,Travis County,Texas,"Austin-Round Rock-San Marcos, TX",Texas,True
+12420.0,,48491,Williamson County,Texas,"Austin-Round Rock-San Marcos, TX",Texas,True
+12540.0,,06029,Kern County,California,"Bakersfield-Delano, CA",California,True
+12580.0,,24003,Anne Arundel County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24005,Baltimore County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24013,Carroll County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24025,Harford County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24027,Howard County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24035,Queen Anne's County,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12580.0,,24510,Baltimore city,Maryland,"Baltimore-Columbia-Towson, MD",Maryland,True
+12940.0,,22005,Ascension Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22007,Assumption Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22033,East Baton Rouge Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22037,East Feliciana Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22047,Iberville Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22063,Livingston Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22077,Pointe Coupee Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22091,St. Helena Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22121,West Baton Rouge Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+12940.0,,22125,West Feliciana Parish,Louisiana,"Baton Rouge, LA",Louisiana,True
+13820.0,,01007,Bibb County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01009,Blount County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01021,Chilton County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01073,Jefferson County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01115,St. Clair County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01117,Shelby County,Alabama,"Birmingham, AL",Alabama,True
+13820.0,,01127,Walker County,Alabama,"Birmingham, AL",Alabama,True
+14260.0,,16001,Ada County,Idaho,"Boise City, ID",Idaho,False
+14260.0,,16015,Boise County,Idaho,"Boise City, ID",Idaho,False
+14260.0,,16027,Canyon County,Idaho,"Boise City, ID",Idaho,False
+14260.0,,16045,Gem County,Idaho,"Boise City, ID",Idaho,False
+14260.0,,16073,Owyhee County,Idaho,"Boise City, ID",Idaho,False
+14460.0,14454.0,25021,Norfolk County,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,14454.0,25023,Plymouth County,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,14454.0,25025,Suffolk County,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,15764.0,25009,Essex County,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,15764.0,25017,Middlesex County,Massachusetts,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,40484.0,33015,Rockingham County,New Hampshire,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14460.0,40484.0,33017,Strafford County,New Hampshire,"Boston-Cambridge-Newton, MA-NH",Massachusetts; New Hampshire,False
+14860.0,,09120,Greater Bridgeport Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",Connecticut,False
+14860.0,,09190,Western Connecticut Planning Region,Connecticut,"Bridgeport-Stamford-Danbury, CT",Connecticut,False
+15380.0,,36029,Erie County,New York,"Buffalo-Cheektowaga, NY",New York,False
+15380.0,,36063,Niagara County,New York,"Buffalo-Cheektowaga, NY",New York,False
+15980.0,,12071,Lee County,Florida,"Cape Coral-Fort Myers, FL",Florida,True
+16700.0,,45015,Berkeley County,South Carolina,"Charleston-North Charleston, SC",South Carolina,True
+16700.0,,45019,Charleston County,South Carolina,"Charleston-North Charleston, SC",South Carolina,True
+16700.0,,45035,Dorchester County,South Carolina,"Charleston-North Charleston, SC",South Carolina,True
+16740.0,,37007,Anson County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37025,Cabarrus County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37071,Gaston County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37097,Iredell County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37109,Lincoln County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37119,Mecklenburg County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37159,Rowan County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,37179,Union County,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,45023,Chester County,South Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,45057,Lancaster County,South Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16740.0,,45091,York County,South Carolina,"Charlotte-Concord-Gastonia, NC-SC",North Carolina; South Carolina,True
+16980.0,16984.0,17031,Cook County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,16984.0,17043,DuPage County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,16984.0,17063,Grundy County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,16984.0,17111,McHenry County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,16984.0,17197,Will County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,20994.0,17037,DeKalb County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,20994.0,17089,Kane County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,20994.0,17093,Kendall County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,29404.0,17097,Lake County,Illinois,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,29414.0,18073,Jasper County,Indiana,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,29414.0,18089,Lake County,Indiana,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,29414.0,18111,Newton County,Indiana,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+16980.0,29414.0,18127,Porter County,Indiana,"Chicago-Naperville-Elgin, IL-IN",Illinois; Indiana,False
+17140.0,,18029,Dearborn County,Indiana,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,18047,Franklin County,Indiana,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,18115,Ohio County,Indiana,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21015,Boone County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21023,Bracken County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21037,Campbell County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21077,Gallatin County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21081,Grant County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21117,Kenton County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,21191,Pendleton County,Kentucky,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,39015,Brown County,Ohio,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,39017,Butler County,Ohio,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,39025,Clermont County,Ohio,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,39061,Hamilton County,Ohio,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17140.0,,39165,Warren County,Ohio,"Cincinnati, OH-KY-IN",Indiana; Kentucky; Ohio,False
+17410.0,,39007,Ashtabula County,Ohio,"Cleveland, OH",Ohio,False
+17410.0,,39035,Cuyahoga County,Ohio,"Cleveland, OH",Ohio,False
+17410.0,,39055,Geauga County,Ohio,"Cleveland, OH",Ohio,False
+17410.0,,39085,Lake County,Ohio,"Cleveland, OH",Ohio,False
+17410.0,,39093,Lorain County,Ohio,"Cleveland, OH",Ohio,False
+17410.0,,39103,Medina County,Ohio,"Cleveland, OH",Ohio,False
+17820.0,,08041,El Paso County,Colorado,"Colorado Springs, CO",Colorado,True
+17820.0,,08119,Teller County,Colorado,"Colorado Springs, CO",Colorado,True
+17900.0,,45017,Calhoun County,South Carolina,"Columbia, SC",South Carolina,True
+17900.0,,45039,Fairfield County,South Carolina,"Columbia, SC",South Carolina,True
+17900.0,,45055,Kershaw County,South Carolina,"Columbia, SC",South Carolina,True
+17900.0,,45063,Lexington County,South Carolina,"Columbia, SC",South Carolina,True
+17900.0,,45079,Richland County,South Carolina,"Columbia, SC",South Carolina,True
+17900.0,,45081,Saluda County,South Carolina,"Columbia, SC",South Carolina,True
+18140.0,,39041,Delaware County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39045,Fairfield County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39049,Franklin County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39073,Hocking County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39089,Licking County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39097,Madison County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39117,Morrow County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39127,Perry County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39129,Pickaway County,Ohio,"Columbus, OH",Ohio,False
+18140.0,,39159,Union County,Ohio,"Columbus, OH",Ohio,False
+19100.0,19124.0,48085,Collin County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48113,Dallas County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48121,Denton County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48139,Ellis County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48231,Hunt County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48257,Kaufman County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,19124.0,48397,Rockwall County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,23104.0,48251,Johnson County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,23104.0,48367,Parker County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,23104.0,48439,Tarrant County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19100.0,23104.0,48497,Wise County,Texas,"Dallas-Fort Worth-Arlington, TX",Texas,True
+19430.0,,39057,Greene County,Ohio,"Dayton-Kettering-Beavercreek, OH",Ohio,False
+19430.0,,39109,Miami County,Ohio,"Dayton-Kettering-Beavercreek, OH",Ohio,False
+19430.0,,39113,Montgomery County,Ohio,"Dayton-Kettering-Beavercreek, OH",Ohio,False
+19660.0,,12035,Flagler County,Florida,"Deltona-Daytona Beach-Ormond Beach, FL",Florida,True
+19660.0,,12127,Volusia County,Florida,"Deltona-Daytona Beach-Ormond Beach, FL",Florida,True
+19740.0,,08001,Adams County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08005,Arapahoe County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08014,Broomfield County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08019,Clear Creek County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08031,Denver County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08035,Douglas County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08039,Elbert County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08047,Gilpin County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08059,Jefferson County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19740.0,,08093,Park County,Colorado,"Denver-Aurora-Centennial, CO",Colorado,True
+19780.0,,19049,Dallas County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19780.0,,19077,Guthrie County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19780.0,,19099,Jasper County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19780.0,,19121,Madison County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19780.0,,19153,Polk County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19780.0,,19181,Warren County,Iowa,"Des Moines-West Des Moines, IA",Iowa,False
+19820.0,19804.0,26163,Wayne County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+19820.0,47664.0,26087,Lapeer County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+19820.0,47664.0,26093,Livingston County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+19820.0,47664.0,26099,Macomb County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+19820.0,47664.0,26125,Oakland County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+19820.0,47664.0,26147,St. Clair County,Michigan,"Detroit-Warren-Dearborn, MI",Michigan,False
+20500.0,,37037,Chatham County,North Carolina,"Durham-Chapel Hill, NC",North Carolina,True
+20500.0,,37063,Durham County,North Carolina,"Durham-Chapel Hill, NC",North Carolina,True
+20500.0,,37135,Orange County,North Carolina,"Durham-Chapel Hill, NC",North Carolina,True
+20500.0,,37145,Person County,North Carolina,"Durham-Chapel Hill, NC",North Carolina,True
+21340.0,,48141,El Paso County,Texas,"El Paso, TX",Texas,True
+21340.0,,48229,Hudspeth County,Texas,"El Paso, TX",Texas,True
+22220.0,,05007,Benton County,Arkansas,"Fayetteville-Springdale-Rogers, AR",Arkansas,True
+22220.0,,05087,Madison County,Arkansas,"Fayetteville-Springdale-Rogers, AR",Arkansas,True
+22220.0,,05143,Washington County,Arkansas,"Fayetteville-Springdale-Rogers, AR",Arkansas,True
+23420.0,,06019,Fresno County,California,"Fresno, CA",California,True
+23420.0,,06039,Madera County,California,"Fresno, CA",California,True
+24340.0,,26015,Barry County,Michigan,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,False
+24340.0,,26067,Ionia County,Michigan,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,False
+24340.0,,26081,Kent County,Michigan,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,False
+24340.0,,26117,Montcalm County,Michigan,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,False
+24340.0,,26139,Ottawa County,Michigan,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,False
+24660.0,,37081,Guilford County,North Carolina,"Greensboro-High Point, NC",North Carolina,True
+24660.0,,37151,Randolph County,North Carolina,"Greensboro-High Point, NC",North Carolina,True
+24660.0,,37157,Rockingham County,North Carolina,"Greensboro-High Point, NC",North Carolina,True
+24860.0,,45007,Anderson County,South Carolina,"Greenville-Anderson-Greer, SC",South Carolina,True
+24860.0,,45045,Greenville County,South Carolina,"Greenville-Anderson-Greer, SC",South Carolina,True
+24860.0,,45059,Laurens County,South Carolina,"Greenville-Anderson-Greer, SC",South Carolina,True
+24860.0,,45077,Pickens County,South Carolina,"Greenville-Anderson-Greer, SC",South Carolina,True
+25420.0,,42041,Cumberland County,Pennsylvania,"Harrisburg-Carlisle, PA",Pennsylvania,False
+25420.0,,42043,Dauphin County,Pennsylvania,"Harrisburg-Carlisle, PA",Pennsylvania,False
+25420.0,,42099,Perry County,Pennsylvania,"Harrisburg-Carlisle, PA",Pennsylvania,False
+25540.0,,09110,Capitol Planning Region,Connecticut,"Hartford-West Hartford-East Hartford, CT",Connecticut,False
+25540.0,,09130,Lower Connecticut River Valley Planning Region,Connecticut,"Hartford-West Hartford-East Hartford, CT",Connecticut,False
+26420.0,,48015,Austin County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48039,Brazoria County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48071,Chambers County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48157,Fort Bend County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48167,Galveston County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48201,Harris County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48291,Liberty County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48339,Montgomery County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48407,San Jacinto County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26420.0,,48473,Waller County,Texas,"Houston-Pasadena-The Woodlands, TX",Texas,True
+26900.0,,18011,Boone County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18013,Brown County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18057,Hamilton County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18059,Hancock County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18063,Hendricks County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18081,Johnson County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18095,Madison County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18097,Marion County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18109,Morgan County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18145,Shelby County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+26900.0,,18159,Tipton County,Indiana,"Indianapolis-Carmel-Greenwood, IN",Indiana,False
+27140.0,,28029,Copiah County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28049,Hinds County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28051,Holmes County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28089,Madison County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28121,Rankin County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28123,Scott County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28127,Simpson County,Mississippi,"Jackson, MS",Mississippi,True
+27140.0,,28163,Yazoo County,Mississippi,"Jackson, MS",Mississippi,True
+27260.0,,12003,Baker County,Florida,"Jacksonville, FL",Florida,True
+27260.0,,12019,Clay County,Florida,"Jacksonville, FL",Florida,True
+27260.0,,12031,Duval County,Florida,"Jacksonville, FL",Florida,True
+27260.0,,12089,Nassau County,Florida,"Jacksonville, FL",Florida,True
+27260.0,,12109,St. Johns County,Florida,"Jacksonville, FL",Florida,True
+28140.0,,20091,Johnson County,Kansas,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,20103,Leavenworth County,Kansas,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,20107,Linn County,Kansas,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,20121,Miami County,Kansas,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,20209,Wyandotte County,Kansas,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29013,Bates County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29025,Caldwell County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29037,Cass County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29047,Clay County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29049,Clinton County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29095,Jackson County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29107,Lafayette County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29165,Platte County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28140.0,,29177,Ray County,Missouri,"Kansas City, MO-KS",Kansas; Missouri,False
+28880.0,,36027,Dutchess County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",New York,False
+28880.0,,36071,Orange County,New York,"Kiryas Joel-Poughkeepsie-Newburgh, NY",New York,False
+28940.0,,47001,Anderson County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47009,Blount County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47013,Campbell County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47057,Grainger County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47093,Knox County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47105,Loudon County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47129,Morgan County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47145,Roane County,Tennessee,"Knoxville, TN",Tennessee,True
+28940.0,,47173,Union County,Tennessee,"Knoxville, TN",Tennessee,True
+29460.0,,12105,Polk County,Florida,"Lakeland-Winter Haven, FL",Florida,True
+29540.0,,42071,Lancaster County,Pennsylvania,"Lancaster, PA",Pennsylvania,False
+29820.0,,32003,Clark County,Nevada,"Las Vegas-Henderson-North Las Vegas, NV",Nevada,True
+30780.0,,05045,Faulkner County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+30780.0,,05053,Grant County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+30780.0,,05085,Lonoke County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+30780.0,,05105,Perry County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+30780.0,,05119,Pulaski County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+30780.0,,05125,Saline County,Arkansas,"Little Rock-North Little Rock-Conway, AR",Arkansas,True
+31080.0,11244.0,06059,Orange County,California,"Los Angeles-Long Beach-Anaheim, CA",California,True
+31080.0,31084.0,06037,Los Angeles County,California,"Los Angeles-Long Beach-Anaheim, CA",California,True
+31140.0,,18019,Clark County,Indiana,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,18043,Floyd County,Indiana,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,18061,Harrison County,Indiana,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,18175,Washington County,Indiana,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21029,Bullitt County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21103,Henry County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21111,Jefferson County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21163,Meade County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21179,Nelson County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21185,Oldham County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21211,Shelby County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31140.0,,21215,Spencer County,Kentucky,"Louisville/Jefferson County, KY-IN",Indiana; Kentucky,False
+31540.0,,55021,Columbia County,Wisconsin,"Madison, WI",Wisconsin,False
+31540.0,,55025,Dane County,Wisconsin,"Madison, WI",Wisconsin,False
+31540.0,,55045,Green County,Wisconsin,"Madison, WI",Wisconsin,False
+31540.0,,55049,Iowa County,Wisconsin,"Madison, WI",Wisconsin,False
+32820.0,,05035,Crittenden County,Arkansas,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,28009,Benton County,Mississippi,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,28033,DeSoto County,Mississippi,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,28093,Marshall County,Mississippi,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,28137,Tate County,Mississippi,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,28143,Tunica County,Mississippi,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,47047,Fayette County,Tennessee,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,47157,Shelby County,Tennessee,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+32820.0,,47167,Tipton County,Tennessee,"Memphis, TN-MS-AR",Arkansas; Mississippi; Tennessee,True
+33100.0,22744.0,12011,Broward County,Florida,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,True
+33100.0,33124.0,12086,Miami-Dade County,Florida,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,True
+33100.0,48424.0,12099,Palm Beach County,Florida,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,True
+33340.0,,55079,Milwaukee County,Wisconsin,"Milwaukee-Waukesha, WI",Wisconsin,False
+33340.0,,55089,Ozaukee County,Wisconsin,"Milwaukee-Waukesha, WI",Wisconsin,False
+33340.0,,55131,Washington County,Wisconsin,"Milwaukee-Waukesha, WI",Wisconsin,False
+33340.0,,55133,Waukesha County,Wisconsin,"Milwaukee-Waukesha, WI",Wisconsin,False
+33460.0,,27003,Anoka County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27019,Carver County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27025,Chisago County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27037,Dakota County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27053,Hennepin County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27059,Isanti County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27079,Le Sueur County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27095,Mille Lacs County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27123,Ramsey County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27139,Scott County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27141,Sherburne County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27163,Washington County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,27171,Wright County,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,55093,Pierce County,Wisconsin,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+33460.0,,55109,St. Croix County,Wisconsin,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota; Wisconsin,False
+34940.0,,12021,Collier County,Florida,"Naples-Marco Island, FL",Florida,True
+34980.0,,47015,Cannon County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47021,Cheatham County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47037,Davidson County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47043,Dickson County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47081,Hickman County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47111,Macon County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47119,Maury County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47147,Robertson County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47149,Rutherford County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47159,Smith County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47165,Sumner County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47169,Trousdale County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47187,Williamson County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+34980.0,,47189,Wilson County,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,True
+35300.0,,09170,South Central Connecticut Planning Region,Connecticut,"New Haven, CT",Connecticut,False
+35380.0,,22051,Jefferson Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22071,Orleans Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22075,Plaquemines Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22087,St. Bernard Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22089,St. Charles Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22093,St. James Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35380.0,,22095,St. John the Baptist Parish,Louisiana,"New Orleans-Metairie, LA",Louisiana,True
+35620.0,29484.0,34023,Middlesex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,29484.0,34025,Monmouth County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,29484.0,34029,Ocean County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,29484.0,34035,Somerset County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35004.0,36059,Nassau County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35004.0,36103,Suffolk County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35084.0,34013,Essex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35084.0,34019,Hunterdon County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35084.0,34027,Morris County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35084.0,34037,Sussex County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35084.0,34039,Union County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,34003,Bergen County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,34017,Hudson County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,34031,Passaic County,New Jersey,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36005,Bronx County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36047,Kings County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36061,New York County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36079,Putnam County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36081,Queens County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36085,Richmond County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36087,Rockland County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35620.0,35614.0,36119,Westchester County,New York,"New York-Newark-Jersey City, NY-NJ",New Jersey; New York,False
+35840.0,,12081,Manatee County,Florida,"North Port-Bradenton-Sarasota, FL",Florida,True
+35840.0,,12115,Sarasota County,Florida,"North Port-Bradenton-Sarasota, FL",Florida,True
+36260.0,,49011,Davis County,Utah,"Ogden, UT",Utah,True
+36260.0,,49029,Morgan County,Utah,"Ogden, UT",Utah,True
+36260.0,,49057,Weber County,Utah,"Ogden, UT",Utah,True
+36420.0,,40017,Canadian County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40027,Cleveland County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40051,Grady County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40081,Lincoln County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40083,Logan County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40087,McClain County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36420.0,,40109,Oklahoma County,Oklahoma,"Oklahoma City, OK",Oklahoma,True
+36540.0,,19085,Harrison County,Iowa,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,19129,Mills County,Iowa,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,19155,Pottawattamie County,Iowa,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,31025,Cass County,Nebraska,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,31055,Douglas County,Nebraska,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,31153,Sarpy County,Nebraska,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,31155,Saunders County,Nebraska,"Omaha, NE-IA",Iowa; Nebraska,False
+36540.0,,31177,Washington County,Nebraska,"Omaha, NE-IA",Iowa; Nebraska,False
+36740.0,,12069,Lake County,Florida,"Orlando-Kissimmee-Sanford, FL",Florida,True
+36740.0,,12095,Orange County,Florida,"Orlando-Kissimmee-Sanford, FL",Florida,True
+36740.0,,12097,Osceola County,Florida,"Orlando-Kissimmee-Sanford, FL",Florida,True
+36740.0,,12117,Seminole County,Florida,"Orlando-Kissimmee-Sanford, FL",Florida,True
+37100.0,,06111,Ventura County,California,"Oxnard-Thousand Oaks-Ventura, CA",California,True
+37340.0,,12009,Brevard County,Florida,"Palm Bay-Melbourne-Titusville, FL",Florida,True
+37980.0,15804.0,34005,Burlington County,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,15804.0,34007,Camden County,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,15804.0,34015,Gloucester County,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,33874.0,42017,Bucks County,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,33874.0,42029,Chester County,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,33874.0,42091,Montgomery County,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,37964.0,42045,Delaware County,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,37964.0,42101,Philadelphia County,Pennsylvania,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,48864.0,10003,New Castle County,Delaware,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,48864.0,24015,Cecil County,Maryland,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+37980.0,48864.0,34033,Salem County,New Jersey,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware; Maryland; New Jersey; Pennsylvania,False
+38060.0,,04013,Maricopa County,Arizona,"Phoenix-Mesa-Chandler, AZ",Arizona,True
+38060.0,,04021,Pinal County,Arizona,"Phoenix-Mesa-Chandler, AZ",Arizona,True
+38300.0,,42003,Allegheny County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42005,Armstrong County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42007,Beaver County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42019,Butler County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42051,Fayette County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42073,Lawrence County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42125,Washington County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38300.0,,42129,Westmoreland County,Pennsylvania,"Pittsburgh, PA",Pennsylvania,False
+38860.0,,23005,Cumberland County,Maine,"Portland-South Portland, ME",Maine,False
+38860.0,,23023,Sagadahoc County,Maine,"Portland-South Portland, ME",Maine,False
+38860.0,,23031,York County,Maine,"Portland-South Portland, ME",Maine,False
+38900.0,,41005,Clackamas County,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,41009,Columbia County,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,41051,Multnomah County,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,41067,Washington County,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,41071,Yamhill County,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,53011,Clark County,Washington,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+38900.0,,53059,Skamania County,Washington,"Portland-Vancouver-Hillsboro, OR-WA",Oregon; Washington,False
+39300.0,,25005,Bristol County,Massachusetts,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39300.0,,44001,Bristol County,Rhode Island,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39300.0,,44003,Kent County,Rhode Island,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39300.0,,44005,Newport County,Rhode Island,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39300.0,,44007,Providence County,Rhode Island,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39300.0,,44009,Washington County,Rhode Island,"Providence-Warwick, RI-MA",Massachusetts; Rhode Island,False
+39340.0,,49023,Juab County,Utah,"Provo-Orem-Lehi, UT",Utah,True
+39340.0,,49049,Utah County,Utah,"Provo-Orem-Lehi, UT",Utah,True
+39580.0,,37069,Franklin County,North Carolina,"Raleigh-Cary, NC",North Carolina,True
+39580.0,,37101,Johnston County,North Carolina,"Raleigh-Cary, NC",North Carolina,True
+39580.0,,37183,Wake County,North Carolina,"Raleigh-Cary, NC",North Carolina,True
+39900.0,,32019,Lyon County,Nevada,"Reno, NV",Nevada,True
+39900.0,,32029,Storey County,Nevada,"Reno, NV",Nevada,True
+39900.0,,32031,Washoe County,Nevada,"Reno, NV",Nevada,True
+40060.0,,51007,Amelia County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51036,Charles City County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51041,Chesterfield County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51053,Dinwiddie County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51075,Goochland County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51085,Hanover County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51087,Henrico County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51097,King and Queen County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51101,King William County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51127,New Kent County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51145,Powhatan County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51149,Prince George County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51183,Sussex County,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51570,Colonial Heights city,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51670,Hopewell city,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51730,Petersburg city,Virginia,"Richmond, VA",Virginia,True
+40060.0,,51760,Richmond city,Virginia,"Richmond, VA",Virginia,True
+40140.0,,06065,Riverside County,California,"Riverside-San Bernardino-Ontario, CA",California,True
+40140.0,,06071,San Bernardino County,California,"Riverside-San Bernardino-Ontario, CA",California,True
+40380.0,,36051,Livingston County,New York,"Rochester, NY",New York,False
+40380.0,,36055,Monroe County,New York,"Rochester, NY",New York,False
+40380.0,,36069,Ontario County,New York,"Rochester, NY",New York,False
+40380.0,,36073,Orleans County,New York,"Rochester, NY",New York,False
+40380.0,,36117,Wayne County,New York,"Rochester, NY",New York,False
+40900.0,,06017,El Dorado County,California,"Sacramento-Roseville-Folsom, CA",California,True
+40900.0,,06061,Placer County,California,"Sacramento-Roseville-Folsom, CA",California,True
+40900.0,,06067,Sacramento County,California,"Sacramento-Roseville-Folsom, CA",California,True
+40900.0,,06113,Yolo County,California,"Sacramento-Roseville-Folsom, CA",California,True
+41180.0,,17005,Bond County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17013,Calhoun County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17027,Clinton County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17083,Jersey County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17117,Macoupin County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17119,Madison County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17133,Monroe County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,17163,St. Clair County,Illinois,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29071,Franklin County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29099,Jefferson County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29113,Lincoln County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29183,St. Charles County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29189,St. Louis County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29219,Warren County,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41180.0,,29510,St. Louis city,Missouri,"St. Louis, MO-IL",Illinois; Missouri,False
+41620.0,,49035,Salt Lake County,Utah,"Salt Lake City-Murray, UT",Utah,True
+41620.0,,49045,Tooele County,Utah,"Salt Lake City-Murray, UT",Utah,True
+41700.0,,48013,Atascosa County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48019,Bandera County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48029,Bexar County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48091,Comal County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48187,Guadalupe County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48259,Kendall County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48325,Medina County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41700.0,,48493,Wilson County,Texas,"San Antonio-New Braunfels, TX",Texas,True
+41740.0,,06073,San Diego County,California,"San Diego-Chula Vista-Carlsbad, CA",California,True
+41860.0,36084.0,06001,Alameda County,California,"San Francisco-Oakland-Fremont, CA",California,True
+41860.0,36084.0,06013,Contra Costa County,California,"San Francisco-Oakland-Fremont, CA",California,True
+41860.0,41884.0,06075,San Francisco County,California,"San Francisco-Oakland-Fremont, CA",California,True
+41860.0,41884.0,06081,San Mateo County,California,"San Francisco-Oakland-Fremont, CA",California,True
+41860.0,42034.0,06041,Marin County,California,"San Francisco-Oakland-Fremont, CA",California,True
+41940.0,,06069,San Benito County,California,"San Jose-Sunnyvale-Santa Clara, CA",California,True
+41940.0,,06085,Santa Clara County,California,"San Jose-Sunnyvale-Santa Clara, CA",California,True
+42220.0,,06097,Sonoma County,California,"Santa Rosa-Petaluma, CA",California,True
+42660.0,21794.0,53061,Snohomish County,Washington,"Seattle-Tacoma-Bellevue, WA",Washington,False
+42660.0,42644.0,53033,King County,Washington,"Seattle-Tacoma-Bellevue, WA",Washington,False
+42660.0,45104.0,53053,Pierce County,Washington,"Seattle-Tacoma-Bellevue, WA",Washington,False
+44060.0,,53063,Spokane County,Washington,"Spokane-Spokane Valley, WA",Washington,False
+44060.0,,53065,Stevens County,Washington,"Spokane-Spokane Valley, WA",Washington,False
+45060.0,,36053,Madison County,New York,"Syracuse, NY",New York,False
+45060.0,,36067,Onondaga County,New York,"Syracuse, NY",New York,False
+45060.0,,36075,Oswego County,New York,"Syracuse, NY",New York,False
+45300.0,41304.0,12103,Pinellas County,Florida,"Tampa-St. Petersburg-Clearwater, FL",Florida,True
+45300.0,45294.0,12053,Hernando County,Florida,"Tampa-St. Petersburg-Clearwater, FL",Florida,True
+45300.0,45294.0,12057,Hillsborough County,Florida,"Tampa-St. Petersburg-Clearwater, FL",Florida,True
+45300.0,45294.0,12101,Pasco County,Florida,"Tampa-St. Petersburg-Clearwater, FL",Florida,True
+46060.0,,04019,Pima County,Arizona,"Tucson, AZ",Arizona,True
+46140.0,,40037,Creek County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40111,Okmulgee County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40113,Osage County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40117,Pawnee County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40131,Rogers County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40143,Tulsa County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46140.0,,40145,Wagoner County,Oklahoma,"Tulsa, OK",Oklahoma,True
+46520.0,,15003,Honolulu County,Hawaii,"Urban Honolulu, HI",Hawaii,False
+47260.0,,37029,Camden County,North Carolina,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,37053,Currituck County,North Carolina,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,37073,Gates County,North Carolina,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51073,Gloucester County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51093,Isle of Wight County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51095,James City County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51115,Mathews County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51181,Surry County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51199,York County,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51550,Chesapeake city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51650,Hampton city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51700,Newport News city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51710,Norfolk city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51735,Poquoson city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51740,Portsmouth city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51800,Suffolk city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51810,Virginia Beach city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47260.0,,51830,Williamsburg city,Virginia,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina; Virginia,True
+47900.0,11694.0,51013,Arlington County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51043,Clarke County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51047,Culpeper County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51059,Fairfax County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51061,Fauquier County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51107,Loudoun County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51153,Prince William County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51157,Rappahannock County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51177,Spotsylvania County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51179,Stafford County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51187,Warren County,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51510,Alexandria city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51600,Fairfax city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51610,Falls Church city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51630,Fredericksburg city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51683,Manassas city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,51685,Manassas Park city,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,11694.0,54037,Jefferson County,West Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,23224.0,24021,Frederick County,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,23224.0,24031,Montgomery County,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,47764.0,11001,District of Columbia,District of Columbia,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,47764.0,24017,Charles County,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+47900.0,47764.0,24033,Prince George's County,Maryland,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia; Maryland; Virginia; West Virginia,True
+48620.0,,20015,Butler County,Kansas,"Wichita, KS",Kansas,False
+48620.0,,20079,Harvey County,Kansas,"Wichita, KS",Kansas,False
+48620.0,,20173,Sedgwick County,Kansas,"Wichita, KS",Kansas,False
+48620.0,,20191,Sumner County,Kansas,"Wichita, KS",Kansas,False
+49180.0,,37057,Davidson County,North Carolina,"Winston-Salem, NC",North Carolina,True
+49180.0,,37059,Davie County,North Carolina,"Winston-Salem, NC",North Carolina,True
+49180.0,,37067,Forsyth County,North Carolina,"Winston-Salem, NC",North Carolina,True
+49180.0,,37169,Stokes County,North Carolina,"Winston-Salem, NC",North Carolina,True
+49180.0,,37197,Yadkin County,North Carolina,"Winston-Salem, NC",North Carolina,True
+49340.0,,25027,Worcester County,Massachusetts,"Worcester, MA",Massachusetts,False

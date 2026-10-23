@@ -1,0 +1,19 @@
+panel,feature,mae_increase_pp,folds,interpretation
+all_100_largest_msas,lag_entry_rate,0.9559789553260797,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_exit_rate,0.04675129670668876,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_birth_job_creation_rate,0.009109379834947343,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_job_creation_rate,0.004409459034604768,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_net_job_creation_rate,0.003038958225441137,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,log_lag_estabs,0.0017467501759675836,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_reallocation_rate,0.00020816359467536646,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,log_lag_emp,3.0745819113794e-05,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+all_100_largest_msas,lag_job_destruction_rate,-0.0014219094233451264,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_entry_rate,0.8198932499534575,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_exit_rate,0.034768587058959584,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_birth_job_creation_rate,0.006108825377969816,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_net_job_creation_rate,0.005140843854148323,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_job_creation_rate,0.00341196176891694,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,log_lag_emp,0.0029296082662758163,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,log_lag_estabs,0.0022740048625374543,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_reallocation_rate,-0.0010879066630576732,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.
+south_sunbelt_subset,lag_job_destruction_rate,-0.0013200038449114142,6,Predictive association only; a larger positive increase means the feature helped held-out forecasts.

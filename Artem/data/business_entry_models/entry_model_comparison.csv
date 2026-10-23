@@ -1,0 +1,9 @@
+model,observations,entry_rate_mae_pp,entry_rate_rmse_pp,entry_count_mae,primary_metric
+catboost_rate,186,0.7087712896749143,0.9664530082233977,811.7121125171348,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+xgboost_rate,186,0.7264086069540118,0.9801467769243484,853.0591006381537,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+random_forest,186,0.7279240489277922,0.9790583489904222,856.5780601024036,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+lagged_entry_rate_baseline,186,0.7373709701594192,1.0314744392051276,915.1955490860215,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+ridge_log_count,186,0.8029877533312694,1.0841316962268774,978.0782466152702,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+lasso_log_count,186,0.8427319408013729,1.1204545657858362,964.8874110620137,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+poisson_rate,186,0.9233698342517616,1.2060668624094493,1010.4378254418473,"Lower is better: mean absolute error in next-year entry rate, percentage points"
+mean_rate_baseline,186,1.422426128098037,1.800913755599599,1480.9856537169837,"Lower is better: mean absolute error in next-year entry rate, percentage points"

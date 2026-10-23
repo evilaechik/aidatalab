@@ -1,0 +1,3 @@
+model,held_out_observations,entry_rate_mae_pp
+xgboost_external_factors,388,0.9785596756898586
+historical_mean_rate_baseline,388,1.6282893901612057

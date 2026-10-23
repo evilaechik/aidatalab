@@ -1,2 +1,6 @@
 # macOS Finder metadata
 .DS_Store
+
+# Python bytecode generated when reproducibility scripts are run locally
+__pycache__/
+*.py[cod]
