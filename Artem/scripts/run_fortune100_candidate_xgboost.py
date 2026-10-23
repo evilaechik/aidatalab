@@ -52,7 +52,7 @@ FEATURES = [
     "regional_price_parity",
     "fhfa_hpi_yoy_growth",
 ]
-TARGET = "distinct_matched_current_f100_location_candidates"
+DEFAULT_TARGET = "distinct_matched_current_f100_nonexcluded_candidate_companies"
 RANDOM_SEED = 20261022
 
 
@@ -71,10 +71,29 @@ def standardized_msa(series: pd.Series) -> pd.Series:
     return series.astype(str).str.replace(r"\.0$", "", regex=True).str.zfill(5)
 
 
-def load_data(scores_path: Path, roster_path: Path, factors_path: Path, factor_year: int) -> pd.DataFrame:
+def parse_study_states(value: str) -> set[str]:
+    states = {item.strip() for item in value.split(",") if item.strip()}
+    if not states:
+        raise ValueError("--study-states must contain at least one state")
+    return states
+
+
+def msa_is_within_states(member_states: object, study_states: set[str]) -> bool:
+    """Keep only MSAs whose full multi-state geography is in the study area."""
+    states = {item.strip() for item in str(member_states).split(";") if item.strip()}
+    return bool(states) and states.issubset(study_states)
+
+
+def load_data(
+    scores_path: Path,
+    roster_path: Path,
+    factors_path: Path,
+    factor_year: int,
+    target_column: str,
+) -> pd.DataFrame:
     scores = pd.read_csv(scores_path, dtype={"msa_cbsa": str})
-    if TARGET not in scores.columns:
-        raise ValueError(f"Scores file is missing {TARGET!r}")
+    if target_column not in scores.columns:
+        raise ValueError(f"Scores file is missing {target_column!r}")
     scores["msa"] = standardized_msa(scores["msa_cbsa"])
     scores = scores.drop_duplicates("msa", keep="last")
 
@@ -96,17 +115,17 @@ def load_data(scores_path: Path, roster_path: Path, factors_path: Path, factor_y
     factors = factors.rename(columns={"year": "factor_year"})
     selected_factor_columns = ["msa", "factor_year", *FEATURES]
     data = roster.merge(
-        scores[["msa", TARGET]], on="msa", how="left", validate="one_to_one"
+        scores[["msa", target_column]], on="msa", how="left", validate="one_to_one"
     ).merge(
         factors[selected_factor_columns], on="msa", how="left", validate="one_to_one"
     )
     data["score_coverage_status"] = np.where(
-        data[TARGET].notna(), "candidate_score_available", "unknown_not_zero"
+        data[target_column].notna(), "candidate_score_available", "unknown_not_zero"
     )
     data["factor_coverage_status"] = np.where(
         data["factor_year"].notna(), "factor_row_available", "factor_row_missing"
     )
-    data["included_in_xgboost"] = data[TARGET].notna() & data["factor_year"].notna()
+    data["included_in_xgboost"] = data[target_column].notna() & data["factor_year"].notna()
     return data
 
 
@@ -127,14 +146,16 @@ def new_model() -> XGBRegressor:
     )
 
 
-def evaluate_cohort(data: pd.DataFrame, cohort: str) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+def evaluate_cohort(
+    data: pd.DataFrame, cohort: str, target_column: str
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """Use held-out folds; feature importance is held-out permutation importance."""
     usable = data.loc[data["included_in_xgboost"]].copy().reset_index(drop=True)
     if len(usable) < 30:
         raise ValueError(f"{cohort} has only {len(usable)} usable MSAs; need at least 30")
 
     folds = KFold(n_splits=5, shuffle=True, random_state=RANDOM_SEED)
-    target = usable[TARGET].astype(float).to_numpy()
+    target = usable[target_column].astype(float).to_numpy()
     predictions: list[dict[str, object]] = []
     importance_rows: list[dict[str, object]] = []
 
@@ -203,7 +224,7 @@ def evaluate_cohort(data: pd.DataFrame, cohort: str) -> tuple[pd.DataFrame, pd.D
                 "mae_candidate_companies": mean_absolute_error(actual, predicted),
                 "rmse_candidate_companies": mean_squared_error(actual, predicted) ** 0.5,
                 "held_out_r2": r2_score(actual, predicted),
-                "target_definition": "Data Axle candidate commercial-location count, not verified office presence",
+                "target_definition": f"{target_column}; Data Axle candidate evidence, not verified office presence",
             }
         )
     importance = (
@@ -230,6 +251,13 @@ def main() -> None:
     parser.add_argument("--roster-csv", type=Path, default=DEFAULT_ROSTER)
     parser.add_argument("--factors-csv", type=Path, default=DEFAULT_FACTORS)
     parser.add_argument("--factor-year", type=int, default=2022)
+    parser.add_argument("--target-column", default=DEFAULT_TARGET)
+    parser.add_argument("--all-cohort-name", default="all_roster_msas")
+    parser.add_argument(
+        "--study-states",
+        help="Optional comma-separated state names for a tighter comparator cohort; multi-state MSAs must be fully inside it.",
+    )
+    parser.add_argument("--study-cohort-name", default="custom_state_subset")
     parser.add_argument("--allow-incomplete-proxy", action="store_true")
     args = parser.parse_args()
 
@@ -239,14 +267,24 @@ def main() -> None:
         if not input_path.expanduser().is_file():
             raise FileNotFoundError(input_path)
     output_dir = reject_repo_output(args.output_dir)
-    data = load_data(args.candidate_scores_csv, args.roster_csv, args.factors_csv, args.factor_year)
+    data = load_data(
+        args.candidate_scores_csv,
+        args.roster_csv,
+        args.factors_csv,
+        args.factor_year,
+        args.target_column,
+    )
     data.to_csv(output_dir / "fortune100_candidate_xgb_input_audit.csv", index=False, quoting=csv.QUOTE_MINIMAL)
 
-    cohorts = {
-        "all_top100_msas": data,
-        "south_sunbelt_top100_subset": data.loc[data["panel_south_sunbelt"].eq(True)],
-    }
-    results = [evaluate_cohort(frame, name) for name, frame in cohorts.items()]
+    cohorts = {args.all_cohort_name: data}
+    if "panel_south_sunbelt" in data.columns:
+        cohorts["south_sunbelt_top100_subset"] = data.loc[data["panel_south_sunbelt"].eq(True)]
+    if args.study_states:
+        study_states = parse_study_states(args.study_states)
+        cohorts[args.study_cohort_name] = data.loc[
+            data["member_states"].map(lambda value: msa_is_within_states(value, study_states))
+        ]
+    results = [evaluate_cohort(frame, name, args.target_column) for name, frame in cohorts.items()]
     pd.concat([result[0] for result in results], ignore_index=True).to_csv(
         output_dir / "fortune100_candidate_xgb_fold_predictions.csv", index=False
     )
@@ -255,10 +293,16 @@ def main() -> None:
     pd.concat([result[2] for result in results], ignore_index=True).to_csv(
         output_dir / "fortune100_candidate_xgb_permutation_importance.csv", index=False
     )
+    study_scope = ""
+    if args.study_states:
+        study_scope = (
+            f" Custom comparator cohort {args.study_cohort_name!r} contains MSAs wholly within: "
+            f"{', '.join(sorted(parse_study_states(args.study_states)))}."
+        )
     (output_dir / "README.txt").write_text(
-        "EXPLORATORY ONLY. The target is a Data Axle candidate commercial-location count, not a verified Fortune office-presence score. "
+        f"EXPLORATORY ONLY. The target is {args.target_column}, a Data Axle candidate-location measure, not a verified Fortune office-presence score. "
         "The source export does not cover every top-100 MSA; absent scores are unknown, not zero. "
-        "Do not use these feature rankings as causal policy drivers.\n",
+        f"Do not use these feature rankings as causal policy drivers.{study_scope}\n",
         encoding="utf-8",
     )
     print("Coverage:")

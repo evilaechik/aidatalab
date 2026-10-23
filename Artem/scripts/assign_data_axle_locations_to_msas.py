@@ -249,6 +249,40 @@ def assign_cbsa(longitude: float, latitude: float, polygons: dict[str, dict[str,
     return None
 
 
+def classify_site_function(row: pd.Series) -> str:
+    """Conservatively flag explicit non-office site functions from export text.
+
+    This is a one-way screen: a record left as ``unclassified_non_excluded``
+    is *not* confirmed to be an office.  Headquarters are retained even if
+    their company happens to be in a retail or logistics industry.
+    """
+    category = str(row.get("source_business_category", "")).lower()
+    text = " ".join(
+        str(row.get(column, ""))
+        for column in [
+            "source_industry_description",
+            "source_esri_category_description",
+            "location_type",
+        ]
+    ).lower()
+    if category == "headquarters" or re.search(r"\b(headquarters|corporate office|regional office)\b", text):
+        return "direct_office_or_hq_signal"
+    if category == "kiosk":
+        return "excluded_kiosk"
+    if re.search(r"\b(warehouse|warehousing|distribution(?: center)?|fulfillment(?: center)?|logistics center)\b", text):
+        return "excluded_warehouse_or_distribution"
+    if re.search(r"\b(mailing|shipping|postal|package store)\b", text):
+        return "excluded_shipping_or_mailing_site"
+    if re.search(
+        r"\b(retail|grocers?|grocery|pharmac(?:y|ies)|department stores?|service stations?|gasoline|convenience stores?|home centers?|tire dealers?|bakers?)\b",
+        text,
+    ):
+        return "excluded_retail_or_consumer_site"
+    if re.search(r"\b(office|administrative|management services|professional services|financial advisory|insurance)\b", text):
+        return "direct_office_or_hq_signal"
+    return "unclassified_non_excluded"
+
+
 def build_assignments(
     locations: pd.DataFrame,
     places: pd.DataFrame,
@@ -308,6 +342,10 @@ def build_candidate_presence_tables(assigned: pd.DataFrame) -> tuple[pd.DataFram
     if in_target.empty:
         return pd.DataFrame(), pd.DataFrame()
 
+    in_target["automated_site_function"] = in_target.apply(classify_site_function, axis=1)
+    in_target["is_explicitly_excluded_site"] = in_target["automated_site_function"].str.startswith("excluded_")
+    in_target["is_direct_office_or_hq_signal"] = in_target["automated_site_function"].eq("direct_office_or_hq_signal")
+    in_target["is_nonexcluded_site"] = ~in_target["is_explicitly_excluded_site"]
     in_target["is_headquarters_category"] = in_target["source_business_category"].eq("Headquarters")
     in_target["is_matched_current_f500"] = in_target["fortune_match_status"].eq("matched")
     in_target["fortune_rank_number"] = pd.to_numeric(in_target["fortune_2025_rank"], errors="coerce")
@@ -328,31 +366,61 @@ def build_candidate_presence_tables(assigned: pd.DataFrame) -> tuple[pd.DataFram
             headquarters_category_rows=("is_headquarters_category", "sum"),
             branch_category_rows=("source_business_category", lambda value: value.eq("Branch").sum()),
             kiosk_category_rows=("source_business_category", lambda value: value.eq("Kiosk").sum()),
+            nonexcluded_location_rows=("is_nonexcluded_site", "sum"),
+            direct_office_or_hq_signal_rows=("is_direct_office_or_hq_signal", "sum"),
+            excluded_warehouse_distribution_rows=(
+                "automated_site_function",
+                lambda value: value.eq("excluded_warehouse_or_distribution").sum(),
+            ),
+            excluded_retail_consumer_rows=(
+                "automated_site_function",
+                lambda value: value.eq("excluded_retail_or_consumer_site").sum(),
+            ),
+            excluded_shipping_mailing_rows=(
+                "automated_site_function",
+                lambda value: value.eq("excluded_shipping_or_mailing_site").sum(),
+            ),
+            excluded_kiosk_rows=("automated_site_function", lambda value: value.eq("excluded_kiosk").sum()),
         )
         .reset_index()
         .sort_values(["msa_cbsa", "company_name"])
     )
-    presence["candidate_evidence"] = "Data Axle commercial location; office status requires separate verification"
+    presence["has_nonexcluded_site"] = presence["nonexcluded_location_rows"].gt(0)
+    presence["has_direct_office_or_hq_signal"] = presence["direct_office_or_hq_signal_rows"].gt(0)
+    presence["candidate_evidence"] = (
+        "Data Axle candidate location; explicit warehouse/distribution, shipping, retail, and kiosk sites screened out; office status still requires verification"
+    )
 
     score_rows: list[dict[str, object]] = []
-    for (cbsa, name), group in in_target.groupby(["msa_cbsa", "msa_name"], dropna=False):
+    for (cbsa, name), group in presence.groupby(["msa_cbsa", "msa_name"], dropna=False):
+        rank = pd.to_numeric(group["fortune_2025_rank"], errors="coerce")
+        current_f100 = rank.le(100) & group["fortune_match_status"].eq("matched")
+        current_f500 = group["fortune_match_status"].eq("matched")
         score_rows.append(
             {
                 "msa_cbsa": cbsa,
                 "msa_name": name,
                 "distinct_query_company_location_candidates": group["company_name"].nunique(),
-                "distinct_matched_current_f500_location_candidates": group.loc[
-                    group["is_matched_current_f500"], "company_name"
+                "distinct_matched_current_f500_location_candidates": group.loc[current_f500, "company_name"].nunique(),
+                "distinct_matched_current_f100_location_candidates": group.loc[current_f100, "company_name"].nunique(),
+                "distinct_matched_current_f500_nonexcluded_candidate_companies": group.loc[
+                    current_f500 & group["has_nonexcluded_site"], "company_name"
                 ].nunique(),
-                "distinct_matched_current_f100_location_candidates": group.loc[
-                    group["is_matched_current_f100"], "company_name"
+                "distinct_matched_current_f100_nonexcluded_candidate_companies": group.loc[
+                    current_f100 & group["has_nonexcluded_site"], "company_name"
+                ].nunique(),
+                "distinct_matched_current_f100_direct_office_hq_candidates": group.loc[
+                    current_f100 & group["has_direct_office_or_hq_signal"], "company_name"
+                ].nunique(),
+                "distinct_matched_current_f100_excluded_only_companies": group.loc[
+                    current_f100 & ~group["has_nonexcluded_site"], "company_name"
                 ].nunique(),
                 "distinct_companies_with_headquarters_category_location": group.loc[
-                    group["is_headquarters_category"], "company_name"
+                    group["headquarters_category_rows"].gt(0), "company_name"
                 ].nunique(),
-                "location_rows": len(group),
-                "score_definition": "Distinct companies with at least one Data Axle commercial location assigned by city-place centroid",
-                "not_an_office_score": "True; stores, kiosks, branches, warehouses, and offices can all be included",
+                "location_rows": group["data_axle_location_rows"].sum(),
+                "score_definition": "Distinct companies with at least one Data Axle candidate location assigned by city-place centroid",
+                "screened_score_definition": "Excludes explicit warehouse/distribution, shipping/mailing, retail/consumer, and kiosk signals; remaining sites are not verified offices",
             }
         )
     scores = pd.DataFrame(score_rows).sort_values(
