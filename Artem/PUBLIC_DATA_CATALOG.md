@@ -13,6 +13,10 @@ This catalog separates shareable, reproducible public research from any restrict
 | `data/fortune_100_atlanta_presence_2025.csv` | City of Atlanta and metro Atlanta | Fortune 100 office/presence classification | Corporate-presence context | Research screen, not a census or measure of jobs |
 | `data/verified_location_sources.csv` | Company locations | Source trail for presence checks | Audit and refresh Fortune screen | Coverage is incomplete |
 | `fortune500_hq_screen.csv` | Atlanta-area HQs | Fortune 500 headquarters screen | HQ ecosystem context | HQs are not equivalent to local employment or attraction results |
+| `data/big_business_presence/fortune_500_universe_2025.csv` | U.S.; 2025 list | Official Fortune 500 company universe, including rank and headquarters context | Defines the major-company universe for the new primary outcome | A 2025 cross-section; not a historical attraction series |
+| `data/big_business_presence/fortune500_metro_presence_review_queue.csv` | 500 companies × 200 MSAs | Source-audited office/HQ review ledger | Build the Metro Big Business Presence Score | Most rows are intentionally unreviewed, so zero must never be inferred as no presence |
+| `data/big_business_presence/metro_big_business_presence_score_status_2025.csv` | 200 MSAs; 2025 | Review coverage and confirmed qualifying presences | Publication-status guardrail for the new score | A metro score is blank until all 500 company cells are resolved |
+| `data/big_business_presence/metro_county_crosswalk_2023.csv` | Counties in the selected 200 MSAs | Official county-to-MSA membership | Assign externally geocoded business locations to the correct MSA | Location sources still need entity/function review |
 
 ## What the decision tracker adds
 
@@ -30,6 +34,7 @@ The new tracker makes the analysis more decision-based. It separates:
 3. Build a parallel **loss/relocation tracker**. A retention analysis is incomplete if it only records wins.
 4. Add site attributes for each geocoded case: city/metro jurisdiction, transit access, zoning, parcel size, and nearby workforce.
 5. Assemble peer incentive-policy data with program type, eligibility, award size, clawbacks, geography, and source—not just tax rates.
+6. Complete the direct-source Fortune 500 office/HQ review for the study metros; preserve City-versus-metro addresses and never classify an unreviewed company as absent.
 
 ## Presentation-safe interpretation
 

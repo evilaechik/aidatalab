@@ -22,6 +22,19 @@ The reusable Fortune 100 Atlanta-presence dataset lives in [`data/`](data/README
 
 Use `has_atlanta_office` for City of Atlanta findings. Keep `has_atlanta_metro_office` separate: those companies are regional context, not automatically within Invest Atlanta's formal jurisdiction.
 
+## Main major-company outcome
+
+The project is now building a **Metro Big Business Presence Score**: the number
+of distinct 2025 Fortune 500 companies with a source-verified qualifying HQ or
+office in each metro, divided by 500. This is the right outcome for the
+major-company part of the research question; it is not the Census business-entry
+rate used in the exploratory small-business-dynamism models.
+
+The reproducible Fortune universe, 200-MSA evidence queue, and guarded score
+status file are in [`data/big_business_presence/`](data/big_business_presence/README.md).
+Counts are publication-ready only when the score-status file marks a metro
+`publishable`; all unreviewed companies are treated as unknown, never absent.
+
 ## Current limitation
 
 The provided files do not yet include the BLS industry-growth/loss series or comparable-region incentive data named in the project brief. They are needed to make defensible claims about Atlanta's competitiveness relative to peer metros.

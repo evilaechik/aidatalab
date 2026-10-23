@@ -1,0 +1,501 @@
+fortune_2025_rank,fortune_2025_list_position,company,fortune_slug,revenue_usd_millions,fortune_permalink,headquarters_city,headquarters_state,industry,ranking_source_url
+1,1,Walmart,walmart,680985.0,https://fortune.com/company/walmart/,Bentonville,Arkansas,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+2,2,Amazon,amazon-com,637959.0,https://fortune.com/company/amazon-com/,Seattle,Washington,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+3,3,UnitedHealth Group,unitedhealth-group,400278.0,https://fortune.com/company/unitedhealth-group/,Eden Prairie,Minnesota,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+4,4,Apple,apple,391035.0,https://fortune.com/company/apple/,Cupertino,California,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+5,5,CVS Health,cvs-health,372809.0,https://fortune.com/company/cvs-health/,Woonsocket,Rhode Island,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+6,6,Berkshire Hathaway,berkshire-hathaway,371433.0,https://fortune.com/company/berkshire-hathaway/,Omaha,Nebraska,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+7,7,Alphabet,alphabet,350018.0,https://fortune.com/company/alphabet/,Mountain View,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+8,8,Exxon Mobil Holdings,exxon-mobil,349585.0,https://fortune.com/company/exxon-mobil/,Spring,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+9,9,McKesson,mckesson,308951.0,https://fortune.com/company/mckesson/,Irving,Texas,Wholesalers: Health Care,https://fortune.com/ranking/fortune500/2025/
+10,10,Cencora,amerisourcebergen,293958.6,https://fortune.com/company/amerisourcebergen/,Conshohocken,Pennsylvania,Wholesalers: Health Care,https://fortune.com/ranking/fortune500/2025/
+11,11,JPMorgan Chase,jpmorgan-chase,278906.0,https://fortune.com/company/jpmorgan-chase/,New York,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+12,12,Costco Wholesale,costco,254453.0,https://fortune.com/company/costco/,Issaquah,Washington,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+13,13,Cigna Group,cigna,247121.0,https://fortune.com/company/cigna/,Bloomfield,Connecticut,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+14,14,Microsoft,microsoft,245122.0,https://fortune.com/company/microsoft/,Redmond,Washington,Computer Software,https://fortune.com/ranking/fortune500/2025/
+15,15,Cardinal Health,cardinal-health,226827.0,https://fortune.com/company/cardinal-health/,Dublin,Ohio,Wholesalers: Health Care,https://fortune.com/ranking/fortune500/2025/
+16,16,Chevron,chevron,202792.0,https://fortune.com/company/chevron/,Houston,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+17,17,Bank of America,bank-of-america-corp,192434.0,https://fortune.com/company/bank-of-america-corp/,Charlotte,North Carolina,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+18,18,General Motors,general-motors,187442.0,https://fortune.com/company/general-motors/,Detroit,Michigan,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+19,19,Ford Motor,ford-motor,184992.0,https://fortune.com/company/ford-motor/,Dearborn,Michigan,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+20,20,Elevance Health,elevance-health,177011.0,https://fortune.com/company/elevance-health/,Indianapolis,Indiana,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+21,21,Citigroup,citigroup,170757.0,https://fortune.com/company/citigroup/,New York,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+22,22,Meta Platforms,facebook,164501.0,https://fortune.com/company/facebook/,Menlo Park,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+23,23,Centene,centene,163071.0,https://fortune.com/company/centene/,St. Louis,Missouri,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+24,24,Home Depot,home-depot,159514.0,https://fortune.com/company/home-depot/,Atlanta,Georgia,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+25,25,Fannie Mae,fannie-mae,152670.0,https://fortune.com/company/fannie-mae/,Washington,District Of Columbia,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+26,26,Walgreens Boots Alliance,walgreens-boots-alliance,147658.0,https://fortune.com/company/walgreens-boots-alliance/,Deerfield,Illinois,Food & Drug Stores,https://fortune.com/ranking/fortune500/2025/
+27,27,Kroger,kroger,147123.0,https://fortune.com/company/kroger/,Cincinnati,Ohio,Food & Drug Stores,https://fortune.com/ranking/fortune500/2025/
+28,28,Phillips 66,phillips,145496.0,https://fortune.com/company/phillips/,Houston,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+29,29,Marathon Petroleum,marathon-petroleum,140412.0,https://fortune.com/company/marathon-petroleum/,Findlay,Ohio,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+30,30,Verizon Communications,verizon,134788.0,https://fortune.com/company/verizon/,New York,New York,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+31,31,Nvidia,nvidia,130497.0,https://fortune.com/company/nvidia/,Santa Clara,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+32,32,Goldman Sachs Group,goldman-sachs-group,126853.0,https://fortune.com/company/goldman-sachs-group/,New York,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+33,33,Wells Fargo,wells-fargo,125397.0,https://fortune.com/company/wells-fargo/,San Francisco,California,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+34,34,Valero Energy,valero-energy,123974.0,https://fortune.com/company/valero-energy/,San Antonio,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+35,35,Comcast,comcast,123731.0,https://fortune.com/company/comcast/,Philadelphia,Pennsylvania,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+36,36,State Farm Insurance,state-farm-insurance-cos,122951.0,https://fortune.com/company/state-farm-insurance-cos/,Bloomington,Illinois,Insurance: Property and Casualty (Mutual),https://fortune.com/ranking/fortune500/2025/
+37,37,AT&T,att,122336.0,https://fortune.com/company/att/,Dallas,Texas,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+38,38,Freddie Mac,freddie-mac,122052.0,https://fortune.com/company/freddie-mac/,McLean,Virginia,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+39,39,Humana,humana,117761.0,https://fortune.com/company/humana/,Louisville,Kentucky,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+40,40,Morgan Stanley,morgan-stanley,107285.0,https://fortune.com/company/morgan-stanley/,New York,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+41,41,Target,target,106566.0,https://fortune.com/company/target/,Minneapolis,Minnesota,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+42,42,StoneX Group,stonex-group,99887.8,https://fortune.com/company/stonex-group/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+43,43,Tesla,tesla,97690.0,https://fortune.com/company/tesla/,Austin,Texas,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+44,44,Dell Technologies,dell-technologies,95567.0,https://fortune.com/company/dell-technologies/,Round Rock,Texas,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+45,45,PepsiCo,pepsico,91854.0,https://fortune.com/company/pepsico/,Purchase,New York,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+46,46,Walt Disney,disney,91361.0,https://fortune.com/company/disney/,Burbank,California,Entertainment,https://fortune.com/ranking/fortune500/2025/
+47,47,UPS,ups,91070.0,https://fortune.com/company/ups/,Atlanta,Georgia,"Mail, Package, and Freight Delivery",https://fortune.com/ranking/fortune500/2025/
+48,48,Johnson & Johnson,johnson-johnson,88821.0,https://fortune.com/company/johnson-johnson/,New Brunswick,New Jersey,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+49,49,FedEx,fedex,87693.0,https://fortune.com/company/fedex/,Memphis,Tennessee,"Mail, Package, and Freight Delivery",https://fortune.com/ranking/fortune500/2025/
+50,50,Archer Daniels Midland,archer-daniels-midland,85530.0,https://fortune.com/company/archer-daniels-midland/,Chicago,Illinois,Food Production,https://fortune.com/ranking/fortune500/2025/
+51,51,Procter & Gamble,procter-gamble,84039.0,https://fortune.com/company/procter-gamble/,Cincinnati,Ohio,Household and Personal Products,https://fortune.com/ranking/fortune500/2025/
+52,52,Lowe's,lowes,83674.0,https://fortune.com/company/lowes/,Mooresville,North Carolina,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+53,53,Energy Transfer,energy-transfer-equity,82671.0,https://fortune.com/company/energy-transfer-equity/,Dallas,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+54,54,RTX,raytheon-technologies,80738.0,https://fortune.com/company/raytheon-technologies/,Arlington,Virginia,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+55,55,Albertsons,albertsons-cos,79237.7,https://fortune.com/company/albertsons-cos/,Boise,Idaho,Food & Drug Stores,https://fortune.com/ranking/fortune500/2025/
+56,56,Sysco,sysco,78844.0,https://fortune.com/company/sysco/,Houston,Texas,Wholesalers: Food and Grocery,https://fortune.com/ranking/fortune500/2025/
+57,57,Progressive,progressive,75372.0,https://fortune.com/company/progressive/,Mayfield Village,Ohio,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+58,58,American Express,american-express,74201.0,https://fortune.com/company/american-express/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+59,59,Lockheed Martin,lockheed-martin,71043.0,https://fortune.com/company/lockheed-martin/,Bethesda,Maryland,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+60,60,MetLife,metlife,70986.0,https://fortune.com/company/metlife/,New York,New York,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+61,61,HCA Healthcare,hca-holdings,70603.0,https://fortune.com/company/hca-holdings/,Nashville,Tennessee,Health Care: Medical Facilities,https://fortune.com/ranking/fortune500/2025/
+62,62,Prudential Financial,prudential-financial,70405.0,https://fortune.com/company/prudential-financial/,Newark,New Jersey,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+63,63,Boeing,boeing,66517.0,https://fortune.com/company/boeing/,Arlington,Virginia,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+64,64,Caterpillar,caterpillar,64809.0,https://fortune.com/company/caterpillar/,Irving,Texas,Construction and Farm Machinery,https://fortune.com/ranking/fortune500/2025/
+65,65,Merck,merck,64168.0,https://fortune.com/company/merck/,Rahway,New Jersey,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+66,66,Allstate,allstate,64106.0,https://fortune.com/company/allstate/,Northbrook,Illinois,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+67,67,Pfizer,pfizer,63627.0,https://fortune.com/company/pfizer/,New York,New York,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+68,68,International Business Machines,ibm,62753.0,https://fortune.com/company/ibm/,Armonk,New York,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+69,69,New York Life Insurance,new-york-life-insurance,62639.2,https://fortune.com/company/new-york-life-insurance/,New York,New York,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+70,70,Delta Air Lines,delta-air-lines,61643.0,https://fortune.com/company/delta-air-lines/,Atlanta,Georgia,Airlines,https://fortune.com/ranking/fortune500/2025/
+71,71,Publix Super Markets,publix-super-markets,60177.0,https://fortune.com/company/publix-super-markets/,Lakeland,Florida,Food & Drug Stores,https://fortune.com/ranking/fortune500/2025/
+72,72,Nationwide,nationwide,58645.9,https://fortune.com/company/nationwide/,Columbus,Ohio,Insurance: Property and Casualty (Mutual),https://fortune.com/ranking/fortune500/2025/
+73,73,TD Synnex,synnex,58452.4,https://fortune.com/company/synnex/,Fremont,California,Wholesalers: Electronics and Office Equipment,https://fortune.com/ranking/fortune500/2025/
+74,74,United Airlines Holdings,united-continental-holdings,57063.0,https://fortune.com/company/united-continental-holdings/,Chicago,Illinois,Airlines,https://fortune.com/ranking/fortune500/2025/
+75,75,ConocoPhillips,conocophillips,56953.0,https://fortune.com/company/conocophillips/,Houston,Texas,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+76,76,TJX,tjx,56360.0,https://fortune.com/company/tjx/,Framingham,Massachusetts,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+77,77,AbbVie,abbvie,56334.0,https://fortune.com/company/abbvie/,North Chicago,Illinois,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+78,78,Enterprise Products Partners,enterprise-products-partners,56219.0,https://fortune.com/company/enterprise-products-partners/,Houston,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+79,79,Charter Communications,charter-communications,55085.0,https://fortune.com/company/charter-communications/,Stamford,Connecticut,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+80,80,Performance Food Group,performance-food-group,54681.2,https://fortune.com/company/performance-food-group/,Richmond,Virginia,Wholesalers: Food and Grocery,https://fortune.com/ranking/fortune500/2025/
+81,81,American Airlines Group,american-airlines-group,54211.0,https://fortune.com/company/american-airlines-group/,Fort Worth,Texas,Airlines,https://fortune.com/ranking/fortune500/2025/
+82,82,Capital One Financial,capital-one-financial,53938.0,https://fortune.com/company/capital-one-financial/,McLean,Virginia,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+83,83,Cisco Systems,cisco-systems-inc,53803.0,https://fortune.com/company/cisco-systems-inc/,San Jose,California,Network and Other Communications Equipment,https://fortune.com/ranking/fortune500/2025/
+84,84,HP,hp,53559.0,https://fortune.com/company/hp/,Palo Alto,California,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+85,85,Tyson Foods,tyson-foods,53309.0,https://fortune.com/company/tyson-foods/,Springdale,Arkansas,Food Production,https://fortune.com/ranking/fortune500/2025/
+86,86,Intel,intel,53101.0,https://fortune.com/company/intel/,Santa Clara,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+87,87,Oracle,oracle,52961.0,https://fortune.com/company/oracle/,Austin,Texas,Computer Software,https://fortune.com/ranking/fortune500/2025/
+88,88,Broadcom,broadcom,52432.0,https://fortune.com/company/broadcom/,Palo Alto,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+89,89,Deere,deere,51716.0,https://fortune.com/company/deere/,Moline,Illinois,Construction and Farm Machinery,https://fortune.com/ranking/fortune500/2025/
+90,90,Nike,nike,51362.0,https://fortune.com/company/nike/,Beaverton,Oregon,Apparel,https://fortune.com/ranking/fortune500/2025/
+91,91,Liberty Mutual Insurance Group,liberty-mutual-insurance-group,50429.0,https://fortune.com/company/liberty-mutual-insurance-group/,Boston,Massachusetts,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+92,92,Plains GP Holdings,plains-gp-holdings,50073.0,https://fortune.com/company/plains-gp-holdings/,Houston,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+93,93,United Services Automobile Assn.,usaa,48560.0,https://fortune.com/company/usaa/,San Antonio,Texas,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+94,94,Bristol-Myers Squibb,bristol-myers-squibb,48300.0,https://fortune.com/company/bristol-myers-squibb/,Princeton,New Jersey,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+95,95,Ingram Micro Holding,ingram-micro,47983.7,https://fortune.com/company/ingram-micro/,Irvine,California,Wholesalers: Electronics and Office Equipment,https://fortune.com/ranking/fortune500/2025/
+96,96,General Dynamics,general-dynamics,47716.0,https://fortune.com/company/general-dynamics/,Reston,Virginia,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+97,97,Coca-Cola,coca-cola,47061.0,https://fortune.com/company/coca-cola/,Atlanta,Georgia,Beverages,https://fortune.com/ranking/fortune500/2025/
+98,98,TIAA,tiaa,46945.8,https://fortune.com/company/tiaa/,New York,New York,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+99,99,Travelers,travelers-cos,46423.0,https://fortune.com/company/travelers-cos/,New York,New York,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+100,100,Eli Lilly,eli-lilly,45042.7,https://fortune.com/company/eli-lilly/,Indianapolis,Indiana,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+101,101,Uber Technologies,uber-technologies,43978.0,https://fortune.com/company/uber-technologies/,San Francisco,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+102,102,Massachusetts Mutual Life Insurance,massachusetts-mutual-life-insurance,43072.0,https://fortune.com/company/massachusetts-mutual-life-insurance/,Springfield,Massachusetts,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+103,103,Dow,dow,42964.0,https://fortune.com/company/dow/,Midland,Michigan,Chemicals,https://fortune.com/ranking/fortune500/2025/
+104,104,Thermo Fisher Scientific,thermo-fisher-scientific,42879.0,https://fortune.com/company/thermo-fisher-scientific/,Waltham,Massachusetts,"Scientific,Photographic and  Control Equipment",https://fortune.com/ranking/fortune500/2025/
+105,105,U.S. Bancorp,u-s-bancorp,42712.0,https://fortune.com/company/u-s-bancorp/,Minneapolis,Minnesota,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+106,106,World Kinect,world-fuel-services,42168.0,https://fortune.com/company/world-fuel-services/,Miami,Florida,Energy,https://fortune.com/ranking/fortune500/2025/
+107,107,Abbott Laboratories,abbott-laboratories,41950.0,https://fortune.com/company/abbott-laboratories/,Abbott Park,Illinois,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+108,108,Best Buy,best-buy,41528.0,https://fortune.com/company/best-buy/,Richfield,Minnesota,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+109,109,Northwestern Mutual,northwestern-mutual,41445.0,https://fortune.com/company/northwestern-mutual/,Milwaukee,Wisconsin,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+110,110,Northrop Grumman,northrop-grumman,41033.0,https://fortune.com/company/northrop-grumman/,Falls Church,Virginia,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+111,111,Molina Healthcare,molina-healthcare,40650.0,https://fortune.com/company/molina-healthcare/,Long Beach,California,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+112,112,Dollar General,dollar-general,40612.3,https://fortune.com/company/dollar-general/,Goodlettsville,Tennessee,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+113,113,Bank of New York (BNY),bank-of-new-york-mellon-corp,39914.0,https://fortune.com/company/bank-of-new-york-mellon-corp/,New York,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+114,114,Warner Bros. Discovery,discovery,39321.0,https://fortune.com/company/discovery/,New York,New York,Entertainment,https://fortune.com/ranking/fortune500/2025/
+115,115,CHS,chs,39261.2,https://fortune.com/company/chs/,Inver Grove Heights,Minnesota,Food Production,https://fortune.com/ranking/fortune500/2025/
+116,116,Netflix,netflix,39001.0,https://fortune.com/company/netflix/,Los Gatos,California,Entertainment,https://fortune.com/ranking/fortune500/2025/
+117,117,Qualcomm,qualcomm,38962.0,https://fortune.com/company/qualcomm/,San Diego,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+118,118,GE Aerospace,general-electric,38702.0,https://fortune.com/company/general-electric/,Evendale,Ohio,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+119,119,Honeywell Technologies,honeywell-international,38498.0,https://fortune.com/company/honeywell-international/,Charlotte,North Carolina,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+120,120,Salesforce,salesforce-com,37895.0,https://fortune.com/company/salesforce-com/,San Francisco,California,Computer Software,https://fortune.com/ranking/fortune500/2025/
+121,121,Philip Morris International,philip-morris-international,37878.0,https://fortune.com/company/philip-morris-international/,Stamford,Connecticut,Tobacco,https://fortune.com/ranking/fortune500/2025/
+122,122,US Foods Holding,us-foods-holding,37877.0,https://fortune.com/company/us-foods-holding/,Rosemont,Illinois,Wholesalers: Food and Grocery,https://fortune.com/ranking/fortune500/2025/
+123,123,D.R. Horton,d-r-horton,36801.4,https://fortune.com/company/d-r-horton/,Arlington,Texas,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+124,124,Lithia Motors,lithia-motors,36610.6,https://fortune.com/company/lithia-motors/,Medford,Oregon,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+125,125,Mondelēz International,mondelez-international,36441.0,https://fortune.com/company/mondelez-international/,Chicago,Illinois,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+126,126,Starbucks,starbucks,36176.2,https://fortune.com/company/starbucks/,Seattle,Washington,Food Services,https://fortune.com/ranking/fortune500/2025/
+127,127,Visa,visa,35926.0,https://fortune.com/company/visa/,San Francisco,California,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+128,128,CBRE Group,cbre-group,35767.0,https://fortune.com/company/cbre-group/,Dallas,Texas,Real estate,https://fortune.com/ranking/fortune500/2025/
+129,129,Lennar Corporation,lennar,35441.5,https://fortune.com/company/lennar/,Miami,Florida,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+130,130,GE Vernova,gevernova,34935.0,https://fortune.com/company/gevernova/,Cambridge,Massachusetts,Energy,https://fortune.com/ranking/fortune500/2025/
+131,131,PNC Financial Services Group,pnc-financial-services,34440.0,https://fortune.com/company/pnc-financial-services/,Pittsburgh,Pennsylvania,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+132,132,Cummins,cummins,34102.0,https://fortune.com/company/cummins/,Columbus,Indiana,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+133,133,Paccar,paccar,33663.8,https://fortune.com/company/paccar/,Bellevue,Washington,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+134,134,Amgen,amgen,33424.0,https://fortune.com/company/amgen/,Thousand Oaks,California,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+135,135,PBF Energy,pbf-energy,33115.3,https://fortune.com/company/pbf-energy/,Parsippany,New Jersey,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+136,136,GuideWell Mutual Holding,guidewell-mutual-holding,32955.0,https://fortune.com/company/guidewell-mutual-holding/,Jacksonville,Florida,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+137,137,PayPal Holdings,paypal-holdings,31797.0,https://fortune.com/company/paypal-holdings/,San Jose,California,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+138,138,United Natural Foods,united-natural-foods,30980.0,https://fortune.com/company/united-natural-foods/,Providence,Rhode Island,Wholesalers: Food and Grocery,https://fortune.com/ranking/fortune500/2025/
+139,139,Dollar Tree,dollar-tree,30845.6,https://fortune.com/company/dollar-tree/,Chesapeake,Virginia,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+140,140,Nucor,nucor,30734.0,https://fortune.com/company/nucor/,Charlotte,North Carolina,Metals,https://fortune.com/ranking/fortune500/2025/
+141,141,Penske Automotive Group,penske-automotive-group,30455.2,https://fortune.com/company/penske-automotive-group/,Bloomfield Hills,Michigan,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+142,142,Coupang,coupang,30268.0,https://fortune.com/company/coupang/,Seattle,Washington,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+143,143,Hewlett Packard Enterprise,hewlett-packard-enterprise,30127.0,https://fortune.com/company/hewlett-packard-enterprise/,Spring,Texas,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+144,144,Duke Energy,duke-energy,29938.0,https://fortune.com/company/duke-energy/,Charlotte,North Carolina,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+145,145,KKR,kkr,29880.4,https://fortune.com/company/kkr/,New York,New York,Securities,https://fortune.com/ranking/fortune500/2025/
+146,146,Ferguson Enterprises,ferguson,29635.0,https://fortune.com/company/ferguson/,Newport News,Virginia,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+147,147,Paramount Skydance,cbs,29213.0,https://fortune.com/company/cbs/,New York,New York,Entertainment,https://fortune.com/ranking/fortune500/2025/
+148,148,Jabil,jabil-circuit,28883.0,https://fortune.com/company/jabil-circuit/,St. Petersburg,Florida,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+149,149,Gilead Sciences,gilead-sciences,28754.0,https://fortune.com/company/gilead-sciences/,Foster City,California,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+150,150,HF Sinclair,hollyfrontier,28580.0,https://fortune.com/company/hollyfrontier/,Dallas,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+151,151,CarMax,carmax,28213.4,https://fortune.com/company/carmax/,Richmond,Virginia,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+152,152,Mastercard,mastercard,28167.0,https://fortune.com/company/mastercard/,Purchase,New York,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+153,153,NRG Energy,nrg-energy,28130.0,https://fortune.com/company/nrg-energy/,Houston,Texas,Energy,https://fortune.com/ranking/fortune500/2025/
+154,154,Arrow Electronics,arrow-electronics,27923.3,https://fortune.com/company/arrow-electronics/,Centennial,Colorado,Wholesalers: Electronics and Office Equipment,https://fortune.com/ranking/fortune500/2025/
+155,155,Baker Hughes,baker-hughes,27829.0,https://fortune.com/company/baker-hughes/,Houston,Texas,"Oil and Gas Equipment, Services",https://fortune.com/ranking/fortune500/2025/
+156,156,Southwest Airlines,southwest-airlines,27483.0,https://fortune.com/company/southwest-airlines/,Dallas,Texas,Airlines,https://fortune.com/ranking/fortune500/2025/
+157,157,AIG,aig,27251.0,https://fortune.com/company/aig/,New York,New York,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+158,158,Applied Materials,applied-materials,27176.0,https://fortune.com/company/applied-materials/,Santa Clara,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+159,159,Occidental Petroleum,occidental-petroleum,26880.0,https://fortune.com/company/occidental-petroleum/,Houston,Texas,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+160,160,AutoNation,auto-nation,26765.4,https://fortune.com/company/auto-nation/,Fort Lauderdale,Florida,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+161,161,Southern,southern,26724.0,https://fortune.com/company/southern/,Atlanta,Georgia,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+162,162,Hartford Insurance Group,hartford-financial-services,26535.0,https://fortune.com/company/hartford-financial-services/,Hartford,Connecticut,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+163,163,Apollo Global Management,apollo-global-management,26262.0,https://fortune.com/company/apollo-global-management/,New York,New York,Securities,https://fortune.com/ranking/fortune500/2025/
+164,164,Charles Schwab,charles-schwab,25999.0,https://fortune.com/company/charles-schwab/,Westlake,Texas,Securities,https://fortune.com/ranking/fortune500/2025/
+165,165,McDonald's,mcdonalds,25920.0,https://fortune.com/company/mcdonalds/,Chicago,Illinois,Food Services,https://fortune.com/ranking/fortune500/2025/
+166,166,Kraft Heinz,kraft-heinz,25846.0,https://fortune.com/company/kraft-heinz/,Chicago,Illinois,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+167,167,Advanced Micro Devices,advanced-micro-devices,25785.0,https://fortune.com/company/advanced-micro-devices/,Santa Clara,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+168,168,Truist Financial,bbt-corp,25612.0,https://fortune.com/company/bbt-corp/,Charlotte,North Carolina,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+169,169,Freeport-McMoRan,freeport-mcmoran,25455.0,https://fortune.com/company/freeport-mcmoran/,Phoenix,Arizona,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+170,170,Micron Technology,micron-technology,25111.0,https://fortune.com/company/micron-technology/,Boise,Idaho,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+171,171,Marriott International,marriott-international,25100.0,https://fortune.com/company/marriott-international/,Bethesda,Maryland,"Hotels, Casinos, Resorts",https://fortune.com/ranking/fortune500/2025/
+172,172,Carrier Global,carrier-global,24809.0,https://fortune.com/company/carrier-global/,Palm Beach Gardens,Florida,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+173,173,NextEra Energy,nextera-energy,24753.0,https://fortune.com/company/nextera-energy/,Juno Beach,Florida,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+174,174,3M,3m,24575.0,https://fortune.com/company/3m/,St. Paul,Minnesota,Chemicals,https://fortune.com/ranking/fortune500/2025/
+175,175,Marsh & McLennan,marsh-mclennan,24458.0,https://fortune.com/company/marsh-mclennan/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+176,176,PG&E,pge-corp,24419.0,https://fortune.com/company/pge-corp/,Oakland,California,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+177,177,Union Pacific,union-pacific,24250.0,https://fortune.com/company/union-pacific/,Omaha,Nebraska,Railroads,https://fortune.com/ranking/fortune500/2025/
+178,178,Synchrony,synchrony-financial,24166.0,https://fortune.com/company/synchrony-financial/,Stamford,Connecticut,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+179,179,Block,square,24121.1,https://fortune.com/company/square/,Oakland,California,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+180,180,Danaher,danaher,23875.0,https://fortune.com/company/danaher/,Washington,District Of Columbia,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+181,181,Avnet,avnet,23757.1,https://fortune.com/company/avnet/,Phoenix,Arizona,Wholesalers: Electronics and Office Equipment,https://fortune.com/ranking/fortune500/2025/
+182,182,Booking Holdings,booking-holdings,23739.0,https://fortune.com/company/booking-holdings/,Norwalk,Connecticut,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+183,183,EOG Resources,eog-resources,23698.0,https://fortune.com/company/eog-resources/,Houston,Texas,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+184,184,Quanta Services,quanta-services,23672.8,https://fortune.com/company/quanta-services/,Houston,Texas,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+185,185,Discover,discover-financial-services,23634.0,https://fortune.com/company/discover-financial-services/,Riverwoods,Illinois,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+186,186,Constellation Energy,constellation-energy,23568.0,https://fortune.com/company/constellation-energy/,Baltimore,Maryland,Energy,https://fortune.com/ranking/fortune500/2025/
+187,187,Genuine Parts,genuine-parts,23486.6,https://fortune.com/company/genuine-parts/,Atlanta,Georgia,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+188,188,Jones Lang LaSalle,jones-lang-lasalle,23432.9,https://fortune.com/company/jones-lang-lasalle/,Chicago,Illinois,Real estate,https://fortune.com/ranking/fortune500/2025/
+189,189,Lear,lear,23306.0,https://fortune.com/company/lear/,Southfield,Michigan,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+190,190,Live Nation Entertainment,live-nation-entertainment,23155.6,https://fortune.com/company/live-nation-entertainment/,Beverly Hills,California,Entertainment,https://fortune.com/ranking/fortune500/2025/
+191,191,Sherwin-Williams,sherwin-williams,23098.5,https://fortune.com/company/sherwin-williams/,Cleveland,Ohio,Chemicals,https://fortune.com/ranking/fortune500/2025/
+192,192,Exelon,exelon,23028.0,https://fortune.com/company/exelon/,Chicago,Illinois,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+193,193,Macy's,macys,23006.0,https://fortune.com/company/macys/,New York,New York,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+194,194,Halliburton,halliburton,22944.0,https://fortune.com/company/halliburton/,Houston,Texas,"Oil and Gas Equipment, Services",https://fortune.com/ranking/fortune500/2025/
+195,195,Stryker,stryker,22595.0,https://fortune.com/company/stryker/,Portage,Michigan,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+196,196,Reinsurance Group of America,reinsurance-group-of-america,22107.0,https://fortune.com/company/reinsurance-group-of-america/,Chesterfield,Missouri,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+197,197,Waste Management,waste-management,22063.0,https://fortune.com/company/waste-management/,Houston,Texas,Waste Management,https://fortune.com/ranking/fortune500/2025/
+198,198,State Street,state-street-corp,22054.0,https://fortune.com/company/state-street-corp/,Boston,Massachusetts,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+199,199,WESCO International,wesco-international,21818.8,https://fortune.com/company/wesco-international/,Pittsburgh,Pennsylvania,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+200,200,Oneok,oneok,21698.0,https://fortune.com/company/oneok/,Tulsa,Oklahoma,Pipelines,https://fortune.com/ranking/fortune500/2025/
+201,201,Adobe,adobe-systems,21505.0,https://fortune.com/company/adobe-systems/,San Jose,California,Computer Software,https://fortune.com/ranking/fortune500/2025/
+202,202,American Family Insurance Group,american-family-insurance-group,21339.4,https://fortune.com/company/american-family-insurance-group/,Madison,Wisconsin,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+203,203,L3Harris Technologies,harris,21325.0,https://fortune.com/company/harris/,Melbourne,Florida,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+204,204,Ross Stores,ross-stores,21129.2,https://fortune.com/company/ross-stores/,Dublin,California,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+205,205,CDW,cdw,20998.7,https://fortune.com/company/cdw/,Vernon Hills,Illinois,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+206,206,Tenet Healthcare,tenet-healthcare,20665.0,https://fortune.com/company/tenet-healthcare/,Dallas,Texas,Health Care: Medical Facilities,https://fortune.com/ranking/fortune500/2025/
+207,207,BJ's Wholesale Club,bjs-wholesale-club,20501.8,https://fortune.com/company/bjs-wholesale-club/,Marlborough,Massachusetts,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+208,208,Fiserv,fiserv,20456.0,https://fortune.com/company/fiserv/,Milwaukee,Wisconsin,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+209,209,Altria Group,altria-group,20444.0,https://fortune.com/company/altria-group/,Richmond,Virginia,Tobacco,https://fortune.com/ranking/fortune500/2025/
+210,210,BlackRock,blackrock,20407.0,https://fortune.com/company/blackrock/,New York,New York,Securities,https://fortune.com/ranking/fortune500/2025/
+211,211,Becton Dickinson,becton-dickinson,20178.0,https://fortune.com/company/becton-dickinson/,Franklin Lakes,New Jersey,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+212,212,Colgate-Palmolive,colgate-palmolive,20101.0,https://fortune.com/company/colgate-palmolive/,New York,New York,Household and Personal Products,https://fortune.com/ranking/fortune500/2025/
+213,213,Kimberly-Clark,kimberly-clark,20058.0,https://fortune.com/company/kimberly-clark/,Irving,Texas,Household and Personal Products,https://fortune.com/ranking/fortune500/2025/
+214,214,Group 1 Automotive,group-1-automotive,19934.3,https://fortune.com/company/group-1-automotive/,Houston,Texas,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+215,215,Parker-Hannifin,parker-hannifin,19929.6,https://fortune.com/company/parker-hannifin/,Cleveland,Ohio,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+216,216,General Mills,general-mills,19857.2,https://fortune.com/company/general-mills/,Minneapolis,Minnesota,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+217,217,Cognizant Technology Solutions,cognizant-technology-solutions,19736.0,https://fortune.com/company/cognizant-technology-solutions/,Teaneck,New Jersey,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+218,218,American Electric Power,american-electric-power,19721.3,https://fortune.com/company/american-electric-power/,Columbus,Ohio,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+219,219,GE HealthCare,ge-healthcare-technologies,19672.0,https://fortune.com/company/ge-healthcare-technologies/,Chicago,Illinois,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+220,220,Automatic Data Processing,adp,19202.6,https://fortune.com/company/adp/,Roseland,New Jersey,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+221,221,Cleveland-Cliffs,cleveland-cliffs,19185.0,https://fortune.com/company/cleveland-cliffs/,Cleveland,Ohio,Metals,https://fortune.com/ranking/fortune500/2025/
+222,222,Aflac,aflac,18927.0,https://fortune.com/company/aflac/,Columbus,Georgia,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+223,223,Goodyear Tire & Rubber,goodyear-tire-rubber,18878.0,https://fortune.com/company/goodyear-tire-rubber/,Akron,Ohio,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+224,224,Corebridge Financial,corebridge-financial,18781.0,https://fortune.com/company/corebridge-financial/,Houston,Texas,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+225,225,Newmont,newmont-mining,18682.0,https://fortune.com/company/newmont-mining/,Denver,Colorado,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+226,226,International Paper,international-paper,18619.0,https://fortune.com/company/international-paper/,Memphis,Tennessee,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+227,227,AutoZone,autozone,18490.3,https://fortune.com/company/autozone/,Memphis,Tennessee,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+228,228,Lincoln National,lincoln-national,18442.0,https://fortune.com/company/lincoln-national/,Radnor,Pennsylvania,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+229,229,PulteGroup,pultegroup,17947.0,https://fortune.com/company/pultegroup/,Atlanta,Georgia,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+230,230,Ameriprise Financial,ameriprise-financial,17926.0,https://fortune.com/company/ameriprise-financial/,Minneapolis,Minnesota,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+231,231,Murphy USA,murphy-usa,17909.4,https://fortune.com/company/murphy-usa/,El Dorado,Arkansas,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+232,232,ManpowerGroup,manpowergroup,17853.9,https://fortune.com/company/manpowergroup/,Milwaukee,Wisconsin,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+233,233,C.H. Robinson Worldwide,c-h-robinson-worldwide,17725.0,https://fortune.com/company/c-h-robinson-worldwide/,Eden Prairie,Minnesota,Transportation and Logistics,https://fortune.com/ranking/fortune500/2025/
+234,234,PPG Industries,ppg-industries,17723.0,https://fortune.com/company/ppg-industries/,Pittsburgh,Pennsylvania,Chemicals,https://fortune.com/ranking/fortune500/2025/
+235,235,Edison International,edison-international,17599.0,https://fortune.com/company/edison-international/,Rosemead,California,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+236,236,Steel Dynamics,steel-dynamics,17540.4,https://fortune.com/company/steel-dynamics/,Fort Wayne,Indiana,Metals,https://fortune.com/ranking/fortune500/2025/
+237,237,Loews,loews,17510.0,https://fortune.com/company/loews/,New York,New York,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+238,238,Emerson Electric,emerson-electric,17492.0,https://fortune.com/company/emerson-electric/,St. Louis,Missouri,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+239,239,Aramark,aramark,17400.7,https://fortune.com/company/aramark/,Philadelphia,Pennsylvania,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+240,240,MGM Resorts International,mgm-resorts-international,17240.5,https://fortune.com/company/mgm-resorts-international/,Las Vegas,Nevada,"Hotels, Casinos, Resorts",https://fortune.com/ranking/fortune500/2025/
+241,241,Vistra,vistra-energy,17224.0,https://fortune.com/company/vistra-energy/,Irving,Texas,Energy,https://fortune.com/ranking/fortune500/2025/
+242,242,Asbury Automotive Group,asbury-automotive-group,17188.6,https://fortune.com/company/asbury-automotive-group/,Duluth,Georgia,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+243,243,W.W. Grainger,w-w-grainger,17168.0,https://fortune.com/company/w-w-grainger/,Lake Forest,Illinois,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+244,244,Global Partners,global-partners,17163.6,https://fortune.com/company/global-partners/,Waltham,Massachusetts,Energy,https://fortune.com/ranking/fortune500/2025/
+245,245,Jacobs Solutions,jacobs-engineering-group,16973.9,https://fortune.com/company/jacobs-engineering-group/,Dallas,Texas,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+246,246,Corteva,corteva,16908.0,https://fortune.com/company/corteva/,Indianapolis,Indiana,Food Production,https://fortune.com/ranking/fortune500/2025/
+247,247,Peter Kiewit Sons',peter-kiewit-sons,16838.0,https://fortune.com/company/peter-kiewit-sons/,Omaha,Nebraska,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+248,248,Boston Scientific,boston-scientific,16747.0,https://fortune.com/company/boston-scientific/,Marlborough,Massachusetts,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+249,249,O'Reilly Automotive,oreilly-automotive,16708.5,https://fortune.com/company/oreilly-automotive/,Springfield,Missouri,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+250,250,Leidos Holdings,leidos-holdings,16662.0,https://fortune.com/company/leidos-holdings/,Reston,Virginia,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+251,251,Markel Group,markel,16620.8,https://fortune.com/company/markel/,Glen Allen,Virginia,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+252,252,Whirlpool,whirlpool,16607.0,https://fortune.com/company/whirlpool/,Benton Harbor,Michigan,"Electronics, Electrical Equip.",https://fortune.com/ranking/fortune500/2025/
+253,253,Guardian Life Ins. Co. of America,guardian-life-ins-co-of-america,16471.0,https://fortune.com/company/guardian-life-ins-co-of-america/,New York,New York,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+254,254,Builders FirstSource,builders-firstsource,16400.5,https://fortune.com/company/builders-firstsource/,Irving,Texas,"Building Materials, Glass",https://fortune.com/ranking/fortune500/2025/
+255,255,Ally Financial,ally-financial,16389.0,https://fortune.com/company/ally-financial/,Detroit,Michigan,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+256,256,Targa Resources,targa-resources,16381.5,https://fortune.com/company/targa-resources/,Houston,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+257,257,Fluor,fluor,16315.0,https://fortune.com/company/fluor/,Irving,Texas,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+258,258,Intuit,intuit,16285.0,https://fortune.com/company/intuit/,Mountain View,California,Computer Software,https://fortune.com/ranking/fortune500/2025/
+259,259,AECOM,aecom,16283.7,https://fortune.com/company/aecom/,Dallas,Texas,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+260,260,Jones Financial (Edward Jones),edward-jones,16257.0,https://fortune.com/company/edward-jones/,Des Peres,Missouri,Securities,https://fortune.com/ranking/fortune500/2025/
+261,261,Kohl's,kohls,16221.0,https://fortune.com/company/kohls/,Menomonee Falls,Wisconsin,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+262,262,Land O'Lakes,land-olakes,16206.8,https://fortune.com/company/land-olakes/,Arden Hills,Minnesota,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+263,263,Principal Financial,principal-financial,16127.7,https://fortune.com/company/principal-financial/,Des Moines,Iowa,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+264,264,Dominion Energy,dominion-resources,16070.0,https://fortune.com/company/dominion-resources/,Richmond,Virginia,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+265,265,Kyndryl Holdings,kyndryl-holdings,16052.0,https://fortune.com/company/kyndryl-holdings/,New York,New York,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+266,266,Republic Services,republic-services,16032.0,https://fortune.com/company/republic-services/,Phoenix,Arizona,Waste Management,https://fortune.com/ranking/fortune500/2025/
+267,267,Devon Energy,devon-energy,15940.0,https://fortune.com/company/devon-energy/,Oklahoma City,Oklahoma,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+268,268,Illinois Tool Works,illinois-tool-works,15898.0,https://fortune.com/company/illinois-tool-works/,Glenview,Illinois,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+269,269,Northern Trust,northern-trust,15875.6,https://fortune.com/company/northern-trust/,Chicago,Illinois,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+270,270,Auto-Owners Insurance,auto-owners-insurance,15839.0,https://fortune.com/company/auto-owners-insurance/,Lansing,Michigan,Insurance: Property and Casualty (Mutual),https://fortune.com/ranking/fortune500/2025/
+271,271,Universal Health Services,universal-health-services,15827.9,https://fortune.com/company/universal-health-services/,King of Prussia,Pennsylvania,Health Care: Medical Facilities,https://fortune.com/ranking/fortune500/2025/
+272,272,Pacific Life,pacific-life,15827.0,https://fortune.com/company/pacific-life/,Newport Beach,California,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+273,273,EchoStar,echostar,15825.5,https://fortune.com/company/echostar/,Englewood,Colorado,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+274,274,Ecolab,ecolab,15741.4,https://fortune.com/company/ecolab/,St. Paul,Minnesota,Chemicals,https://fortune.com/ranking/fortune500/2025/
+275,275,Cheniere Energy,cheniere-energy,15703.0,https://fortune.com/company/cheniere-energy/,Houston,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+276,276,Omnicom Group,omnicom-group,15689.1,https://fortune.com/company/omnicom-group/,New York,New York,"Advertising, marketing",https://fortune.com/ranking/fortune500/2025/
+277,277,Texas Instruments,texas-instruments,15641.0,https://fortune.com/company/texas-instruments/,Dallas,Texas,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+278,278,United States Steel,united-states-steel,15640.0,https://fortune.com/company/united-states-steel/,Pittsburgh,Pennsylvania,Metals,https://fortune.com/ranking/fortune500/2025/
+279,279,Estée Lauder,estee-lauder,15608.0,https://fortune.com/company/estee-lauder/,New York,New York,Household and Personal Products,https://fortune.com/ranking/fortune500/2025/
+280,280,Farmers Insurance Exchange,farmers-insurance-exchange,15456.4,https://fortune.com/company/farmers-insurance-exchange/,Woodland Hills,California,Insurance: Property and Casualty (Mutual),https://fortune.com/ranking/fortune500/2025/
+281,281,Kenvue,kenvue,15455.0,https://fortune.com/company/kenvue/,Summit,New Jersey,Household and Personal Products,https://fortune.com/ranking/fortune500/2025/
+282,282,IQVIA Holdings,quintiles-ims-holdings,15405.0,https://fortune.com/company/quintiles-ims-holdings/,Durham,North Carolina,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+283,283,Stanley Black & Decker,stanley-black-decker,15365.7,https://fortune.com/company/stanley-black-decker/,New Britain,Connecticut,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+284,284,Keurig Dr Pepper,dr-pepper-snapple-group,15351.0,https://fortune.com/company/dr-pepper-snapple-group/,Burlington,Massachusetts,Beverages,https://fortune.com/ranking/fortune500/2025/
+285,285,United Rentals,united-rentals,15345.0,https://fortune.com/company/united-rentals/,Stamford,Connecticut,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+286,286,Consolidated Edison,consolidated-edison,15256.0,https://fortune.com/company/consolidated-edison/,New York,New York,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+287,287,Amphenol,amphenol,15222.7,https://fortune.com/company/amphenol/,Wallingford,Connecticut,Network and Other Communications Equipment,https://fortune.com/ranking/fortune500/2025/
+288,288,Baxter International,baxter-international,15149.0,https://fortune.com/company/baxter-international/,Deerfield,Illinois,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+289,289,Kinder Morgan,kinder-morgan,15100.0,https://fortune.com/company/kinder-morgan/,Houston,Texas,Pipelines,https://fortune.com/ranking/fortune500/2025/
+290,290,Gap,gap,15086.0,https://fortune.com/company/gap/,San Francisco,California,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+291,291,Nordstrom,nordstrom,15016.0,https://fortune.com/company/nordstrom/,Seattle,Washington,General Merchandisers,https://fortune.com/ranking/fortune500/2025/
+292,292,Super Micro Computer,super-micro-computer,14989.3,https://fortune.com/company/super-micro-computer/,San Jose,California,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+293,293,First Citizens BancShares,first-citizens-bancshares,14968.0,https://fortune.com/company/first-citizens-bancshares/,Raleigh,North Carolina,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+294,294,Raymond James Financial,raymond-james-financial,14923.0,https://fortune.com/company/raymond-james-financial/,St. Petersburg,Florida,Securities,https://fortune.com/ranking/fortune500/2025/
+295,295,Lam Research,lam-research,14905.4,https://fortune.com/company/lam-research/,Fremont,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+296,296,Tractor Supply,tractor-supply,14883.2,https://fortune.com/company/tractor-supply/,Brentwood,Tennessee,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+297,297,Casey's General Stores,caseys-general-stores,14862.9,https://fortune.com/company/caseys-general-stores/,Ankeny,Iowa,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+298,298,Viatris,viatris,14739.3,https://fortune.com/company/viatris/,Canonsburg,Pennsylvania,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+299,299,Mutual of Omaha,mutual-of-omaha-insurance,14622.2,https://fortune.com/company/mutual-of-omaha-insurance/,Omaha,Nebraska,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+300,300,Emcor Group,emcor-group,14566.1,https://fortune.com/company/emcor-group/,Norwalk,Connecticut,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+301,301,CSX,csx,14540.0,https://fortune.com/company/csx/,Jacksonville,Florida,Railroads,https://fortune.com/ranking/fortune500/2025/
+302,302,LKQ,lkq,14355.0,https://fortune.com/company/lkq/,Antioch,Tennessee,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+303,303,Otis Worldwide,otis-worldwide,14261.0,https://fortune.com/company/otis-worldwide/,Farmington,Connecticut,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+304,304,Sonic Automotive,sonic-automotive,14224.3,https://fortune.com/company/sonic-automotive/,Charlotte,North Carolina,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+305,305,S&P Global,sp-global,14208.0,https://fortune.com/company/sp-global/,New York,New York,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+306,306,Regeneron Pharmaceuticals,regeneron-pharmaceuticals,14202.0,https://fortune.com/company/regeneron-pharmaceuticals/,Tarrytown,New York,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+307,307,BorgWarner,borgwarner,14086.0,https://fortune.com/company/borgwarner/,Auburn Hills,Michigan,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+308,308,Fox,fox,13980.0,https://fortune.com/company/fox/,New York,New York,Entertainment,https://fortune.com/ranking/fortune500/2025/
+309,309,Reliance,reliance-steel-aluminum,13835.0,https://fortune.com/company/reliance-steel-aluminum/,Scottsdale,Arizona,Metals,https://fortune.com/ranking/fortune500/2025/
+310,310,Western & Southern Financial Group,western-southern-financial,13769.2,https://fortune.com/company/western-southern-financial/,Cincinnati,Ohio,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+311,311,Textron,textron,13702.0,https://fortune.com/company/textron/,Providence,Rhode Island,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+312,312,Expedia Group,expedia-group,13691.0,https://fortune.com/company/expedia-group/,Seattle,Washington,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+313,313,Fidelity National Financial,fidelity-national-financial,13681.0,https://fortune.com/company/fidelity-national-financial/,Jacksonville,Florida,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+314,314,Carvana,carvana,13673.0,https://fortune.com/company/carvana/,Tempe,Arizona,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+315,315,DXC Technology,dxc-technology,13667.0,https://fortune.com/company/dxc-technology/,Ashburn,Virginia,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+316,316,W.R. Berkley,w-r-berkley,13638.8,https://fortune.com/company/w-r-berkley/,Greenwich,Connecticut,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+317,317,M&T Bank,mt-bank-corp,13453.0,https://fortune.com/company/mt-bank-corp/,Buffalo,New York,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+318,318,Dick's Sporting Goods,dicks-sporting-goods,13442.8,https://fortune.com/company/dicks-sporting-goods/,Coraopolis,Pennsylvania,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+319,319,Xcel Energy,xcel-energy,13441.0,https://fortune.com/company/xcel-energy/,Minneapolis,Minnesota,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+320,320,Fifth Third Bancorp,fifth-third-bancorp,13275.0,https://fortune.com/company/fifth-third-bancorp/,Cincinnati,Ohio,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+321,321,Blackstone,blackstone-group,13230.0,https://fortune.com/company/blackstone-group/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+322,322,Sempra,sempra-energy,13185.0,https://fortune.com/company/sempra-energy/,San Diego,California,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+323,323,Erie Insurance Group,erie-insurance-group,13176.9,https://fortune.com/company/erie-insurance-group/,Erie,Pennsylvania,Insurance: Property and Casualty (Mutual),https://fortune.com/ranking/fortune500/2025/
+324,324,Corning,corning,13118.0,https://fortune.com/company/corning/,Corning,New York,"Electronics, Electrical Equip.",https://fortune.com/ranking/fortune500/2025/
+325,325,Lumen Technologies,centurylink,13108.0,https://fortune.com/company/centurylink/,Monroe,Louisiana,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+326,326,FirstEnergy,firstenergy,13043.0,https://fortune.com/company/firstenergy/,Akron,Ohio,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+327,327,Hess,hess,13018.0,https://fortune.com/company/hess/,New York,New York,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+328,328,Labcorp Holdings,laboratory-corp-of-america,13008.9,https://fortune.com/company/laboratory-corp-of-america/,Burlington,North Carolina,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+329,329,Western Digital,western-digital,13003.0,https://fortune.com/company/western-digital/,San Jose,California,"Computers, Office Equipment",https://fortune.com/ranking/fortune500/2025/
+330,330,Unum Group,unum-group,12887.3,https://fortune.com/company/unum-group/,Chattanooga,Tennessee,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+331,331,DaVita,davita,12815.6,https://fortune.com/company/davita/,Denver,Colorado,Health Care: Medical Facilities,https://fortune.com/ranking/fortune500/2025/
+332,332,Kellanova,kellogg,12749.0,https://fortune.com/company/kellogg/,Chicago,Illinois,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+333,333,Henry Schein,henry-schein,12673.0,https://fortune.com/company/henry-schein/,Melville,New York,Wholesalers: Health Care,https://fortune.com/ranking/fortune500/2025/
+334,334,Ryder System,ryder-system,12636.0,https://fortune.com/company/ryder-system/,Coral Gables,Florida,Transportation and Logistics,https://fortune.com/ranking/fortune500/2025/
+335,335,Community Health Systems,community-health-systems,12634.0,https://fortune.com/company/community-health-systems/,Franklin,Tennessee,Health Care: Medical Facilities,https://fortune.com/ranking/fortune500/2025/
+336,336,Delek US Holdings,delek-us-holdings,12464.2,https://fortune.com/company/delek-us-holdings/,Brentwood,Tennessee,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+337,337,DTE Energy,dte-energy,12457.0,https://fortune.com/company/dte-energy/,Detroit,Michigan,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+338,338,Equitable Holdings,equitable-holdings,12437.0,https://fortune.com/company/equitable-holdings/,New York,New York,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+339,339,DuPont,dow-chemical,12386.0,https://fortune.com/company/dow-chemical/,Wilmington,Delaware,Chemicals,https://fortune.com/ranking/fortune500/2025/
+340,340,LPL Financial Holdings,lpl-financial-holdings,12385.1,https://fortune.com/company/lpl-financial-holdings/,San Diego,California,Securities,https://fortune.com/ranking/fortune500/2025/
+341,341,Citizens Financial Group,citizens-financial-group,12362.0,https://fortune.com/company/citizens-financial-group/,Providence,Rhode Island,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+342,342,MasTec,mastec,12303.5,https://fortune.com/company/mastec/,Coral Gables,Florida,Engineering & Construction,https://fortune.com/ranking/fortune500/2025/
+343,343,AES,aes,12278.0,https://fortune.com/company/aes/,Arlington,Virginia,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+344,344,Berry Global Group,berry-global-group,12258.0,https://fortune.com/company/berry-global-group/,Evansville,Indiana,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+345,345,Westlake,westlake-chemical,12142.0,https://fortune.com/company/westlake-chemical/,Houston,Texas,Chemicals,https://fortune.com/ranking/fortune500/2025/
+346,346,Norfolk Southern,norfolk-southern,12123.0,https://fortune.com/company/norfolk-southern/,Atlanta,Georgia,Railroads,https://fortune.com/ranking/fortune500/2025/
+347,347,Air Products & Chemicals,air-products-chemicals,12100.6,https://fortune.com/company/air-products-chemicals/,Allentown,Pennsylvania,Chemicals,https://fortune.com/ranking/fortune500/2025/
+348,348,J.B. Hunt Transport Services,j-b-hunt-transport-services,12087.2,https://fortune.com/company/j-b-hunt-transport-services/,Lowell,Arkansas,"Trucking, Truck Leasing",https://fortune.com/ranking/fortune500/2025/
+349,349,Ball,ball,12056.0,https://fortune.com/company/ball/,Westminster,Colorado,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+350,350,Conagra Brands,conagra-brands,12050.9,https://fortune.com/company/conagra-brands/,Chicago,Illinois,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+351,351,Huntington Bancshares,huntington-bancshares,11961.0,https://fortune.com/company/huntington-bancshares/,Columbus,Ohio,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+352,352,Hormel Foods,hormel-foods,11920.8,https://fortune.com/company/hormel-foods/,Austin,Minnesota,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+353,353,Eversource Energy,eversource-energy,11900.8,https://fortune.com/company/eversource-energy/,Springfield,Massachusetts,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+354,354,Alcoa,alcoa,11895.0,https://fortune.com/company/alcoa/,Pittsburgh,Pennsylvania,Metals,https://fortune.com/ranking/fortune500/2025/
+355,355,Entergy,entergy,11879.7,https://fortune.com/company/entergy/,New Orleans,Louisiana,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+356,356,Assurant,assurant,11877.5,https://fortune.com/company/assurant/,Atlanta,Georgia,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+357,357,Chewy,chewy,11861.3,https://fortune.com/company/chewy/,Plantation,Florida,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+358,358,Wayfair,wayfair,11851.0,https://fortune.com/company/wayfair/,Boston,Massachusetts,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+359,359,Crown Holdings,crown-holdings,11801.0,https://fortune.com/company/crown-holdings/,Tampa,Florida,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+360,360,Avis Budget Group,avis-budget-group,11789.0,https://fortune.com/company/avis-budget-group/,Parsippany,New Jersey,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+361,361,Intercontinental Exchange,intercontinental-exchange,11761.0,https://fortune.com/company/intercontinental-exchange/,Atlanta,Georgia,Securities,https://fortune.com/ranking/fortune500/2025/
+362,362,Alaska Air Group,alaska-air-group,11735.0,https://fortune.com/company/alaska-air-group/,Seattle,Washington,Airlines,https://fortune.com/ranking/fortune500/2025/
+363,363,GXO Logistics,gxo-logistics,11709.0,https://fortune.com/company/gxo-logistics/,Greenwich,Connecticut,Transportation and Logistics,https://fortune.com/ranking/fortune500/2025/
+364,364,AGCO,agco,11661.9,https://fortune.com/company/agco/,Duluth,Georgia,Construction and Farm Machinery,https://fortune.com/ranking/fortune500/2025/
+365,365,Graybar Electric,graybar-electric,11645.5,https://fortune.com/company/graybar-electric/,St. Louis,Missouri,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+366,366,Molson Coors Beverage,molson-coors-brewing,11627.0,https://fortune.com/company/molson-coors-brewing/,Chicago,Illinois,Beverages,https://fortune.com/ranking/fortune500/2025/
+367,367,Arthur J. Gallagher,arthur-j-gallagher,11554.9,https://fortune.com/company/arthur-j-gallagher/,Rolling Meadows,Illinois,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+368,368,Huntington Ingalls Industries,huntington-ingalls-industries,11535.0,https://fortune.com/company/huntington-ingalls-industries/,Newport News,Virginia,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+369,369,International Flavors & Fragrances,international-flavors-fragrances,11484.0,https://fortune.com/company/international-flavors-fragrances/,New York,New York,Chemicals,https://fortune.com/ranking/fortune500/2025/
+370,370,Darden Restaurants,darden-restaurants,11390.0,https://fortune.com/company/darden-restaurants/,Orlando,Florida,Food Services,https://fortune.com/ranking/fortune500/2025/
+371,371,Cincinnati Financial,cincinnati-financial,11337.5,https://fortune.com/company/cincinnati-financial/,Fairfield,Ohio,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+372,372,Chipotle Mexican Grill,chipotle-mexican-grill,11313.9,https://fortune.com/company/chipotle-mexican-grill/,Newport Beach,California,Food Services,https://fortune.com/ranking/fortune500/2025/
+373,373,Yum China Holdings,yum-china-holdings,11303.0,https://fortune.com/company/yum-china-holdings/,Plano,Texas,Food Services,https://fortune.com/ranking/fortune500/2025/
+374,374,Las Vegas Sands,las-vegas-sands,11298.0,https://fortune.com/company/las-vegas-sands/,Las Vegas,Nevada,"Hotels, Casinos, Resorts",https://fortune.com/ranking/fortune500/2025/
+375,375,Ulta Beauty,ulta-beauty,11295.7,https://fortune.com/company/ulta-beauty/,Bolingbrook,Illinois,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+376,376,Caesars Entertainment,eldorado-resorts,11270.0,https://fortune.com/company/eldorado-resorts/,Reno,Nevada,"Hotels, Casinos, Resorts",https://fortune.com/ranking/fortune500/2025/
+377,377,BrightSpring Health Services,brightspring-health-services,11266.5,https://fortune.com/company/brightspring-health-services/,Louisville,Kentucky,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+378,378,Andersons,andersons,11257.5,https://fortune.com/company/andersons/,Maumee,Ohio,Food Production,https://fortune.com/ranking/fortune500/2025/
+379,379,Hershey,hershey,11202.3,https://fortune.com/company/hershey/,Hershey,Pennsylvania,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+380,380,Hilton Worldwide Holdings,hilton-worldwide-holdings,11174.0,https://fortune.com/company/hilton-worldwide-holdings/,McLean,Virginia,"Hotels, Casinos, Resorts",https://fortune.com/ranking/fortune500/2025/
+381,381,Mosaic,mosaic,11122.8,https://fortune.com/company/mosaic/,Tampa,Florida,Chemicals,https://fortune.com/ranking/fortune500/2025/
+382,382,Airbnb,airbnb,11102.0,https://fortune.com/company/airbnb/,San Francisco,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+383,383,Diamondback Energy,diamondback-energy,11066.0,https://fortune.com/company/diamondback-energy/,Midland,Texas,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+384,384,American Tower,american-tower,11038.4,https://fortune.com/company/american-tower/,Boston,Massachusetts,Real estate,https://fortune.com/ranking/fortune500/2025/
+385,385,Vertex Pharmaceuticals,vertex-pharmaceuticals,11020.1,https://fortune.com/company/vertex-pharmaceuticals/,Boston,Massachusetts,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+386,386,ServiceNow,servicenow,10984.0,https://fortune.com/company/servicenow/,Santa Clara,California,Computer Software,https://fortune.com/ranking/fortune500/2025/
+387,387,Owens Corning,owens-corning,10975.0,https://fortune.com/company/owens-corning/,Toledo,Ohio,"Building Materials, Glass",https://fortune.com/ranking/fortune500/2025/
+388,388,Thrivent Financial,thrivent-financial-for-lutherans,10918.3,https://fortune.com/company/thrivent-financial-for-lutherans/,Minneapolis,Minnesota,"Insurance: Life, Health (Mutual)",https://fortune.com/ranking/fortune500/2025/
+389,389,Advance Auto Parts,advance-auto-parts,10890.9,https://fortune.com/company/advance-auto-parts/,Raleigh,North Carolina,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+390,390,Toll Brothers,toll-brothers,10846.7,https://fortune.com/company/toll-brothers/,Fort Washington,Pennsylvania,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+391,391,Mohawk Industries,mohawk-industries,10836.9,https://fortune.com/company/mohawk-industries/,Calhoun,Georgia,"Home Equipment, Furnishings",https://fortune.com/ranking/fortune500/2025/
+392,392,Motorola Solutions,motorola-solutions,10817.0,https://fortune.com/company/motorola-solutions/,Chicago,Illinois,Network and Other Communications Equipment,https://fortune.com/ranking/fortune500/2025/
+393,393,Oshkosh,oshkosh,10730.2,https://fortune.com/company/oshkosh/,Oshkosh,Wisconsin,Construction and Farm Machinery,https://fortune.com/ranking/fortune500/2025/
+394,394,DoorDash,doordash,10722.0,https://fortune.com/company/doordash/,San Francisco,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+395,395,Accendra Health,owens-minor,10700.9,https://fortune.com/company/owens-minor/,Glen Allen,Virginia,Wholesalers: Health Care,https://fortune.com/ranking/fortune500/2025/
+396,396,NVR,nvr,10692.9,https://fortune.com/company/nvr/,Reston,Virginia,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+397,397,Interpublic Group,interpublic-group,10691.7,https://fortune.com/company/interpublic-group/,New York,New York,"Advertising, marketing",https://fortune.com/ranking/fortune500/2025/
+398,398,Booz Allen Hamilton Holding,booz-allen-hamilton,10661.9,https://fortune.com/company/booz-allen-hamilton/,McLean,Virginia,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+399,399,Burlington Stores,burlington-stores,10634.8,https://fortune.com/company/burlington-stores/,Burlington,New Jersey,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+400,400,Expeditors Intl. of Washington,expeditors-intl-of-washington,10600.5,https://fortune.com/company/expeditors-intl-of-washington/,Bellevue,Washington,Transportation and Logistics,https://fortune.com/ranking/fortune500/2025/
+401,401,Lululemon athletica,lululemon-athletica,10588.1,https://fortune.com/company/lululemon-athletica/,Sumner,Washington,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+402,402,Fidelity National Information (FIS),fidelity-national-information-services,10540.0,https://fortune.com/company/fidelity-national-information-services/,Jacksonville,Florida,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+403,403,Jefferies Financial Group,leucadia-national,10515.1,https://fortune.com/company/leucadia-national/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+404,404,Williams,williams,10503.0,https://fortune.com/company/williams/,Tulsa,Oklahoma,Pipelines,https://fortune.com/ranking/fortune500/2025/
+405,405,VF,vf,10454.7,https://fortune.com/company/vf/,Denver,Colorado,Apparel,https://fortune.com/ranking/fortune500/2025/
+406,406,FM,fm-global,10413.6,https://fortune.com/company/fm-global/,Johnston,Rhode Island,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+407,407,Autoliv,autoliv,10390.0,https://fortune.com/company/autoliv/,Auburn Hills,Michigan,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+408,408,Westinghouse Air Brake,westinghouse-air-brake,10387.0,https://fortune.com/company/westinghouse-air-brake/,Pittsburgh,Pennsylvania,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+409,409,Public Service Enterprise Group,public-service-enterprise-group,10290.0,https://fortune.com/company/public-service-enterprise-group/,Newark,New Jersey,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+410,410,Dana,dana,10284.0,https://fortune.com/company/dana/,Maumee,Ohio,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+411,411,Ebay,ebay,10283.0,https://fortune.com/company/ebay/,San Jose,California,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+412,412,Celanese,celanese,10280.0,https://fortune.com/company/celanese/,Irving,Texas,Chemicals,https://fortune.com/ranking/fortune500/2025/
+413,413,Global Payments,global-payments,10105.9,https://fortune.com/company/global-payments/,Atlanta,Georgia,Financial Data Services,https://fortune.com/ranking/fortune500/2025/
+414,414,News Corp.,news-corp,10085.0,https://fortune.com/company/news-corp/,New York,New York,"Publishing, Printing",https://fortune.com/ranking/fortune500/2025/
+415,415,Thor Industries,thor-industries,10043.4,https://fortune.com/company/thor-industries/,Elkhart,Indiana,Motor Vehicles & Parts,https://fortune.com/ranking/fortune500/2025/
+416,416,QVC Group,qurate-retail,10037.0,https://fortune.com/company/qurate-retail/,Englewood,Colorado,Internet Services and Retailing,https://fortune.com/ranking/fortune500/2025/
+417,417,Icahn Enterprises,icahn-enterprises,10020.0,https://fortune.com/company/icahn-enterprises/,Sunny Isles Beach,Florida,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+418,418,Constellation Brands,constellation-brands,9961.8,https://fortune.com/company/constellation-brands/,Victor,New York,Beverages,https://fortune.com/ranking/fortune500/2025/
+419,419,Quest Diagnostics,quest-diagnostics,9872.0,https://fortune.com/company/quest-diagnostics/,Secaucus,New Jersey,Health Care: Pharmacy and Other Services,https://fortune.com/ranking/fortune500/2025/
+420,420,KLA,kla-tencor,9812.2,https://fortune.com/company/kla-tencor/,Milpitas,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+421,421,QXO Building Products,qxo-building-products,9763.2,https://fortune.com/company/qxo-building-products/,Herndon,Virginia,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+422,422,APA,apache,9737.0,https://fortune.com/company/apache/,Houston,Texas,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+423,423,Gold.com,a-mark-precious-metals,9699.0,https://fortune.com/company/a-mark-precious-metals/,El Segundo,California,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+424,424,Biogen,biogen,9675.9,https://fortune.com/company/biogen/,Cambridge,Massachusetts,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+425,425,Campbell's,campbell-soup,9636.0,https://fortune.com/company/campbell-soup/,Camden,New Jersey,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+426,426,Concentrix,concentrix,9618.9,https://fortune.com/company/concentrix/,Newark,California,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+427,427,Cintas,cintas,9596.6,https://fortune.com/company/cintas/,Cincinnati,Ohio,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+428,428,SpartanNash,spartannash,9549.3,https://fortune.com/company/spartannash/,Byron Center,Michigan,Wholesalers: Food and Grocery,https://fortune.com/ranking/fortune500/2025/
+429,429,Ace Hardware,ace-hardware-corporation,9491.4,https://fortune.com/company/ace-hardware-corporation/,Oak Brook,Illinois,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+430,430,Analog Devices,analog-devices,9427.2,https://fortune.com/company/analog-devices/,Wilmington,Massachusetts,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+431,431,Eastman Chemical,eastman-chemical,9382.0,https://fortune.com/company/eastman-chemical/,Kingsport,Tennessee,Chemicals,https://fortune.com/ranking/fortune500/2025/
+432,432,Interactive Brokers Group,interactive-brokers-group,9376.0,https://fortune.com/company/interactive-brokers-group/,Greenwich,Connecticut,Securities,https://fortune.com/ranking/fortune500/2025/
+433,433,Regions Financial,regions-financial,9373.0,https://fortune.com/company/regions-financial/,Birmingham,Alabama,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+434,434,JetBlue Airways,jetblue-airways,9279.0,https://fortune.com/company/jetblue-airways/,Long Island City,New York,Airlines,https://fortune.com/ranking/fortune500/2025/
+435,435,Zoetis,zoetis,9256.0,https://fortune.com/company/zoetis/,Parsippany,New Jersey,Pharmaceuticals,https://fortune.com/ranking/fortune500/2025/
+436,436,KeyCorp,keycorp,9236.0,https://fortune.com/company/keycorp/,Cleveland,Ohio,Commercial Banks,https://fortune.com/ranking/fortune500/2025/
+437,437,Oscar Health,oscar-health,9177.6,https://fortune.com/company/oscar-health/,New York,New York,Health Care: Insurance and Managed Care,https://fortune.com/ranking/fortune500/2025/
+438,438,Ovintiv,ovintiv,9152.0,https://fortune.com/company/ovintiv/,Denver,Colorado,"Mining, Crude-Oil Production",https://fortune.com/ranking/fortune500/2025/
+439,439,Seaboard,seaboard,9100.0,https://fortune.com/company/seaboard/,Merriam,Kansas,Food Production,https://fortune.com/ranking/fortune500/2025/
+440,440,Hertz Global Holdings,hertz-global-holdings,9049.0,https://fortune.com/company/hertz-global-holdings/,Estero,Florida,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+441,441,Skechers U.S.A.,skechers-u-s-a,8969.4,https://fortune.com/company/skechers-u-s-a/,Manhattan Beach,California,Apparel,https://fortune.com/ranking/fortune500/2025/
+442,442,Optimum Communications,altice-usa,8954.4,https://fortune.com/company/altice-usa/,Long Island City,New York,Telecommunications,https://fortune.com/ranking/fortune500/2025/
+443,443,NOV,national-oilwell-varco,8870.0,https://fortune.com/company/national-oilwell-varco/,Houston,Texas,"Oil and Gas Equipment, Services",https://fortune.com/ranking/fortune500/2025/
+444,444,Graphic Packaging Holding,graphic-packaging-holding,8807.0,https://fortune.com/company/graphic-packaging-holding/,Atlanta,Georgia,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+445,445,Avery Dennison,avery-dennison,8755.7,https://fortune.com/company/avery-dennison/,Mentor,Ohio,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+446,446,Equinix,equinix,8748.0,https://fortune.com/company/equinix/,Redwood City,California,Real estate,https://fortune.com/ranking/fortune500/2025/
+447,447,Insight Enterprises,insight-enterprises,8701.7,https://fortune.com/company/insight-enterprises/,Chandler,Arizona,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+448,448,Sirius XM Holdings,sirius-xm-holdings,8699.0,https://fortune.com/company/sirius-xm-holdings/,New York,New York,Entertainment,https://fortune.com/ranking/fortune500/2025/
+449,449,PVH,pvh,8652.9,https://fortune.com/company/pvh/,New York,New York,Apparel,https://fortune.com/ranking/fortune500/2025/
+450,450,CenterPoint Energy,centerpoint-energy,8643.0,https://fortune.com/company/centerpoint-energy/,Houston,Texas,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+451,451,WEC Energy Group,wec-energy-group,8599.9,https://fortune.com/company/wec-energy-group/,Milwaukee,Wisconsin,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+452,452,Xylem,xylem,8562.0,https://fortune.com/company/xylem/,Washington,District Of Columbia,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+453,453,Franklin Templeton,franklin-resources,8478.0,https://fortune.com/company/franklin-resources/,San Mateo,California,Securities,https://fortune.com/ranking/fortune500/2025/
+454,454,PPL,ppl,8462.0,https://fortune.com/company/ppl/,Allentown,Pennsylvania,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+455,455,Workday,workday,8446.0,https://fortune.com/company/workday/,Pleasanton,California,Computer Software,https://fortune.com/ranking/fortune500/2025/
+456,456,Dover,dover,8424.3,https://fortune.com/company/dover/,Downers Grove,Illinois,Industrial Machinery,https://fortune.com/ranking/fortune500/2025/
+457,457,Packaging Corp. of America,packaging-corp-of-america,8383.3,https://fortune.com/company/packaging-corp-of-america/,Lake Forest,Illinois,"Packaging, Containers",https://fortune.com/ranking/fortune500/2025/
+458,458,ABM Industries,abm-industries,8359.4,https://fortune.com/company/abm-industries/,New York,New York,Diversified Outsourcing Services,https://fortune.com/ranking/fortune500/2025/
+459,459,Intuitive Surgical,intuitive-surgical,8352.1,https://fortune.com/company/intuitive-surgical/,Sunnyvale,California,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+460,460,American Financial Group,american-financial-group,8324.0,https://fortune.com/company/american-financial-group/,Cincinnati,Ohio,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+461,461,Rockwell Automation,rockwell-automation,8264.2,https://fortune.com/company/rockwell-automation/,Milwaukee,Wisconsin,"Electronics, Electrical Equip.",https://fortune.com/ranking/fortune500/2025/
+462,462,Solventum,solventum,8254.0,https://fortune.com/company/solventum/,Maplewood,Minnesota,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+463,463,Old Republic International,old-republic-international,8231.5,https://fortune.com/company/old-republic-international/,Chicago,Illinois,Insurance: Property and Casualty (Stock),https://fortune.com/ranking/fortune500/2025/
+464,464,Securian Financial Group,securian-financial-group,8226.3,https://fortune.com/company/securian-financial-group/,St. Paul,Minnesota,"Insurance: Life, Health (stock)",https://fortune.com/ranking/fortune500/2025/
+465,465,Prologis,prologis,8201.6,https://fortune.com/company/prologis/,San Francisco,California,Real estate,https://fortune.com/ranking/fortune500/2025/
+466,466,J.M. Smucker,j-m-smucker,8178.7,https://fortune.com/company/j-m-smucker/,Orrville,Ohio,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+467,467,Taylor Morrison Home,taylor-morrison-home,8168.1,https://fortune.com/company/taylor-morrison-home/,Scottsdale,Arizona,Homebuilders,https://fortune.com/ranking/fortune500/2025/
+468,468,XPO,xpo-logistics,8072.0,https://fortune.com/company/xpo-logistics/,Greenwich,Connecticut,Transportation and Logistics,https://fortune.com/ranking/fortune500/2025/
+469,469,Voya Financial,voya-financial,8050.0,https://fortune.com/company/voya-financial/,New York,New York,Diversified Financials,https://fortune.com/ranking/fortune500/2025/
+470,470,Palo Alto Networks,palo-alto-networks,8027.5,https://fortune.com/company/palo-alto-networks/,Santa Clara,California,Network and Other Communications Equipment,https://fortune.com/ranking/fortune500/2025/
+471,471,Vertiv Holdings,vertiv-holdings,8011.8,https://fortune.com/company/vertiv-holdings/,Westerville,Ohio,"Electronics, Electrical Equip.",https://fortune.com/ranking/fortune500/2025/
+472,472,Welltower,welltower,7991.1,https://fortune.com/company/welltower/,Toledo,Ohio,Real estate,https://fortune.com/ranking/fortune500/2025/
+473,473,Foot Locker,foot-locker,7988.0,https://fortune.com/company/foot-locker/,New York,New York,Specialty Retailers: Apparel,https://fortune.com/ranking/fortune500/2025/
+474,474,Par Pacific Holdings,par-pacific-holdings,7974.5,https://fortune.com/company/par-pacific-holdings/,Houston,Texas,Petroleum Refining,https://fortune.com/ranking/fortune500/2025/
+475,475,TransDigm Group,transdigm-group,7940.0,https://fortune.com/company/transdigm-group/,Cleveland,Ohio,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+476,476,Commercial Metals,commercial-metals,7926.0,https://fortune.com/company/commercial-metals/,Irving,Texas,Metals,https://fortune.com/ranking/fortune500/2025/
+477,477,Post Holdings,post-holdings,7922.7,https://fortune.com/company/post-holdings/,St. Louis,Missouri,Food Consumer Products,https://fortune.com/ranking/fortune500/2025/
+478,478,Masco,masco,7828.0,https://fortune.com/company/masco/,Livonia,Michigan,"Home Equipment, Furnishings",https://fortune.com/ranking/fortune500/2025/
+479,479,Rush Enterprises,rush-enterprises,7804.7,https://fortune.com/company/rush-enterprises/,New Braunfels,Texas,"Automotive Retailing, Services",https://fortune.com/ranking/fortune500/2025/
+480,480,KBR,kbr,7742.0,https://fortune.com/company/kbr/,Houston,Texas,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+481,481,Sprouts Farmers Market,sprouts-farmers-market,7719.3,https://fortune.com/company/sprouts-farmers-market/,Phoenix,Arizona,Food & Drug Stores,https://fortune.com/ranking/fortune500/2025/
+482,482,Williams-Sonoma,williams-sonoma,7711.5,https://fortune.com/company/williams-sonoma/,San Francisco,California,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+483,483,Zimmer Biomet Holdings,zimmer-biomet-holdings-3,7678.6,https://fortune.com/company/zimmer-biomet-holdings-3/,Warsaw,Indiana,Medical Products and Equipment,https://fortune.com/ranking/fortune500/2025/
+484,484,CACI International,caci-international,7659.8,https://fortune.com/company/caci-international/,Reston,Virginia,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+485,485,Microchip Technology,microchip-technology,7634.4,https://fortune.com/company/microchip-technology/,Chandler,Arizona,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+486,486,Watsco,watsco,7618.3,https://fortune.com/company/watsco/,Miami,Florida,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+487,487,Newell Brands,newell-brands,7582.0,https://fortune.com/company/newell-brands/,Atlanta,Georgia,"Home Equipment, Furnishings",https://fortune.com/ranking/fortune500/2025/
+488,488,ARKO,arko,7571.1,https://fortune.com/company/arko/,Richmond,Virginia,Specialty Retailers: Other,https://fortune.com/ranking/fortune500/2025/
+489,489,Sanmina,sanmina,7568.3,https://fortune.com/company/sanmina/,San Jose,California,Semiconductors and Other Electronic Components,https://fortune.com/ranking/fortune500/2025/
+490,490,Electronic Arts,electronic-arts,7562.0,https://fortune.com/company/electronic-arts/,Redwood City,California,Entertainment,https://fortune.com/ranking/fortune500/2025/
+491,491,Yum Brands,yum-brands,7549.0,https://fortune.com/company/yum-brands/,Louisville,Kentucky,Food Services,https://fortune.com/ranking/fortune500/2025/
+492,492,Fastenal,fastenal,7546.0,https://fortune.com/company/fastenal/,Winona,Minnesota,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+493,493,CMS Energy,cms-energy,7515.0,https://fortune.com/company/cms-energy/,Jackson,Michigan,Utilities: Gas and Electric,https://fortune.com/ranking/fortune500/2025/
+494,494,Monster Beverage,monster-beverage,7492.7,https://fortune.com/company/monster-beverage/,Corona,California,Beverages,https://fortune.com/ranking/fortune500/2025/
+495,495,Endeavor Group Holdings,endeavor-group-holdings,7482.9,https://fortune.com/company/endeavor-group-holdings/,Beverly Hills,California,Entertainment,https://fortune.com/ranking/fortune500/2025/
+496,496,Science Applications International,science-applications-international,7479.0,https://fortune.com/company/science-applications-international/,Reston,Virginia,Information Technology Services,https://fortune.com/ranking/fortune500/2025/
+497,497,Core & Main,core-main,7441.0,https://fortune.com/company/core-main/,St. Louis,Missouri,Wholesalers: Diversified,https://fortune.com/ranking/fortune500/2025/
+498,498,Howmet Aerospace,arconic,7430.0,https://fortune.com/company/arconic/,Pittsburgh,Pennsylvania,Aerospace & Defense,https://fortune.com/ranking/fortune500/2025/
+498,499,Ingredion,ingredion,7430.0,https://fortune.com/company/ingredion/,Westchester,Illinois,Food Production,https://fortune.com/ranking/fortune500/2025/
+500,500,Vulcan Materials,vulcan-materials,7417.7,https://fortune.com/company/vulcan-materials/,Birmingham,Alabama,"Building Materials, Glass",https://fortune.com/ranking/fortune500/2025/

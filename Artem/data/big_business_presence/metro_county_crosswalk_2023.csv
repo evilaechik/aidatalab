@@ -1,0 +1,838 @@
+county_fips,msa_cbsa,metro_name,county_state,county_name,county_role
+39133,10420,"Akron, OH",Ohio,Portage County,Central
+39153,10420,"Akron, OH",Ohio,Summit County,Central
+36001,10580,"Albany-Schenectady-Troy, NY",New York,Albany County,Central
+36083,10580,"Albany-Schenectady-Troy, NY",New York,Rensselaer County,Central
+36091,10580,"Albany-Schenectady-Troy, NY",New York,Saratoga County,Outlying
+36093,10580,"Albany-Schenectady-Troy, NY",New York,Schenectady County,Central
+36095,10580,"Albany-Schenectady-Troy, NY",New York,Schoharie County,Outlying
+35001,10740,"Albuquerque, NM",New Mexico,Bernalillo County,Central
+35043,10740,"Albuquerque, NM",New Mexico,Sandoval County,Central
+35057,10740,"Albuquerque, NM",New Mexico,Torrance County,Outlying
+35061,10740,"Albuquerque, NM",New Mexico,Valencia County,Outlying
+34041,10900,"Allentown-Bethlehem-Easton, PA-NJ",New Jersey,Warren County,Central
+42025,10900,"Allentown-Bethlehem-Easton, PA-NJ",Pennsylvania,Carbon County,Outlying
+42077,10900,"Allentown-Bethlehem-Easton, PA-NJ",Pennsylvania,Lehigh County,Central
+42095,10900,"Allentown-Bethlehem-Easton, PA-NJ",Pennsylvania,Northampton County,Central
+48011,11100,"Amarillo, TX",Texas,Armstrong County,Outlying
+48065,11100,"Amarillo, TX",Texas,Carson County,Outlying
+48359,11100,"Amarillo, TX",Texas,Oldham County,Outlying
+48375,11100,"Amarillo, TX",Texas,Potter County,Central
+48381,11100,"Amarillo, TX",Texas,Randall County,Central
+02020,11260,"Anchorage, AK",Alaska,Anchorage Municipality,Central
+02170,11260,"Anchorage, AK",Alaska,Matanuska-Susitna Borough,Outlying
+26161,11460,"Ann Arbor, MI",Michigan,Washtenaw County,Central
+55015,11540,"Appleton, WI",Wisconsin,Calumet County,Central
+55087,11540,"Appleton, WI",Wisconsin,Outagamie County,Central
+37021,11700,"Asheville, NC",North Carolina,Buncombe County,Central
+37089,11700,"Asheville, NC",North Carolina,Henderson County,Central
+37115,11700,"Asheville, NC",North Carolina,Madison County,Outlying
+13013,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Barrow County,Outlying
+13015,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Bartow County,Outlying
+13035,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Butts County,Outlying
+13045,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Carroll County,Outlying
+13057,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Cherokee County,Central
+13063,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Clayton County,Central
+13067,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Cobb County,Central
+13077,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Coweta County,Central
+13085,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Dawson County,Central
+13089,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,DeKalb County,Central
+13097,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Douglas County,Central
+13113,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Fayette County,Central
+13117,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Forsyth County,Central
+13121,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Fulton County,Central
+13135,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Gwinnett County,Central
+13143,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Haralson County,Outlying
+13149,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Heard County,Outlying
+13151,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Henry County,Central
+13159,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Jasper County,Outlying
+13187,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Lumpkin County,Outlying
+13199,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Meriwether County,Outlying
+13211,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Morgan County,Outlying
+13217,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Newton County,Central
+13223,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Paulding County,Central
+13227,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Pickens County,Outlying
+13231,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Pike County,Outlying
+13247,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Rockdale County,Central
+13255,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Spalding County,Outlying
+13297,12060,"Atlanta-Sandy Springs-Roswell, GA",Georgia,Walton County,Central
+34001,12100,"Atlantic City-Hammonton, NJ",New Jersey,Atlantic County,Central
+34009,12100,"Atlantic City-Hammonton, NJ",New Jersey,Cape May County,Central
+13033,12260,"Augusta-Richmond County, GA-SC",Georgia,Burke County,Outlying
+13073,12260,"Augusta-Richmond County, GA-SC",Georgia,Columbia County,Central
+13181,12260,"Augusta-Richmond County, GA-SC",Georgia,Lincoln County,Outlying
+13189,12260,"Augusta-Richmond County, GA-SC",Georgia,McDuffie County,Outlying
+13245,12260,"Augusta-Richmond County, GA-SC",Georgia,Richmond County,Central
+45003,12260,"Augusta-Richmond County, GA-SC",South Carolina,Aiken County,Central
+45037,12260,"Augusta-Richmond County, GA-SC",South Carolina,Edgefield County,Outlying
+48021,12420,"Austin-Round Rock-San Marcos, TX",Texas,Bastrop County,Outlying
+48055,12420,"Austin-Round Rock-San Marcos, TX",Texas,Caldwell County,Outlying
+48209,12420,"Austin-Round Rock-San Marcos, TX",Texas,Hays County,Central
+48453,12420,"Austin-Round Rock-San Marcos, TX",Texas,Travis County,Central
+48491,12420,"Austin-Round Rock-San Marcos, TX",Texas,Williamson County,Central
+06029,12540,"Bakersfield-Delano, CA",California,Kern County,Central
+24003,12580,"Baltimore-Columbia-Towson, MD",Maryland,Anne Arundel County,Central
+24005,12580,"Baltimore-Columbia-Towson, MD",Maryland,Baltimore County,Central
+24013,12580,"Baltimore-Columbia-Towson, MD",Maryland,Carroll County,Outlying
+24025,12580,"Baltimore-Columbia-Towson, MD",Maryland,Harford County,Outlying
+24027,12580,"Baltimore-Columbia-Towson, MD",Maryland,Howard County,Central
+24035,12580,"Baltimore-Columbia-Towson, MD",Maryland,Queen Anne's County,Outlying
+24510,12580,"Baltimore-Columbia-Towson, MD",Maryland,Baltimore city,Central
+25001,12700,"Barnstable Town, MA",Massachusetts,Barnstable County,Central
+22005,12940,"Baton Rouge, LA",Louisiana,Ascension Parish,Central
+22007,12940,"Baton Rouge, LA",Louisiana,Assumption Parish,Outlying
+22033,12940,"Baton Rouge, LA",Louisiana,East Baton Rouge Parish,Central
+22037,12940,"Baton Rouge, LA",Louisiana,East Feliciana Parish,Outlying
+22047,12940,"Baton Rouge, LA",Louisiana,Iberville Parish,Central
+22063,12940,"Baton Rouge, LA",Louisiana,Livingston Parish,Central
+22077,12940,"Baton Rouge, LA",Louisiana,Pointe Coupee Parish,Outlying
+22091,12940,"Baton Rouge, LA",Louisiana,St. Helena Parish,Outlying
+22121,12940,"Baton Rouge, LA",Louisiana,West Baton Rouge Parish,Central
+22125,12940,"Baton Rouge, LA",Louisiana,West Feliciana Parish,Outlying
+48199,13140,"Beaumont-Port Arthur, TX",Texas,Hardin County,Outlying
+48245,13140,"Beaumont-Port Arthur, TX",Texas,Jefferson County,Central
+48361,13140,"Beaumont-Port Arthur, TX",Texas,Orange County,Outlying
+53073,13380,"Bellingham, WA",Washington,Whatcom County,Central
+41013,13460,"Bend, OR",Oregon,Crook County,Outlying
+41017,13460,"Bend, OR",Oregon,Deschutes County,Central
+41031,13460,"Bend, OR",Oregon,Jefferson County,Outlying
+30009,13740,"Billings, MT",Montana,Carbon County,Outlying
+30095,13740,"Billings, MT",Montana,Stillwater County,Outlying
+30111,13740,"Billings, MT",Montana,Yellowstone County,Central
+01007,13820,"Birmingham, AL",Alabama,Bibb County,Outlying
+01009,13820,"Birmingham, AL",Alabama,Blount County,Outlying
+01021,13820,"Birmingham, AL",Alabama,Chilton County,Outlying
+01073,13820,"Birmingham, AL",Alabama,Jefferson County,Central
+01115,13820,"Birmingham, AL",Alabama,St. Clair County,Central
+01117,13820,"Birmingham, AL",Alabama,Shelby County,Central
+01127,13820,"Birmingham, AL",Alabama,Walker County,Outlying
+16001,14260,"Boise City, ID",Idaho,Ada County,Central
+16015,14260,"Boise City, ID",Idaho,Boise County,Outlying
+16027,14260,"Boise City, ID",Idaho,Canyon County,Outlying
+16045,14260,"Boise City, ID",Idaho,Gem County,Outlying
+16073,14260,"Boise City, ID",Idaho,Owyhee County,Outlying
+25009,14460,"Boston-Cambridge-Newton, MA-NH",Massachusetts,Essex County,Central
+25017,14460,"Boston-Cambridge-Newton, MA-NH",Massachusetts,Middlesex County,Central
+25021,14460,"Boston-Cambridge-Newton, MA-NH",Massachusetts,Norfolk County,Central
+25023,14460,"Boston-Cambridge-Newton, MA-NH",Massachusetts,Plymouth County,Central
+25025,14460,"Boston-Cambridge-Newton, MA-NH",Massachusetts,Suffolk County,Central
+33015,14460,"Boston-Cambridge-Newton, MA-NH",New Hampshire,Rockingham County,Central
+33017,14460,"Boston-Cambridge-Newton, MA-NH",New Hampshire,Strafford County,Outlying
+08013,14500,"Boulder, CO",Colorado,Boulder County,Central
+30031,14580,"Bozeman, MT",Montana,Gallatin County,Central
+53035,14740,"Bremerton-Silverdale-Port Orchard, WA",Washington,Kitsap County,Central
+09120,14860,"Bridgeport-Stamford-Danbury, CT",Connecticut,Greater Bridgeport Planning Region,Central
+09190,14860,"Bridgeport-Stamford-Danbury, CT",Connecticut,Western Connecticut Planning Region,Central
+48061,15180,"Brownsville-Harlingen, TX",Texas,Cameron County,Central
+36029,15380,"Buffalo-Cheektowaga, NY",New York,Erie County,Central
+36063,15380,"Buffalo-Cheektowaga, NY",New York,Niagara County,Central
+50007,15540,"Burlington-South Burlington, VT",Vermont,Chittenden County,Central
+50011,15540,"Burlington-South Burlington, VT",Vermont,Franklin County,Outlying
+50013,15540,"Burlington-South Burlington, VT",Vermont,Grand Isle County,Outlying
+39019,15940,"Canton-Massillon, OH",Ohio,Carroll County,Outlying
+39151,15940,"Canton-Massillon, OH",Ohio,Stark County,Central
+12071,15980,"Cape Coral-Fort Myers, FL",Florida,Lee County,Central
+19011,16300,"Cedar Rapids, IA",Iowa,Benton County,Outlying
+19105,16300,"Cedar Rapids, IA",Iowa,Jones County,Outlying
+19113,16300,"Cedar Rapids, IA",Iowa,Linn County,Central
+45015,16700,"Charleston-North Charleston, SC",South Carolina,Berkeley County,Central
+45019,16700,"Charleston-North Charleston, SC",South Carolina,Charleston County,Central
+45035,16700,"Charleston-North Charleston, SC",South Carolina,Dorchester County,Central
+37007,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Anson County,Outlying
+37025,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Cabarrus County,Outlying
+37071,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Gaston County,Outlying
+37097,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Iredell County,Central
+37109,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Lincoln County,Outlying
+37119,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Mecklenburg County,Central
+37159,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Rowan County,Outlying
+37179,16740,"Charlotte-Concord-Gastonia, NC-SC",North Carolina,Union County,Central
+45023,16740,"Charlotte-Concord-Gastonia, NC-SC",South Carolina,Chester County,Outlying
+45057,16740,"Charlotte-Concord-Gastonia, NC-SC",South Carolina,Lancaster County,Outlying
+45091,16740,"Charlotte-Concord-Gastonia, NC-SC",South Carolina,York County,Outlying
+51003,16820,"Charlottesville, VA",Virginia,Albemarle County,Central
+51065,16820,"Charlottesville, VA",Virginia,Fluvanna County,Outlying
+51079,16820,"Charlottesville, VA",Virginia,Greene County,Outlying
+51125,16820,"Charlottesville, VA",Virginia,Nelson County,Outlying
+51540,16820,"Charlottesville, VA",Virginia,Charlottesville city,Central
+13047,16860,"Chattanooga, TN-GA",Georgia,Catoosa County,Central
+13083,16860,"Chattanooga, TN-GA",Georgia,Dade County,Outlying
+13295,16860,"Chattanooga, TN-GA",Georgia,Walker County,Central
+47065,16860,"Chattanooga, TN-GA",Tennessee,Hamilton County,Central
+47115,16860,"Chattanooga, TN-GA",Tennessee,Marion County,Outlying
+47153,16860,"Chattanooga, TN-GA",Tennessee,Sequatchie County,Outlying
+17031,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Cook County,Central
+17037,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,DeKalb County,Outlying
+17043,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,DuPage County,Central
+17063,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Grundy County,Outlying
+17089,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Kane County,Central
+17093,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Kendall County,Central
+17097,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Lake County,Central
+17111,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,McHenry County,Central
+17197,16980,"Chicago-Naperville-Elgin, IL-IN",Illinois,Will County,Central
+18073,16980,"Chicago-Naperville-Elgin, IL-IN",Indiana,Jasper County,Outlying
+18089,16980,"Chicago-Naperville-Elgin, IL-IN",Indiana,Lake County,Central
+18111,16980,"Chicago-Naperville-Elgin, IL-IN",Indiana,Newton County,Outlying
+18127,16980,"Chicago-Naperville-Elgin, IL-IN",Indiana,Porter County,Central
+18029,17140,"Cincinnati, OH-KY-IN",Indiana,Dearborn County,Outlying
+18047,17140,"Cincinnati, OH-KY-IN",Indiana,Franklin County,Outlying
+18115,17140,"Cincinnati, OH-KY-IN",Indiana,Ohio County,Outlying
+21015,17140,"Cincinnati, OH-KY-IN",Kentucky,Boone County,Central
+21023,17140,"Cincinnati, OH-KY-IN",Kentucky,Bracken County,Outlying
+21037,17140,"Cincinnati, OH-KY-IN",Kentucky,Campbell County,Central
+21077,17140,"Cincinnati, OH-KY-IN",Kentucky,Gallatin County,Outlying
+21081,17140,"Cincinnati, OH-KY-IN",Kentucky,Grant County,Outlying
+21117,17140,"Cincinnati, OH-KY-IN",Kentucky,Kenton County,Central
+21191,17140,"Cincinnati, OH-KY-IN",Kentucky,Pendleton County,Outlying
+39015,17140,"Cincinnati, OH-KY-IN",Ohio,Brown County,Outlying
+39017,17140,"Cincinnati, OH-KY-IN",Ohio,Butler County,Central
+39025,17140,"Cincinnati, OH-KY-IN",Ohio,Clermont County,Central
+39061,17140,"Cincinnati, OH-KY-IN",Ohio,Hamilton County,Central
+39165,17140,"Cincinnati, OH-KY-IN",Ohio,Warren County,Central
+39007,17410,"Cleveland, OH",Ohio,Ashtabula County,Outlying
+39035,17410,"Cleveland, OH",Ohio,Cuyahoga County,Central
+39055,17410,"Cleveland, OH",Ohio,Geauga County,Central
+39085,17410,"Cleveland, OH",Ohio,Lake County,Central
+39093,17410,"Cleveland, OH",Ohio,Lorain County,Outlying
+39103,17410,"Cleveland, OH",Ohio,Medina County,Central
+16055,17660,"Coeur d'Alene, ID",Idaho,Kootenai County,Central
+08041,17820,"Colorado Springs, CO",Colorado,El Paso County,Central
+08119,17820,"Colorado Springs, CO",Colorado,Teller County,Outlying
+45017,17900,"Columbia, SC",South Carolina,Calhoun County,Outlying
+45039,17900,"Columbia, SC",South Carolina,Fairfield County,Outlying
+45055,17900,"Columbia, SC",South Carolina,Kershaw County,Outlying
+45063,17900,"Columbia, SC",South Carolina,Lexington County,Central
+45079,17900,"Columbia, SC",South Carolina,Richland County,Central
+45081,17900,"Columbia, SC",South Carolina,Saluda County,Outlying
+01113,17980,"Columbus, GA-AL",Alabama,Russell County,Central
+13053,17980,"Columbus, GA-AL",Georgia,Chattahoochee County,Central
+13145,17980,"Columbus, GA-AL",Georgia,Harris County,Outlying
+13197,17980,"Columbus, GA-AL",Georgia,Marion County,Outlying
+13215,17980,"Columbus, GA-AL",Georgia,Muscogee County,Central
+13259,17980,"Columbus, GA-AL",Georgia,Stewart County,Outlying
+13263,17980,"Columbus, GA-AL",Georgia,Talbot County,Outlying
+39041,18140,"Columbus, OH",Ohio,Delaware County,Central
+39045,18140,"Columbus, OH",Ohio,Fairfield County,Central
+39049,18140,"Columbus, OH",Ohio,Franklin County,Central
+39073,18140,"Columbus, OH",Ohio,Hocking County,Outlying
+39089,18140,"Columbus, OH",Ohio,Licking County,Outlying
+39097,18140,"Columbus, OH",Ohio,Madison County,Outlying
+39117,18140,"Columbus, OH",Ohio,Morrow County,Outlying
+39127,18140,"Columbus, OH",Ohio,Perry County,Outlying
+39129,18140,"Columbus, OH",Ohio,Pickaway County,Outlying
+39159,18140,"Columbus, OH",Ohio,Union County,Outlying
+48007,18580,"Corpus Christi, TX",Texas,Aransas County,Outlying
+48355,18580,"Corpus Christi, TX",Texas,Nueces County,Central
+48409,18580,"Corpus Christi, TX",Texas,San Patricio County,Central
+12091,18880,"Crestview-Fort Walton Beach-Destin, FL",Florida,Okaloosa County,Central
+12131,18880,"Crestview-Fort Walton Beach-Destin, FL",Florida,Walton County,Central
+48085,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Collin County,Central
+48113,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Dallas County,Central
+48121,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Denton County,Outlying
+48139,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Ellis County,Central
+48231,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Hunt County,Outlying
+48251,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Johnson County,Central
+48257,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Kaufman County,Outlying
+48367,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Parker County,Outlying
+48397,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Rockwall County,Central
+48439,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Tarrant County,Central
+48497,19100,"Dallas-Fort Worth-Arlington, TX",Texas,Wise County,Outlying
+01003,19300,"Daphne-Fairhope-Foley, AL",Alabama,Baldwin County,Central
+17073,19340,"Davenport-Moline-Rock Island, IA-IL",Illinois,Henry County,Outlying
+17131,19340,"Davenport-Moline-Rock Island, IA-IL",Illinois,Mercer County,Outlying
+17161,19340,"Davenport-Moline-Rock Island, IA-IL",Illinois,Rock Island County,Central
+19163,19340,"Davenport-Moline-Rock Island, IA-IL",Iowa,Scott County,Central
+39057,19430,"Dayton-Kettering-Beavercreek, OH",Ohio,Greene County,Central
+39109,19430,"Dayton-Kettering-Beavercreek, OH",Ohio,Miami County,Outlying
+39113,19430,"Dayton-Kettering-Beavercreek, OH",Ohio,Montgomery County,Central
+12035,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Florida,Flagler County,Central
+12127,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Florida,Volusia County,Central
+08001,19740,"Denver-Aurora-Centennial, CO",Colorado,Adams County,Central
+08005,19740,"Denver-Aurora-Centennial, CO",Colorado,Arapahoe County,Central
+08014,19740,"Denver-Aurora-Centennial, CO",Colorado,Broomfield County,Central
+08019,19740,"Denver-Aurora-Centennial, CO",Colorado,Clear Creek County,Outlying
+08031,19740,"Denver-Aurora-Centennial, CO",Colorado,Denver County,Central
+08035,19740,"Denver-Aurora-Centennial, CO",Colorado,Douglas County,Central
+08039,19740,"Denver-Aurora-Centennial, CO",Colorado,Elbert County,Outlying
+08047,19740,"Denver-Aurora-Centennial, CO",Colorado,Gilpin County,Outlying
+08059,19740,"Denver-Aurora-Centennial, CO",Colorado,Jefferson County,Central
+08093,19740,"Denver-Aurora-Centennial, CO",Colorado,Park County,Outlying
+19049,19780,"Des Moines-West Des Moines, IA",Iowa,Dallas County,Central
+19077,19780,"Des Moines-West Des Moines, IA",Iowa,Guthrie County,Outlying
+19099,19780,"Des Moines-West Des Moines, IA",Iowa,Jasper County,Outlying
+19121,19780,"Des Moines-West Des Moines, IA",Iowa,Madison County,Outlying
+19153,19780,"Des Moines-West Des Moines, IA",Iowa,Polk County,Central
+19181,19780,"Des Moines-West Des Moines, IA",Iowa,Warren County,Outlying
+26087,19820,"Detroit-Warren-Dearborn, MI",Michigan,Lapeer County,Outlying
+26093,19820,"Detroit-Warren-Dearborn, MI",Michigan,Livingston County,Outlying
+26099,19820,"Detroit-Warren-Dearborn, MI",Michigan,Macomb County,Central
+26125,19820,"Detroit-Warren-Dearborn, MI",Michigan,Oakland County,Central
+26147,19820,"Detroit-Warren-Dearborn, MI",Michigan,St. Clair County,Outlying
+26163,19820,"Detroit-Warren-Dearborn, MI",Michigan,Wayne County,Central
+27017,20260,"Duluth, MN-WI",Minnesota,Carlton County,Outlying
+27137,20260,"Duluth, MN-WI",Minnesota,St. Louis County,Central
+55031,20260,"Duluth, MN-WI",Wisconsin,Douglas County,Central
+37037,20500,"Durham-Chapel Hill, NC",North Carolina,Chatham County,Central
+37063,20500,"Durham-Chapel Hill, NC",North Carolina,Durham County,Central
+37135,20500,"Durham-Chapel Hill, NC",North Carolina,Orange County,Central
+37145,20500,"Durham-Chapel Hill, NC",North Carolina,Person County,Outlying
+48141,21340,"El Paso, TX",Texas,El Paso County,Central
+48229,21340,"El Paso, TX",Texas,Hudspeth County,Outlying
+42049,21500,"Erie, PA",Pennsylvania,Erie County,Central
+41039,21660,"Eugene-Springfield, OR",Oregon,Lane County,Central
+18129,21780,"Evansville, IN",Indiana,Posey County,Outlying
+18163,21780,"Evansville, IN",Indiana,Vanderburgh County,Central
+18173,21780,"Evansville, IN",Indiana,Warrick County,Central
+27027,22020,"Fargo, ND-MN",Minnesota,Clay County,Central
+38017,22020,"Fargo, ND-MN",North Dakota,Cass County,Central
+37051,22180,"Fayetteville, NC",North Carolina,Cumberland County,Central
+37093,22180,"Fayetteville, NC",North Carolina,Hoke County,Central
+05007,22220,"Fayetteville-Springdale-Rogers, AR",Arkansas,Benton County,Central
+05087,22220,"Fayetteville-Springdale-Rogers, AR",Arkansas,Madison County,Outlying
+05143,22220,"Fayetteville-Springdale-Rogers, AR",Arkansas,Washington County,Central
+26049,22420,"Flint, MI",Michigan,Genesee County,Central
+08069,22660,"Fort Collins-Loveland, CO",Colorado,Larimer County,Central
+18003,23060,"Fort Wayne, IN",Indiana,Allen County,Central
+18179,23060,"Fort Wayne, IN",Indiana,Wells County,Outlying
+18183,23060,"Fort Wayne, IN",Indiana,Whitley County,Outlying
+06019,23420,"Fresno, CA",California,Fresno County,Central
+06039,23420,"Fresno, CA",California,Madera County,Outlying
+12001,23540,"Gainesville, FL",Florida,Alachua County,Central
+12041,23540,"Gainesville, FL",Florida,Gilchrist County,Outlying
+12075,23540,"Gainesville, FL",Florida,Levy County,Outlying
+26015,24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,Barry County,Outlying
+26067,24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,Ionia County,Outlying
+26081,24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,Kent County,Central
+26117,24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,Montcalm County,Outlying
+26139,24340,"Grand Rapids-Wyoming-Kentwood, MI",Michigan,Ottawa County,Outlying
+08123,24540,"Greeley, CO",Colorado,Weld County,Central
+55009,24580,"Green Bay, WI",Wisconsin,Brown County,Central
+55061,24580,"Green Bay, WI",Wisconsin,Kewaunee County,Outlying
+55083,24580,"Green Bay, WI",Wisconsin,Oconto County,Outlying
+37081,24660,"Greensboro-High Point, NC",North Carolina,Guilford County,Central
+37151,24660,"Greensboro-High Point, NC",North Carolina,Randolph County,Outlying
+37157,24660,"Greensboro-High Point, NC",North Carolina,Rockingham County,Outlying
+45007,24860,"Greenville-Anderson-Greer, SC",South Carolina,Anderson County,Outlying
+45045,24860,"Greenville-Anderson-Greer, SC",South Carolina,Greenville County,Central
+45059,24860,"Greenville-Anderson-Greer, SC",South Carolina,Laurens County,Outlying
+45077,24860,"Greenville-Anderson-Greer, SC",South Carolina,Pickens County,Central
+28045,25060,"Gulfport-Biloxi, MS",Mississippi,Hancock County,Central
+28047,25060,"Gulfport-Biloxi, MS",Mississippi,Harrison County,Central
+28059,25060,"Gulfport-Biloxi, MS",Mississippi,Jackson County,Outlying
+28131,25060,"Gulfport-Biloxi, MS",Mississippi,Stone County,Outlying
+42041,25420,"Harrisburg-Carlisle, PA",Pennsylvania,Cumberland County,Central
+42043,25420,"Harrisburg-Carlisle, PA",Pennsylvania,Dauphin County,Central
+42099,25420,"Harrisburg-Carlisle, PA",Pennsylvania,Perry County,Outlying
+09110,25540,"Hartford-West Hartford-East Hartford, CT",Connecticut,Capitol Planning Region,Central
+09130,25540,"Hartford-West Hartford-East Hartford, CT",Connecticut,Lower Connecticut River Valley Planning Region,Central
+37003,25860,"Hickory-Lenoir-Morganton, NC",North Carolina,Alexander County,Outlying
+37023,25860,"Hickory-Lenoir-Morganton, NC",North Carolina,Burke County,Central
+37027,25860,"Hickory-Lenoir-Morganton, NC",North Carolina,Caldwell County,Central
+37035,25860,"Hickory-Lenoir-Morganton, NC",North Carolina,Catawba County,Central
+45013,25940,"Hilton Head Island-Bluffton-Port Royal, SC",South Carolina,Beaufort County,Central
+45053,25940,"Hilton Head Island-Bluffton-Port Royal, SC",South Carolina,Jasper County,Outlying
+48015,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Austin County,Outlying
+48039,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Brazoria County,Central
+48071,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Chambers County,Outlying
+48157,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Fort Bend County,Central
+48167,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Galveston County,Outlying
+48201,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Harris County,Central
+48291,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Liberty County,Outlying
+48339,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Montgomery County,Outlying
+48407,26420,"Houston-Pasadena-The Woodlands, TX",Texas,San Jacinto County,Outlying
+48473,26420,"Houston-Pasadena-The Woodlands, TX",Texas,Waller County,Central
+21019,26580,"Huntington-Ashland, WV-KY-OH",Kentucky,Boyd County,Central
+21043,26580,"Huntington-Ashland, WV-KY-OH",Kentucky,Carter County,Outlying
+21089,26580,"Huntington-Ashland, WV-KY-OH",Kentucky,Greenup County,Central
+21127,26580,"Huntington-Ashland, WV-KY-OH",Kentucky,Lawrence County,Outlying
+39087,26580,"Huntington-Ashland, WV-KY-OH",Ohio,Lawrence County,Central
+54011,26580,"Huntington-Ashland, WV-KY-OH",West Virginia,Cabell County,Central
+54079,26580,"Huntington-Ashland, WV-KY-OH",West Virginia,Putnam County,Central
+54099,26580,"Huntington-Ashland, WV-KY-OH",West Virginia,Wayne County,Central
+01083,26620,"Huntsville, AL",Alabama,Limestone County,Central
+01089,26620,"Huntsville, AL",Alabama,Madison County,Central
+18011,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Boone County,Central
+18013,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Brown County,Outlying
+18057,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Hamilton County,Central
+18059,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Hancock County,Central
+18063,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Hendricks County,Central
+18081,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Johnson County,Central
+18095,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Madison County,Outlying
+18097,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Marion County,Central
+18109,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Morgan County,Central
+18145,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Shelby County,Outlying
+18159,26900,"Indianapolis-Carmel-Greenwood, IN",Indiana,Tipton County,Outlying
+28029,27140,"Jackson, MS",Mississippi,Copiah County,Outlying
+28049,27140,"Jackson, MS",Mississippi,Hinds County,Central
+28051,27140,"Jackson, MS",Mississippi,Holmes County,Outlying
+28089,27140,"Jackson, MS",Mississippi,Madison County,Central
+28121,27140,"Jackson, MS",Mississippi,Rankin County,Central
+28123,27140,"Jackson, MS",Mississippi,Scott County,Outlying
+28127,27140,"Jackson, MS",Mississippi,Simpson County,Outlying
+28163,27140,"Jackson, MS",Mississippi,Yazoo County,Outlying
+12003,27260,"Jacksonville, FL",Florida,Baker County,Outlying
+12019,27260,"Jacksonville, FL",Florida,Clay County,Central
+12031,27260,"Jacksonville, FL",Florida,Duval County,Central
+12089,27260,"Jacksonville, FL",Florida,Nassau County,Outlying
+12109,27260,"Jacksonville, FL",Florida,St. Johns County,Central
+20091,28140,"Kansas City, MO-KS",Kansas,Johnson County,Central
+20103,28140,"Kansas City, MO-KS",Kansas,Leavenworth County,Outlying
+20107,28140,"Kansas City, MO-KS",Kansas,Linn County,Outlying
+20121,28140,"Kansas City, MO-KS",Kansas,Miami County,Outlying
+20209,28140,"Kansas City, MO-KS",Kansas,Wyandotte County,Central
+29013,28140,"Kansas City, MO-KS",Missouri,Bates County,Outlying
+29025,28140,"Kansas City, MO-KS",Missouri,Caldwell County,Outlying
+29037,28140,"Kansas City, MO-KS",Missouri,Cass County,Central
+29047,28140,"Kansas City, MO-KS",Missouri,Clay County,Central
+29049,28140,"Kansas City, MO-KS",Missouri,Clinton County,Outlying
+29095,28140,"Kansas City, MO-KS",Missouri,Jackson County,Central
+29107,28140,"Kansas City, MO-KS",Missouri,Lafayette County,Outlying
+29165,28140,"Kansas City, MO-KS",Missouri,Platte County,Central
+29177,28140,"Kansas City, MO-KS",Missouri,Ray County,Outlying
+53005,28420,"Kennewick-Richland, WA",Washington,Benton County,Central
+53021,28420,"Kennewick-Richland, WA",Washington,Franklin County,Central
+48027,28660,"Killeen-Temple, TX",Texas,Bell County,Central
+48099,28660,"Killeen-Temple, TX",Texas,Coryell County,Central
+48281,28660,"Killeen-Temple, TX",Texas,Lampasas County,Outlying
+47073,28700,"Kingsport-Bristol, TN-VA",Tennessee,Hawkins County,Central
+47163,28700,"Kingsport-Bristol, TN-VA",Tennessee,Sullivan County,Central
+51169,28700,"Kingsport-Bristol, TN-VA",Virginia,Scott County,Outlying
+51191,28700,"Kingsport-Bristol, TN-VA",Virginia,Washington County,Outlying
+51520,28700,"Kingsport-Bristol, TN-VA",Virginia,Bristol city,Outlying
+36027,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",New York,Dutchess County,Central
+36071,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",New York,Orange County,Central
+47001,28940,"Knoxville, TN",Tennessee,Anderson County,Central
+47009,28940,"Knoxville, TN",Tennessee,Blount County,Central
+47013,28940,"Knoxville, TN",Tennessee,Campbell County,Outlying
+47057,28940,"Knoxville, TN",Tennessee,Grainger County,Outlying
+47093,28940,"Knoxville, TN",Tennessee,Knox County,Central
+47105,28940,"Knoxville, TN",Tennessee,Loudon County,Central
+47129,28940,"Knoxville, TN",Tennessee,Morgan County,Outlying
+47145,28940,"Knoxville, TN",Tennessee,Roane County,Outlying
+47173,28940,"Knoxville, TN",Tennessee,Union County,Outlying
+22001,29180,"Lafayette, LA",Louisiana,Acadia Parish,Outlying
+22055,29180,"Lafayette, LA",Louisiana,Lafayette Parish,Central
+22099,29180,"Lafayette, LA",Louisiana,St. Martin Parish,Outlying
+22113,29180,"Lafayette, LA",Louisiana,Vermilion Parish,Outlying
+12105,29460,"Lakeland-Winter Haven, FL",Florida,Polk County,Central
+42071,29540,"Lancaster, PA",Pennsylvania,Lancaster County,Central
+26037,29620,"Lansing-East Lansing, MI",Michigan,Clinton County,Central
+26045,29620,"Lansing-East Lansing, MI",Michigan,Eaton County,Central
+26065,29620,"Lansing-East Lansing, MI",Michigan,Ingham County,Central
+48479,29700,"Laredo, TX",Texas,Webb County,Central
+32003,29820,"Las Vegas-Henderson-North Las Vegas, NV",Nevada,Clark County,Central
+21017,30460,"Lexington-Fayette, KY",Kentucky,Bourbon County,Outlying
+21049,30460,"Lexington-Fayette, KY",Kentucky,Clark County,Outlying
+21067,30460,"Lexington-Fayette, KY",Kentucky,Fayette County,Central
+21113,30460,"Lexington-Fayette, KY",Kentucky,Jessamine County,Outlying
+21209,30460,"Lexington-Fayette, KY",Kentucky,Scott County,Outlying
+21239,30460,"Lexington-Fayette, KY",Kentucky,Woodford County,Outlying
+31109,30700,"Lincoln, NE",Nebraska,Lancaster County,Central
+31159,30700,"Lincoln, NE",Nebraska,Seward County,Outlying
+05045,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Faulkner County,Outlying
+05053,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Grant County,Outlying
+05085,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Lonoke County,Central
+05105,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Perry County,Outlying
+05119,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Pulaski County,Central
+05125,30780,"Little Rock-North Little Rock-Conway, AR",Arkansas,Saline County,Central
+48183,30980,"Longview, TX",Texas,Gregg County,Central
+48203,30980,"Longview, TX",Texas,Harrison County,Outlying
+48401,30980,"Longview, TX",Texas,Rusk County,Outlying
+48459,30980,"Longview, TX",Texas,Upshur County,Outlying
+06037,31080,"Los Angeles-Long Beach-Anaheim, CA",California,Los Angeles County,Central
+06059,31080,"Los Angeles-Long Beach-Anaheim, CA",California,Orange County,Central
+18019,31140,"Louisville/Jefferson County, KY-IN",Indiana,Clark County,Central
+18043,31140,"Louisville/Jefferson County, KY-IN",Indiana,Floyd County,Central
+18061,31140,"Louisville/Jefferson County, KY-IN",Indiana,Harrison County,Outlying
+18175,31140,"Louisville/Jefferson County, KY-IN",Indiana,Washington County,Outlying
+21029,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Bullitt County,Central
+21103,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Henry County,Outlying
+21111,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Jefferson County,Central
+21163,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Meade County,Outlying
+21179,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Nelson County,Outlying
+21185,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Oldham County,Central
+21211,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Shelby County,Outlying
+21215,31140,"Louisville/Jefferson County, KY-IN",Kentucky,Spencer County,Outlying
+48079,31180,"Lubbock, TX",Texas,Cochran County,Outlying
+48107,31180,"Lubbock, TX",Texas,Crosby County,Outlying
+48169,31180,"Lubbock, TX",Texas,Garza County,Outlying
+48219,31180,"Lubbock, TX",Texas,Hockley County,Outlying
+48303,31180,"Lubbock, TX",Texas,Lubbock County,Central
+48305,31180,"Lubbock, TX",Texas,Lynn County,Outlying
+51009,31340,"Lynchburg, VA",Virginia,Amherst County,Central
+51011,31340,"Lynchburg, VA",Virginia,Appomattox County,Outlying
+51019,31340,"Lynchburg, VA",Virginia,Bedford County,Central
+51031,31340,"Lynchburg, VA",Virginia,Campbell County,Central
+51680,31340,"Lynchburg, VA",Virginia,Lynchburg city,Central
+55021,31540,"Madison, WI",Wisconsin,Columbia County,Outlying
+55025,31540,"Madison, WI",Wisconsin,Dane County,Central
+55045,31540,"Madison, WI",Wisconsin,Green County,Outlying
+55049,31540,"Madison, WI",Wisconsin,Iowa County,Outlying
+33011,31700,"Manchester-Nashua, NH",New Hampshire,Hillsborough County,Central
+48215,32580,"McAllen-Edinburg-Mission, TX",Texas,Hidalgo County,Central
+41029,32780,"Medford, OR",Oregon,Jackson County,Central
+05035,32820,"Memphis, TN-MS-AR",Arkansas,Crittenden County,Central
+28009,32820,"Memphis, TN-MS-AR",Mississippi,Benton County,Outlying
+28033,32820,"Memphis, TN-MS-AR",Mississippi,DeSoto County,Central
+28093,32820,"Memphis, TN-MS-AR",Mississippi,Marshall County,Outlying
+28137,32820,"Memphis, TN-MS-AR",Mississippi,Tate County,Outlying
+28143,32820,"Memphis, TN-MS-AR",Mississippi,Tunica County,Outlying
+47047,32820,"Memphis, TN-MS-AR",Tennessee,Fayette County,Outlying
+47157,32820,"Memphis, TN-MS-AR",Tennessee,Shelby County,Central
+47167,32820,"Memphis, TN-MS-AR",Tennessee,Tipton County,Outlying
+12011,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,Broward County,Central
+12086,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,Miami-Dade County,Central
+12099,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Florida,Palm Beach County,Central
+48317,33260,"Midland, TX",Texas,Martin County,Outlying
+48329,33260,"Midland, TX",Texas,Midland County,Central
+55079,33340,"Milwaukee-Waukesha, WI",Wisconsin,Milwaukee County,Central
+55089,33340,"Milwaukee-Waukesha, WI",Wisconsin,Ozaukee County,Outlying
+55131,33340,"Milwaukee-Waukesha, WI",Wisconsin,Washington County,Outlying
+55133,33340,"Milwaukee-Waukesha, WI",Wisconsin,Waukesha County,Central
+27003,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Anoka County,Central
+27019,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Carver County,Central
+27025,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Chisago County,Outlying
+27037,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Dakota County,Central
+27053,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Hennepin County,Central
+27059,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Isanti County,Outlying
+27079,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Le Sueur County,Outlying
+27095,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Mille Lacs County,Outlying
+27123,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Ramsey County,Central
+27139,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Scott County,Central
+27141,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Sherburne County,Central
+27163,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Washington County,Central
+27171,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Minnesota,Wright County,Central
+55093,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Wisconsin,Pierce County,Outlying
+55109,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Wisconsin,St. Croix County,Outlying
+01097,33660,"Mobile, AL",Alabama,Mobile County,Central
+06099,33700,"Modesto, CA",California,Stanislaus County,Central
+01001,33860,"Montgomery, AL",Alabama,Autauga County,Central
+01051,33860,"Montgomery, AL",Alabama,Elmore County,Central
+01085,33860,"Montgomery, AL",Alabama,Lowndes County,Outlying
+01101,33860,"Montgomery, AL",Alabama,Montgomery County,Central
+45051,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",South Carolina,Horry County,Central
+12021,34940,"Naples-Marco Island, FL",Florida,Collier County,Central
+47015,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Cannon County,Outlying
+47021,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Cheatham County,Outlying
+47037,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Davidson County,Central
+47043,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Dickson County,Outlying
+47081,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Hickman County,Outlying
+47111,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Macon County,Outlying
+47119,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Maury County,Outlying
+47147,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Robertson County,Outlying
+47149,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Rutherford County,Outlying
+47159,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Smith County,Outlying
+47165,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Sumner County,Central
+47169,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Trousdale County,Outlying
+47187,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Williamson County,Central
+47189,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Tennessee,Wilson County,Central
+09170,35300,"New Haven, CT",Connecticut,South Central Connecticut Planning Region,Central
+22051,35380,"New Orleans-Metairie, LA",Louisiana,Jefferson Parish,Central
+22071,35380,"New Orleans-Metairie, LA",Louisiana,Orleans Parish,Central
+22075,35380,"New Orleans-Metairie, LA",Louisiana,Plaquemines Parish,Central
+22087,35380,"New Orleans-Metairie, LA",Louisiana,St. Bernard Parish,Central
+22089,35380,"New Orleans-Metairie, LA",Louisiana,St. Charles Parish,Central
+22093,35380,"New Orleans-Metairie, LA",Louisiana,St. James Parish,Central
+22095,35380,"New Orleans-Metairie, LA",Louisiana,St. John the Baptist Parish,Central
+34003,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Bergen County,Central
+34013,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Essex County,Central
+34017,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Hudson County,Central
+34019,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Hunterdon County,Outlying
+34023,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Middlesex County,Central
+34025,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Monmouth County,Central
+34027,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Morris County,Central
+34029,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Ocean County,Central
+34031,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Passaic County,Central
+34035,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Somerset County,Central
+34037,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Sussex County,Outlying
+34039,35620,"New York-Newark-Jersey City, NY-NJ",New Jersey,Union County,Central
+36005,35620,"New York-Newark-Jersey City, NY-NJ",New York,Bronx County,Central
+36047,35620,"New York-Newark-Jersey City, NY-NJ",New York,Kings County,Central
+36059,35620,"New York-Newark-Jersey City, NY-NJ",New York,Nassau County,Central
+36061,35620,"New York-Newark-Jersey City, NY-NJ",New York,New York County,Central
+36079,35620,"New York-Newark-Jersey City, NY-NJ",New York,Putnam County,Central
+36081,35620,"New York-Newark-Jersey City, NY-NJ",New York,Queens County,Central
+36085,35620,"New York-Newark-Jersey City, NY-NJ",New York,Richmond County,Central
+36087,35620,"New York-Newark-Jersey City, NY-NJ",New York,Rockland County,Central
+36103,35620,"New York-Newark-Jersey City, NY-NJ",New York,Suffolk County,Central
+36119,35620,"New York-Newark-Jersey City, NY-NJ",New York,Westchester County,Central
+12081,35840,"North Port-Bradenton-Sarasota, FL",Florida,Manatee County,Central
+12115,35840,"North Port-Bradenton-Sarasota, FL",Florida,Sarasota County,Central
+09180,35980,"Norwich-New London-Willimantic, CT",Connecticut,Southeastern Connecticut Planning Region,Central
+12083,36100,"Ocala, FL",Florida,Marion County,Central
+49011,36260,"Ogden, UT",Utah,Davis County,Central
+49029,36260,"Ogden, UT",Utah,Morgan County,Outlying
+49057,36260,"Ogden, UT",Utah,Weber County,Central
+40017,36420,"Oklahoma City, OK",Oklahoma,Canadian County,Central
+40027,36420,"Oklahoma City, OK",Oklahoma,Cleveland County,Central
+40051,36420,"Oklahoma City, OK",Oklahoma,Grady County,Outlying
+40081,36420,"Oklahoma City, OK",Oklahoma,Lincoln County,Outlying
+40083,36420,"Oklahoma City, OK",Oklahoma,Logan County,Central
+40087,36420,"Oklahoma City, OK",Oklahoma,McClain County,Outlying
+40109,36420,"Oklahoma City, OK",Oklahoma,Oklahoma County,Central
+53067,36500,"Olympia-Lacey-Tumwater, WA",Washington,Thurston County,Central
+19085,36540,"Omaha, NE-IA",Iowa,Harrison County,Outlying
+19129,36540,"Omaha, NE-IA",Iowa,Mills County,Outlying
+19155,36540,"Omaha, NE-IA",Iowa,Pottawattamie County,Central
+31025,36540,"Omaha, NE-IA",Nebraska,Cass County,Outlying
+31055,36540,"Omaha, NE-IA",Nebraska,Douglas County,Central
+31153,36540,"Omaha, NE-IA",Nebraska,Sarpy County,Central
+31155,36540,"Omaha, NE-IA",Nebraska,Saunders County,Outlying
+31177,36540,"Omaha, NE-IA",Nebraska,Washington County,Outlying
+12069,36740,"Orlando-Kissimmee-Sanford, FL",Florida,Lake County,Outlying
+12095,36740,"Orlando-Kissimmee-Sanford, FL",Florida,Orange County,Central
+12097,36740,"Orlando-Kissimmee-Sanford, FL",Florida,Osceola County,Outlying
+12117,36740,"Orlando-Kissimmee-Sanford, FL",Florida,Seminole County,Central
+06111,37100,"Oxnard-Thousand Oaks-Ventura, CA",California,Ventura County,Central
+12009,37340,"Palm Bay-Melbourne-Titusville, FL",Florida,Brevard County,Central
+12033,37860,"Pensacola-Ferry Pass-Brent, FL",Florida,Escambia County,Central
+12113,37860,"Pensacola-Ferry Pass-Brent, FL",Florida,Santa Rosa County,Central
+17123,37900,"Peoria, IL",Illinois,Marshall County,Outlying
+17143,37900,"Peoria, IL",Illinois,Peoria County,Central
+17175,37900,"Peoria, IL",Illinois,Stark County,Outlying
+17179,37900,"Peoria, IL",Illinois,Tazewell County,Central
+17203,37900,"Peoria, IL",Illinois,Woodford County,Central
+10003,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware,New Castle County,Central
+24015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Maryland,Cecil County,Central
+34005,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Burlington County,Central
+34007,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Camden County,Central
+34015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Gloucester County,Central
+34033,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Salem County,Central
+42017,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Bucks County,Central
+42029,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Chester County,Central
+42045,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Delaware County,Central
+42091,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Montgomery County,Central
+42101,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Philadelphia County,Central
+04013,38060,"Phoenix-Mesa-Chandler, AZ",Arizona,Maricopa County,Central
+04021,38060,"Phoenix-Mesa-Chandler, AZ",Arizona,Pinal County,Central
+42003,38300,"Pittsburgh, PA",Pennsylvania,Allegheny County,Central
+42005,38300,"Pittsburgh, PA",Pennsylvania,Armstrong County,Outlying
+42007,38300,"Pittsburgh, PA",Pennsylvania,Beaver County,Central
+42019,38300,"Pittsburgh, PA",Pennsylvania,Butler County,Central
+42051,38300,"Pittsburgh, PA",Pennsylvania,Fayette County,Outlying
+42073,38300,"Pittsburgh, PA",Pennsylvania,Lawrence County,Outlying
+42125,38300,"Pittsburgh, PA",Pennsylvania,Washington County,Central
+42129,38300,"Pittsburgh, PA",Pennsylvania,Westmoreland County,Central
+23005,38860,"Portland-South Portland, ME",Maine,Cumberland County,Central
+23023,38860,"Portland-South Portland, ME",Maine,Sagadahoc County,Outlying
+23031,38860,"Portland-South Portland, ME",Maine,York County,Central
+41005,38900,"Portland-Vancouver-Hillsboro, OR-WA",Oregon,Clackamas County,Central
+41009,38900,"Portland-Vancouver-Hillsboro, OR-WA",Oregon,Columbia County,Outlying
+41051,38900,"Portland-Vancouver-Hillsboro, OR-WA",Oregon,Multnomah County,Central
+41067,38900,"Portland-Vancouver-Hillsboro, OR-WA",Oregon,Washington County,Central
+41071,38900,"Portland-Vancouver-Hillsboro, OR-WA",Oregon,Yamhill County,Outlying
+53011,38900,"Portland-Vancouver-Hillsboro, OR-WA",Washington,Clark County,Central
+53059,38900,"Portland-Vancouver-Hillsboro, OR-WA",Washington,Skamania County,Outlying
+12085,38940,"Port St. Lucie, FL",Florida,Martin County,Central
+12111,38940,"Port St. Lucie, FL",Florida,St. Lucie County,Central
+04025,39150,"Prescott Valley-Prescott, AZ",Arizona,Yavapai County,Central
+25005,39300,"Providence-Warwick, RI-MA",Massachusetts,Bristol County,Central
+44001,39300,"Providence-Warwick, RI-MA",Rhode Island,Bristol County,Central
+44003,39300,"Providence-Warwick, RI-MA",Rhode Island,Kent County,Central
+44005,39300,"Providence-Warwick, RI-MA",Rhode Island,Newport County,Central
+44007,39300,"Providence-Warwick, RI-MA",Rhode Island,Providence County,Central
+44009,39300,"Providence-Warwick, RI-MA",Rhode Island,Washington County,Central
+49023,39340,"Provo-Orem-Lehi, UT",Utah,Juab County,Outlying
+49049,39340,"Provo-Orem-Lehi, UT",Utah,Utah County,Central
+37069,39580,"Raleigh-Cary, NC",North Carolina,Franklin County,Central
+37101,39580,"Raleigh-Cary, NC",North Carolina,Johnston County,Outlying
+37183,39580,"Raleigh-Cary, NC",North Carolina,Wake County,Central
+42011,39740,"Reading, PA",Pennsylvania,Berks County,Central
+32019,39900,"Reno, NV",Nevada,Lyon County,Outlying
+32029,39900,"Reno, NV",Nevada,Storey County,Outlying
+32031,39900,"Reno, NV",Nevada,Washoe County,Central
+51007,40060,"Richmond, VA",Virginia,Amelia County,Outlying
+51036,40060,"Richmond, VA",Virginia,Charles City County,Outlying
+51041,40060,"Richmond, VA",Virginia,Chesterfield County,Central
+51053,40060,"Richmond, VA",Virginia,Dinwiddie County,Central
+51075,40060,"Richmond, VA",Virginia,Goochland County,Outlying
+51085,40060,"Richmond, VA",Virginia,Hanover County,Central
+51087,40060,"Richmond, VA",Virginia,Henrico County,Central
+51097,40060,"Richmond, VA",Virginia,King and Queen County,Outlying
+51101,40060,"Richmond, VA",Virginia,King William County,Outlying
+51127,40060,"Richmond, VA",Virginia,New Kent County,Outlying
+51145,40060,"Richmond, VA",Virginia,Powhatan County,Outlying
+51149,40060,"Richmond, VA",Virginia,Prince George County,Central
+51183,40060,"Richmond, VA",Virginia,Sussex County,Outlying
+51570,40060,"Richmond, VA",Virginia,Colonial Heights city,Central
+51670,40060,"Richmond, VA",Virginia,Hopewell city,Central
+51730,40060,"Richmond, VA",Virginia,Petersburg city,Central
+51760,40060,"Richmond, VA",Virginia,Richmond city,Central
+06065,40140,"Riverside-San Bernardino-Ontario, CA",California,Riverside County,Central
+06071,40140,"Riverside-San Bernardino-Ontario, CA",California,San Bernardino County,Central
+51023,40220,"Roanoke, VA",Virginia,Botetourt County,Central
+51045,40220,"Roanoke, VA",Virginia,Craig County,Outlying
+51067,40220,"Roanoke, VA",Virginia,Franklin County,Outlying
+51161,40220,"Roanoke, VA",Virginia,Roanoke County,Central
+51770,40220,"Roanoke, VA",Virginia,Roanoke city,Central
+51775,40220,"Roanoke, VA",Virginia,Salem city,Central
+36051,40380,"Rochester, NY",New York,Livingston County,Outlying
+36055,40380,"Rochester, NY",New York,Monroe County,Central
+36069,40380,"Rochester, NY",New York,Ontario County,Central
+36073,40380,"Rochester, NY",New York,Orleans County,Outlying
+36117,40380,"Rochester, NY",New York,Wayne County,Outlying
+17007,40420,"Rockford, IL",Illinois,Boone County,Central
+17201,40420,"Rockford, IL",Illinois,Winnebago County,Central
+06017,40900,"Sacramento-Roseville-Folsom, CA",California,El Dorado County,Central
+06061,40900,"Sacramento-Roseville-Folsom, CA",California,Placer County,Central
+06067,40900,"Sacramento-Roseville-Folsom, CA",California,Sacramento County,Central
+06113,40900,"Sacramento-Roseville-Folsom, CA",California,Yolo County,Outlying
+49053,41100,"St. George, UT",Utah,Washington County,Central
+17005,41180,"St. Louis, MO-IL",Illinois,Bond County,Outlying
+17013,41180,"St. Louis, MO-IL",Illinois,Calhoun County,Outlying
+17027,41180,"St. Louis, MO-IL",Illinois,Clinton County,Outlying
+17083,41180,"St. Louis, MO-IL",Illinois,Jersey County,Outlying
+17117,41180,"St. Louis, MO-IL",Illinois,Macoupin County,Outlying
+17119,41180,"St. Louis, MO-IL",Illinois,Madison County,Central
+17133,41180,"St. Louis, MO-IL",Illinois,Monroe County,Central
+17163,41180,"St. Louis, MO-IL",Illinois,St. Clair County,Central
+29071,41180,"St. Louis, MO-IL",Missouri,Franklin County,Outlying
+29099,41180,"St. Louis, MO-IL",Missouri,Jefferson County,Central
+29113,41180,"St. Louis, MO-IL",Missouri,Lincoln County,Outlying
+29183,41180,"St. Louis, MO-IL",Missouri,St. Charles County,Central
+29189,41180,"St. Louis, MO-IL",Missouri,St. Louis County,Central
+29219,41180,"St. Louis, MO-IL",Missouri,Warren County,Outlying
+29510,41180,"St. Louis, MO-IL",Missouri,St. Louis city,Central
+41047,41420,"Salem, OR",Oregon,Marion County,Central
+41053,41420,"Salem, OR",Oregon,Polk County,Central
+06053,41500,"Salinas, CA",California,Monterey County,Central
+49035,41620,"Salt Lake City-Murray, UT",Utah,Salt Lake County,Central
+49045,41620,"Salt Lake City-Murray, UT",Utah,Tooele County,Outlying
+48013,41700,"San Antonio-New Braunfels, TX",Texas,Atascosa County,Outlying
+48019,41700,"San Antonio-New Braunfels, TX",Texas,Bandera County,Outlying
+48029,41700,"San Antonio-New Braunfels, TX",Texas,Bexar County,Central
+48091,41700,"San Antonio-New Braunfels, TX",Texas,Comal County,Outlying
+48187,41700,"San Antonio-New Braunfels, TX",Texas,Guadalupe County,Central
+48259,41700,"San Antonio-New Braunfels, TX",Texas,Kendall County,Outlying
+48325,41700,"San Antonio-New Braunfels, TX",Texas,Medina County,Outlying
+48493,41700,"San Antonio-New Braunfels, TX",Texas,Wilson County,Outlying
+06073,41740,"San Diego-Chula Vista-Carlsbad, CA",California,San Diego County,Central
+06001,41860,"San Francisco-Oakland-Fremont, CA",California,Alameda County,Central
+06013,41860,"San Francisco-Oakland-Fremont, CA",California,Contra Costa County,Outlying
+06041,41860,"San Francisco-Oakland-Fremont, CA",California,Marin County,Central
+06075,41860,"San Francisco-Oakland-Fremont, CA",California,San Francisco County,Central
+06081,41860,"San Francisco-Oakland-Fremont, CA",California,San Mateo County,Central
+06069,41940,"San Jose-Sunnyvale-Santa Clara, CA",California,San Benito County,Outlying
+06085,41940,"San Jose-Sunnyvale-Santa Clara, CA",California,Santa Clara County,Central
+06079,42020,"San Luis Obispo-Paso Robles, CA",California,San Luis Obispo County,Central
+06087,42100,"Santa Cruz-Watsonville, CA",California,Santa Cruz County,Central
+06083,42200,"Santa Maria-Santa Barbara, CA",California,Santa Barbara County,Central
+06097,42220,"Santa Rosa-Petaluma, CA",California,Sonoma County,Central
+13029,42340,"Savannah, GA",Georgia,Bryan County,Central
+13051,42340,"Savannah, GA",Georgia,Chatham County,Central
+13103,42340,"Savannah, GA",Georgia,Effingham County,Outlying
+42069,42540,"Scranton--Wilkes-Barre, PA",Pennsylvania,Lackawanna County,Central
+42079,42540,"Scranton--Wilkes-Barre, PA",Pennsylvania,Luzerne County,Central
+42131,42540,"Scranton--Wilkes-Barre, PA",Pennsylvania,Wyoming County,Outlying
+53033,42660,"Seattle-Tacoma-Bellevue, WA",Washington,King County,Central
+53053,42660,"Seattle-Tacoma-Bellevue, WA",Washington,Pierce County,Central
+53061,42660,"Seattle-Tacoma-Bellevue, WA",Washington,Snohomish County,Central
+22015,43340,"Shreveport-Bossier City, LA",Louisiana,Bossier Parish,Central
+22017,43340,"Shreveport-Bossier City, LA",Louisiana,Caddo Parish,Central
+22031,43340,"Shreveport-Bossier City, LA",Louisiana,De Soto Parish,Outlying
+27133,43620,"Sioux Falls, SD-MN",Minnesota,Rock County,Outlying
+46083,43620,"Sioux Falls, SD-MN",South Dakota,Lincoln County,Central
+46087,43620,"Sioux Falls, SD-MN",South Dakota,McCook County,Outlying
+46099,43620,"Sioux Falls, SD-MN",South Dakota,Minnehaha County,Central
+46125,43620,"Sioux Falls, SD-MN",South Dakota,Turner County,Outlying
+22103,43640,"Slidell-Mandeville-Covington, LA",Louisiana,St. Tammany Parish,Central
+18141,43780,"South Bend-Mishawaka, IN-MI",Indiana,St. Joseph County,Central
+26027,43780,"South Bend-Mishawaka, IN-MI",Michigan,Cass County,Central
+45083,43900,"Spartanburg, SC",South Carolina,Spartanburg County,Central
+45087,43900,"Spartanburg, SC",South Carolina,Union County,Outlying
+53063,44060,"Spokane-Spokane Valley, WA",Washington,Spokane County,Central
+53065,44060,"Spokane-Spokane Valley, WA",Washington,Stevens County,Outlying
+25013,44140,"Springfield, MA",Massachusetts,Hampden County,Central
+29043,44180,"Springfield, MO",Missouri,Christian County,Central
+29059,44180,"Springfield, MO",Missouri,Dallas County,Outlying
+29077,44180,"Springfield, MO",Missouri,Greene County,Central
+29167,44180,"Springfield, MO",Missouri,Polk County,Outlying
+29225,44180,"Springfield, MO",Missouri,Webster County,Outlying
+06077,44700,"Stockton-Lodi, CA",California,San Joaquin County,Central
+36053,45060,"Syracuse, NY",New York,Madison County,Outlying
+36067,45060,"Syracuse, NY",New York,Onondaga County,Central
+36075,45060,"Syracuse, NY",New York,Oswego County,Outlying
+12039,45220,"Tallahassee, FL",Florida,Gadsden County,Outlying
+12065,45220,"Tallahassee, FL",Florida,Jefferson County,Outlying
+12073,45220,"Tallahassee, FL",Florida,Leon County,Central
+12129,45220,"Tallahassee, FL",Florida,Wakulla County,Outlying
+12053,45300,"Tampa-St. Petersburg-Clearwater, FL",Florida,Hernando County,Outlying
+12057,45300,"Tampa-St. Petersburg-Clearwater, FL",Florida,Hillsborough County,Central
+12101,45300,"Tampa-St. Petersburg-Clearwater, FL",Florida,Pasco County,Central
+12103,45300,"Tampa-St. Petersburg-Clearwater, FL",Florida,Pinellas County,Central
+39051,45780,"Toledo, OH",Ohio,Fulton County,Outlying
+39095,45780,"Toledo, OH",Ohio,Lucas County,Central
+39173,45780,"Toledo, OH",Ohio,Wood County,Central
+34021,45940,"Trenton-Princeton, NJ",New Jersey,Mercer County,Central
+04019,46060,"Tucson, AZ",Arizona,Pima County,Central
+40037,46140,"Tulsa, OK",Oklahoma,Creek County,Central
+40111,46140,"Tulsa, OK",Oklahoma,Okmulgee County,Outlying
+40113,46140,"Tulsa, OK",Oklahoma,Osage County,Central
+40117,46140,"Tulsa, OK",Oklahoma,Pawnee County,Outlying
+40131,46140,"Tulsa, OK",Oklahoma,Rogers County,Outlying
+40143,46140,"Tulsa, OK",Oklahoma,Tulsa County,Central
+40145,46140,"Tulsa, OK",Oklahoma,Wagoner County,Central
+48423,46340,"Tyler, TX",Texas,Smith County,Central
+15003,46520,"Urban Honolulu, HI",Hawaii,Honolulu County,Central
+06095,46700,"Vallejo, CA",California,Solano County,Central
+37029,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina,Camden County,Outlying
+37053,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina,Currituck County,Outlying
+37073,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",North Carolina,Gates County,Outlying
+51073,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Gloucester County,Central
+51093,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Isle of Wight County,Central
+51095,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,James City County,Outlying
+51115,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Mathews County,Outlying
+51181,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Surry County,Outlying
+51199,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,York County,Central
+51550,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Chesapeake city,Central
+51650,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Hampton city,Central
+51700,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Newport News city,Central
+51710,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Norfolk city,Central
+51735,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Poquoson city,Central
+51740,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Portsmouth city,Central
+51800,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Suffolk city,Outlying
+51810,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Virginia Beach city,Central
+51830,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Virginia,Williamsburg city,Outlying
+06107,47300,"Visalia, CA",California,Tulare County,Central
+48035,47380,"Waco, TX",Texas,Bosque County,Outlying
+48145,47380,"Waco, TX",Texas,Falls County,Outlying
+48309,47380,"Waco, TX",Texas,McLennan County,Central
+11001,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia,District of Columbia,Central
+24017,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Charles County,Outlying
+24021,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Frederick County,Outlying
+24031,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Montgomery County,Central
+24033,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Prince George's County,Central
+51013,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Arlington County,Central
+51043,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Clarke County,Outlying
+51047,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Culpeper County,Outlying
+51059,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Fairfax County,Central
+51061,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Fauquier County,Outlying
+51107,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Loudoun County,Central
+51153,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Prince William County,Central
+51157,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Rappahannock County,Outlying
+51177,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Spotsylvania County,Outlying
+51179,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Stafford County,Central
+51187,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Warren County,Outlying
+51510,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Alexandria city,Central
+51600,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Fairfax city,Central
+51610,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Falls Church city,Central
+51630,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Fredericksburg city,Outlying
+51683,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Manassas city,Central
+51685,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Manassas Park city,Central
+54037,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",West Virginia,Jefferson County,Outlying
+09140,47930,"Waterbury-Shelton, CT",Connecticut,Naugatuck Valley Planning Region,Central
+20015,48620,"Wichita, KS",Kansas,Butler County,Central
+20079,48620,"Wichita, KS",Kansas,Harvey County,Outlying
+20173,48620,"Wichita, KS",Kansas,Sedgwick County,Central
+20191,48620,"Wichita, KS",Kansas,Sumner County,Outlying
+37019,48900,"Wilmington, NC",North Carolina,Brunswick County,Central
+37129,48900,"Wilmington, NC",North Carolina,New Hanover County,Central
+37141,48900,"Wilmington, NC",North Carolina,Pender County,Outlying
+37057,49180,"Winston-Salem, NC",North Carolina,Davidson County,Central
+37059,49180,"Winston-Salem, NC",North Carolina,Davie County,Central
+37067,49180,"Winston-Salem, NC",North Carolina,Forsyth County,Central
+37169,49180,"Winston-Salem, NC",North Carolina,Stokes County,Central
+37197,49180,"Winston-Salem, NC",North Carolina,Yadkin County,Outlying
+25027,49340,"Worcester, MA",Massachusetts,Worcester County,Central
+42133,49620,"York-Hanover, PA",Pennsylvania,York County,Central
+39099,49660,"Youngstown-Warren, OH",Ohio,Mahoning County,Central
+39155,49660,"Youngstown-Warren, OH",Ohio,Trumbull County,Central

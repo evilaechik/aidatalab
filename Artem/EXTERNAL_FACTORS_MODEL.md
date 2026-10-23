@@ -1,5 +1,10 @@
 # External-factor entry model: no prior entry-rate feature
 
+> **Scope note:** This model predicts Census employer-establishment entry, a
+> broad business-dynamism measure. It is a separate exploratory analysis and is
+> **not** the project’s major-company outcome. The Fortune 500 office/HQ target
+> is documented in `data/big_business_presence/`.
+
 ## Purpose
 
 This is the first model aimed at the project’s explanatory question: *what workforce and industry conditions are associated with future employer-establishment entry?*
