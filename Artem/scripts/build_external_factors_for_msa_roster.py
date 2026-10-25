@@ -34,6 +34,17 @@ DEFAULT_TAX = (
 def build_membership(roster_path: Path, crosswalk_path: Path) -> pd.DataFrame:
     roster = pd.read_csv(roster_path, dtype={"msa": str})
     crosswalk = pd.read_csv(crosswalk_path, dtype={"county_fips": str, "msa_cbsa": str})
+    # The original national Top-100 crosswalk predates the reusable roster
+    # builder and uses the legacy ``msa``, ``county``, and ``state`` headers.
+    # Normalize it here so both that roster and newer MSA-scoped crosswalks
+    # follow the same factor-construction path.
+    crosswalk = crosswalk.rename(
+        columns={
+            "msa": "msa_cbsa",
+            "county": "county_name",
+            "state": "county_state",
+        }
+    )
     required = {"msa", "msa_title", "member_states"}
     missing_roster = required - set(roster.columns)
     required_crosswalk = {"county_fips", "msa_cbsa", "division_msa", "county_state", "county_name"}

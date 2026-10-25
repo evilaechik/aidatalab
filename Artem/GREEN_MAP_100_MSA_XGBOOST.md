@@ -1,5 +1,12 @@
 # Green-Map 100-MSA Fortune Presence Experiment
 
+> **Status update:** This document preserves the original experiment. Later
+> auditing found incomplete company and geographic coverage plus name-matching
+> errors in the underlying Data Axle export. Do not use the results below as
+> findings or policy weights. Start with
+> `Artem/INVEST_ATLANTA_RESEARCH_DISCOVERIES.md` and
+> `Artem/FORTUNE100_NATIONAL_COVERAGE_AUDIT.md` instead.
+
 ## Purpose
 
 This is an exploratory comparison of Atlanta with the 100 largest MSAs wholly
@@ -119,6 +126,92 @@ These are model associations. They are not recommendations to raise or lower
 taxes, nor proof that house-price growth attracts companies. The large
 uncertainty across folds reinforces that caution.
 
+## Optuna tuning and SHAP explanation check
+
+On 2026-10-25, the model was rerun with Optuna and SHAP as a robustness and
+explainability check.
+
+- Optuna tested 40 constrained parameter combinations inside each outer
+  training fold. Each candidate was evaluated with three inner folds.
+- Five outer held-out folds remained untouched by tuning.
+- SHAP values were calculated only for those outer-fold held-out predictions.
+  This means the explanation table does not describe a model that already saw
+  the MSA being explained.
+
+| Model | Held-out MSAs | MAE (companies) | RMSE (companies) | Held-out R² |
+| --- | ---: | ---: | ---: | ---: |
+| Optuna-tuned XGBoost | 99 | 5.93 | 7.78 | 0.53 |
+| Fixed-parameter XGBoost | 99 | 7.15 | 9.40 | 0.31 |
+| Training-mean baseline | 99 | 9.20 | 11.58 | -0.04 |
+
+The tuning result is better than the fixed setting, but it remains a result on
+the screened candidate-location proxy. It should not be described as a
+forecast of verified office growth or as proof that any policy lever works.
+
+Out-of-fold SHAP ranked the same general factors near the top: employment-
+weighted corporate tax rate, metro employment scale, FHFA house-price growth,
+and finance employment share. SHAP shows the contribution of a feature to the
+model’s prediction after accounting for the other variables; it does **not**
+establish that changing the feature would change business presence.
+
+For Atlanta’s held-out case, the tuned model predicted about 32.9 screened
+candidate companies versus 61 observed in the extract. House-price growth,
+employment scale, the tax-rate feature, and finance share pushed that model
+prediction upward. The still-large residual is another reason to treat the
+extract as a data-quality diagnostic rather than an Atlanta performance score.
+
+## Actionable housing feature check
+
+We added two 2024 Census Building Permits Survey features for every MSA:
+
+- authorized residential units per 1,000 QCEW jobs; and
+- the share of authorized units in multifamily buildings.
+
+These are policy-adjacent housing-supply indicators, not measures of office
+space, commercial permitting speed, affordability, or a direct policy effect.
+The normalized intensity measure prevents raw permit totals from merely
+reflecting metro size.
+
+The same nested Optuna / held-out SHAP workflow was rerun using the two added
+features. On this one held-out split, its results were less accurate than the
+context-only tuned model:
+
+| Model | Held-out MSAs | MAE (companies) | RMSE (companies) | Held-out R² |
+| --- | ---: | ---: | ---: | ---: |
+| Tuned XGBoost + housing features | 99 | 6.65 | 8.83 | 0.39 |
+| Context-only tuned XGBoost | 99 | 5.93 | 7.78 | 0.53 |
+| Training-mean baseline | 99 | 9.20 | 11.58 | -0.04 |
+
+Housing-permit intensity placed fifth in out-of-fold SHAP importance (0.113),
+and multifamily share placed eighth (0.052), but the overall test did not
+improve held-out prediction. We should retain the features for peer
+scorecards and local strategy—not call them causal weights or claim that they
+are a validated explanation of corporate location.
+
+The data, collection status, and next policy-facing variables are documented
+in [`ACTIONABLE_METRO_FEATURES.md`](ACTIONABLE_METRO_FEATURES.md).
+
+## Talent feature and linear-model check
+
+IPEDS 2024 institutional-completions data added one normalized talent feature:
+bachelor's-or-higher business/STEM completions per 1,000 QCEW jobs. It is
+assigned to the MSA of the reporting college or university, not the graduate's
+home or employment location. Atlanta's value is 12.1 per 1,000 jobs.
+
+With housing and talent features together, tuned XGBoost achieved held-out MAE
+of 6.14 and R² of 0.48. That recovered part of the housing-only performance
+(MAE 6.65, R² 0.39), but remained below the context-only result (MAE 5.93, R²
+0.53). The graduate feature ranked sixth in out-of-fold SHAP importance (0.097)
+behind housing-permit intensity (fifth, 0.104).
+
+For an equal-footing linear benchmark, the script also fits ordinary linear
+regression and a training-fold-tuned Ridge regression in the same outer folds.
+On the context-only feature set, Ridge reached R² 0.37 and ordinary linear
+regression 0.23; both remained below tuned XGBoost at 0.53. With housing and
+talent added, Ridge fell to 0.11 and ordinary linear regression to -0.02,
+while XGBoost was 0.48. Therefore XGBoost remains the better diagnostic model,
+but none of the model outputs should be called a causal policy estimate.
+
 ## Atlanta diagnostic
 
 Atlanta has 61 screened Fortune 100 candidate companies in this extract. Its
@@ -137,12 +230,15 @@ Public-data scripts:
 
 - [`build_map_green_state_msa_roster.py`](scripts/build_map_green_state_msa_roster.py)
 - [`build_external_factors_for_msa_roster.py`](scripts/build_external_factors_for_msa_roster.py)
+- [`build_actionable_housing_features.py`](scripts/build_actionable_housing_features.py)
+- [`build_ipeds_talent_features.py`](scripts/build_ipeds_talent_features.py)
 
 Local-only licensed-data scripts:
 
 - [`ingest_arcgis_data_axle_exports.py`](scripts/ingest_arcgis_data_axle_exports.py)
 - [`assign_data_axle_locations_to_msas.py`](scripts/assign_data_axle_locations_to_msas.py)
 - [`run_fortune100_candidate_xgboost.py`](scripts/run_fortune100_candidate_xgboost.py)
+- [`run_fortune100_optuna_shap.py`](scripts/run_fortune100_optuna_shap.py)
 
 ## Recommended next step
 
