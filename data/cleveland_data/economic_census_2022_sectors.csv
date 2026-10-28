@@ -1,0 +1,16 @@
+city_name,metro_cbsa,NAICS_CODE,NAICS_LABEL,NAICS_VINTAGE,PAYANN_IMP,TYPOP,PAYQTR1_F,RCPTOT_F,NAICS2022_F,EMP_IMP,YEAR,RCPTOT,FIRM_F,GEO_ID_F,FIRM,EMP_F,ESTAB_F,PAYQTR1,TAXSTAT_LABEL,EMP,PAYANN_IMP_F,PAYANN_F,TAXSTAT,NAME,TYPOP_LABEL,GEO_ID,ESTAB,RCPTOT_IMP,EMP_IMP_F,PAYANN,RCPTOT_IMP_F
+Cleveland,17410,22,Utilities,2022,0,00,,,,0,2022,2139561,,,28,,,106276,All establishments,3141,3,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,78,0,4,323836,0
+Cleveland,17410,31-33,Manufacturing,2022,0,00,,,,0,2022,51906971,,,2811,,,1972854,All establishments,123462,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,3041,0,2,8039846,2
+Cleveland,17410,42,Wholesale trade,2022,0,00,,,,0,2022,54823192,,,2500,,,919710,All establishments,46850,2,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,2795,0,2,3676642,3
+Cleveland,17410,44-45,Retail trade,2022,0,00,,,,0,2022,41863191,,,4077,,,1007326,All establishments,123605,3,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,6426,0,3,4221670,1
+Cleveland,17410,48-49,Transportation and warehousing,2022,0,00,,,107,0,2022,7848955,,,1477,,,397157,All establishments,29560,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,1643,0,2,1683343,2
+Cleveland,17410,51,Information,2022,0,00,,,,0,2022,7137323,,,527,,,436317,All establishments,28478,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,915,0,1,1842557,5
+Cleveland,17410,52,Finance and insurance,2022,0,00,,,115,0,2022,41943061,,,1853,,,1791749,All establishments,54944,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,3166,0,3,5548497,0
+Cleveland,17410,53,Real estate and rental and leasing,2022,0,00,,,,0,2022,5276395,,,1938,,,242537,All establishments,16030,2,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,2425,0,2,950232,3
+Cleveland,17410,54,"Professional, scientific, and technical services",2022,0,00,,,,0,2022,13459055,,,5264,,,1155336,All establishments,61592,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,5573,0,2,4940282,2
+Cleveland,17410,56,Administrative and support and waste management and remediation services,2022,0,00,,,,0,2022,8606031,,,2868,,,880972,All establishments,79208,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,3218,0,2,3909305,3
+Cleveland,17410,61,Educational services,2022,0,00,,,117,0,2022,353481,,,463,,,26629,All establishments,4206,0,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,491,0,1,115490,1
+Cleveland,17410,62,Health care and social assistance,2022,0,00,,,,0,2022,26476555,,,4080,,,2552265,All establishments,178002,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,5915,0,1,10922099,1
+Cleveland,17410,71,"Arts, entertainment, and recreation",2022,0,00,,,,0,2022,2988543,,,762,,,269528,All establishments,16640,0,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,811,0,0,1222413,0
+Cleveland,17410,72,Accommodation and food services,2022,0,00,,,,0,2022,5904347,,,3847,,,389677,All establishments,86228,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,4952,0,1,1720913,2
+Cleveland,17410,81,Other services (except public administration),2022,0,00,,,119,0,2022,3812632,,,3478,,,236984,All establishments,26247,1,,00,"Cleveland, OH Metro Area",All establishments,310M700US17410,3969,0,1,1031714,1

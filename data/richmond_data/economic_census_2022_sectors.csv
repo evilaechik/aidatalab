@@ -1,0 +1,16 @@
+city_name,metro_cbsa,NAICS_CODE,NAICS_LABEL,NAICS_VINTAGE,PAYANN_IMP,TYPOP,PAYQTR1_F,RCPTOT_F,NAICS2022_F,EMP_IMP,YEAR,RCPTOT,FIRM_F,GEO_ID_F,FIRM,EMP_F,ESTAB_F,PAYQTR1,TAXSTAT_LABEL,EMP,PAYANN_IMP_F,PAYANN_F,TAXSTAT,NAME,TYPOP_LABEL,GEO_ID,ESTAB,RCPTOT_IMP,EMP_IMP_F,PAYANN,RCPTOT_IMP_F
+Richmond,40060,22,Utilities,2022,0,00,,,,0,2022,5374210,,,32,,,254842,All establishments,6424,9,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,89,0,9,739956,0
+Richmond,40060,31-33,Manufacturing,2022,0,00,,,,0,2022,32529066,,,805,,,532459,All establishments,32247,3,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,871,0,3,2178869,2
+Richmond,40060,42,Wholesale trade,2022,0,00,,,,0,2022,39811782,,,1239,,,497166,All establishments,26797,3,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,1442,0,3,2063686,1
+Richmond,40060,44-45,Retail trade,2022,0,00,,,,0,2022,26706009,,,2601,,,730815,All establishments,88552,4,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,4022,0,4,3038064,1
+Richmond,40060,48-49,Transportation and warehousing,2022,0,00,,,107,0,2022,4279859,,,997,,,340241,All establishments,27986,3,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,1124,0,3,1420213,3
+Richmond,40060,51,Information,2022,0,00,,,,0,2022,3740347,,,321,,,210718,All establishments,10050,3,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,555,0,2,714876,2
+Richmond,40060,52,Finance and insurance,2022,0,00,,,115,0,2022,61485595,,,1228,,,1771470,All establishments,48316,3,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,2013,0,3,5499672,0
+Richmond,40060,53,Real estate and rental and leasing,2022,0,00,,,,0,2022,5242685,,,1406,,,178789,All establishments,10728,2,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,1888,0,2,724399,1
+Richmond,40060,54,"Professional, scientific, and technical services",2022,0,00,,,,0,2022,8458187,,,3649,,,830952,All establishments,42841,2,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,3849,0,3,3478910,3
+Richmond,40060,56,Administrative and support and waste management and remediation services,2022,0,00,,,,0,2022,4662666,,,1718,,,460150,All establishments,41657,2,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,1991,0,2,1970792,4
+Richmond,40060,61,Educational services,2022,0,00,,,117,0,2022,356033,,,398,,,25401,All establishments,3118,0,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,410,0,1,110982,1
+Richmond,40060,62,Health care and social assistance,2022,0,00,,,,0,2022,13517290,,,2751,,,1210112,All establishments,85507,2,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,3687,0,3,5227626,4
+Richmond,40060,71,"Arts, entertainment, and recreation",2022,0,00,,,,0,2022,1019736,,,515,,,60368,All establishments,12167,1,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,559,0,1,291994,2
+Richmond,40060,72,Accommodation and food services,2022,0,00,,,,0,2022,3991715,,,2107,,,267396,All establishments,53275,1,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,2890,0,1,1176725,2
+Richmond,40060,81,Other services (except public administration),2022,0,00,,,119,0,2022,2790444,,,2437,,,174858,All establishments,17874,0,,00,"Richmond, VA Metro Area",All establishments,310M700US40060,2657,0,1,767643,1

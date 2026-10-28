@@ -1,0 +1,602 @@
+{
+  "verified_date": "2026-10-27",
+  "city_label": "San Antonio",
+  "metro_cbsa": "41700",
+  "metro_name": "San Antonio-New Braunfels, TX",
+  "county_delineation": "OMB July 2023",
+  "constituent_counties": {
+    "48013": "Atascosa County, Texas",
+    "48019": "Bandera County, Texas",
+    "48029": "Bexar County, Texas",
+    "48091": "Comal County, Texas",
+    "48187": "Guadalupe County, Texas",
+    "48259": "Kendall County, Texas",
+    "48325": "Medina County, Texas",
+    "48493": "Wilson County, Texas"
+  },
+  "files": {
+    "qcew_annual_2023_2025.csv": {
+      "requested_table_row": 1,
+      "dataset": "Quarterly Census of Employment and Wages (QCEW)",
+      "reference_period": "2023–2025",
+      "rows": 3780,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "area_fips",
+        "own_code",
+        "industry_code",
+        "agglvl_code",
+        "size_code",
+        "year",
+        "qtr",
+        "disclosure_code",
+        "annual_avg_estabs",
+        "annual_avg_emplvl",
+        "total_annual_wages",
+        "taxable_annual_wages",
+        "annual_contributions",
+        "annual_avg_wkly_wage",
+        "avg_annual_pay",
+        "lq_disclosure_code",
+        "lq_annual_avg_estabs",
+        "lq_annual_avg_emplvl",
+        "lq_total_annual_wages",
+        "lq_taxable_annual_wages",
+        "lq_annual_contributions",
+        "lq_annual_avg_wkly_wage",
+        "lq_avg_annual_pay",
+        "oty_disclosure_code",
+        "oty_annual_avg_estabs_chg",
+        "oty_annual_avg_estabs_pct_chg",
+        "oty_annual_avg_emplvl_chg",
+        "oty_annual_avg_emplvl_pct_chg",
+        "oty_total_annual_wages_chg",
+        "oty_total_annual_wages_pct_chg",
+        "oty_taxable_annual_wages_chg",
+        "oty_taxable_annual_wages_pct_chg",
+        "oty_annual_contributions_chg",
+        "oty_annual_contributions_pct_chg",
+        "oty_annual_avg_wkly_wage_chg",
+        "oty_annual_avg_wkly_wage_pct_chg",
+        "oty_avg_annual_pay_chg",
+        "oty_avg_annual_pay_pct_chg"
+      ],
+      "key_variables": [
+        "annual_avg_emplvl",
+        "annual_avg_estabs",
+        "total_annual_wages",
+        "avg_annual_pay"
+      ],
+      "units": "Jobs; establishments; USD",
+      "source_urls": [
+        "https://data.bls.gov/cew/data/api/2023/a/area/C4170.csv",
+        "https://data.bls.gov/cew/data/api/2024/a/area/C4170.csv",
+        "https://data.bls.gov/cew/data/api/2025/a/area/C4170.csv"
+      ],
+      "method": "BLS annual area CSVs, all published source rows concatenated for 2023, 2024 and 2025. Original values and flags preserved; city_name and metro_cbsa added. 2025 contains only all-industry/all-ownership total.",
+      "rows_by_year": {
+        "2023": 1884,
+        "2024": 1895,
+        "2025": 1
+      }
+    },
+    "cbp_employment_2023.csv": {
+      "requested_table_row": 2,
+      "dataset": "County Business Patterns (CBP)",
+      "reference_period": "2023",
+      "rows": 192,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "EMPSZES_LABEL",
+        "PAYQTR1_F",
+        "EMP_N",
+        "NAICS2017_LABEL",
+        "PAYQTR1_N",
+        "LFO",
+        "YEAR",
+        "SUBSECTOR",
+        "GEO_ID_F",
+        "EMP_F",
+        "PAYQTR1_N_F",
+        "ESTAB_F",
+        "NAICS2017",
+        "PAYANN_N",
+        "PAYQTR1",
+        "NAICS2017_F",
+        "SECTOR",
+        "EMP",
+        "PAYANN_F",
+        "PAYANN_N_F",
+        "NAME",
+        "GEO_ID",
+        "INDLEVEL",
+        "LFO_LABEL",
+        "ESTAB",
+        "INDGROUP",
+        "EMP_N_F",
+        "PAYANN",
+        "EMPSZES"
+      ],
+      "key_variables": [
+        "EMP",
+        "EMP_F",
+        "EMP_N",
+        "PAYANN",
+        "PAYANN_F",
+        "ESTAB"
+      ],
+      "units": "Employees; payroll in thousand USD; establishments",
+      "source_urls": [
+        "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=CBP2023.CB2300CBP"
+      ],
+      "method": "Official CB2300CBP metro response, all returned broad-industry and employment-size rows for the target CBSA and YEAR=2023. All original field names and flags preserved; no extra industry/size filter."
+    },
+    "economic_census_2022_detail.csv.gz": {
+      "requested_table_row": 3,
+      "dataset": "2022 Economic Census: Geographic Area Statistics",
+      "reference_period": "2022",
+      "rows": 1885,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "NAICS_CODE",
+        "NAICS_LABEL",
+        "NAICS_VINTAGE",
+        "PAYANN_IMP",
+        "TYPOP",
+        "PAYQTR1_F",
+        "RCPTOT_F",
+        "NAICS2022_F",
+        "EMP_IMP",
+        "YEAR",
+        "RCPTOT",
+        "FIRM_F",
+        "GEO_ID_F",
+        "FIRM",
+        "EMP_F",
+        "ESTAB_F",
+        "PAYQTR1",
+        "TAXSTAT_LABEL",
+        "EMP",
+        "PAYANN_IMP_F",
+        "PAYANN_F",
+        "TAXSTAT",
+        "NAME",
+        "TYPOP_LABEL",
+        "GEO_ID",
+        "ESTAB",
+        "RCPTOT_IMP",
+        "EMP_IMP_F",
+        "PAYANN",
+        "RCPTOT_IMP_F"
+      ],
+      "key_variables": [
+        "RCPTOT",
+        "RCPTOT_F",
+        "EMP",
+        "ESTAB",
+        "PAYANN"
+      ],
+      "units": "Revenue and payroll in thousand USD; employees; establishments",
+      "source_urls": [
+        "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=ECNBASIC2022.EC2200BASIC"
+      ],
+      "method": "Official EC2200BASIC metro response, all returned target-CBSA 2022 detail rows. NAICS2022 and NAICS2022_LABEL renamed NAICS_CODE and NAICS_LABEL; NAICS_VINTAGE=2022 added; JSON nulls serialized as blanks. No suppressed value imputed."
+    },
+    "economic_census_2022_sectors.csv": {
+      "requested_table_row": 4,
+      "dataset": "2022 Economic Census: All Sectors Summary Statistics (EC2200BASIC)",
+      "reference_period": "2022",
+      "rows": 15,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "NAICS_CODE",
+        "NAICS_LABEL",
+        "NAICS_VINTAGE",
+        "PAYANN_IMP",
+        "TYPOP",
+        "PAYQTR1_F",
+        "RCPTOT_F",
+        "NAICS2022_F",
+        "EMP_IMP",
+        "YEAR",
+        "RCPTOT",
+        "FIRM_F",
+        "GEO_ID_F",
+        "FIRM",
+        "EMP_F",
+        "ESTAB_F",
+        "PAYQTR1",
+        "TAXSTAT_LABEL",
+        "EMP",
+        "PAYANN_IMP_F",
+        "PAYANN_F",
+        "TAXSTAT",
+        "NAME",
+        "TYPOP_LABEL",
+        "GEO_ID",
+        "ESTAB",
+        "RCPTOT_IMP",
+        "EMP_IMP_F",
+        "PAYANN",
+        "RCPTOT_IMP_F"
+      ],
+      "key_variables": [
+        "RCPTOT",
+        "RCPTOT_F",
+        "EMP",
+        "ESTAB",
+        "PAYANN"
+      ],
+      "units": "Revenue and payroll in thousand USD; employees; establishments",
+      "source_urls": [
+        "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=ECNBASIC2022.EC2200BASIC"
+      ],
+      "method": "Same EC2200BASIC response, target CBSA, TYPOP=00, TAXSTAT=00, NAICS2022 in 22;31-33;42;44-45;48-49;51;52;53;54;56;61;62;71;72;81. Same documented renames and null serialization as detail."
+    },
+    "bea_county_gdp_2023_2024.csv": {
+      "requested_table_row": 5,
+      "dataset": "Gross Domestic Product by County (CAGDP2)",
+      "reference_period": "2023–2024",
+      "rows": 546,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "geo_type",
+        "GeoFIPS",
+        "GeoName",
+        "Region",
+        "TableName",
+        "LineCode",
+        "IndustryClassification",
+        "Description",
+        "Unit",
+        "year",
+        "gdp_current_thousand_usd",
+        "value_status",
+        "source_url",
+        "source_vintage",
+        "county_delineation",
+        "aggregation_method"
+      ],
+      "key_variables": [
+        "gdp_current_thousand_usd",
+        "LineCode",
+        "IndustryClassification",
+        "geo_type"
+      ],
+      "units": "Thousand current USD",
+      "source_urls": [
+        "https://apps.bea.gov/regional/zip/CAGDP2.zip",
+        "https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2023/delineation-files/list1_2023.xlsx"
+      ],
+      "method": "Official BEA CAGDP2 rows for every July 2023 OMB constituent county, reshaped to years 2023 and 2024; all industry lines and source markers retained. Adds only complete all-industry metro sums, marked geo_type=metro and value_status=derived_sum_of_counties. SAGDP2N is a state table, so CAGDP2 matches county GDP."
+    },
+    "state_corporate_tax_2026.csv": {
+      "requested_table_row": 6,
+      "dataset": "State Corporate Income Tax Rates and Brackets, 2026",
+      "reference_period": "2026",
+      "rows": 1,
+      "columns": [
+        "city_name",
+        "state",
+        "state_fips",
+        "year",
+        "corporate_income_tax_rate_percent",
+        "source_display",
+        "source_url",
+        "source_vintage",
+        "notes"
+      ],
+      "key_variables": [
+        "corporate_income_tax_rate_percent",
+        "source_display",
+        "notes"
+      ],
+      "units": "Percent",
+      "source_urls": [
+        "https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/"
+      ],
+      "method": "Transcribe the 2026 table only, one row for every July 2023 OMB constituent state. Numeric field stores the highest published statutory rate; source_display retains every listed bracket. Ohio, Texas and Nevada 0 explicitly encode no corporate income tax, not absence of gross receipts or franchise taxes. Do not average states."
+    },
+    "fortune500_headquarters_2025.csv": {
+      "requested_table_row": 7,
+      "dataset": "Fortune 500 Annual Ranking",
+      "reference_period": "2025",
+      "rows": 3,
+      "columns": [
+        "target_city",
+        "metro_cbsa",
+        "ranking_year",
+        "fortune_500_rank",
+        "company_name",
+        "hq_city_as_reported_2025",
+        "hq_state_as_reported_2025",
+        "hq_city_as_verified",
+        "hq_state_as_verified",
+        "in_target_metro_as_verified",
+        "hq_verification_status",
+        "source_url",
+        "fortune_profile_url",
+        "reported_2025_hq_source_url",
+        "additional_location_source_url",
+        "verification_date",
+        "notes"
+      ],
+      "key_variables": [
+        "fortune_500_rank",
+        "company_name",
+        "hq_city_as_reported_2025",
+        "hq_city_as_verified",
+        "in_target_metro_as_verified"
+      ],
+      "units": "Rank; headquarters location",
+      "source_urls": [
+        "https://interactives.fortune.com/f500-dataviz-2025/",
+        "https://interactives.fortune.com/f500-dataviz-2025/map/data.csv",
+        "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_cbsa_500k.zip"
+      ],
+      "method": "Public data.csv linked by map/app.js on Fortune’s 2025 interactive. Select headquarters points inside the target 2023 Census CBSA polygon. Retain reported national rank, company and municipality. Decode legacy Mac Roman source text to UTF-8; trim incidental name whitespace. The 17-column schema is preserved. Current-headquarters fields remain blank because no complete independent audit was performed. Reported US locations need not be legal domicile or all co-headquarters. Where the location string omits a state, infer it from the municipality and assigned metro geography; this is not an independent address verification."
+    },
+    "cbp_establishments_2023.csv": {
+      "requested_table_row": 8,
+      "dataset": "County Business Patterns: Number of Establishments (ESTAB)",
+      "reference_period": "2023",
+      "rows": 192,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "NAME",
+        "GEO_ID",
+        "YEAR",
+        "NAICS2017",
+        "NAICS2017_LABEL",
+        "NAICS2017_F",
+        "EMPSZES",
+        "EMPSZES_LABEL",
+        "LFO",
+        "LFO_LABEL",
+        "ESTAB",
+        "ESTAB_F"
+      ],
+      "key_variables": [
+        "ESTAB",
+        "ESTAB_F",
+        "NAICS2017",
+        "EMPSZES",
+        "LFO"
+      ],
+      "units": "Establishments",
+      "source_urls": [
+        "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=CBP2023.CB2300CBP"
+      ],
+      "method": "Establishment-specific projection of the same official CB2300CBP metro response as row 2; target CBSA and YEAR=2023; preserves ESTAB and flags, NAICS2017, LFO, EMPSZES and their labels."
+    },
+    "bds_metro_2023.csv": {
+      "requested_table_row": 9,
+      "dataset": "Business Dynamics Statistics: Metro (BDSMETRO)",
+      "reference_period": "2023",
+      "rows": 20,
+      "columns": [
+        "city_name",
+        "metro_cbsa",
+        "JOB_CREATION_CONTINUERS_F",
+        "JOB_CREATION_RATE_F",
+        "ESTABS_ENTRY_RATE",
+        "JOB_CREATION_RATE_BIRTHS",
+        "JOB_CREATION_CONTINUERS",
+        "REALLOCATION_RATE_F",
+        "NAICS",
+        "JOB_DESTRUCTION_CONTINUERS_F",
+        "YEAR",
+        "FIRM_F",
+        "FIRM",
+        "FIRMDEATH_EMP",
+        "EMP_F",
+        "NET_JOB_CREATION",
+        "JOB_DESTRUCTION",
+        "FIRMDEATH_ESTABS",
+        "METRO",
+        "JOB_CREATION_BIRTHS_F",
+        "EMP",
+        "JOB_CREATION",
+        "FIRMDEATH_FIRMS_F",
+        "JOB_DESTRUCTION_RATE_F",
+        "METRO_LABEL",
+        "NAME",
+        "ESTABS_EXIT_F",
+        "NET_JOB_CREATION_RATE",
+        "JOB_CREATION_RATE",
+        "ESTABS_EXIT_RATE_F",
+        "ESTABS_EXIT",
+        "ESTABS_ENTRY_F",
+        "ESTABS_ENTRY",
+        "DENOM_F",
+        "JOB_DESTRUCTION_RATE",
+        "JOB_CREATION_RATE_BIRTHS_F",
+        "JOB_CREATION_F",
+        "NET_JOB_CREATION_F",
+        "DENOM",
+        "JOB_CREATION_BIRTHS",
+        "ESTAB_F",
+        "FIRMDEATH_FIRMS",
+        "ESTABS_EXIT_RATE",
+        "FIRMDEATH_ESTABS_F",
+        "JOB_DESTRUCTION_DEATHS",
+        "NET_JOB_CREATION_RATE_F",
+        "ESTABS_ENTRY_RATE_F",
+        "JOB_DESTRUCTION_F",
+        "NAICS_LABEL",
+        "JOB_DESTRUCTION_DEATHS_F",
+        "GEO_ID",
+        "JOB_DESTRUCTION_CONTINUERS",
+        "ESTAB",
+        "JOB_DESTRUCTION_RATE_DEATHS_F",
+        "FIRMDEATH_EMP_F",
+        "time",
+        "JOB_DESTRUCTION_RATE_DEATHS",
+        "REALLOCATION_RATE"
+      ],
+      "key_variables": [
+        "ESTABS_ENTRY",
+        "ESTABS_EXIT",
+        "ESTABS_ENTRY_RATE",
+        "ESTABS_EXIT_RATE",
+        "JOB_CREATION",
+        "JOB_DESTRUCTION"
+      ],
+      "units": "Establishments; jobs; percent",
+      "source_urls": [
+        "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=BDSTIMESERIES.BDSMETRO"
+      ],
+      "method": "Official BDSMETRO response, target CBSA and YEAR=2023. All returned total/broad industry rows and every original measure/flag retained. Same single-year window as Dallas and Denver."
+    }
+  },
+  "flags": {
+    "QCEW": "N in disclosure_code indicates nondisclosure; retain source zero but do not interpret it as a measured zero. Ownership and industry totals overlap component rows.",
+    "Census": "Preserve every *_F flag and source zero. D=withheld, N=unavailable/not comparable, S=publication standard not met, X=not applicable where defined by the source. Check table-specific definitions. CBP *_N fields describe noise ranges.",
+    "BEA": "Non-numeric published markers, including (D) or (NA), are preserved in gdp_current_thousand_usd with value_status=source_flag. Only complete all-industry county totals are summed.",
+    "Fortune": "2025 publisher-reported locations are assigned to Census 2023 CBSA polygons using the publisher coordinates. These are historical reported rosters, not a complete independent headquarters audit. Blank current-verification fields mean unknown. Reported US locations and geographic assignments may differ from legal domicile, current operational headquarters or co-headquarters."
+  },
+  "overlap": [
+    "Economic Census detail and sectors come from the same EC2200BASIC table and overlap.",
+    "CBP employment and establishment files are two views of the same source and must not be added together.",
+    "GDP county rows and derived metro totals overlap."
+  ],
+  "date_exceptions": [
+    "2022 Economic Census is explicitly requested and has a 2022 reference year; it is not 2023 revenue.",
+    "2025 headquarters rosters and 2026 tax observations remain separately dated from annual employment/output observations."
+  ],
+  "release_dates": "Exact release dates are recorded where verified; otherwise source_vintage identifies the observed table, without asserting a publication date.",
+  "schema_notes": [
+    "Column names and order match the Dallas/Denver files for each of the nine datasets. No saved pandas index column is present.",
+    "These are fixed matching reference windows, not a claim to have downloaded every publisher’s newest available release.",
+    "Raw source names differ across programs; only city labels/CBSA helpers, the documented Economic Census NAICS aliases, GDP reshape/aggregation, tax transcription and Fortune curation are standardized.",
+    "One row per constituent state in tax files; the numeric rate is the published top statutory rate where multiple brackets exist. source_display and notes retain the schedule. Kansas has a graduated schedule. Ohio, Texas and Nevada 0 mean no corporate income tax, despite their separate gross receipts or franchise taxes."
+  ],
+  "bea_reporting_area_to_constituent_fips": {
+    "48013": [
+      "48013"
+    ],
+    "48019": [
+      "48019"
+    ],
+    "48029": [
+      "48029"
+    ],
+    "48091": [
+      "48091"
+    ],
+    "48187": [
+      "48187"
+    ],
+    "48259": [
+      "48259"
+    ],
+    "48325": [
+      "48325"
+    ],
+    "48493": [
+      "48493"
+    ]
+  },
+  "collection_batch": {
+    "batch": 3,
+    "ranking_file": "../top_50_us_metro_areas_by_gdp.md",
+    "gdp_rank": 33,
+    "selection": "Next ten listed metros without an existing city_data folder after the completed first two batches."
+  },
+  "qcew_source_cbsa_by_year": {
+    "2023": "41700",
+    "2024": "41700",
+    "2025": "41700"
+  },
+  "ranking_gdp_crosscheck": {
+    "ranking_file_gdp_billions": 182.1,
+    "collected_2024_gdp_thousand_usd": 198421959,
+    "older_fred_2023_gdp_million_usd": 182139.043,
+    "older_fred_last_update": "2024-12-04",
+    "older_fred_source_url": "https://fred.stlouisfed.org/series/NGMP41700",
+    "interpretation": "The ranking value matches the older discontinued BEA/FRED 2023 series rounded to 0.1 billion. Collected GDP preserves the matching 2023-2024 county source, February 5, 2026 release and July 2023 OMB membership. The ranking is used for collection order and is not substituted for source data. Cleveland also has a documented geography change."
+  },
+  "fortune_publisher_coverage": {
+    "source_rows_examined": 500,
+    "matched_publisher_locations": 3,
+    "empty_file_meaning": "Historical publisher locations, not independently audited current headquarters."
+  },
+  "geography_notes": [
+    "GDP county membership follows the July 2023 OMB list. Each other federal program retains its native geography vintage; no geographic backcast is implied.",
+    "Fortune metro assignment is derived from publisher coordinates and 2023 Census cartographic CBSA polygons (500k). It does not independently verify the publisher headquarters address or all co-headquarters."
+  ],
+  "raw_sources": {
+    "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=CBP2023.CB2300CBP": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 486336,
+      "sha256": "efe8b8ddb8e1f1f59814c78ac31218b09931d6b4d3079efb063efc7b1c2ff94c"
+    },
+    "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=ECNBASIC2022.EC2200BASIC": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 5260136,
+      "sha256": "082dba84017f6df7274b9e44f219948239d1036a80b5fb51c05d21a42f22cd5d"
+    },
+    "https://data.census.gov/api/access/data/table?g=310XX00US17140:310XX00US38300:310XX00US40900:310XX00US28140:310XX00US41700:310XX00US18140:310XX00US29820:310XX00US17410:310XX00US41620:310XX00US33340:310XX00US17460&id=BDSTIMESERIES.BDSMETRO": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 3780028,
+      "sha256": "c3a3700e5a9865f6f0c95cf1cfe01be39df81e3844e42c34b4b82a4b51a59bb4"
+    },
+    "https://apps.bea.gov/regional/zip/CAGDP2.zip": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 15288721,
+      "sha256": "3e5d727915f3160f941cae48678d93136627be118f038f1f3534a81a01a79898",
+      "reuse_note": "Same-day batch 1 source download reused unchanged; source reference window and vintage match."
+    },
+    "https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2023/delineation-files/list1_2023.xlsx": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 143798,
+      "sha256": "952c4b1e78acbb54e6ec9412434b7602fedacbf021736351a63c181bdb753629",
+      "reuse_note": "Same-day batch 1 source download reused unchanged; source reference window and vintage match."
+    },
+    "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_cbsa_500k.zip": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 4686873,
+      "sha256": "520eeb13de65b6365fb879980f2dbca856a9489dfd01f5784371fd48b1e507ab",
+      "reuse_note": "Same-day batch 1 source download reused unchanged; source reference window and vintage match."
+    },
+    "https://interactives.fortune.com/f500-dataviz-2025/map/data.csv": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 49979,
+      "sha256": "24fee4f6ebe72f0f2e25e3212e5de1451b4c00293529af53056cfcac51266c5e",
+      "reuse_note": "Same-day batch 1 source download reused unchanged; source reference window and vintage match."
+    },
+    "https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 170829,
+      "sha256": "92b435c2e49f16f6157a64e7669f705493c6696302411b550084953c88283f3e",
+      "reuse_note": "Same-day batch 1 source download reused unchanged; source reference window and vintage match."
+    },
+    "https://data.bls.gov/cew/data/api/2023/a/area/C4170.csv": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 298210,
+      "sha256": "688bfc1104ffdd1969d3751a2f6922adc5608f9d4b0426fae4cf3005e8ba9b68"
+    },
+    "https://data.bls.gov/cew/data/api/2024/a/area/C4170.csv": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 228622,
+      "sha256": "f968e2221e106998411a7af13895247baa252ad9b1bbf28b1453771db98da3f2"
+    },
+    "https://data.bls.gov/cew/data/api/2025/a/area/C4170.csv": {
+      "retrieved_date": "2026-10-27",
+      "bytes": 1105,
+      "sha256": "9085dea09bb4f9270c81743b9b30d4893950d18fbb15bd46aff3b33885ea4514"
+    }
+  },
+  "qcew_definition_reference": {
+    "source_url": "https://www.bls.gov/cew/classifications/areas/area-guide.htm",
+    "2023_definition": "February 2013 MSA definitions",
+    "2024_2025_definition": "July 2023 MSA definitions",
+    "interpretation": "Native published geography is preserved. A matching canonical metro helper does not establish unchanged boundaries."
+  }
+}

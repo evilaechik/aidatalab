@@ -1,0 +1,2 @@
+city_name,state,state_fips,year,corporate_income_tax_rate_percent,source_display,source_url,source_vintage,notes
+Jacksonville,Florida,12,2026,5.5,"5.50% > $50,000",https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/,"2026 table, article updated 2026-04-02",Published 2026 statutory corporate income tax; excludes local taxes and does not measure effective business tax burden. Separate state regimes must not be averaged into a metro rate.

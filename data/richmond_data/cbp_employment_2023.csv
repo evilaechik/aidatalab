@@ -1,0 +1,178 @@
+city_name,metro_cbsa,EMPSZES_LABEL,PAYQTR1_F,EMP_N,NAICS2017_LABEL,PAYQTR1_N,LFO,YEAR,SUBSECTOR,GEO_ID_F,EMP_F,PAYQTR1_N_F,ESTAB_F,NAICS2017,PAYANN_N,PAYQTR1,NAICS2017_F,SECTOR,EMP,PAYANN_F,PAYANN_N_F,NAME,GEO_ID,INDLEVEL,LFO_LABEL,ESTAB,INDGROUP,EMP_N_F,PAYANN,EMPSZES
+Richmond,40060,All establishments,,0,Total for all sectors,0,001,2023,,,,G,,00,0,10337309,,00,575588,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,33589,,G,38909800,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,17538,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,5913,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4621,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3568,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1139,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,560,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,158,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,54,,N,0,254
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,38,,N,0,260
+Richmond,40060,"Establishments with 1,000 to 1,499 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,19,,N,0,262
+Richmond,40060,"Establishments with 1,500 to 2,499 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,11,,N,0,263
+Richmond,40060,"Establishments with 2,500 to 4,999 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,5,,N,0,271
+Richmond,40060,"Establishments with 5,000 employees or more",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,273
+Richmond,40060,All establishments,,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,,G,,11,0,5383,,11,382,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,82,,H,22804,001
+Richmond,40060,Establishments with less than 5 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,53,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,19,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,6,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,241
+Richmond,40060,All establishments,,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,,G,,21,0,15316,,21,747,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,33,,G,65679,001
+Richmond,40060,Establishments with less than 5 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,7,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,6,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,15,,N,0,241
+Richmond,40060,All establishments,,0,Utilities,0,001,2023,,,,J,,22,0,226692,,22,5171,,J,"Richmond, VA Metro Area",310M700US40060,2,All establishments,79,,J,648819,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,24,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,11,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,11,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,12,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,9,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,7,,N,0,251
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,254
+Richmond,40060,All establishments,,0,Construction,0,001,2023,,,,G,,23,0,680989,,23,39511,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3633,,G,2861498,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,2214,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,589,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,395,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,298,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,84,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,41,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,8,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,254
+Richmond,40060,All establishments,,0,Manufacturing,0,001,2023,,,,G,,31-33,0,566902,,31,31433,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,881,,G,2254767,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,304,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,178,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,156,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,122,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,50,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,44,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,17,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,8,,N,0,254
+Richmond,40060,All establishments,,0,Wholesale trade,0,001,2023,,,,G,,42,0,668918,,42,28459,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1478,,G,2420961,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,644,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,307,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,236,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,184,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,66,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,24,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,13,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,254
+Richmond,40060,All establishments,,0,Retail trade,0,001,2023,,,,G,,44-45,0,650207,,44,71721,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4066,,G,2725277,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1657,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,900,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,732,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,478,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,160,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,120,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,17,,N,0,252
+Richmond,40060,All establishments,,0,Transportation and warehousing,0,001,2023,,,,G,,48-49,0,409565,,48,29884,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1078,,G,1647022,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,606,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,125,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,113,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,119,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,64,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,31,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,10,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,6,,N,0,254
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,260
+Richmond,40060,"Establishments with 1,000 to 1,499 employees",N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,262
+Richmond,40060,All establishments,,0,Information,0,001,2023,,,,G,,51,0,253581,,51,10004,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,536,,G,918094,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,314,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,78,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,69,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,38,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,17,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,12,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,254
+Richmond,40060,All establishments,,0,Finance and insurance,0,001,2023,,,,H,,52,0,2356009,,52,50214,,H,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1959,,G,7327825,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1226,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,354,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,189,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,99,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,42,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,18,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,12,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,9,,N,0,254
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,10,,N,0,260
+Richmond,40060,"Establishments with 1,000 to 1,499 employees",N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,6,,N,0,262
+Richmond,40060,All establishments,,0,Real estate and rental and leasing,0,001,2023,,,,G,,53,0,213994,,53,10951,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1928,,G,832997,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1436,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,281,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,119,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,62,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,18,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,8,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,252
+Richmond,40060,All establishments,,0,"Professional, scientific, and technical services",0,001,2023,,,,G,,54,0,894504,,54,40955,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3963,,G,3608723,001
+Richmond,40060,Establishments with less than 5 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,2741,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,532,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,331,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,233,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,71,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,34,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,16,,N,0,252
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,260
+Richmond,40060,All establishments,,0,Management of companies and enterprises,0,001,2023,,,,H,,55,0,754818,,55,23875,,H,"Richmond, VA Metro Area",310M700US40060,2,All establishments,234,,H,2503171,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,78,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,37,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,31,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,37,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,16,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,15,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,9,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,7,,N,0,254
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,260
+Richmond,40060,All establishments,,0,Administrative and support and waste management and remediation services,0,001,2023,,,,G,,56,0,440656,,56,35466,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1962,,G,1810395,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1100,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,301,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,212,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,193,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,87,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,53,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,12,,N,0,252
+Richmond,40060,All establishments,,0,Educational services,0,001,2023,,,,H,,61,0,141257,,61,12984,,H,"Richmond, VA Metro Area",310M700US40060,2,All establishments,510,,H,528583,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,240,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,86,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,90,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,52,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,28,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,9,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,252
+Richmond,40060,All establishments,,0,Health care and social assistance,0,001,2023,,,,G,,62,0,1362575,,62,84869,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3879,,G,5775883,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,1604,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,748,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,745,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,512,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,165,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,71,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,23,,N,0,252
+Richmond,40060,Establishments with 500 to 999 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,5,,N,0,254
+Richmond,40060,"Establishments with 1,000 employees or more",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,6,,N,0,260
+Richmond,40060,"Establishments with 1,500 to 2,499 employees",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3,,N,0,263
+Richmond,40060,All establishments,,0,"Arts, entertainment, and recreation",0,001,2023,,,,G,,71,0,74437,,71,13229,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,592,,G,331615,001
+Richmond,40060,Establishments with less than 5 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,298,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,80,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,71,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,70,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,48,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,20,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,252
+Richmond,40060,All establishments,,0,Accommodation and food services,0,001,2023,,,,G,,72,0,325872,,72,56299,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,2885,,G,1391299,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,705,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,477,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,665,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,821,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,174,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,39,,N,0,251
+Richmond,40060,Establishments with 250 to 499 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,4,,N,0,252
+Richmond,40060,All establishments,,0,Other services (except public administration),0,001,2023,,,,G,,81,0,295431,,81,29408,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,3775,,G,1232867,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,2251,,N,0,210
+Richmond,40060,Establishments with 5 to 9 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,807,,N,0,220
+Richmond,40060,Establishments with 10 to 19 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,444,,N,0,230
+Richmond,40060,Establishments with 20 to 49 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,219,,N,0,241
+Richmond,40060,Establishments with 50 to 99 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,38,,N,0,242
+Richmond,40060,Establishments with 100 to 249 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,14,,N,0,251
+Richmond,40060,All establishments,,0,Industries not classified,0,001,2023,,,,H,,99,0,203,,99,26,,G,"Richmond, VA Metro Area",310M700US40060,2,All establishments,36,,G,1521,001
+Richmond,40060,Establishments with less than 5 employees,N,0,Industries not classified,0,001,2023,,,N,N,,99,0,0,,99,0,N,N,"Richmond, VA Metro Area",310M700US40060,2,All establishments,36,,N,0,210
