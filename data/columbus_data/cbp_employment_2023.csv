@@ -1,0 +1,187 @@
+city_name,metro_cbsa,EMPSZES_LABEL,PAYQTR1_F,EMP_N,NAICS2017_LABEL,PAYQTR1_N,LFO,YEAR,SUBSECTOR,GEO_ID_F,EMP_F,PAYQTR1_N_F,ESTAB_F,NAICS2017,PAYANN_N,PAYQTR1,NAICS2017_F,SECTOR,EMP,PAYANN_F,PAYANN_N_F,NAME,GEO_ID,INDLEVEL,LFO_LABEL,ESTAB,INDGROUP,EMP_N_F,PAYANN,EMPSZES
+Columbus,18140,All establishments,,0,Total for all sectors,0,001,2023,,,,G,,00,0,15588265,,00,985064,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,46419,,G,60280842,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,22700,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,8298,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6710,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5230,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1875,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1143,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,291,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,108,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,64,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,30,,N,0,262
+Columbus,18140,"Establishments with 1,500 to 2,499 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,20,,N,0,263
+Columbus,18140,"Establishments with 2,500 to 4,999 employees",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,8,,N,0,271
+Columbus,18140,"Establishments with 5,000 employees or more",N,0,Total for all sectors,0,001,2023,,,N,N,,00,0,0,,00,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6,,N,0,273
+Columbus,18140,All establishments,,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,,G,,11,0,1454,,11,192,,H,"Columbus, OH Metro Area",310M700US18140,2,All establishments,39,,G,5388,001
+Columbus,18140,Establishments with less than 5 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,29,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,"Agriculture, forestry, fishing and hunting",0,001,2023,,,N,N,,11,0,0,,11,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6,,N,0,220
+Columbus,18140,All establishments,,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,,G,,21,0,7028,,21,489,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,55,,G,33929,001
+Columbus,18140,Establishments with less than 5 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,35,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,8,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,"Mining, quarrying, and oil and gas extraction",0,001,2023,,,N,N,,21,0,0,,21,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,9,,N,0,230
+Columbus,18140,All establishments,,0,Utilities,0,001,2023,,,,H,,22,0,331380,,22,6535,,H,"Columbus, OH Metro Area",310M700US18140,2,All establishments,154,,H,1041944,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,62,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,19,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,20,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,26,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,17,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Utilities,0,001,2023,,,N,N,,22,0,0,,22,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6,,N,0,251
+Columbus,18140,All establishments,,0,Construction,0,001,2023,,,,G,,23,0,849451,,23,46557,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3645,,G,3751038,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2205,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,590,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,378,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,299,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,105,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,50,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,11,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Construction,0,001,2023,,,N,N,,23,0,0,,23,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6,,N,0,254
+Columbus,18140,All establishments,,0,Manufacturing,0,001,2023,,,,G,,31-33,0,1198181,,31,73869,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1390,,G,4913383,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,412,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,261,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,204,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,228,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,120,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,104,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,40,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,14,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,7,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Manufacturing,0,001,2023,,,N,N,,31-33,0,0,,31,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,262
+Columbus,18140,All establishments,,0,Wholesale trade,0,001,2023,,,,G,,42,0,782275,,42,40706,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1938,,G,3101439,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,831,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,393,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,311,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,227,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,93,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,64,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,15,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Wholesale trade,0,001,2023,,,N,N,,42,0,0,,42,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,254
+Columbus,18140,All establishments,,0,Retail trade,0,001,2023,,,,G,,44-45,0,983292,,44,104246,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5594,,G,3992096,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2165,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1299,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1090,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,637,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,176,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,187,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,33,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Retail trade,0,001,2023,,,N,N,,44-45,0,0,,44,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,254
+Columbus,18140,All establishments,,0,Transportation and warehousing,0,001,2023,,,,G,,48-49,0,1372651,,48,93843,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1771,,H,5155712,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,961,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,190,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,187,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,174,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,107,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,94,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,30,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,18,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,10,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4,,N,0,262
+Columbus,18140,"Establishments with 2,500 to 4,999 employees",N,0,Transportation and warehousing,0,001,2023,,,N,N,,48-49,0,0,,48,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,271
+Columbus,18140,All establishments,,0,Information,0,001,2023,,,,H,,51,0,444552,,51,16744,,H,"Columbus, OH Metro Area",310M700US18140,2,All establishments,863,,H,1702563,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,506,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,143,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,89,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,62,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,33,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,20,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,252
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Information,0,001,2023,,,N,N,,51,0,0,,51,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,262
+Columbus,18140,All establishments,,0,Finance and insurance,0,001,2023,,,,G,,52,0,2365425,,52,70661,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2782,,G,7068619,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1635,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,612,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,269,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,127,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,50,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,40,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,25,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,14,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,10,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,262
+Columbus,18140,"Establishments with 1,500 to 2,499 employees",N,0,Finance and insurance,0,001,2023,,,N,N,,52,0,0,,52,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,263
+Columbus,18140,All establishments,,0,Real estate and rental and leasing,0,001,2023,,,,G,,53,0,311452,,53,18279,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2797,,G,1237523,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2066,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,411,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,161,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,97,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,36,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,19,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Real estate and rental and leasing,0,001,2023,,,N,N,,53,0,0,,53,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6,,N,0,252
+Columbus,18140,All establishments,,0,"Professional, scientific, and technical services",0,001,2023,,,,G,,54,0,1528186,,54,67347,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5419,,G,6150127,001
+Columbus,18140,Establishments with less than 5 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3530,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,744,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,561,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,368,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,122,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,67,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,19,,N,0,252
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,7,,N,0,260
+Columbus,18140,"Establishments with 1,500 to 2,499 employees",N,0,"Professional, scientific, and technical services",0,001,2023,,,N,N,,54,0,0,,54,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4,,N,0,263
+Columbus,18140,All establishments,,0,Management of companies and enterprises,0,001,2023,,,,H,,55,0,992123,,55,34953,,H,"Columbus, OH Metro Area",310M700US18140,2,All establishments,367,,H,3695995,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,115,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,42,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,45,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,50,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,38,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,35,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,24,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,15,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Management of companies and enterprises,0,001,2023,,,N,N,,55,0,0,,55,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,260
+Columbus,18140,All establishments,,0,Administrative and support and waste management and remediation services,0,001,2023,,,,G,,56,0,718028,,56,63035,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2569,,G,2934244,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1369,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,371,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,283,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,244,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,144,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,121,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,27,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Administrative and support and waste management and remediation services,0,001,2023,,,N,N,,56,0,0,,56,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,8,,N,0,254
+Columbus,18140,All establishments,,0,Educational services,0,001,2023,,,,G,,61,0,180715,,61,18872,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,670,,G,725784,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,260,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,118,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,123,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,101,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,43,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,15,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Educational services,0,001,2023,,,N,N,,61,0,0,,61,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4,,N,0,254
+Columbus,18140,All establishments,,0,Health care and social assistance,0,001,2023,,,,G,,62,0,2429991,,62,173317,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,6208,,G,10233436,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2352,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1309,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1122,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,854,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,312,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,200,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,33,,N,0,252
+Columbus,18140,Establishments with 500 to 999 employees,N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,11,,N,0,254
+Columbus,18140,"Establishments with 1,000 employees or more",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,15,,N,0,260
+Columbus,18140,"Establishments with 1,000 to 1,499 employees",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,262
+Columbus,18140,"Establishments with 1,500 to 2,499 employees",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4,,N,0,263
+Columbus,18140,"Establishments with 2,500 to 4,999 employees",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,271
+Columbus,18140,"Establishments with 5,000 employees or more",N,0,Health care and social assistance,0,001,2023,,,N,N,,62,0,0,,62,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,3,,N,0,273
+Columbus,18140,All establishments,,0,"Arts, entertainment, and recreation",0,001,2023,,,,H,,71,0,135476,,71,15747,,H,"Columbus, OH Metro Area",310M700US18140,2,All establishments,776,,G,550085,001
+Columbus,18140,Establishments with less than 5 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,357,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,121,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,127,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,96,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,44,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,22,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,"Arts, entertainment, and recreation",0,001,2023,,,N,N,,71,0,0,,71,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,8,,N,0,252
+Columbus,18140,All establishments,,0,Accommodation and food services,0,001,2023,,,,G,,72,0,552753,,72,100354,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4869,,G,2307854,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1196,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,728,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1148,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,1366,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,350,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,75,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Accommodation and food services,0,001,2023,,,N,N,,72,0,0,,72,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,252
+Columbus,18140,All establishments,,0,Other services (except public administration),0,001,2023,,,,G,,81,0,403267,,81,39271,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,4486,,G,1677744,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,2589,,N,0,210
+Columbus,18140,Establishments with 5 to 9 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,933,,N,0,220
+Columbus,18140,Establishments with 10 to 19 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,579,,N,0,230
+Columbus,18140,Establishments with 20 to 49 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,272,,N,0,241
+Columbus,18140,Establishments with 50 to 99 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,83,,N,0,242
+Columbus,18140,Establishments with 100 to 249 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,23,,N,0,251
+Columbus,18140,Establishments with 250 to 499 employees,N,0,Other services (except public administration),0,001,2023,,,N,N,,81,0,0,,81,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,5,,N,0,252
+Columbus,18140,All establishments,,0,Industries not classified,0,001,2023,,,,H,,99,0,585,,99,47,,G,"Columbus, OH Metro Area",310M700US18140,2,All establishments,27,,G,1939,001
+Columbus,18140,Establishments with less than 5 employees,N,0,Industries not classified,0,001,2023,,,N,N,,99,0,0,,99,0,N,N,"Columbus, OH Metro Area",310M700US18140,2,All establishments,25,,N,0,210

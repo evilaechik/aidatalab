@@ -1,0 +1,16 @@
+city_name,metro_cbsa,NAICS_CODE,NAICS_LABEL,NAICS_VINTAGE,PAYANN_IMP,TYPOP,PAYQTR1_F,RCPTOT_F,NAICS2022_F,EMP_IMP,YEAR,RCPTOT,FIRM_F,GEO_ID_F,FIRM,EMP_F,ESTAB_F,PAYQTR1,TAXSTAT_LABEL,EMP,PAYANN_IMP_F,PAYANN_F,TAXSTAT,NAME,TYPOP_LABEL,GEO_ID,ESTAB,RCPTOT_IMP,EMP_IMP_F,PAYANN,RCPTOT_IMP_F
+Omaha,36540,22,Utilities,2022,0,00,,D,,0,2022,0,,,19,,,43270,All establishments,1983,6,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,41,0,7,173425,D
+Omaha,36540,31-33,Manufacturing,2022,0,00,,,,0,2022,24838342,,,599,,,494663,All establishments,33694,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,646,0,2,2014045,3
+Omaha,36540,42,Wholesale trade,2022,0,00,,,,0,2022,44505017,,,1061,,,366250,All establishments,20552,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1241,0,2,1557023,2
+Omaha,36540,44-45,Retail trade,2022,0,00,,,,0,2022,23665832,,,1691,,,551952,All establishments,64081,3,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,2596,0,3,2293674,2
+Omaha,36540,48-49,Transportation and warehousing,2022,0,00,,,107,0,2022,6655231,,,903,,,211349,All establishments,14971,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1025,0,3,840434,5
+Omaha,36540,51,Information,2022,0,00,,,,0,2022,5794526,,,278,,,394670,All establishments,16949,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,475,0,3,1512408,4
+Omaha,36540,52,Finance and insurance,2022,0,00,,,115,0,2022,29933794,,,1314,,,1154849,All establishments,42662,1,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1969,0,1,3859936,1
+Omaha,36540,53,Real estate and rental and leasing,2022,0,00,,,,0,2022,1964259,,,1347,,,109224,All establishments,8890,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1518,0,2,469907,2
+Omaha,36540,54,"Professional, scientific, and technical services",2022,0,00,,,,0,2022,5517981,,,2429,,,502250,All establishments,27761,1,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,2583,0,2,2151428,2
+Omaha,36540,56,Administrative and support and waste management and remediation services,2022,0,00,,,,0,2022,11460193,,,1501,,,1319769,All establishments,88602,1,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1643,0,2,5580334,4
+Omaha,36540,61,Educational services,2022,0,00,,,117,0,2022,169073,,,268,,,13619,All establishments,2448,0,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,271,0,1,59457,1
+Omaha,36540,62,Health care and social assistance,2022,0,00,,,,0,2022,11461718,,,2383,,,999233,All establishments,73217,2,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,2995,0,2,4351530,3
+Omaha,36540,71,"Arts, entertainment, and recreation",2022,0,00,,,,0,2022,755771,,,411,,,40779,All establishments,7622,0,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,453,0,1,193271,0
+Omaha,36540,72,Accommodation and food services,2022,0,00,,,,0,2022,3342641,,,1653,,,214951,All establishments,43502,1,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,2270,0,1,922142,1
+Omaha,36540,81,Other services (except public administration),2022,0,00,,,119,0,2022,2956037,,,1604,,,117545,All establishments,11564,1,,00,"Omaha, NE-IA Metro Area",All establishments,310M700US36540,1801,0,1,497354,1
