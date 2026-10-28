@@ -1,0 +1,5 @@
+panel,model,held_out_observations,msas,entry_rate_mae_pp,entry_count_mae
+all_100_largest_msas,xgboost_rate,600,100,0.7272014474688445,381.0859853097424
+all_100_largest_msas,lagged_entry_rate_baseline,600,100,0.7369500119149961,401.0363685666666
+south_sunbelt_subset,xgboost_rate,354,59,0.763569049721224,374.4763246978196
+south_sunbelt_subset,lagged_entry_rate_baseline,354,59,0.7655655688996484,399.68063788135595

@@ -1,0 +1,10 @@
+model,feature,mae_increase_pp,folds,interpretation
+catboost_rate,lag_entry_rate,0.6911822690652856,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_exit_rate,0.06065342471329261,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_birth_job_creation_rate,0.04684712317023631,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_job_creation_rate,0.010956394826267627,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,log_lag_emp,0.005796485837613413,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,log_lag_estabs,0.003752558718626453,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_net_job_creation_rate,0.0023232693537596403,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_job_destruction_rate,-0.0007508882755676664,6,Larger positive values indicate a stronger predictive association; not a causal effect.
+catboost_rate,lag_reallocation_rate,-0.0020861585506726974,6,Larger positive values indicate a stronger predictive association; not a causal effect.

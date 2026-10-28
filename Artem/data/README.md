@@ -10,6 +10,20 @@ This folder contains only public, shareable research artifacts. It does **not** 
 
 See [`../PUBLIC_DATA_CATALOG.md`](../PUBLIC_DATA_CATALOG.md) for a description of each dataset, its intended use, and limitations.
 
+## Metro Big Business Presence Score
+
+`big_business_presence/` is the main outcome-data build for the question of
+where major companies have set up a qualifying headquarters or office. It uses
+the official 2025 Fortune 500 universe and a 200-MSA, company-by-metro evidence
+ledger. A company is counted only after a direct source verifies a qualifying
+office or headquarters; stores and distribution-only facilities do not count.
+
+The initial tracker has seven source-verified qualifying presences in Metro
+Atlanta, but this is only a partial confirmed count. It is deliberately marked
+non-publishable until the other Fortune 500 companies are reviewed. Read
+[`big_business_presence/README.md`](big_business_presence/README.md) before
+using any of its counts.
+
 # Fortune 100 Atlanta presence screen
 
 `fortune_100_atlanta_presence_2025.csv` is a one-row-per-company research screen for the 2025 Fortune 100 list.

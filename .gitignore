@@ -1,2 +1,9 @@
 # macOS Finder metadata
 .DS_Store
+
+# Python bytecode generated when reproducibility scripts are run locally
+__pycache__/
+*.py[cod]
+
+# Licensed ArcGIS Business Analyst / Data Axle exports: local analysis only.
+Artem/data/fortune-100-data/
