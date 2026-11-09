@@ -96,7 +96,7 @@ def read_gazetteer(path: Path) -> pd.DataFrame:
             places = pd.read_csv(raw, sep="\t", dtype=str)
     places.columns = [str(column).strip() for column in places.columns]
 
-    required = {"USPS", "NAME", "FUNCSTAT", "ALAND", "INTPTLAT", "INTPTLONG"}
+    required = {"USPS", "GEOID", "NAME", "LSAD", "FUNCSTAT", "ALAND", "INTPTLAT", "INTPTLONG"}
     missing = required - set(places.columns)
     if missing:
         raise ValueError(f"Gazetteer is missing columns: {sorted(missing)}")
@@ -106,7 +106,9 @@ def read_gazetteer(path: Path) -> pd.DataFrame:
     places["area_sq_m"] = pd.to_numeric(places["ALAND"], errors="coerce").fillna(0)
     places["latitude"] = pd.to_numeric(places["INTPTLAT"], errors="coerce")
     places["longitude"] = pd.to_numeric(places["INTPTLONG"], errors="coerce")
-    return places[["state", "city_key", "NAME", "FUNCSTAT", "area_sq_m", "latitude", "longitude"]]
+    return places[[
+        "state", "city_key", "GEOID", "NAME", "LSAD", "FUNCSTAT", "area_sq_m", "latitude", "longitude",
+    ]]
 
 
 def parse_dbf_records(path: Path) -> Iterator[dict[str, str]]:
@@ -307,7 +309,9 @@ def build_assignments(
                 {
                     "state": state,
                     "city_key": city_key,
+                    "census_place_geoid": "",
                     "census_place_name": "",
+                    "census_place_lsad": "",
                     "place_match_status": status,
                     "place_latitude": pd.NA,
                     "place_longitude": pd.NA,
@@ -323,7 +327,9 @@ def build_assignments(
             {
                 "state": state,
                 "city_key": city_key,
+                "census_place_geoid": place["GEOID"],
                 "census_place_name": place["NAME"],
+                "census_place_lsad": place["LSAD"],
                 "place_match_status": status,
                 "place_latitude": latitude,
                 "place_longitude": longitude,
@@ -436,6 +442,14 @@ def main() -> None:
     parser.add_argument("--cbsa-shapefile", required=True, type=Path)
     parser.add_argument("--metro-crosswalk", required=True, type=Path)
     parser.add_argument("--output-dir", required=True, type=Path)
+    parser.add_argument(
+        "--skip-presence-summary",
+        action="store_true",
+        help=(
+            "Write only city-place-centroid MSA assignments and audits. Use this for a licensed "
+            "candidate file that has not been matched to the project's Fortune 500 universe."
+        ),
+    )
     args = parser.parse_args()
 
     reject_repo_output(args.output_dir)
@@ -480,18 +494,20 @@ def main() -> None:
     )
     unmatched.to_csv(args.output_dir / "data_axle_unassigned_city_state_audit.csv", index=False)
 
-    presence = (
-        assigned.loc[assigned["msa_cbsa"].ne(""), ["msa_cbsa", "msa_name", "company_name"]].drop_duplicates()
-    )
-    company_presence, scores = build_candidate_presence_tables(assigned)
-    company_presence.to_csv(args.output_dir / "data_axle_msa_company_location_candidates.csv", index=False)
-    scores.to_csv(args.output_dir / "data_axle_msa_location_candidate_scores.csv", index=False)
-
     counts = Counter(assigned["msa_assignment_method"])
     print(f"Assigned {len(assigned):,} local records.")
     for method, count in counts.most_common():
         print(f"  {method}: {count:,}")
-    print(f"Distinct MSA/company location candidates: {len(presence):,}")
+    if args.skip_presence_summary:
+        print("Skipped Fortune 500 presence summary; output is an MSA assignment candidate file only.")
+    else:
+        presence = (
+            assigned.loc[assigned["msa_cbsa"].ne(""), ["msa_cbsa", "msa_name", "company_name"]].drop_duplicates()
+        )
+        company_presence, scores = build_candidate_presence_tables(assigned)
+        company_presence.to_csv(args.output_dir / "data_axle_msa_company_location_candidates.csv", index=False)
+        scores.to_csv(args.output_dir / "data_axle_msa_location_candidate_scores.csv", index=False)
+        print(f"Distinct MSA/company location candidates: {len(presence):,}")
     print(f"Output: {args.output_dir.resolve()}")
 
 

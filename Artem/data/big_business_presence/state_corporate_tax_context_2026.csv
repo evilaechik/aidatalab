@@ -1,0 +1,52 @@
+headquarters_state,top_state_corporate_income_tax_rate_2026,no_state_corporate_income_tax,state_gross_receipts_tax_flag,state_tax_context_source
+Alabama,6.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Alaska,9.4,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Arizona,4.9,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Arkansas,4.3,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+California,8.84,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Colorado,4.4,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Connecticut,8.25,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Delaware,8.7,False,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+District of Columbia,0.0,True,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Florida,5.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Georgia,5.19,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Hawaii,6.4,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Idaho,5.3,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Illinois,9.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Indiana,4.9,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Iowa,7.1,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Kansas,7.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Kentucky,5.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Louisiana,5.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Maine,8.93,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Maryland,8.25,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Massachusetts,8.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Michigan,6.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Minnesota,9.8,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Mississippi,5.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Missouri,4.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Montana,6.75,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Nebraska,4.55,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Nevada,0.0,True,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+New Hampshire,7.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+New Jersey,11.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+New Mexico,5.9,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+New York,7.25,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+North Carolina,2.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+North Dakota,4.31,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Ohio,0.0,True,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Oklahoma,4.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Oregon,7.6,False,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Pennsylvania,7.49,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Rhode Island,7.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+South Carolina,5.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+South Dakota,0.0,True,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Tennessee,6.5,False,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Texas,0.0,True,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Utah,4.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Vermont,8.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Virginia,6.0,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Washington,0.0,True,True,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+West Virginia,6.5,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Wisconsin,7.9,False,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
+Wyoming,0.0,True,False,https://taxfoundation.org/data/all/state/state-corporate-income-tax-rates-brackets/
