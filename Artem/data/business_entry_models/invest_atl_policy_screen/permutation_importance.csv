@@ -1,0 +1,21 @@
+feature_set,feature,mae_increase_pp,folds,interpretation
+all_public_context,establishments_per_100_jobs,0.1668691685548732,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,employment_weighted_corporate_tax_rate,0.12833617844451264,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_health,0.08478047505911365,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,qcew_employment_growth,0.07440687869794424,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_manufacturing,0.05915446269626032,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,log_qcew_employment,0.037091949163950644,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,regional_price_parity,0.027526284798117695,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,fhfa_hpi_yoy_growth,0.024574915314912293,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_hospitality,0.010555024639929328,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_finance,0.008069903227903324,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,avg_weekly_wage,0.0072706121261067735,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_information,0.0030548578878263344,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,share_professional,0.0001928793711379051,4,Predictive association only; not a causal policy effect or incentive weight.
+all_public_context,employment_share_in_gross_receipts_tax_states,-9.086574475794529e-05,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,qcew_employment_growth,0.17964643468529554,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,establishments_per_100_jobs,0.1356386994034677,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,share_manufacturing,0.06715004076973594,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,share_information,0.04100754077042801,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,avg_weekly_wage,0.013785714212023958,4,Predictive association only; not a causal policy effect or incentive weight.
+invest_atlanta_aligned_screen,share_professional,0.0034622795864823475,4,Predictive association only; not a causal policy effect or incentive weight.

@@ -1,0 +1,10 @@
+site_class,verified_sites,companies
+confirmed_additional_corporate_hq,5,4
+confirmed_business_unit_hq,64,38
+confirmed_divisional_base,1,1
+confirmed_divisional_hq,6,6
+confirmed_regional_hq,9,8
+verified_business_unit_hq_colocated_with_global_msa,4,3
+verified_division_office,17,1
+verified_global_and_north_america_hq,2,2
+verified_regional_hq_colocated_with_global,1,1
