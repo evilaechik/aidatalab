@@ -6,9 +6,6 @@ fortune_2025_rank,company,headquarters_city,headquarters_state,city_place_match_
 55,Albertsons,Boise,Idaho,city_not_matched_to_census_place
 170,Micron Technology,Boise,Idaho,city_not_matched_to_census_place
 107,Abbott Laboratories,Abbott Park,Illinois,city_not_matched_to_census_place
-246,Corteva,Indianapolis,Indiana,city_not_matched_to_census_place
-20,Elevance Health,Indianapolis,Indiana,city_not_matched_to_census_place
-100,Eli Lilly,Indianapolis,Indiana,city_not_matched_to_census_place
 217,Cognizant Technology Solutions,Teaneck,New Jersey,city_not_matched_to_census_place
 434,JetBlue Airways,Long Island City,New York,city_not_matched_to_census_place
 442,Optimum Communications,Long Island City,New York,city_not_matched_to_census_place

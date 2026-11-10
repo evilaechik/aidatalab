@@ -29,6 +29,7 @@ Connecticut,0973000,Stamford city,25,4,132474.0,8.25,False,False,not_standardize
 Virginia,5103000,Arlington CDP,57,3,159533.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
 Ohio,3918000,Columbus city,25,3,90328.2,0.0,True,True,not_standardized_nationally_requires_local_primary_source
 Michigan,2622000,Detroit city,25,3,216288.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1836003,Indianapolis city (balance),00,3,238961.7,4.9,False,False,not_standardized_nationally_requires_local_primary_source
 Kentucky,2148000,Louisville city,25,3,136576.5,5.0,False,False,not_standardized_nationally_requires_local_primary_source
 Tennessee,4748000,Memphis city,25,3,124802.3,6.5,False,True,not_standardized_nationally_requires_local_primary_source
 Florida,1245000,Miami city,25,3,85227.8,5.5,False,False,not_standardized_nationally_requires_local_primary_source

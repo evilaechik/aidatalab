@@ -69,7 +69,7 @@ def normalize_text(value: object) -> str:
 def normalize_gazetteer_place_name(value: object) -> str:
     """Remove only the legal place designator appended by the Gazetteer."""
     text = normalize_text(value)
-    for suffix in (
+    suffixes = (
         " census designated place",
         " metropolitan government",
         " urban county",
@@ -77,13 +77,28 @@ def normalize_gazetteer_place_name(value: object) -> str:
         " borough",
         " village",
         " town",
+        " township",
         " city",
         " cdp",
-        " balance",
-    ):
+    )
+    # Some Census labels have a parenthetical ``(balance)`` after their legal
+    # suffix, e.g. ``Indianapolis city (balance)``.  Strip that wrapper first,
+    # then strip exactly one legal suffix.  Repeating `` city`` removal would
+    # incorrectly turn ``Salt Lake City city`` into ``Salt Lake``.
+    if text.endswith(" balance"):
+        text = text[: -len(" balance")].strip()
+    for suffix in suffixes:
         if text.endswith(suffix):
             return text[: -len(suffix)].strip()
     return text
+
+
+# Census uses a few consolidated-government labels that do not match the
+# standard city spelling in company addresses.  Keep the list tiny and
+# explicit: an alias is preferable to an unsafe fuzzy city match.
+CITY_PLACE_KEY_ALIASES = {
+    ("TN", "nashville"): "nashville davidson",
+}
 
 
 def read_gazetteer(path: Path) -> pd.DataFrame:
@@ -296,6 +311,10 @@ def build_assignments(
     frame["city"] = frame["city"].fillna("").astype(str).str.strip()
     frame["state"] = frame["state"].fillna("").astype(str).str.strip().str.upper()
     frame["city_key"] = frame["city"].map(normalize_text)
+    frame["city_key"] = [
+        CITY_PLACE_KEY_ALIASES.get((state, city_key), city_key)
+        for state, city_key in frame[["state", "city_key"]].itertuples(index=False)
+    ]
 
     place_groups = {
         key: group for key, group in places.groupby(["state", "city_key"], sort=False)
