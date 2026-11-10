@@ -1,0 +1,4 @@
+msa_assignment_method,place_match_status,fortune500_companies
+city_place_centroid_within_cbsa,exact_city_place_match,463
+unassigned,city_not_matched_to_census_place,19
+outside_target_msa_roster,exact_city_place_match,18

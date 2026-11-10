@@ -1,0 +1,18 @@
+fortune_2025_rank,company,headquarters_city,headquarters_state,city_place_match_status
+280,Farmers Insurance Exchange,Woodland Hills,California,city_not_matched_to_census_place
+13,Cigna Group,Bloomfield,Connecticut,city_not_matched_to_census_place
+303,Otis Worldwide,Farmington,Connecticut,city_not_matched_to_census_place
+287,Amphenol,Wallingford,Connecticut,city_not_matched_to_census_place
+55,Albertsons,Boise,Idaho,city_not_matched_to_census_place
+170,Micron Technology,Boise,Idaho,city_not_matched_to_census_place
+107,Abbott Laboratories,Abbott Park,Illinois,city_not_matched_to_census_place
+217,Cognizant Technology Solutions,Teaneck,New Jersey,city_not_matched_to_census_place
+434,JetBlue Airways,Long Island City,New York,city_not_matched_to_census_place
+442,Optimum Communications,Long Island City,New York,city_not_matched_to_census_place
+152,Mastercard,Purchase,New York,city_not_matched_to_census_place
+45,PepsiCo,Purchase,New York,city_not_matched_to_census_place
+57,Progressive,Mayfield Village,Ohio,city_not_matched_to_census_place
+228,Lincoln National,Radnor,Pennsylvania,city_not_matched_to_census_place
+406,FM,Johnston,Rhode Island,city_not_matched_to_census_place
+302,LKQ,Antioch,Tennessee,city_not_matched_to_census_place
+61,HCA Healthcare,Nashville,Tennessee,city_not_matched_to_census_place

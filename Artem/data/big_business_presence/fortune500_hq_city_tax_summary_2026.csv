@@ -1,0 +1,224 @@
+headquarters_state,census_place_geoid,census_place_name,census_place_lsad,fortune500_listed_global_hq_count,fortune500_listed_global_hq_revenue_usd_millions,top_state_corporate_income_tax_rate_2026,no_state_corporate_income_tax,state_gross_receipts_tax_flag,municipal_tax_data_status
+New York,3651000,New York city,25,43,1820274.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4835000,Houston city,25,24,906602.1,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Illinois,1714000,Chicago city,25,14,368283.9,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Georgia,1304000,Atlanta city,25,13,489702.0,5.19,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4819000,Dallas city,25,9,366400.6,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+California,0667000,San Francisco city,25,9,296019.1,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4837000,Irving city,25,8,461963.5,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4261000,Pittsburgh city,25,7,119333.8,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+California,0668000,San Jose city,25,7,152948.6,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+North Carolina,3712000,Charlotte city,25,6,331440.3,2.0,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3915000,Cincinnati city,25,6,276126.80000000005,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Minnesota,2743000,Minneapolis city,25,6,211420.5,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+California,0669084,Santa Clara city,25,6,255570.5,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Washington,5363000,Seattle city,25,6,744845.2,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2507000,Boston city,25,5,106392.5,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3916000,Cleveland city,25,5,79389.1,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Wisconsin,5553000,Milwaukee city,25,5,96618.99999999999,7.9,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5166672,Reston CDP,57,5,90209.70000000001,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5167000,Richmond city,25,5,126979.7,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Missouri,2965000,St. Louis city,25,5,207572.2,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+Colorado,0820000,Denver city,25,4,51104.3,4.4,False,False,not_standardized_nationally_requires_local_primary_source
+Connecticut,0933690,Greenwich CDP,57,4,42795.8,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1235000,Jacksonville city,25,4,71716.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5148376,McLean CDP,57,4,197825.9,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Nebraska,3137000,Omaha city,25,4,427143.2,4.55,False,False,not_standardized_nationally_requires_local_primary_source
+Arizona,0455000,Phoenix city,25,4,72963.4,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Connecticut,0973000,Stamford city,25,4,132474.0,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5103000,Arlington CDP,57,3,159533.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3918000,Columbus city,25,3,90328.2,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Michigan,2622000,Detroit city,25,3,216288.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1836003,Indianapolis city (balance),00,3,238961.7,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Kentucky,2148000,Louisville city,25,3,136576.5,5.0,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4748000,Memphis city,25,3,124802.3,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Florida,1245000,Miami city,25,3,85227.8,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3456430,Parsippany CDP,57,3,54160.3,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Rhode Island,4459000,Providence city,25,3,57044.0,7.0,False,False,not_standardized_nationally_requires_local_primary_source
+California,0666000,San Diego city,25,3,64532.1,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2758000,St. Paul city,25,3,48542.7,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+District of Columbia,1150000,Washington city,25,3,185107.0,0.0,True,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3901000,Akron city,25,2,31921.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4202000,Allentown city,25,2,20562.6,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2604105,Auburn Hills city,25,2,24476.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4805000,Austin city,25,2,150651.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Washington,5305210,Bellevue city,25,2,44264.3,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Maryland,2407125,Bethesda CDP,57,2,96143.0,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+California,0606308,Beverly Hills city,25,2,30638.5,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Alabama,0107000,Birmingham city,25,2,16790.7,6.5,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4708280,Brentwood city,25,2,27347.4,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2511000,Cambridge city,25,2,44610.9,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Arizona,0412000,Chandler city,25,2,16336.1,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1214250,Coral Gables city,25,2,24939.5,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1718992,Deerfield village,47,2,162807.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Georgia,1324600,Duluth city,25,2,28850.5,5.19,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2718116,Eden Prairie city,25,2,418003.0,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Colorado,0824785,Englewood city,25,2,25862.5,4.4,False,False,not_standardized_nationally_requires_local_primary_source
+California,0626000,Fremont city,25,2,73357.8,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5131200,Glen Allen CDP,57,2,27321.699999999997,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1741105,Lake Forest city,25,2,25551.3,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Nevada,3240000,Las Vegas city,25,2,28538.5,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2538715,Marlborough city,25,2,37248.8,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3948342,Maumee city,25,2,21541.5,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+California,0649670,Mountain View city,25,2,366303.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3451000,Newark city,25,2,80695.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0651182,Newport Beach city,25,2,27140.9,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5156000,Newport News city,25,2,41170.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Connecticut,0955990,Norwalk city,25,2,38305.1,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+California,0653000,Oakland city,25,2,48540.1,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+California,0655282,Palo Alto city,25,2,105991.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4260000,Philadelphia city,25,2,141131.7,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+North Carolina,3755000,Raleigh city,25,2,25858.9,2.0,False,False,not_standardized_nationally_requires_local_primary_source
+California,0660102,Redwood City city,25,2,16310.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4865000,San Antonio city,25,2,172534.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Arizona,0465000,Scottsdale city,25,2,22003.1,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4869596,Spring CDP,57,2,379712.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2567000,Springfield city,25,2,54972.8,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1263000,St. Petersburg city,25,2,43806.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1271000,Tampa city,25,2,22923.8,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3977000,Toledo city,25,2,18966.1,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Oklahoma,4075000,Tulsa city,25,2,32201.0,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2572600,Waltham city,25,2,60042.6,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Iowa,1902305,Ankeny city,25,1,14862.9,7.1,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2702026,Arden Hills city,25,1,16206.8,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4804000,Arlington city,25,1,36801.4,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+New York,3602649,Armonk CDP,57,1,62753.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5103320,Ashburn CDP,57,1,13667.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2702908,Austin city,25,1,11920.8,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Maryland,2404000,Baltimore city,25,1,23568.0,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+Oregon,4105350,Beaverton city,25,1,51362.0,7.6,False,True,not_standardized_nationally_requires_local_primary_source
+Michigan,2607520,Benton Harbor city,25,1,16607.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Arkansas,0505320,Bentonville city,25,1,680985.0,4.3,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2609180,Bloomfield Hills city,25,1,30455.2,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1706613,Bloomington city,25,1,122951.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1707133,Bolingbrook village,47,1,11295.7,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+New York,3611000,Buffalo city,25,1,13453.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+California,0608954,Burbank city,25,1,91361.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2509875,Burlington CDP,57,1,15351.0,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3408920,Burlington city,25,1,10634.8,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+North Carolina,3709060,Burlington city,25,1,13008.9,2.0,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2612280,Byron Center CDP,57,1,9549.3,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Georgia,1312456,Calhoun city,25,1,10836.9,5.19,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3410000,Camden city,25,1,9636.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4211152,Canonsburg borough,21,1,14739.3,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Colorado,0812815,Centennial city,25,1,27923.3,4.4,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4714000,Chattanooga city,25,1,12887.3,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Virginia,5116000,Chesapeake city,25,1,30845.6,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Missouri,2913600,Chesterfield city,25,1,22107.0,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+Georgia,1319000,Columbus city,25,1,18927.0,5.19,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1814734,Columbus city,25,1,34102.0,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4215848,Conshohocken borough,21,1,293958.6,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4216144,Coraopolis borough,21,1,13442.8,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+New York,3618256,Corning city,25,1,13118.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+California,0616350,Corona city,25,1,7492.7,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+California,0617610,Cupertino city,25,1,391035.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2621000,Dearborn city,25,1,184992.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Iowa,1921000,Des Moines city,25,1,16127.7,7.1,False,False,not_standardized_nationally_requires_local_primary_source
+Missouri,2919270,Des Peres city,25,1,16257.0,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1720591,Downers Grove village,47,1,8424.3,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0620018,Dublin city,25,1,21129.2,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3922694,Dublin city,25,1,226827.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+North Carolina,3719000,Durham city,25,1,15405.0,2.0,False,False,not_standardized_nationally_requires_local_primary_source
+Arkansas,0521070,El Dorado city,25,1,17909.4,4.3,False,False,not_standardized_nationally_requires_local_primary_source
+California,0622412,El Segundo city,25,1,9699.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1820728,Elkhart city,25,1,10043.4,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4224000,Erie city,25,1,13176.9,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1221150,Estero village,47,1,9049.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1822000,Evansville city,25,1,12258.0,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3925802,Evendale village,47,1,38702.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Ohio,3925970,Fairfield city,25,1,11337.5,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Virginia,5127200,Falls Church city,25,1,41033.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3927048,Findlay city,25,1,140412.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Florida,1224000,Fort Lauderdale city,25,1,26765.4,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4226872,Fort Washington CDP,57,1,10846.7,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1825000,Fort Wayne city,25,1,17540.4,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4827000,Fort Worth city,25,1,54211.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+California,0625338,Foster City city,25,1,28754.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2524960,Framingham city,25,1,56360.0,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3424990,Franklin Lakes borough,21,1,20178.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4727740,Franklin city,25,1,12634.0,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Illinois,1729938,Glenview village,47,1,15898.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4729920,Goodlettsville city,25,1,40612.3,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Connecticut,0937000,Hartford city,25,1,26535.0,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+Virginia,5136648,Herndon town,43,1,9763.2,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4234144,Hershey CDP,57,1,11202.3,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2731076,Inver Grove Heights city,25,1,39261.2,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+California,0636770,Irvine city,25,1,47983.7,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Washington,5333805,Issaquah city,25,1,254453.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Michigan,2641420,Jackson city,25,1,7515.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1235850,Juno Beach town,43,1,24753.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Pennsylvania,4239736,King of Prussia CDP,57,1,15827.9,7.49,False,False,not_standardized_nationally_requires_local_primary_source
+Tennessee,4739560,Kingsport city,25,1,9382.0,6.5,False,True,not_standardized_nationally_requires_local_primary_source
+Florida,1238250,Lakeland city,25,1,60177.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2646000,Lansing city,25,1,15839.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2649000,Livonia city,25,1,7828.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+California,0643000,Long Beach city,25,1,40650.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+California,0644112,Los Gatos town,43,1,39001.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Arkansas,0541720,Lowell city,25,1,12087.2,4.3,False,False,not_standardized_nationally_requires_local_primary_source
+Wisconsin,5548000,Madison city,25,1,21339.4,7.9,False,False,not_standardized_nationally_requires_local_primary_source
+California,0645400,Manhattan Beach city,25,1,8969.4,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Minnesota,2740382,Maplewood city,25,1,8254.0,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Oregon,4147000,Medford city,25,1,36610.6,7.6,False,True,not_standardized_nationally_requires_local_primary_source
+Florida,1243975,Melbourne city,25,1,21325.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+New York,3646514,Melville CDP,57,1,12673.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+California,0646870,Menlo Park city,25,1,164501.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Wisconsin,5551000,Menomonee Falls village,47,1,16221.0,7.9,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3949056,Mentor city,25,1,8755.7,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Kansas,2046000,Merriam city,25,1,9100.0,7.0,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2653780,Midland city,25,1,42964.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4848072,Midland city,25,1,11066.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+California,0647766,Milpitas city,25,1,9812.2,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1749867,Moline city,25,1,51716.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Louisiana,2251410,Monroe city,25,1,13108.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+North Carolina,3744220,Mooresville town,43,1,83674.0,2.0,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4850820,New Braunfels city,25,1,7804.7,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Connecticut,0950370,New Britain city,25,1,15365.7,8.25,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3451210,New Brunswick city,25,1,88821.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Louisiana,2255000,New Orleans city,25,1,11879.7,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0650916,Newark city,25,1,9618.9,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1753559,North Chicago city,25,1,56334.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1753481,Northbrook village,47,1,64106.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1754534,Oak Brook village,47,1,9491.4,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Oklahoma,4055000,Oklahoma City city,25,1,15940.0,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1253000,Orlando city,25,1,11390.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3958828,Orrville city,25,1,8178.7,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Wisconsin,5560500,Oshkosh city,25,1,10730.2,7.9,False,False,not_standardized_nationally_requires_local_primary_source
+Florida,1254075,Palm Beach Gardens city,25,1,24809.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4858016,Plano city,25,1,11303.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Florida,1257425,Plantation city,25,1,11861.3,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0657792,Pleasanton city,25,1,8446.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2665560,Portage city,25,1,22595.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3460900,Princeton,00,1,48300.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3461530,Rahway city,25,1,64168.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Washington,5357535,Redmond city,25,1,245122.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Nevada,3260600,Reno city,25,1,11270.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Minnesota,2754214,Richfield city,25,1,41528.0,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1764538,Riverwoods village,47,1,23634.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1765338,Rolling Meadows city,25,1,11554.9,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3464590,Roseland borough,21,1,19202.6,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0662896,Rosemead city,25,1,17599.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1765819,Rosemont village,47,1,37877.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Texas,4863500,Round Rock city,25,1,95567.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+California,0668252,San Mateo city,25,1,8478.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3466570,Secaucus town,43,1,9872.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Michigan,2674900,Southfield city,25,1,23306.0,6.0,False,False,not_standardized_nationally_requires_local_primary_source
+Arkansas,0566080,Springdale city,25,1,53309.0,4.3,False,False,not_standardized_nationally_requires_local_primary_source
+Missouri,2970000,Springfield city,25,1,16708.5,4.0,False,False,not_standardized_nationally_requires_local_primary_source
+New Jersey,3471430,Summit city,25,1,15455.0,11.5,False,False,not_standardized_nationally_requires_local_primary_source
+Washington,5368435,Sumner city,25,1,10588.1,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Florida,1269555,Sunny Isles Beach city,25,1,10020.0,5.5,False,False,not_standardized_nationally_requires_local_primary_source
+California,0677000,Sunnyvale city,25,1,8352.1,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+New York,3673176,Tarrytown village,47,1,14202.0,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+Arizona,0473000,Tempe city,25,1,13673.0,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+California,0678582,Thousand Oaks city,25,1,33424.0,8.84,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1777694,Vernon Hills village,47,1,20998.7,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+New York,3677376,Victor village,47,1,9961.8,7.25,False,False,not_standardized_nationally_requires_local_primary_source
+Indiana,1880306,Warsaw city,25,1,7678.6,4.9,False,False,not_standardized_nationally_requires_local_primary_source
+Illinois,1780047,Westchester village,47,1,7430.0,9.5,False,False,not_standardized_nationally_requires_local_primary_source
+Ohio,3983342,Westerville city,25,1,8011.8,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Texas,4877620,Westlake town,43,1,25999.0,0.0,True,True,not_standardized_nationally_requires_local_primary_source
+Colorado,0883835,Westminster city,25,1,12056.0,4.4,False,False,not_standardized_nationally_requires_local_primary_source
+Massachusetts,2580195,Wilmington CDP,57,1,9427.2,8.0,False,False,not_standardized_nationally_requires_local_primary_source
+Delaware,1077580,Wilmington city,25,1,12386.0,8.7,False,True,not_standardized_nationally_requires_local_primary_source
+Minnesota,2771032,Winona city,25,1,7546.0,9.8,False,False,not_standardized_nationally_requires_local_primary_source
+Rhode Island,4480780,Woonsocket city,25,1,372809.0,7.0,False,False,not_standardized_nationally_requires_local_primary_source
