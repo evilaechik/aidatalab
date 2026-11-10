@@ -41,7 +41,8 @@ id_rsa
 id_ed25519
 
 # Private institutional exports and business-license records: keep local copies
-/BusinessHealthData_export/
+/BusinessHealthData_export/*
+!/BusinessHealthData_export/README.md
 **/Invest_ATL_private/
 **/Invest-atlanta/private/
 
