@@ -1,0 +1,15 @@
+{
+  "analysis_revision": "2026-11-09_full500_extension",
+  "status": "training_and_assessment_completed",
+  "training_contract": "config/training_contract.json",
+  "model_families_unchanged": true,
+  "baseline": "Training-fold employment-proportional and mean-count expectations",
+  "regression": "Poisson A; logistic B",
+  "xgboost": "Same shallow count/probability specifications",
+  "company_interactions": "Four existing interactions, plus predeclared main-effects ablations",
+  "selected_model": "A_employment",
+  "model_selection": "Development-only count MAE then RMSE; do not select a model to obtain an Atlanta deficit",
+  "completed_run": "TRAINING_RUN.md",
+  "final_results": "FINAL_RESULTS.md",
+  "training_status": "config/training_status.json"
+}

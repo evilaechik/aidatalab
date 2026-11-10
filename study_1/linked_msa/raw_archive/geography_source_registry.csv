@@ -1,0 +1,3 @@
+source_id,source_url,landing_url,sha256,access_date
+GEO_PLACES_2023,https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_place_national.zip,https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.2023.html,3c8b23c0dcdb15c0ebd16fee7373e032466e6b585650aa219bc1bee5ac8bd58f,2026-11-10
+GEO_CBSA_2023,https://www2.census.gov/geo/tiger/TIGER2023/CBSA/tl_2023_us_cbsa.zip,https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.2023.html,63d55aabcdd4921bbfe9c003a2b3d3e8d75fa5a3ccd0d69f1e5a12f46128ed40,2026-11-10

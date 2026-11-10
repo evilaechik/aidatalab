@@ -1,0 +1,22 @@
+sector_code,sector_name
+00,Total for all sectors
+11,"Agriculture, forestry, fishing and hunting"
+21,"Mining, quarrying, and oil and gas extraction"
+22,Utilities
+23,Construction
+31-33,Manufacturing
+42,Wholesale trade
+44-45,Retail trade
+48-49,Transportation and warehousing
+51,Information
+52,Finance and insurance
+53,Real estate and rental and leasing
+54,"Professional, scientific, and technical services"
+55,Management of companies and enterprises
+56,Administrative and support and waste management and remediation services
+61,Educational services
+62,Health care and social assistance
+71,"Arts, entertainment, and recreation"
+72,Accommodation and food services
+81,Other services (except public administration)
+99,Industries not classified

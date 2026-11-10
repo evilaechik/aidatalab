@@ -1,0 +1,168 @@
+model,feature,coefficient,scope
+A_poisson,log_msa_private_employment,0.13122261204759397,final development fit; standardized numeric inputs; association only
+A_poisson,log_msa_population,0.1851289801395348,final development fit; standardized numeric inputs; association only
+A_poisson,log_msa_gdp,0.16000568359639808,final development fit; standardized numeric inputs; association only
+A_poisson,msa_private_employment_growth_q4_2023_2024,-0.003107715471641963,final development fit; standardized numeric inputs; association only
+A_poisson,msa_population_growth_2023_2024,0.13360472964021836,final development fit; standardized numeric inputs; association only
+A_poisson,bachelors_plus_share_2024,-0.04851702661562163,final development fit; standardized numeric inputs; association only
+A_poisson,log_median_household_income,-0.11805667704418199,final development fit; standardized numeric inputs; association only
+A_poisson,log_median_gross_rent,-0.15149478712572415,final development fit; standardized numeric inputs; association only
+A_poisson,transit_commute_share_2024,0.05443857215264598,final development fit; standardized numeric inputs; association only
+A_poisson,regional_price_parity_2024,0.05843797382934477,final development fit; standardized numeric inputs; association only
+A_poisson,log_msa_private_average_pay,0.16266951109496486,final development fit; standardized numeric inputs; association only
+A_poisson,private_establishments_per_1000_jobs,-0.07957408384486257,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_manufacturing_share_2023,0.026902612755393997,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_retail_share_2023,-0.0537041603512218,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_transport_warehousing_share_2023,-0.03331449694983862,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_information_share_2023,-0.007472110942584934,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_finance_insurance_share_2023,0.10097280425545875,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_professional_technical_share_2023,0.0015293647738978693,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_health_social_share_2023,-0.03171810470360437,final development fit; standardized numeric inputs; association only
+A_poisson,soc_management_jobs_per_1000,0.10444049563581287,final development fit; standardized numeric inputs; association only
+A_poisson,soc_management_wage_us_relative,0.10059822343074717,final development fit; standardized numeric inputs; association only
+A_poisson,soc_business_financial_jobs_per_1000,-0.017149798989833067,final development fit; standardized numeric inputs; association only
+A_poisson,soc_business_financial_wage_us_relative,0.05019287056982746,final development fit; standardized numeric inputs; association only
+A_poisson,soc_computer_math_jobs_per_1000,-0.09879926883112848,final development fit; standardized numeric inputs; association only
+A_poisson,soc_computer_math_wage_us_relative,-0.0293353835495616,final development fit; standardized numeric inputs; association only
+A_poisson,soc_architecture_engineering_jobs_per_1000,-0.09227130211274336,final development fit; standardized numeric inputs; association only
+A_poisson,soc_architecture_engineering_wage_us_relative,0.03549390319996636,final development fit; standardized numeric inputs; association only
+A_poisson,soc_legal_jobs_per_1000,0.06709468172702146,final development fit; standardized numeric inputs; association only
+A_poisson,soc_legal_wage_us_relative,0.1303934590327485,final development fit; standardized numeric inputs; association only
+A_poisson,soc_office_admin_jobs_per_1000,-0.08289770592182177,final development fit; standardized numeric inputs; association only
+A_poisson,soc_office_admin_wage_us_relative,-0.0037391704951724217,final development fit; standardized numeric inputs; association only
+A_poisson,cbp_management_employment_share_2023,0.21773435223949175,final development fit; standardized numeric inputs; association only
+A_poisson,bds_establishment_entry_rate_2023,-0.00845171285189797,final development fit; standardized numeric inputs; association only
+A_poisson,bds_establishment_exit_rate_2023,-0.04705863655331649,final development fit; standardized numeric inputs; association only
+A_poisson,missingindicator_msa_private_employment_growth_q4_2023_2024,0.06452721221853333,final development fit; standardized numeric inputs; association only
+A_poisson,missingindicator_soc_management_jobs_per_1000,-0.1412371010253608,final development fit; standardized numeric inputs; association only
+A_poisson,missingindicator_soc_legal_wage_us_relative,-0.07415830280735278,final development fit; standardized numeric inputs; association only
+B_logistic,log_msa_private_employment,0.1479011171805629,final development fit; standardized numeric inputs; association only
+B_logistic,log_msa_population,0.17814132060990726,final development fit; standardized numeric inputs; association only
+B_logistic,log_msa_gdp,0.16635465976551408,final development fit; standardized numeric inputs; association only
+B_logistic,msa_private_employment_growth_q4_2023_2024,2.1123782839079033e-05,final development fit; standardized numeric inputs; association only
+B_logistic,msa_population_growth_2023_2024,0.11041856758571672,final development fit; standardized numeric inputs; association only
+B_logistic,bachelors_plus_share_2024,-0.016182982584394497,final development fit; standardized numeric inputs; association only
+B_logistic,log_median_household_income,-0.07345767486044516,final development fit; standardized numeric inputs; association only
+B_logistic,log_median_gross_rent,-0.10526970729432397,final development fit; standardized numeric inputs; association only
+B_logistic,transit_commute_share_2024,0.09207397093869957,final development fit; standardized numeric inputs; association only
+B_logistic,regional_price_parity_2024,0.03751671698844352,final development fit; standardized numeric inputs; association only
+B_logistic,log_msa_private_average_pay,0.1137140936705333,final development fit; standardized numeric inputs; association only
+B_logistic,private_establishments_per_1000_jobs,-0.06984842949330139,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_manufacturing_share_2023,0.024643031296881036,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_retail_share_2023,-0.06591596174376148,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_transport_warehousing_share_2023,-0.01657581761426516,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_information_share_2023,-0.021494314393117362,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_finance_insurance_share_2023,0.07095327625187536,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_professional_technical_share_2023,-0.0014192953411915402,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_health_social_share_2023,-0.01964144961863076,final development fit; standardized numeric inputs; association only
+B_logistic,soc_management_jobs_per_1000,0.09605739395766098,final development fit; standardized numeric inputs; association only
+B_logistic,soc_management_wage_us_relative,0.06403277837220733,final development fit; standardized numeric inputs; association only
+B_logistic,soc_business_financial_jobs_per_1000,-0.025593950091603507,final development fit; standardized numeric inputs; association only
+B_logistic,soc_business_financial_wage_us_relative,0.053621008578205585,final development fit; standardized numeric inputs; association only
+B_logistic,soc_computer_math_jobs_per_1000,-0.09390910805848578,final development fit; standardized numeric inputs; association only
+B_logistic,soc_computer_math_wage_us_relative,-0.030914857933275277,final development fit; standardized numeric inputs; association only
+B_logistic,soc_architecture_engineering_jobs_per_1000,-0.06777260452005358,final development fit; standardized numeric inputs; association only
+B_logistic,soc_architecture_engineering_wage_us_relative,0.015957711193054114,final development fit; standardized numeric inputs; association only
+B_logistic,soc_legal_jobs_per_1000,0.045794917314202765,final development fit; standardized numeric inputs; association only
+B_logistic,soc_legal_wage_us_relative,0.09208536924697905,final development fit; standardized numeric inputs; association only
+B_logistic,soc_office_admin_jobs_per_1000,-0.05434989222602886,final development fit; standardized numeric inputs; association only
+B_logistic,soc_office_admin_wage_us_relative,-0.0031022788774349094,final development fit; standardized numeric inputs; association only
+B_logistic,log_company_revenue,0.02934458244492648,final development fit; standardized numeric inputs; association only
+B_logistic,log_company_workforce,-0.016557732513598423,final development fit; standardized numeric inputs; association only
+B_logistic,tech_x_computer_math_intensity,0.23991149572201784,final development fit; standardized numeric inputs; association only
+B_logistic,financials_x_finance_share,0.10845860701353668,final development fit; standardized numeric inputs; association only
+B_logistic,health_care_x_health_share,0.06355521972317336,final development fit; standardized numeric inputs; association only
+B_logistic,industrial_x_manufacturing_share,0.06626065311858186,final development fit; standardized numeric inputs; association only
+B_logistic,cbp_management_employment_share_2023,0.17075140179894446,final development fit; standardized numeric inputs; association only
+B_logistic,bds_establishment_entry_rate_2023,-0.018905946645705697,final development fit; standardized numeric inputs; association only
+B_logistic,bds_establishment_exit_rate_2023,-0.042948994255750356,final development fit; standardized numeric inputs; association only
+B_logistic,missingindicator_msa_private_employment_growth_q4_2023_2024,0.05516814453695209,final development fit; standardized numeric inputs; association only
+B_logistic,missingindicator_soc_management_jobs_per_1000,-0.0987840757277776,final development fit; standardized numeric inputs; association only
+B_logistic,missingindicator_soc_legal_wage_us_relative,-0.05460167090010441,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Aerospace & Defense,0.008629835421045822,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Apparel,0.011945131877550533,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Business Services,0.04042206829409238,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Chemicals,-0.007526838307474408,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Energy,0.05243560054641842,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Engineering & Construction,0.023886945818531142,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Financials,-0.028387689654320123,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Food & Drug Stores,-0.005140686238783101,final development fit; standardized numeric inputs; association only
+B_logistic,"company_broad_industry_Food, Beverages & Tobacco",0.0066693721629780735,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Health Care,-0.003956884163545164,final development fit; standardized numeric inputs; association only
+B_logistic,"company_broad_industry_Hotels, Restaurants & Leisure",0.023412819056294918,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Household Products,0.004254490827879347,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Industrials,-0.021722239082772758,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Materials,-0.016600449650827968,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Media,0.027814551845105975,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Motor Vehicles & Parts,-0.013642170348941038,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Retailing,0.04044932992503324,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Technology,-0.19120168861345807,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Telecommunications,0.009770037203405427,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Transportation,0.010470318418550844,final development fit; standardized numeric inputs; association only
+B_logistic,company_broad_industry_Wholesalers,0.028020578578715323,final development fit; standardized numeric inputs; association only
+B_logistic,ownership_listing_type_2025_mutual,-0.02351470022034328,final development fit; standardized numeric inputs; association only
+B_logistic,ownership_listing_type_2025_public_at_publisher_valuation,0.014292913140786172,final development fit; standardized numeric inputs; association only
+B_logistic,ownership_listing_type_2025_unknown_private_or_other,0.009224220995035835,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_msa_private_employment,0.14355348712585192,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_msa_population,0.1721160114025053,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_msa_gdp,0.16161218528413457,final development fit; standardized numeric inputs; association only
+B_logistic_main,msa_private_employment_growth_q4_2023_2024,0.009311349053170177,final development fit; standardized numeric inputs; association only
+B_logistic_main,msa_population_growth_2023_2024,0.11031736244607811,final development fit; standardized numeric inputs; association only
+B_logistic_main,bachelors_plus_share_2024,-0.02105647857027745,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_median_household_income,-0.07126044414651629,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_median_gross_rent,-0.1039820348083217,final development fit; standardized numeric inputs; association only
+B_logistic_main,transit_commute_share_2024,0.08379668420038042,final development fit; standardized numeric inputs; association only
+B_logistic_main,regional_price_parity_2024,0.030924586619662808,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_msa_private_average_pay,0.1203082308957512,final development fit; standardized numeric inputs; association only
+B_logistic_main,private_establishments_per_1000_jobs,-0.07934851574572424,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_manufacturing_share_2023,0.032049850504362,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_retail_share_2023,-0.06991253157492729,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_transport_warehousing_share_2023,-0.01916259344377895,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_information_share_2023,-0.009860622426666753,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_finance_insurance_share_2023,0.07899894867061119,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_professional_technical_share_2023,-0.0003025722452222872,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_health_social_share_2023,-0.02107340653361012,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_management_jobs_per_1000,0.09848607067061574,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_management_wage_us_relative,0.0754362788337926,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_business_financial_jobs_per_1000,-0.02877928082669127,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_business_financial_wage_us_relative,0.058286333554231934,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_computer_math_jobs_per_1000,-0.06432610994141208,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_computer_math_wage_us_relative,-0.01692514684559735,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_architecture_engineering_jobs_per_1000,-0.06645509859885636,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_architecture_engineering_wage_us_relative,0.016236952901263778,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_legal_jobs_per_1000,0.048671390670699935,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_legal_wage_us_relative,0.09769654046476389,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_office_admin_jobs_per_1000,-0.05461645200691436,final development fit; standardized numeric inputs; association only
+B_logistic_main,soc_office_admin_wage_us_relative,-0.0012503631344171736,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_company_revenue,0.03152007279832849,final development fit; standardized numeric inputs; association only
+B_logistic_main,log_company_workforce,-0.0006969182029571295,final development fit; standardized numeric inputs; association only
+B_logistic_main,cbp_management_employment_share_2023,0.17628239840100324,final development fit; standardized numeric inputs; association only
+B_logistic_main,bds_establishment_entry_rate_2023,-0.0201077869747664,final development fit; standardized numeric inputs; association only
+B_logistic_main,bds_establishment_exit_rate_2023,-0.03874164751212031,final development fit; standardized numeric inputs; association only
+B_logistic_main,missingindicator_msa_private_employment_growth_q4_2023_2024,0.053139680195798365,final development fit; standardized numeric inputs; association only
+B_logistic_main,missingindicator_soc_management_jobs_per_1000,-0.09867875646769109,final development fit; standardized numeric inputs; association only
+B_logistic_main,missingindicator_soc_legal_wage_us_relative,-0.05803384110348092,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Aerospace & Defense,0.0064100871768231005,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Apparel,0.0066586639404990775,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Business Services,0.01762538912232076,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Chemicals,-0.008739431865237623,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Energy,0.0004854658393434734,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Engineering & Construction,0.009287973303598419,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Financials,0.010869135563122639,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Food & Drug Stores,-0.01280125152609769,final development fit; standardized numeric inputs; association only
+B_logistic_main,"company_broad_industry_Food, Beverages & Tobacco",-0.02226843648906901,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Health Care,0.005073560920769512,final development fit; standardized numeric inputs; association only
+B_logistic_main,"company_broad_industry_Hotels, Restaurants & Leisure",0.00820217094849441,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Household Products,-0.006156950840589727,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Industrials,-0.024453369484173516,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Materials,-0.017853440702099266,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Media,0.015186652354170658,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Motor Vehicles & Parts,-0.015602556394637259,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Retailing,-0.00788104932740546,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Technology,0.04350671422612736,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Telecommunications,-4.6908697619948305e-05,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Transportation,-0.011182783941340407,final development fit; standardized numeric inputs; association only
+B_logistic_main,company_broad_industry_Wholesalers,0.0036804763654602105,final development fit; standardized numeric inputs; association only
+B_logistic_main,ownership_listing_type_2025_mutual,-0.017943824565451048,final development fit; standardized numeric inputs; association only
+B_logistic_main,ownership_listing_type_2025_public_at_publisher_valuation,0.012986686868647344,final development fit; standardized numeric inputs; association only
+B_logistic_main,ownership_listing_type_2025_unknown_private_or_other,0.004957248189263526,final development fit; standardized numeric inputs; association only

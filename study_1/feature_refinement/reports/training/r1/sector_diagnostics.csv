@@ -1,0 +1,253 @@
+assessment,model,company_broad_industry,observed,expected,n,residual
+atlanta,B_employment,Aerospace & Defense,0,0.3177040542760819,11,-0.3177040542760819
+atlanta,B_employment,Apparel,0,0.11552874700948433,4,-0.11552874700948433
+atlanta,B_employment,Business Services,1,0.5198793615426794,18,0.48012063845732056
+atlanta,B_employment,Chemicals,0,0.346586241028453,12,-0.346586241028453
+atlanta,B_employment,Energy,1,1.6462846448851518,57,-0.6462846448851518
+atlanta,B_employment,Engineering & Construction,1,0.346586241028453,12,0.653413758971547
+atlanta,B_employment,Financials,2,2.6860433679705107,93,-0.6860433679705107
+atlanta,B_employment,Food & Drug Stores,0,0.1444109337618554,5,-0.1444109337618554
+atlanta,B_employment,"Food, Beverages & Tobacco",1,0.7509368555616481,26,0.24906314443835187
+atlanta,B_employment,Health Care,0,1.2996984038566988,45,-1.2996984038566988
+atlanta,B_employment,"Hotels, Restaurants & Leisure",0,0.3177040542760819,11,-0.3177040542760819
+atlanta,B_employment,Household Products,1,0.23105749401896866,8,0.7689425059810313
+atlanta,B_employment,Industrials,1,0.5487615482950505,19,0.4512384517049495
+atlanta,B_employment,Materials,1,0.4909971747903084,17,0.5090028252096916
+atlanta,B_employment,Media,0,0.2888218675237108,10,-0.2888218675237108
+atlanta,B_employment,Motor Vehicles & Parts,0,0.2599396807713397,9,-0.2599396807713397
+atlanta,B_employment,Retailing,2,1.2708162171043276,44,0.7291837828956724
+atlanta,B_employment,Technology,0,1.5018737111232963,52,-1.5018737111232963
+atlanta,B_employment,Telecommunications,0,0.20217530726659758,7,-0.20217530726659758
+atlanta,B_employment,Transportation,3,0.4909971747903084,17,2.5090028252096914
+atlanta,B_employment,Wholesalers,1,0.6065259217997927,21,0.3934740782002073
+atlanta,B_logistic,Aerospace & Defense,0,0.20148780342002207,11,-0.20148780342002207
+atlanta,B_logistic,Apparel,0,0.06308650129239385,4,-0.06308650129239385
+atlanta,B_logistic,Business Services,1,0.29151325559053254,18,0.7084867444094675
+atlanta,B_logistic,Chemicals,0,0.21497860190159201,12,-0.21497860190159201
+atlanta,B_logistic,Energy,1,0.9626218919044401,57,0.03737810809555986
+atlanta,B_logistic,Engineering & Construction,1,0.19371861355265857,12,0.8062813864473415
+atlanta,B_logistic,Financials,2,1.8063999295045206,93,0.19360007049547945
+atlanta,B_logistic,Food & Drug Stores,0,0.07902306649558068,5,-0.07902306649558068
+atlanta,B_logistic,"Food, Beverages & Tobacco",1,0.4122889175025047,26,0.5877110824974954
+atlanta,B_logistic,Health Care,0,0.8464728280439703,45,-0.8464728280439703
+atlanta,B_logistic,"Hotels, Restaurants & Leisure",0,0.17219833827971384,11,-0.17219833827971384
+atlanta,B_logistic,Household Products,1,0.12533972093279733,8,0.8746602790672027
+atlanta,B_logistic,Industrials,1,0.33433758982369427,19,0.6656624101763058
+atlanta,B_logistic,Materials,1,0.3010478492638322,17,0.6989521507361678
+atlanta,B_logistic,Media,0,0.162404652080955,10,-0.162404652080955
+atlanta,B_logistic,Motor Vehicles & Parts,0,0.16235099470169012,9,-0.16235099470169012
+atlanta,B_logistic,Retailing,2,0.7190125884431285,44,1.2809874115568713
+atlanta,B_logistic,Technology,0,1.4013123306295578,52,-1.4013123306295578
+atlanta,B_logistic,Telecommunications,0,0.11299660524847559,7,-0.11299660524847559
+atlanta,B_logistic,Transportation,3,0.2687960454978735,17,2.7312039545021265
+atlanta,B_logistic,Wholesalers,1,0.34194153026588675,21,0.6580584697341132
+atlanta,B_logistic_main,Aerospace & Defense,0,0.20585782898990979,11,-0.20585782898990979
+atlanta,B_logistic_main,Apparel,0,0.07330538253875643,4,-0.07330538253875643
+atlanta,B_logistic_main,Business Services,1,0.33511995259811556,18,0.6648800474018844
+atlanta,B_logistic_main,Chemicals,0,0.2170338955347271,12,-0.2170338955347271
+atlanta,B_logistic_main,Energy,1,1.0544797235654604,57,-0.05447972356546038
+atlanta,B_logistic_main,Engineering & Construction,1,0.2214583142396018,12,0.7785416857603982
+atlanta,B_logistic_main,Financials,2,1.7356598300737758,93,0.2643401699262242
+atlanta,B_logistic_main,Food & Drug Stores,0,0.09415708634619112,5,-0.09415708634619112
+atlanta,B_logistic_main,"Food, Beverages & Tobacco",1,0.46650266933679346,26,0.5334973306632065
+atlanta,B_logistic_main,Health Care,0,0.8467802615084155,45,-0.8467802615084155
+atlanta,B_logistic_main,"Hotels, Restaurants & Leisure",0,0.20183324734498848,11,-0.20183324734498848
+atlanta,B_logistic_main,Household Products,1,0.1454316450589821,8,0.8545683549410179
+atlanta,B_logistic_main,Industrials,1,0.3394140404793779,19,0.660585959520622
+atlanta,B_logistic_main,Materials,1,0.30291944371999496,17,0.6970805562800051
+atlanta,B_logistic_main,Media,0,0.18654065256585647,10,-0.18654065256585647
+atlanta,B_logistic_main,Motor Vehicles & Parts,0,0.1662514745862237,9,-0.1662514745862237
+atlanta,B_logistic_main,Retailing,2,0.8088963315623923,44,1.1911036684376077
+atlanta,B_logistic_main,Technology,0,1.0047572317110502,52,-1.0047572317110502
+atlanta,B_logistic_main,Telecommunications,0,0.13210141013656002,7,-0.13210141013656002
+atlanta,B_logistic_main,Transportation,3,0.310387082012122,17,2.689612917987878
+atlanta,B_logistic_main,Wholesalers,1,0.38771820756047526,21,0.6122817924395247
+atlanta,B_mean,Aerospace & Defense,0,0.189328743545611,11,-0.189328743545611
+atlanta,B_mean,Apparel,0,0.06884681583476764,4,-0.06884681583476764
+atlanta,B_mean,Business Services,1,0.30981067125645434,18,0.6901893287435457
+atlanta,B_mean,Chemicals,0,0.2065404475043029,12,-0.2065404475043029
+atlanta,B_mean,Energy,1,0.9810671256454389,57,0.018932874354561147
+atlanta,B_mean,Engineering & Construction,1,0.2065404475043029,12,0.7934595524956971
+atlanta,B_mean,Financials,2,1.6006884681583475,93,0.39931153184165247
+atlanta,B_mean,Food & Drug Stores,0,0.08605851979345955,5,-0.08605851979345955
+atlanta,B_mean,"Food, Beverages & Tobacco",1,0.44750430292598964,26,0.5524956970740104
+atlanta,B_mean,Health Care,0,0.7745266781411358,45,-0.7745266781411358
+atlanta,B_mean,"Hotels, Restaurants & Leisure",0,0.189328743545611,11,-0.189328743545611
+atlanta,B_mean,Household Products,1,0.13769363166953527,8,0.8623063683304647
+atlanta,B_mean,Industrials,1,0.32702237521514627,19,0.6729776247848538
+atlanta,B_mean,Materials,1,0.29259896729776247,17,0.7074010327022375
+atlanta,B_mean,Media,0,0.1721170395869191,10,-0.1721170395869191
+atlanta,B_mean,Motor Vehicles & Parts,0,0.15490533562822717,9,-0.15490533562822717
+atlanta,B_mean,Retailing,2,0.757314974182444,44,1.242685025817556
+atlanta,B_mean,Technology,0,0.8950086058519793,52,-0.8950086058519793
+atlanta,B_mean,Telecommunications,0,0.12048192771084336,7,-0.12048192771084336
+atlanta,B_mean,Transportation,3,0.29259896729776247,17,2.7074010327022373
+atlanta,B_mean,Wholesalers,1,0.36144578313253006,21,0.6385542168674699
+atlanta,B_xgboost,Aerospace & Defense,0,0.21387486159801483,11,-0.21387486159801483
+atlanta,B_xgboost,Apparel,0,0.07777267694473267,4,-0.07777267694473267
+atlanta,B_xgboost,Business Services,1,0.349977046251297,18,0.650022953748703
+atlanta,B_xgboost,Chemicals,0,0.233318030834198,12,-0.233318030834198
+atlanta,B_xgboost,Energy,1,1.1082606464624405,57,-0.10826064646244049
+atlanta,B_xgboost,Engineering & Construction,1,0.233318030834198,12,0.766681969165802
+atlanta,B_xgboost,Financials,2,1.8082147389650345,93,0.19178526103496552
+atlanta,B_xgboost,Food & Drug Stores,0,0.09721584618091583,5,-0.09721584618091583
+atlanta,B_xgboost,"Food, Beverages & Tobacco",1,0.5055224001407623,26,0.49447759985923767
+atlanta,B_xgboost,Health Care,0,0.8749426156282425,45,-0.8749426156282425
+atlanta,B_xgboost,"Hotels, Restaurants & Leisure",0,0.21387486159801483,11,-0.21387486159801483
+atlanta,B_xgboost,Household Products,1,0.15554535388946533,8,0.8444546461105347
+atlanta,B_xgboost,Industrials,1,0.36942021548748016,19,0.6305797845125198
+atlanta,B_xgboost,Materials,1,0.33053387701511383,17,0.6694661229848862
+atlanta,B_xgboost,Media,0,0.19443169236183167,10,-0.19443169236183167
+atlanta,B_xgboost,Motor Vehicles & Parts,0,0.1749885231256485,9,-0.1749885231256485
+atlanta,B_xgboost,Retailing,2,0.8554994463920593,44,1.1445005536079407
+atlanta,B_xgboost,Technology,0,1.0110448002815247,52,-1.0110448002815247
+atlanta,B_xgboost,Telecommunications,0,0.13610218465328217,7,-0.13610218465328217
+atlanta,B_xgboost,Transportation,3,0.33053387701511383,17,2.669466122984886
+atlanta,B_xgboost,Wholesalers,1,0.4083065539598465,21,0.5916934460401535
+atlanta,B_xgboost_main,Aerospace & Defense,0,0.2483070082962513,11,-0.2483070082962513
+atlanta,B_xgboost_main,Apparel,0,0.08517406694591045,4,-0.08517406694591045
+atlanta,B_xgboost_main,Business Services,1,0.40171014331281185,18,0.5982898566871881
+atlanta,B_xgboost_main,Chemicals,0,0.25897152721881866,12,-0.25897152721881866
+atlanta,B_xgboost_main,Energy,1,1.2486358005553484,57,-0.2486358005553484
+atlanta,B_xgboost_main,Engineering & Construction,1,0.26269749738276005,12,0.73730250261724
+atlanta,B_xgboost_main,Financials,2,2.050120709463954,93,-0.05012070946395397
+atlanta,B_xgboost_main,Food & Drug Stores,0,0.11566695384681225,5,-0.11566695384681225
+atlanta,B_xgboost_main,"Food, Beverages & Tobacco",1,0.566941874101758,26,0.433058125898242
+atlanta,B_xgboost_main,Health Care,0,1.0094647165387869,45,-1.0094647165387869
+atlanta,B_xgboost_main,"Hotels, Restaurants & Leisure",0,0.24290845543146133,11,-0.24290845543146133
+atlanta,B_xgboost_main,Household Products,1,0.17668420635163784,8,0.8233157936483622
+atlanta,B_xgboost_main,Industrials,1,0.4188152998685837,19,0.5811847001314163
+atlanta,B_xgboost_main,Materials,1,0.36319890804588795,17,0.636801091954112
+atlanta,B_xgboost_main,Media,0,0.21884492971003056,10,-0.21884492971003056
+atlanta,B_xgboost_main,Motor Vehicles & Parts,0,0.2030289825052023,9,-0.2030289825052023
+atlanta,B_xgboost_main,Retailing,2,0.9817314241081476,44,1.0182685758918524
+atlanta,B_xgboost_main,Technology,0,0.8949515167623758,52,-0.8949515167623758
+atlanta,B_xgboost_main,Telecommunications,0,0.15761638805270195,7,-0.15761638805270195
+atlanta,B_xgboost_main,Transportation,3,0.3760830722749233,17,2.6239169277250767
+atlanta,B_xgboost_main,Wholesalers,1,0.4609821494668722,21,0.5390178505331278
+development_oof,B_employment,Aerospace & Defense,10,9.303912355385169,539,0.6960876446148312
+development_oof,B_employment,Apparel,4,3.383240856503698,196,0.616759143496302
+development_oof,B_employment,Business Services,17,15.22458385426664,882,1.7754161457333595
+development_oof,B_employment,Chemicals,9,10.149722569511093,588,-1.149722569511093
+development_oof,B_employment,Energy,48,48.21118220517769,2793,-0.2111822051776926
+development_oof,B_employment,Engineering & Construction,11,10.149722569511093,588,0.8502774304889069
+development_oof,B_employment,Financials,80,78.66034991371097,4557,1.3396500862890264
+development_oof,B_employment,Food & Drug Stores,3,4.229051070629622,245,-1.2290510706296223
+development_oof,B_employment,"Food, Beverages & Tobacco",19,21.991065567274035,1274,-2.9910655672740347
+development_oof,B_employment,Health Care,39,38.0614596356666,2205,0.9385403643333987
+development_oof,B_employment,"Hotels, Restaurants & Leisure",10,9.303912355385169,539,0.6960876446148312
+development_oof,B_employment,Household Products,6,6.766481713007396,392,-0.766481713007396
+development_oof,B_employment,Industrials,13,16.070394068392567,931,-3.0703940683925666
+development_oof,B_employment,Materials,12,14.378773640140716,833,-2.3787736401407162
+development_oof,B_employment,Media,10,8.458102141259245,490,1.5418978587407555
+development_oof,B_employment,Motor Vehicles & Parts,6,7.61229192713332,441,-1.6122919271333203
+development_oof,B_employment,Retailing,36,37.215649421540675,2156,-1.2156494215406752
+development_oof,B_employment,Technology,50,43.98213113454807,2548,6.017868865451931
+development_oof,B_employment,Telecommunications,6,5.920671498881472,343,0.0793285011185283
+development_oof,B_employment,Transportation,13,14.378773640140716,833,-1.3787736401407162
+development_oof,B_employment,Wholesalers,18,17.762014496644415,1029,0.23798550335558488
+development_oof,B_logistic,Aerospace & Defense,10,8.742880206178688,539,1.2571197938213121
+development_oof,B_logistic,Apparel,4,2.745021850861746,196,1.2549781491382541
+development_oof,B_logistic,Business Services,17,12.602410778781636,882,4.3975892212183645
+development_oof,B_logistic,Chemicals,9,9.33859542363393,588,-0.33859542363392947
+development_oof,B_logistic,Energy,48,41.68545484334868,2793,6.31454515665132
+development_oof,B_logistic,Engineering & Construction,11,8.429744468167772,588,2.5702555318322275
+development_oof,B_logistic,Financials,80,79.23345443988781,4557,0.766545560112192
+development_oof,B_logistic,Food & Drug Stores,3,3.435923472618751,245,-0.4359234726187511
+development_oof,B_logistic,"Food, Beverages & Tobacco",19,17.89507578707401,1274,1.1049242129259902
+development_oof,B_logistic,Health Care,39,37.356343177761445,2205,1.6436568222385546
+development_oof,B_logistic,"Hotels, Restaurants & Leisure",10,7.472930328230198,539,2.5270696717698016
+development_oof,B_logistic,Household Products,6,5.454412810062839,392,0.5455871899371614
+development_oof,B_logistic,Industrials,13,14.599030534433597,931,-1.5990305344335969
+development_oof,B_logistic,Materials,12,13.121049003232722,833,-1.1210490032327218
+development_oof,B_logistic,Media,10,7.026461188596087,490,2.9735388114039134
+development_oof,B_logistic,Motor Vehicles & Parts,6,7.059327846266182,441,-1.0593278462661821
+development_oof,B_logistic,Retailing,36,31.07329554783078,2156,4.9267044521692185
+development_oof,B_logistic,Technology,50,59.964065668573326,2548,-9.964065668573326
+development_oof,B_logistic,Telecommunications,6,4.894719887438544,343,1.1052801125614558
+development_oof,B_logistic,Transportation,13,11.679826342189818,833,1.320173657810182
+development_oof,B_logistic,Wholesalers,18,14.847553599300422,1029,3.152446400699578
+development_oof,B_logistic_main,Aerospace & Defense,10,8.83665199147336,539,1.1633480085266399
+development_oof,B_logistic_main,Apparel,4,3.152400262295413,196,0.847599737704587
+development_oof,B_logistic_main,Business Services,17,14.376775381230877,882,2.6232246187691235
+development_oof,B_logistic_main,Chemicals,9,9.34894744642457,588,-0.3489474464245692
+development_oof,B_logistic_main,Energy,48,45.643449156014455,2793,2.356550843985545
+development_oof,B_logistic_main,Engineering & Construction,11,9.547722511974705,588,1.4522774880252953
+development_oof,B_logistic_main,Financials,80,74.56247233911294,4557,5.437527660887056
+development_oof,B_logistic_main,Food & Drug Stores,3,4.041107780605386,245,-1.041107780605386
+development_oof,B_logistic_main,"Food, Beverages & Tobacco",19,20.13988095937662,1274,-1.1398809593766188
+development_oof,B_logistic_main,Health Care,39,36.25372399873356,2205,2.7462760012664376
+development_oof,B_logistic_main,"Hotels, Restaurants & Leisure",10,8.669999549453532,539,1.3300004505464678
+development_oof,B_logistic_main,Household Products,6,6.262678837465146,392,-0.2626788374651463
+development_oof,B_logistic_main,Industrials,13,14.689091075875911,931,-1.6890910758759112
+development_oof,B_logistic_main,Materials,12,13.100433934150773,833,-1.1004339341507734
+development_oof,B_logistic_main,Media,10,7.9978267223728166,490,2.0021732776271834
+development_oof,B_logistic_main,Motor Vehicles & Parts,6,7.15049435897499,441,-1.1504943589749903
+development_oof,B_logistic_main,Retailing,36,34.87815867599498,2156,1.1218413240050182
+development_oof,B_logistic_main,Technology,50,42.88431564519317,2548,7.115684354806831
+development_oof,B_logistic_main,Telecommunications,6,5.659756031145647,343,0.34024396885435326
+development_oof,B_logistic_main,Transportation,13,13.375663726717267,833,-0.3756637267172671
+development_oof,B_logistic_main,Wholesalers,18,16.721749828633552,1029,1.278250171366448
+development_oof,B_mean,Aerospace & Defense,10,9.296435742971887,539,0.7035642570281126
+development_oof,B_mean,Apparel,4,3.3805220883534135,196,0.6194779116465865
+development_oof,B_mean,Business Services,17,15.21234939759036,882,1.7876506024096397
+development_oof,B_mean,Chemicals,9,10.141566265060241,588,-1.1415662650602414
+development_oof,B_mean,Energy,48,48.172439759036145,2793,-0.17243975903614484
+development_oof,B_mean,Engineering & Construction,11,10.141566265060241,588,0.8584337349397586
+development_oof,B_mean,Financials,80,78.59713855421687,4557,1.402861445783131
+development_oof,B_mean,Food & Drug Stores,3,4.225652610441767,245,-1.2256526104417667
+development_oof,B_mean,"Food, Beverages & Tobacco",19,21.973393574297187,1274,-2.9733935742971873
+development_oof,B_mean,Health Care,39,38.0308734939759,2205,0.9691265060240966
+development_oof,B_mean,"Hotels, Restaurants & Leisure",10,9.296435742971887,539,0.7035642570281126
+development_oof,B_mean,Household Products,6,6.761044176706827,392,-0.761044176706827
+development_oof,B_mean,Industrials,13,16.057479919678716,931,-3.057479919678716
+development_oof,B_mean,Materials,12,14.367218875502008,833,-2.367218875502008
+development_oof,B_mean,Media,10,8.451305220883533,490,1.5486947791164667
+development_oof,B_mean,Motor Vehicles & Parts,6,7.60617469879518,441,-1.6061746987951802
+development_oof,B_mean,Retailing,36,37.18574297188755,2156,-1.1857429718875494
+development_oof,B_mean,Technology,50,43.946787148594375,2548,6.053212851405625
+development_oof,B_mean,Telecommunications,6,5.915913654618474,343,0.08408634538152615
+development_oof,B_mean,Transportation,13,14.367218875502008,833,-1.367218875502008
+development_oof,B_mean,Wholesalers,18,17.74774096385542,1029,0.25225903614457934
+development_oof,B_xgboost,Aerospace & Defense,10,7.175532807130367,539,2.8244671928696334
+development_oof,B_xgboost,Apparel,4,2.6717783263884485,196,1.3282216736115515
+development_oof,B_xgboost,Business Services,17,12.039772748947144,882,4.9602272510528564
+development_oof,B_xgboost,Chemicals,9,7.75846897624433,588,1.2415310237556696
+development_oof,B_xgboost,Energy,48,37.699188850820065,2793,10.300811149179935
+development_oof,B_xgboost,Engineering & Construction,11,8.03952922904864,588,2.9604707709513605
+development_oof,B_xgboost,Financials,80,68.05731881642714,4557,11.942681183572859
+development_oof,B_xgboost,Food & Drug Stores,3,3.387241159565747,245,-0.3872411595657468
+development_oof,B_xgboost,"Food, Beverages & Tobacco",19,17.402487576473504,1274,1.5975124235264957
+development_oof,B_xgboost,Health Care,39,30.905540014151484,2205,8.094459985848516
+development_oof,B_xgboost,"Hotels, Restaurants & Leisure",10,7.39232409466058,539,2.60767590533942
+development_oof,B_xgboost,Household Products,6,5.346626045648009,392,0.6533739543519914
+development_oof,B_xgboost,Industrials,13,12.287072550971061,931,0.712927449028939
+development_oof,B_xgboost,Materials,12,10.9949882007204,833,1.0050117992796004
+development_oof,B_xgboost,Media,10,6.704495882615447,490,3.295504117384553
+development_oof,B_xgboost,Motor Vehicles & Parts,6,5.867807513102889,441,0.13219248689711094
+development_oof,B_xgboost,Retailing,36,29.288464336190373,2156,6.711535663809627
+development_oof,B_xgboost,Technology,50,43.672398388851434,2548,6.327601611148566
+development_oof,B_xgboost,Telecommunications,6,4.726526185404509,343,1.2734738145954907
+development_oof,B_xgboost,Transportation,13,11.381028346717358,833,1.6189716532826424
+development_oof,B_xgboost,Wholesalers,18,14.05580592667684,1029,3.9441940733231604
+development_oof,B_xgboost_main,Aerospace & Defense,10,7.864619490690529,539,2.1353805093094707
+development_oof,B_xgboost_main,Apparel,4,2.810744946356863,196,1.1892550536431372
+development_oof,B_xgboost_main,Business Services,17,12.762954392004758,882,4.237045607995242
+development_oof,B_xgboost_main,Chemicals,9,8.415551755577326,588,0.5844482444226742
+development_oof,B_xgboost_main,Energy,48,38.518528022337705,2793,9.481471977662295
+development_oof,B_xgboost_main,Engineering & Construction,11,8.443508595228195,588,2.556491404771805
+development_oof,B_xgboost_main,Financials,80,64.75355362379923,4557,15.246446376200765
+development_oof,B_xgboost_main,Food & Drug Stores,3,3.630763574037701,245,-0.6307635740377009
+development_oof,B_xgboost_main,"Food, Beverages & Tobacco",19,17.89999992819503,1274,1.1000000718049705
+development_oof,B_xgboost_main,Health Care,39,31.99871257832274,2205,7.001287421677262
+development_oof,B_xgboost_main,"Hotels, Restaurants & Leisure",10,7.905260268598795,539,2.094739731401205
+development_oof,B_xgboost_main,Household Products,6,5.641799553763121,392,0.35820044623687863
+development_oof,B_xgboost_main,Industrials,13,13.427669841330498,931,-0.42766984133049846
+development_oof,B_xgboost_main,Materials,12,11.874757074285299,833,0.12524292571470141
+development_oof,B_xgboost_main,Media,10,7.027866472955793,490,2.972133527044207
+development_oof,B_xgboost_main,Motor Vehicles & Parts,6,6.440566453151405,441,-0.44056645315140486
+development_oof,B_xgboost_main,Retailing,36,31.222353562247008,2156,4.777646437752992
+development_oof,B_xgboost_main,Technology,50,37.545536811463535,2548,12.454463188536465
+development_oof,B_xgboost_main,Telecommunications,6,5.001032714731991,343,0.9989672852680087
+development_oof,B_xgboost_main,Transportation,13,12.077144660521299,833,0.9228553394787014
+development_oof,B_xgboost_main,Wholesalers,18,14.76809836504981,1029,3.231901634950191

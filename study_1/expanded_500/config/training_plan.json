@@ -1,0 +1,23 @@
+{
+  "seed": 20261109,
+  "outer_validation": "Supplied five whole-MSA folds; Atlanta excluded",
+  "inner_validation": "Leave out each supplied fold remaining inside the outer training set; five folds for final development-only tuning",
+  "tuning_metric": "Equal-MSA count MAE, then RMSE, then candidate order",
+  "selection_rule": "Minimum primary out-of-fold count MAE, then RMSE, then declared model order. Mean-count baseline is eligible. Main-effects ablations are diagnostic only.",
+  "primary_model_order": ["A_employment", "A_mean", "A_poisson", "A_xgboost", "B_employment", "B_mean", "B_logistic", "B_xgboost"],
+  "poisson_alpha": [10.0, 1.0, 0.1],
+  "logistic_C": [0.01, 0.1, 1.0],
+  "xgboost_grid": [
+    {"max_depth": 1, "n_estimators": 100},
+    {"max_depth": 1, "n_estimators": 250},
+    {"max_depth": 2, "n_estimators": 100},
+    {"max_depth": 2, "n_estimators": 250}
+  ],
+  "xgboost_fixed": {"learning_rate": 0.03, "reg_alpha": 1.0, "reg_lambda": 20.0, "min_child_weight": 3.0, "subsample": 1.0, "colsample_bytree": 1.0, "tree_method": "hist", "n_jobs": 1},
+  "preprocessing": "Regression: training-fold median imputation, missing flags and standardization; B additionally training-fold one-hot categories. XGBoost: native numeric nulls, fold-fitted B one-hot categories. No feature selection or post-hoc probability calibration.",
+  "prevalence": "Natural labels, no class weighting, undersampling or probability normalization",
+  "sensitivities": "35-input main-effects B logistic and XGBoost ablations; known Pittsburgh additional HQ shown as outcome-only scorecard context, without alternative model refits. Optional company financials and alternative targets are not fitted.",
+  "bootstrap_replicates": 2000,
+  "uncertainty": "Percentile 95% intervals on fixed OOF predictions: resample whole metros for fixed-roster count metrics; additionally independently resample company and metro clusters for B count and probability metrics. No independent-Bernoulli intervals. These intervals omit model-refitting and selection uncertainty.",
+  "atlanta_band": "Heuristic 90% empirical prediction band: final expected count plus/minus the finite-sample-adjusted 90th percentile of absolute development OOF count residuals, lower bound truncated at zero. Not a formal conformal interval or a confidence interval for the expected count."
+}

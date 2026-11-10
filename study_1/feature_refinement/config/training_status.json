@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "date": "2026-11-10",
+  "data_checks_passed": 54,
+  "artifact_checks_passed": 148,
+  "selected_feature_set": "R1",
+  "selected_model": "B_logistic",
+  "office_models_trained": false,
+  "weighted_score_computed": false,
+  "bespoke_tech_health_outcomes_trained": false
+}

@@ -1,0 +1,10 @@
+{
+  "status": "training_and_assessment_completed",
+  "selected_model": "A_employment",
+  "eligible_company_n": 498,
+  "seed": 20261109,
+  "results": "FINAL_RESULTS.md",
+  "run_metadata": "reports/training/run_metadata.json",
+  "selection_record": "reports/training/selection_frozen.json",
+  "original_experiment_preserved": true
+}

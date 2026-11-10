@@ -1,0 +1,34 @@
+{
+  "status": "data_prepared_models_not_trained",
+  "cohort_n": 500,
+  "eligible_company_n": 498,
+  "excluded_company_n": 2,
+  "metro_n": 50,
+  "independent_development_metros": 49,
+  "atlanta_cbsa": "12060",
+  "aggregate": {
+    "target": "reported_hq_count_2025",
+    "full": "tables/training_aggregate_2025.csv",
+    "development": "tables/training_development_2025.csv",
+    "assessment": "tables/training_atlanta_2025.csv",
+    "primary_features": 31,
+    "feature_spec": "config/feature_spec.json",
+    "development_rows": 49,
+    "assessment_rows": 1
+  },
+  "company": {
+    "target": "reported_hq_presence",
+    "full": "tables/training_company_metro_hq_2025.csv",
+    "development": "tables/training_company_hq_development_2025.csv",
+    "assessment": "tables/training_company_hq_atlanta_2025.csv",
+    "primary_features": 39,
+    "feature_spec": "config/company_hq_feature_spec.json",
+    "full_rows": 24900,
+    "development_rows": 24402,
+    "assessment_rows": 498,
+    "baseline_probability_denominator": 498
+  },
+  "missing_policy": "Retain numeric nulls; fit imputation/encoding/scaling inside training folds only; never impute outcomes",
+  "validation": "Same supplied whole-MSA folds as original; Atlanta excluded from fitting, tuning, preprocessing and selection",
+  "trainer_note": "Original train_hq_2025.py and verify_training.py freeze 98-firm assumptions. Adapt their validation, denominators, report wording and bootstrap roster to this contract before expanded-model training."
+}

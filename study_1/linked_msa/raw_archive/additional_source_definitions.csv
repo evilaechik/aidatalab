@@ -1,0 +1,3 @@
+source_id,source_url,source_section,access_date,factual_summary
+METHOD_QCEW_DISCLOSURE,https://www.bls.gov/cew/questions-and-answers.htm,Q13; Q15; Q17,2026-11-10,"For 2004 onward, establishment counts remain disclosed under N; other cell fields are suppressed. Administrative reporting changes can affect trends."
+GEO_COUSUBS_2023,https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_cousubs_national.zip,National county-subdivision Gazetteer,2026-11-10,Representative points for exact state/name matches; used with July 2023 CBSA polygons. Unresolved localities are not forced into a metro.

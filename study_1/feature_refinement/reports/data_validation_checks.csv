@@ -1,0 +1,55 @@
+check,passed
+historical fingerprints and documented cleanup verified,True
+input hash feature_refinement/config/TRAINING_HANDOFF_INPUT.md,True
+input hash feature_refinement/config/company_hq_feature_spec.json,True
+input hash feature_refinement/config/feature_spec.json,True
+input hash feature_refinement/config/prior_study_snapshot.json,True
+input hash feature_refinement/config/training_contract.json,True
+input hash feature_refinement/config/training_plan.json,True
+input hash feature_refinement/tables/frame_county_membership_2023.csv,True
+input hash feature_refinement/tables/metro_refinement_features_2023.csv,True
+input hash feature_refinement/tables/msa_split_assignments.csv,True
+input hash feature_refinement/tables/refinement_feature_dictionary.csv,True
+input hash feature_refinement/tables/refinement_feature_lineage.csv,True
+input hash feature_refinement/tables/training_aggregate_2025.csv,True
+input hash feature_refinement/tables/training_atlanta_2025.csv,True
+input hash feature_refinement/tables/training_company_hq_atlanta_2025.csv,True
+input hash feature_refinement/tables/training_company_hq_development_2025.csv,True
+input hash feature_refinement/tables/training_company_metro_hq_2025.csv,True
+input hash feature_refinement/tables/training_development_2025.csv,True
+input hash feature_refinement/raw_archive/bds2022-release-note.pdf,True
+input hash feature_refinement/raw_archive/bds2023-release-note.pdf,True
+input hash feature_refinement/raw_archive/cbp_msa_county_reference_2022_2023.txt,True
+input hash feature_refinement/raw_archive/geography_source_registry.csv,True
+input hash feature_refinement/raw_archive/omb_cbsa_counties_july_2023.xlsx,True
+input hash scripts/build_feature_refinement.py,True
+input hash scripts/train_feature_refinement.py,True
+input hash scripts/verify_feature_refinement.py,True
+input hash scripts/train_hq_2025.py,True
+identical original grids and seed,True
+50 unique metro additions,True
+only three declared additions,True
+complete finite additions,True
+100 accepted geography checks,True
+A exact predictor size,True
+A predictors exclude prohibited fields,True
+training_aggregate_2025 keys/labels/old columns preserved,True
+training_aggregate_2025 unique key,True
+training_development_2025 keys/labels/old columns preserved,True
+training_development_2025 unique key,True
+training_atlanta_2025 keys/labels/old columns preserved,True
+training_atlanta_2025 unique key,True
+A Atlanta reserved,True
+B exact predictor size,True
+B predictors exclude prohibited fields,True
+training_company_metro_hq_2025 keys/labels/old columns preserved,True
+training_company_metro_hq_2025 unique key,True
+training_company_hq_development_2025 keys/labels/old columns preserved,True
+training_company_hq_development_2025 unique key,True
+training_company_hq_atlanta_2025 keys/labels/old columns preserved,True
+training_company_hq_atlanta_2025 unique key,True
+B Atlanta reserved,True
+unchanged 49 development and 24402 pairs,True
+"435 HQ positives, 15 Atlanta",True
+common whole metro folds,True
+B main-only contract size 38,True

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-10",
+  "table_rows": {
+    "metro_indicators": 32400,
+    "company_locations": 753,
+    "location_functions": 834,
+    "company_msa_coverage": 50000,
+    "metric_dictionary": 119,
+    "msa_scorecard": 50
+  },
+  "roster_n": 500,
+  "msa_n": 50,
+  "source_screen_attempts": 500,
+  "usable_indexed_excerpts": 460,
+  "reviewed_office_facts": 254,
+  "companies_with_new_office_facts": 112,
+  "locations_with_reported_employment": 1,
+  "locations_with_reported_office_area": 23,
+  "office_fact_periods": [
+    "2024",
+    "2025"
+  ],
+  "unresolved_office_localities": 8,
+  "historical_hq_counts_preserved": true,
+  "office_census_complete": false,
+  "new_training_ready": false,
+  "weighted_score_computed": false,
+  "sector_specific_extensions_collected": false
+}

@@ -1,0 +1,149 @@
+check,passed
+historical fingerprints and documented cleanup verified,True
+input hash feature_refinement/config/TRAINING_HANDOFF_INPUT.md,True
+input hash feature_refinement/config/company_hq_feature_spec.json,True
+input hash feature_refinement/config/feature_spec.json,True
+input hash feature_refinement/config/prior_study_snapshot.json,True
+input hash feature_refinement/config/training_contract.json,True
+input hash feature_refinement/config/training_plan.json,True
+input hash feature_refinement/tables/frame_county_membership_2023.csv,True
+input hash feature_refinement/tables/metro_refinement_features_2023.csv,True
+input hash feature_refinement/tables/msa_split_assignments.csv,True
+input hash feature_refinement/tables/refinement_feature_dictionary.csv,True
+input hash feature_refinement/tables/refinement_feature_lineage.csv,True
+input hash feature_refinement/tables/training_aggregate_2025.csv,True
+input hash feature_refinement/tables/training_atlanta_2025.csv,True
+input hash feature_refinement/tables/training_company_hq_atlanta_2025.csv,True
+input hash feature_refinement/tables/training_company_hq_development_2025.csv,True
+input hash feature_refinement/tables/training_company_metro_hq_2025.csv,True
+input hash feature_refinement/tables/training_development_2025.csv,True
+input hash feature_refinement/raw_archive/bds2022-release-note.pdf,True
+input hash feature_refinement/raw_archive/bds2023-release-note.pdf,True
+input hash feature_refinement/raw_archive/cbp_msa_county_reference_2022_2023.txt,True
+input hash feature_refinement/raw_archive/geography_source_registry.csv,True
+input hash feature_refinement/raw_archive/omb_cbsa_counties_july_2023.xlsx,True
+input hash scripts/build_feature_refinement.py,True
+input hash scripts/train_feature_refinement.py,True
+input hash scripts/verify_feature_refinement.py,True
+input hash scripts/train_hq_2025.py,True
+identical original grids and seed,True
+50 unique metro additions,True
+only three declared additions,True
+complete finite additions,True
+100 accepted geography checks,True
+A exact predictor size,True
+A predictors exclude prohibited fields,True
+training_aggregate_2025 keys/labels/old columns preserved,True
+training_aggregate_2025 unique key,True
+training_development_2025 keys/labels/old columns preserved,True
+training_development_2025 unique key,True
+training_atlanta_2025 keys/labels/old columns preserved,True
+training_atlanta_2025 unique key,True
+A Atlanta reserved,True
+B exact predictor size,True
+B predictors exclude prohibited fields,True
+training_company_metro_hq_2025 keys/labels/old columns preserved,True
+training_company_metro_hq_2025 unique key,True
+training_company_hq_development_2025 keys/labels/old columns preserved,True
+training_company_hq_development_2025 unique key,True
+training_company_hq_atlanta_2025 keys/labels/old columns preserved,True
+training_company_hq_atlanta_2025 unique key,True
+B Atlanta reserved,True
+unchanged 49 development and 24402 pairs,True
+"435 HQ positives, 15 Atlanta",True
+common whole metro folds,True
+B main-only contract size 38,True
+frozen selection hash,True
+frozen input manifest hash,True
+reference manifest frozen hash,True
+R0 artifact unchanged expanded_500/models/A_poisson.joblib,True
+R0 artifact unchanged expanded_500/models/A_xgboost.joblib,True
+R0 artifact unchanged expanded_500/models/A_xgboost.ubj,True
+R0 artifact unchanged expanded_500/models/B_logistic.joblib,True
+R0 artifact unchanged expanded_500/models/B_logistic_main.joblib,True
+R0 artifact unchanged expanded_500/models/B_xgboost.joblib,True
+R0 artifact unchanged expanded_500/models/B_xgboost.ubj,True
+R0 artifact unchanged expanded_500/models/B_xgboost_main.joblib,True
+R0 artifact unchanged expanded_500/models/B_xgboost_main.ubj,True
+R0 artifact unchanged expanded_500/models/baselines.json,True
+R0 artifact unchanged expanded_500/reports/training/artifact_validation.json,True
+R0 artifact unchanged expanded_500/reports/training/atlanta_assessment.csv,True
+R0 artifact unchanged expanded_500/reports/training/atlanta_company_probabilities.csv,True
+R0 artifact unchanged expanded_500/reports/training/calibration_bins.csv,True
+R0 artifact unchanged expanded_500/reports/training/fold_metrics.csv,True
+R0 artifact unchanged expanded_500/reports/training/model_comparison.csv,True
+R0 artifact unchanged expanded_500/reports/training/observed_scorecard.csv,True
+R0 artifact unchanged expanded_500/reports/training/oof_company_probabilities.csv,True
+R0 artifact unchanged expanded_500/reports/training/oof_metro_predictions.csv,True
+R0 artifact unchanged expanded_500/reports/training/original_vs_expanded.csv,True
+R0 artifact unchanged expanded_500/reports/training/paired_mae_vs_employment.csv,True
+R0 artifact unchanged expanded_500/reports/training/probability_comparison.csv,True
+R0 artifact unchanged expanded_500/reports/training/run_metadata.json,True
+R0 artifact unchanged expanded_500/reports/training/sector_diagnostics.csv,True
+R0 artifact unchanged expanded_500/reports/training/selection_frozen.json,True
+R0 artifact unchanged expanded_500/reports/training/tuning_scores.csv,True
+R0 artifact unchanged expanded_500/reports/training/uncertainty.csv,True
+20 models x49 OOF metros,True
+OOF excludes Atlanta,True
+same supplied count folds,True
+same supplied company folds,True
+six complete company OOF grids,True
+sum-ready strict probabilities,True
+36 fits completed,True
+R0/A_employment metrics independently reproduced,True
+R0/A_mean metrics independently reproduced,True
+R0/A_poisson metrics independently reproduced,True
+R0/A_xgboost metrics independently reproduced,True
+R0/B_employment metrics independently reproduced,True
+R0/B_logistic metrics independently reproduced,True
+R0/B_logistic_main metrics independently reproduced,True
+R0/B_mean metrics independently reproduced,True
+R0/B_xgboost metrics independently reproduced,True
+R0/B_xgboost_main metrics independently reproduced,True
+R1/A_employment metrics independently reproduced,True
+R1/A_mean metrics independently reproduced,True
+R1/A_poisson metrics independently reproduced,True
+R1/A_xgboost metrics independently reproduced,True
+R1/B_employment metrics independently reproduced,True
+R1/B_logistic metrics independently reproduced,True
+R1/B_logistic_main metrics independently reproduced,True
+R1/B_mean metrics independently reproduced,True
+R1/B_xgboost metrics independently reproduced,True
+R1/B_xgboost_main metrics independently reproduced,True
+company sums reproduce counts,True
+employment shared R0/R1 A/B baselines,True
+mean shared R0/R1 A/B baselines,True
+selection follows MAE/RMSE/reference/order rule,True
+selection frozen before modeled Atlanta,True
+all Atlanta counts target15,True
+R0/A_poisson saved pipeline reload,True
+R0/A_xgboost saved pipeline reload,True
+R0/B_logistic saved pipeline reload,True
+R0/B_logistic_main saved pipeline reload,True
+R0/B_xgboost saved pipeline reload,True
+R0/B_xgboost_main saved pipeline reload,True
+R1/A_poisson saved pipeline reload,True
+A_poisson exact allowlist used,True
+A_poisson development-only imputation,True
+R1/A_xgboost saved pipeline reload,True
+A_xgboost exact allowlist used,True
+R1/B_logistic saved pipeline reload,True
+B_logistic exact allowlist used,True
+B_logistic development-only imputation,True
+R1/B_logistic_main saved pipeline reload,True
+B_logistic_main exact allowlist used,True
+B_logistic_main development-only imputation,True
+R1/B_xgboost saved pipeline reload,True
+B_xgboost exact allowlist used,True
+R1/B_xgboost_main saved pipeline reload,True
+B_xgboost_main exact allowlist used,True
+A_employment paired point estimate,True
+A_mean paired point estimate,True
+A_poisson paired point estimate,True
+A_xgboost paired point estimate,True
+B_employment paired point estimate,True
+B_mean paired point estimate,True
+B_logistic paired point estimate,True
+B_xgboost paired point estimate,True
+B_logistic_main paired point estimate,True
+B_xgboost_main paired point estimate,True

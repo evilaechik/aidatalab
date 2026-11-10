@@ -1,0 +1,11 @@
+cbsa,metro_name,observed,expected,model,fold,track,method,residual,band90_lower,band90_upper
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,2.842419779101206,A_employment,atlanta,A,employment,0.1575802208987942,0.7525911678715471,4.932248390330864
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,2.842419779101206,B_employment,atlanta,B,employment,0.1575802208987942,0.7525911678715471,4.932248390330864
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.6938775510204083,A_mean,atlanta,A,mean,1.3061224489795917,0.0,4.1938775510204085
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.6938775510204083,B_mean,atlanta,B,mean,1.3061224489795917,0.0,4.1938775510204085
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.6540204856517886,A_poisson,atlanta,A,poisson,1.3459795143482114,0.0,4.605666641222885
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.8602508306503296,A_xgboost,atlanta,A,xgboost,1.1397491693496704,0.0,4.38096022605896
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.7400300072115145,B_logistic,atlanta,B,logistic,1.2599699927884855,0.0,4.846526012822839
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.6508620977401733,B_xgboost,atlanta,B,xgboost,1.3491379022598267,0.0,3.9157739877700806
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.7387860612480333,B_logistic_main,atlanta,B,logistic,1.2612139387519667,0.0,4.877802441483242
+12060,"Atlanta–Sandy Springs–Roswell, GA",3,1.714539885520935,B_xgboost_main,atlanta,B,xgboost,1.285460114479065,0.0,3.7559092044830322

@@ -1,0 +1,24 @@
+{
+  "completed_at_utc": "2026-11-10T20:48:35.899474+00:00",
+  "elapsed_seconds": 53.97408879100112,
+  "seed": 20261109,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0"
+  },
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-15.7.3-arm64-arm-64bit",
+  "selected_feature_set": "R1",
+  "selected_model": "B_logistic",
+  "reference_reused": true,
+  "threads": 1,
+  "new_model_fits": 36,
+  "new_inner_candidate_fits": 525,
+  "input_manifest_sha256": "d338535bb7dd4e98407fa634f0b339e63bc00ae51e090eb3f291574cbed49ed7",
+  "frozen_selection_sha256": "bfa251d298fde1fc09f56d3d060b88ec62a233fe24d9b8c94c8f2358f744d642"
+}

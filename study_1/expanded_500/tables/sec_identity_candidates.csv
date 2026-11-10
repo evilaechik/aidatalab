@@ -1,0 +1,501 @@
+company_id,company,publisher_map_name,cik,sec_name,match_method,official_directory_searched,directory_source_url
+f2025_001,Walmart,Walmart,104169,Walmart Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_002,Amazon,Amazon,1018724,AMAZON COM INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_003,UnitedHealth Group,UnitedHealth Group,731766,UNITEDHEALTH GROUP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_004,Apple,Apple,320193,Apple Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_005,CVS Health,CVS Health,64803,CVS HEALTH Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_006,Berkshire Hathaway,Berkshire Hathaway,1067983,BERKSHIRE HATHAWAY INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_007,Alphabet,Alphabet,1652044,Alphabet Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_008,Exxon Mobil Holdings,Exxon Mobil,2115436,ExxonMobil Holdings Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_009,McKesson,McKesson,927653,MCKESSON CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_010,Cencora,Cencora,1140859,"Cencora, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_011,JPMorgan Chase,JPMorgan Chase,19617,JPMORGAN CHASE & CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_012,Costco Wholesale,Costco Wholesale,909832,COSTCO WHOLESALE CORP /NEW,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_013,Cigna Group,Cigna Group,1739940,Cigna Group,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_014,Microsoft,Microsoft,789019,MICROSOFT CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_015,Cardinal Health,Cardinal Health,721371,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_016,Chevron,Chevron,93410,CHEVRON CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_017,Bank of America,Bank of America,70858,BANK OF AMERICA CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_018,General Motors,General Motors,1467858,General Motors Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_019,Ford Motor,Ford Motor,37996,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_020,Elevance Health,Elevance Health,1156039,"Elevance Health, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_021,Citigroup,Citigroup,831001,CITIGROUP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_022,Meta Platforms,Meta Platforms,1326801,"Meta Platforms, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_023,Centene,Centene,1071739,CENTENE CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_024,Home Depot,Home Depot,354950,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_025,Fannie Mae,Fannie Mae,310522,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_026,Walgreens Boots Alliance,Walgreens Boots Alliance,1618921,"Walgreens Boots Alliance, Inc.",reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_027,Kroger,Kroger,56873,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_028,Phillips 66,Phillips 66,1534701,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_029,Marathon Petroleum,Marathon Petroleum,1510295,Marathon Petroleum Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_030,Verizon Communications,Verizon Communications,732712,VERIZON COMMUNICATIONS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_031,Nvidia,Nvidia,1045810,NVIDIA CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_032,Goldman Sachs Group,Goldman Sachs Group,886982,GOLDMAN SACHS GROUP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_033,Wells Fargo,Wells Fargo,72971,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_034,Valero Energy,Valero Energy,1035002,VALERO ENERGY CORP/TX,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_035,Comcast,Comcast,1166691,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_036,State Farm Insurance,State Farm Insurance,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_037,AT&T,AT&T,732717,AT&T INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_038,Freddie Mac,Freddie Mac,1026214,FEDERAL HOME LOAN MORTGAGE CORP,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_039,Humana,Humana,49071,HUMANA INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_040,Morgan Stanley,Morgan Stanley,895421,MORGAN STANLEY,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_041,Target,Target,27419,TARGET CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_042,StoneX Group,StoneX Group,913760,StoneX Group Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_043,Tesla,Tesla,1318605,"Tesla, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_044,Dell Technologies,Dell Technologies,1571996,Dell Technologies Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_045,PepsiCo,PepsiCo,77476,PEPSICO INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_046,Walt Disney,Walt Disney,1744489,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_047,UPS,UPS,1090727,UNITED PARCEL SERVICE INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_048,Johnson & Johnson,Johnson & Johnson,200406,JOHNSON & JOHNSON,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_049,FedEx,FedEx,1048911,FEDEX CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_050,Archer Daniels Midland,Archer Daniels Midland,7084,Archer-Daniels-Midland Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_051,Procter & Gamble,Procter & Gamble,80424,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_052,Lowe's,Lowe's,60667,LOWES COMPANIES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_053,Energy Transfer,Energy Transfer,1276187,Energy Transfer LP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_054,RTX,RTX,101829,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_055,Albertsons,Albertsons,1646972,"Albertsons Companies, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_056,Sysco,Sysco,0000096021,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_057,Progressive,Progressive,80661,PROGRESSIVE CORP/OH/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_058,American Express,American Express,4962,AMERICAN EXPRESS CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_059,Lockheed Martin,Lockheed Martin,936468,LOCKHEED MARTIN CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_060,MetLife,MetLife,1099219,METLIFE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_061,HCA Healthcare,HCA Healthcare,860730,"HCA Healthcare, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_062,Prudential Financial,Prudential Financial,1137774,PRUDENTIAL FINANCIAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_063,Boeing,Boeing,12927,BOEING CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_064,Caterpillar,Caterpillar,18230,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_065,Merck,Merck,310158,"Merck & Co., Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_066,Allstate,Allstate,0000899051,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_067,Pfizer,Pfizer,78003,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_068,International Business Machines,IBM,51143,INTERNATIONAL BUSINESS MACHINES CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_069,New York Life Insurance,New York Life Insurance,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_070,Delta Air Lines,Delta Air Lines,27904,"DELTA AIR LINES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_071,Publix Super Markets,Publix Super Markets,81061,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_072,Nationwide,Nationwide,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_073,TD Synnex,TD Synnex,1177394,TD SYNNEX CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_074,United Airlines Holdings,United Airlines Holdings,100517,"United Airlines Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_075,ConocoPhillips,ConocoPhillips,1163165,CONOCOPHILLIPS,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_076,TJX,TJX,109198,TJX COMPANIES INC /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_077,AbbVie,AbbVie,1551152,AbbVie Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_078,Enterprise Products Partners,Enterprise Products Partners,1061219,ENTERPRISE PRODUCTS PARTNERS L.P.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_079,Charter Communications,Charter Communications,1091667,"CHARTER COMMUNICATIONS, INC. /MO/",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_080,Performance Food Group,Performance Food Group,1618673,Performance Food Group Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_081,American Airlines Group,American Airlines Group,6201,American Airlines Group Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_082,Capital One Financial,Capital One Financial,927628,CAPITAL ONE FINANCIAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_083,Cisco Systems,Cisco Systems,858877,"CISCO SYSTEMS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_084,HP,HP,47217,HP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_085,Tyson Foods,Tyson Foods,100493,"TYSON FOODS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_086,Intel,Intel,50863,INTEL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_087,Oracle,Oracle,1341439,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_088,Broadcom,Broadcom,1730168,Broadcom Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_089,Deere,Deere,315189,DEERE & CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_090,Nike,Nike,320187,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_091,Liberty Mutual Insurance Group,Liberty Mutual Insurance Group,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_092,Plains GP Holdings,Plains GP Holdings,0001581990,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_093,United Services Automobile Assn.,USAA,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_094,Bristol-Myers Squibb,Bristol-Myers Squibb,14272,BRISTOL MYERS SQUIBB CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_095,Ingram Micro Holding,Ingram Micro Holding,1897762,Ingram Micro Holding Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_096,General Dynamics,General Dynamics,40533,GENERAL DYNAMICS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_097,Coca-Cola,Coca-Cola,21344,COCA COLA CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_098,TIAA,TIAA,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_099,Travelers,Travelers,86312,"TRAVELERS COMPANIES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_100,Eli Lilly,Eli Lilly,59478,ELI LILLY & Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_101,Uber Technologies,Uber Technologies,1543151,"Uber Technologies, Inc",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_102,Massachusetts Mutual Life Insurance,Massachusetts Mutual Life Insurance,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_103,Dow,Dow,1751788,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_104,Thermo Fisher Scientific,Thermo Fisher Scientific,97745,THERMO FISHER SCIENTIFIC INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_105,U.S. Bancorp,U.S. Bancorp,36104,US BANCORP DE,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_106,World Kinect,World Kinect,789460,WORLD KINECT CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_107,Abbott Laboratories,Abbott Laboratories,1800,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_108,Best Buy,Best Buy,764478,BEST BUY CO INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_109,Northwestern Mutual,Northwestern Mutual,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_110,Northrop Grumman,Northrop Grumman,1133421,NORTHROP GRUMMAN CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_111,Molina Healthcare,Molina Healthcare,1179929,"MOLINA HEALTHCARE, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_112,Dollar General,Dollar General,29534,DOLLAR GENERAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_113,Bank of New York (BNY),Bank of New York (BNY),1390777,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_114,Warner Bros. Discovery,Warner Bros. Discovery,1437107,"Warner Bros. Discovery, Inc.",reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_115,CHS,CHS,823277,CHS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_116,Netflix,Netflix,1065280,NETFLIX INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_117,Qualcomm,Qualcomm,804328,QUALCOMM INC/DE,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_118,GE Aerospace,General Electric (GE Aerospace),40545,GENERAL ELECTRIC CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_119,Honeywell Technologies,Honeywell International,773840,HONEYWELL INTERNATIONAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_120,Salesforce,Salesforce,1108524,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_121,Philip Morris International,Philip Morris International,1413329,Philip Morris International Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_122,US Foods Holding,US Foods Holding,1665918,US Foods Holding Corp.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_123,D.R. Horton,D.R. Horton,882184,HORTON D R INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_124,Lithia Motors,Lithia Motors,1023128,LITHIA MOTORS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_125,Mondelēz International,Mondelez International,1103982,"Mondelez International, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_126,Starbucks,Starbucks,829224,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_127,Visa,Visa,0001403161,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_128,CBRE Group,CBRE Group,1138118,"CBRE GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_129,Lennar Corporation,Lennar,920760,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_130,GE Vernova,GE Vernova,1996810,GE Vernova Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_131,PNC Financial Services Group,PNC Financial Services Group,713676,"PNC FINANCIAL SERVICES GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_132,Cummins,Cummins,26172,CUMMINS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_133,Paccar,Paccar,75362,PACCAR INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_134,Amgen,Amgen,318154,AMGEN INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_135,PBF Energy,PBF Energy,1534504,PBF Energy Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_136,GuideWell Mutual Holding,GuideWell Mutual Holding,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_137,PayPal Holdings,PayPal Holdings,1633917,"PayPal Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_138,United Natural Foods,United Natural Foods,1020859,UNITED NATURAL FOODS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_139,Dollar Tree,Dollar Tree,935703,"DOLLAR TREE, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_140,Nucor,Nucor,73309,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_141,Penske Automotive Group,Penske Automotive Group,1019849,"PENSKE AUTOMOTIVE GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_142,Coupang,Coupang,1834584,"Coupang, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_143,Hewlett Packard Enterprise,Hewlett Packard Enterprise,1645590,Hewlett Packard Enterprise Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_144,Duke Energy,Duke Energy,1326160,Duke Energy CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_145,KKR,KKR,1404912,KKR & Co. Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_146,Ferguson Enterprises,Ferguson Enterprises,2011641,Ferguson Enterprises Inc. /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_147,Paramount Skydance,Paramount Global,813828,Paramount Global,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_148,Jabil,Jabil,898293,JABIL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_149,Gilead Sciences,Gilead Sciences,882095,"GILEAD SCIENCES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_150,HF Sinclair,HF Sinclair,1915657,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_151,CarMax,CarMax,1170010,CARMAX INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_152,Mastercard,Mastercard,1141391,Mastercard Inc,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_153,NRG Energy,NRG Energy,1013871,"NRG ENERGY, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_154,Arrow Electronics,Arrow Electronics,7536,"ARROW ELECTRONICS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_155,Baker Hughes,Baker Hughes,1701605,Baker Hughes Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_156,Southwest Airlines,Southwest Airlines,92380,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_157,AIG,AIG,5272,AMERICAN INTERNATIONAL GROUP INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_158,Applied Materials,Applied Materials,6951,APPLIED MATERIALS INC /DE,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_159,Occidental Petroleum,Occidental Petroleum,797468,OCCIDENTAL PETROLEUM CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_160,AutoNation,AutoNation,350698,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_161,Southern,Southern,92122,SOUTHERN CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_162,Hartford Insurance Group,Hartford Insurance Group,874766,"HARTFORD INSURANCE GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_163,Apollo Global Management,Apollo Global Management,1858681,"Apollo Global Management, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_164,Charles Schwab,Charles Schwab,316709,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_165,McDonald's,McDonald's,63908,MCDONALDS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_166,Kraft Heinz,Kraft Heinz,1637459,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_167,Advanced Micro Devices,Advanced Micro Devices,2488,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_168,Truist Financial,Truist Financial,92230,TRUIST FINANCIAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_169,Freeport-McMoRan,Freeport-McMoRan,831259,FREEPORT-MCMORAN INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_170,Micron Technology,Micron Technology,723125,MICRON TECHNOLOGY INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_171,Marriott International,Marriott International,1048286,MARRIOTT INTERNATIONAL INC /MD/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_172,Carrier Global,Carrier Global,1783180,CARRIER GLOBAL Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_173,NextEra Energy,NextEra Energy,753308,NEXTERA ENERGY INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_174,3M,3M,66740,3M CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_175,Marsh & McLennan,Marsh & McLennan,62709,"MARSH & MCLENNAN COMPANIES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_176,PG&E,PG&E,1004980,PG&E Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_177,Union Pacific,Union Pacific,100885,UNION PACIFIC CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_178,Synchrony,Synchrony Financial,1601712,Synchrony Financial,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_179,Block,Block,1512673,"Block, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_180,Danaher,Danaher,313616,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_181,Avnet,Avnet,8858,AVNET INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_182,Booking Holdings,Booking Holdings,1075531,Booking Holdings Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_183,EOG Resources,EOG Resources,821189,EOG RESOURCES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_184,Quanta Services,Quanta Services,1050915,"QUANTA SERVICES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_185,Discover,Discover Financial Services,1393612,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_186,Constellation Energy,Constellation Energy,1868275,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_187,Genuine Parts,Genuine Parts,40987,GENUINE PARTS CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_188,Jones Lang LaSalle,Jones Lang LaSalle,1037976,JONES LANG LASALLE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_189,Lear,Lear,842162,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_190,Live Nation Entertainment,Live Nation Entertainment,1335258,"Live Nation Entertainment, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_191,Sherwin-Williams,Sherwin-Williams,89800,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_192,Exelon,Exelon,1109357,EXELON CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_193,Macy's,Macy's,794367,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_194,Halliburton,Halliburton,45012,HALLIBURTON CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_195,Stryker,Stryker,310764,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_196,Reinsurance Group of America,Reinsurance Group of America,898174,REINSURANCE GROUP OF AMERICA INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_197,Waste Management,Waste Management,823768,WASTE MANAGEMENT INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_198,State Street,State Street,93751,STATE STREET CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_199,WESCO International,WESCO International,929008,WESCO INTERNATIONAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_200,Oneok,Oneok,1039684,ONEOK INC /NEW/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_201,Adobe,Adobe,796343,ADOBE INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_202,American Family Insurance Group,American Family Insurance Group,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_203,L3Harris Technologies,L3Harris Technologies,202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_204,Ross Stores,Ross Stores,745732,"ROSS STORES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_205,CDW,CDW,1402057,CDW Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_206,Tenet Healthcare,Tenet Healthcare,70318,TENET HEALTHCARE CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_207,BJ's Wholesale Club,BJ's Wholesale Club,1531152,BJs Wholesale Club Holdings Inc,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_208,Fiserv,Fiserv,798354,FISERV INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_209,Altria Group,Altria Group,764180,"ALTRIA GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_210,BlackRock,BlackRock,2012383,"BlackRock, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_211,Becton Dickinson,Becton Dickinson,10795,BECTON DICKINSON & CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_212,Colgate-Palmolive,Colgate-Palmolive,21665,COLGATE PALMOLIVE CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_213,Kimberly-Clark,Kimberly-Clark,55785,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_214,Group 1 Automotive,Group 1 Automotive,1031203,GROUP 1 AUTOMOTIVE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_215,Parker-Hannifin,Parker-Hannifin,76334,Parker-Hannifin Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_216,General Mills,General Mills,40704,GENERAL MILLS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_217,Cognizant Technology Solutions,Cognizant Technology Solutions,1058290,COGNIZANT TECHNOLOGY SOLUTIONS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_218,American Electric Power,American Electric Power,4904,AMERICAN ELECTRIC POWER CO INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_219,GE HealthCare,GE HealthCare Technologies,1932393,GE HealthCare Technologies Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_220,Automatic Data Processing,Automatic Data Processing,8670,AUTOMATIC DATA PROCESSING INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_221,Cleveland-Cliffs,Cleveland-Cliffs,764065,CLEVELAND-CLIFFS INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_222,Aflac,Aflac,4977,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_223,Goodyear Tire & Rubber,Goodyear Tire & Rubber,42582,GOODYEAR TIRE & RUBBER CO /OH/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_224,Corebridge Financial,Corebridge Financial,1889539,"Corebridge Financial, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_225,Newmont,Newmont,1164727,NEWMONT Corp /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_226,International Paper,International Paper,51434,INTERNATIONAL PAPER CO /NEW/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_227,AutoZone,AutoZone,866787,AUTOZONE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_228,Lincoln National,Lincoln National,59558,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_229,PulteGroup,PulteGroup,822416,PULTEGROUP INC/MI/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_230,Ameriprise Financial,Ameriprise Financial,820027,AMERIPRISE FINANCIAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_231,Murphy USA,Murphy USA,1573516,Murphy USA Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_232,ManpowerGroup,ManpowerGroup,871763,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_233,C.H. Robinson Worldwide,C.H. Robinson Worldwide,1043277,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_234,PPG Industries,PPG Industries,79879,PPG INDUSTRIES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_235,Edison International,Edison International,827052,EDISON INTERNATIONAL,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_236,Steel Dynamics,Steel Dynamics,1022671,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_237,Loews,Loews,60086,LOEWS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_238,Emerson Electric,Emerson Electric,32604,EMERSON ELECTRIC CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_239,Aramark,Aramark,1584509,Aramark,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_240,MGM Resorts International,MGM Resorts International,789570,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_241,Vistra,Vistra,1692819,Vistra Corp.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_242,Asbury Automotive Group,Asbury Automotive Group,1144980,ASBURY AUTOMOTIVE GROUP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_243,W.W. Grainger,W.W. Grainger,277135,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_244,Global Partners,Global Partners,1323468,GLOBAL PARTNERS LP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_245,Jacobs Solutions,Jacobs Solutions,52988,JACOBS SOLUTIONS INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_246,Corteva,Corteva,1755672,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_247,Peter Kiewit Sons',Peter Kiewit Sons',,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_248,Boston Scientific,Boston Scientific,885725,BOSTON SCIENTIFIC CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_249,O'Reilly Automotive,O'Reilly Automotive,898173,O REILLY AUTOMOTIVE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_250,Leidos Holdings,Leidos Holdings,1336920,"Leidos Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_251,Markel Group,Markel Group,1096343,MARKEL GROUP INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_252,Whirlpool,Whirlpool,106640,WHIRLPOOL CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_253,Guardian Life Ins. Co. of America,Guardian Life Ins. Co. of America,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_254,Builders FirstSource,Builders FirstSource,1316835,"Builders FirstSource, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_255,Ally Financial,Ally Financial,40729,Ally Financial Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_256,Targa Resources,Targa Resources,1389170,Targa Resources Corp.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_257,Fluor,Fluor,1124198,FLUOR CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_258,Intuit,Intuit,896878,INTUIT INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_259,AECOM,AECOM,868857,AECOM,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_260,Jones Financial (Edward Jones),Jones Financial (Edward Jones),,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_261,Kohl's,Kohl's,885639,KOHLS Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_262,Land O'Lakes,Land O'Lakes,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_263,Principal Financial,Principal Financial,1126328,PRINCIPAL FINANCIAL GROUP INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_264,Dominion Energy,Dominion Energy,715957,"DOMINION ENERGY, INC",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_265,Kyndryl Holdings,Kyndryl Holdings,1867072,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_266,Republic Services,Republic Services,1060391,"REPUBLIC SERVICES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_267,Devon Energy,Devon Energy,1090012,DEVON ENERGY CORP/DE,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_268,Illinois Tool Works,Illinois Tool Works,49826,ILLINOIS TOOL WORKS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_269,Northern Trust,Northern Trust,73124,NORTHERN TRUST CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_270,Auto-Owners Insurance,Auto-Owners Insurance,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_271,Universal Health Services,Universal Health Services,352915,UNIVERSAL HEALTH SERVICES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_272,Pacific Life,Pacific Life,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_273,EchoStar,EchoStar,1415404,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_274,Ecolab,Ecolab,31462,ECOLAB INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_275,Cheniere Energy,Cheniere Energy,3570,"Cheniere Energy, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_276,Omnicom Group,Omnicom Group,29989,OMNICOM GROUP INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_277,Texas Instruments,Texas Instruments,97476,TEXAS INSTRUMENTS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_278,United States Steel,United States Steel,1163302,UNITED STATES STEEL CORP,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_279,Estée Lauder,Estée Lauder,1001250,ESTEE LAUDER COMPANIES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_280,Farmers Insurance Exchange,Farmers Insurance Exchange,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_281,Kenvue,Kenvue,1944048,Kenvue Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_282,IQVIA Holdings,IQVIA Holdings,1478242,IQVIA HOLDINGS INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_283,Stanley Black & Decker,Stanley Black & Decker,93556,"STANLEY BLACK & DECKER, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_284,Keurig Dr Pepper,Keurig Dr Pepper,1418135,Keurig Dr Pepper Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_285,United Rentals,United Rentals,1067701,"UNITED RENTALS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_286,Consolidated Edison,Consolidated Edison,1047862,CONSOLIDATED EDISON INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_287,Amphenol,Amphenol,820313,AMPHENOL CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_288,Baxter International,Baxter International,10456,BAXTER INTERNATIONAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_289,Kinder Morgan,Kinder Morgan,1506307,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_290,Gap,Gap,39911,GAP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_291,Nordstrom,Nordstrom,72333,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_292,Super Micro Computer,Super Micro Computer,1375365,"Super Micro Computer, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_293,First Citizens BancShares,First Citizens BancShares,798941,FIRST CITIZENS BANCSHARES INC /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_294,Raymond James Financial,Raymond James Financial,720005,RAYMOND JAMES FINANCIAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_295,Lam Research,Lam Research,707549,LAM RESEARCH CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_296,Tractor Supply,Tractor Supply,916365,TRACTOR SUPPLY CO /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_297,Casey's General Stores,Casey's General Stores,726958,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_298,Viatris,Viatris,1792044,Viatris Inc,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_299,Mutual of Omaha,Mutual of Omaha,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_300,Emcor Group,EMCOR Group,105634,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_301,CSX,CSX,277948,CSX CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_302,LKQ,LKQ,1065696,LKQ CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_303,Otis Worldwide,Otis Worldwide,1781335,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_304,Sonic Automotive,Sonic Automotive,1043509,SONIC AUTOMOTIVE INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_305,S&P Global,S&P Global,64040,S&P Global Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_306,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,872589,"REGENERON PHARMACEUTICALS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_307,BorgWarner,BorgWarner,908255,BORGWARNER INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_308,Fox,Fox,1754301,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_309,Reliance,Reliance,861884,"RELIANCE, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_310,Western & Southern Financial Group,Western & Southern Financial Group,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_311,Textron,Textron,217346,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_312,Expedia Group,Expedia Group,1324424,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_313,Fidelity National Financial,Fidelity National Financial,1331875,"Fidelity National Financial, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_314,Carvana,Carvana,1690820,CARVANA CO.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_315,DXC Technology,DXC Technology,1688568,DXC Technology Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_316,W.R. Berkley,W.R. Berkley,11544,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_317,M&T Bank,M&T Bank,36270,M&T BANK CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_318,Dick's Sporting Goods,Dick's Sporting Goods,1089063,"DICK'S SPORTING GOODS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_319,Xcel Energy,Xcel Energy,72903,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_320,Fifth Third Bancorp,Fifth Third Bancorp,35527,FIFTH THIRD BANCORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_321,Blackstone,Blackstone,1393818,Blackstone Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_322,Sempra,Sempra,1032208,SEMPRA,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_323,Erie Insurance Group,Erie Insurance Group,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_324,Corning,Corning,24741,CORNING INC /NY,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_325,Lumen Technologies,Lumen Technologies,18926,"Lumen Technologies, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_326,FirstEnergy,FirstEnergy,1031296,FIRSTENERGY CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_327,Hess,Hess,4447,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_328,Labcorp Holdings,Labcorp Holdings,920148,LABCORP HOLDINGS INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_329,Western Digital,Western Digital,106040,WESTERN DIGITAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_330,Unum Group,Unum Group,5513,Unum Group,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_331,DaVita,DaVita,927066,DAVITA INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_332,Kellanova,Kellanova,55067,Kellanova,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_333,Henry Schein,Henry Schein,1000228,HENRY SCHEIN INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_334,Ryder System,Ryder System,85961,RYDER SYSTEM INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_335,Community Health Systems,Community Health Systems,1108109,COMMUNITY HEALTH SYSTEMS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_336,Delek US Holdings,Delek US Holdings,1694426,"Delek US Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_337,DTE Energy,DTE Energy,936340,DTE ENERGY CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_338,Equitable Holdings,Equitable Holdings,1333986,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_339,DuPont,DuPont,1666700,DuPont de Nemours Inc,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_340,LPL Financial Holdings,LPL Financial Holdings,1397911,LPL Financial Holdings Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_341,Citizens Financial Group,Citizens Financial Group,759944,CITIZENS FINANCIAL GROUP INC/RI,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_342,MasTec,MasTec,15615,MASTEC INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_343,AES,AES,874761,AES CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_344,Berry Global Group,Berry Global Group,1378992,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_345,Westlake,Westlake,1262823,WESTLAKE CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_346,Norfolk Southern,Norfolk Southern,702165,NORFOLK SOUTHERN CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_347,Air Products & Chemicals,Air Products & Chemicals,2969,"Air Products & Chemicals, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_348,J.B. Hunt Transport Services,J.B. Hunt Transport Services,728535,HUNT J B TRANSPORT SERVICES INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_349,Ball,Ball,9389,BALL Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_350,Conagra Brands,Conagra Brands,23217,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_351,Huntington Bancshares,Huntington Bancshares,49196,HUNTINGTON BANCSHARES INC /MD/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_352,Hormel Foods,Hormel Foods,48465,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_353,Eversource Energy,Eversource Energy,72741,EVERSOURCE ENERGY,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_354,Alcoa,Alcoa,1675149,Alcoa Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_355,Entergy,Entergy,65984,ENTERGY CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_356,Assurant,Assurant,1267238,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_357,Chewy,Chewy,1766502,"Chewy, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_358,Wayfair,Wayfair,1616707,Wayfair Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_359,Crown Holdings,Crown Holdings,1219601,"CROWN HOLDINGS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_360,Avis Budget Group,Avis Budget Group,723612,"AVIS BUDGET GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_361,Intercontinental Exchange,Intercontinental Exchange,1571949,"Intercontinental Exchange, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_362,Alaska Air Group,Alaska Air Group,766421,"ALASKA AIR GROUP, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_363,GXO Logistics,GXO Logistics,1852244,"GXO Logistics, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_364,AGCO,AGCO,880266,AGCO CORP /DE,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_365,Graybar Electric,Graybar Electric,205402,Graybar Electric Company Inc,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_366,Molson Coors Beverage,Molson Coors Beverage,24545,MOLSON COORS BEVERAGE CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_367,Arthur J. Gallagher,Arthur J. Gallagher,354190,Arthur J. Gallagher & Co.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_368,Huntington Ingalls Industries,Huntington Ingalls Industries,1501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_369,International Flavors & Fragrances,International Flavors & Fragrances,51253,INTERNATIONAL FLAVORS & FRAGRANCES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_370,Darden Restaurants,Darden Restaurants,940944,DARDEN RESTAURANTS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_371,Cincinnati Financial,Cincinnati Financial,20286,CINCINNATI FINANCIAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_372,Chipotle Mexican Grill,Chipotle Mexican Grill,1058090,CHIPOTLE MEXICAN GRILL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_373,Yum China Holdings,Yum China Holdings,1673358,"Yum China Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_374,Las Vegas Sands,Las Vegas Sands,1300514,LAS VEGAS SANDS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_375,Ulta Beauty,Ulta Beauty,1403568,"Ulta Beauty, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_376,Caesars Entertainment,Caesars Entertainment,1590895,"Caesars Entertainment, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_377,BrightSpring Health Services,BrightSpring Health Services,1865782,"BrightSpring Health Services, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_378,Andersons,Andersons,821026,"Andersons, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_379,Hershey,Hershey,47111,HERSHEY CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_380,Hilton Worldwide Holdings,Hilton Worldwide Holdings,1585689,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_381,Mosaic,Mosaic,1285785,MOSAIC CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_382,Airbnb,Airbnb,1559720,"Airbnb, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_383,Diamondback Energy,Diamondback Energy,1539838,"Diamondback Energy, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_384,American Tower,American Tower,1053507,AMERICAN TOWER CORP /MA/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_385,Vertex Pharmaceuticals,Vertex Pharmaceuticals,875320,VERTEX PHARMACEUTICALS INC / MA,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_386,ServiceNow,ServiceNow,1373715,"ServiceNow, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_387,Owens Corning,Owens Corning,1370946,Owens Corning,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_388,Thrivent Financial,Thrivent Financial for Lutherans,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_389,Advance Auto Parts,Advance Auto Parts,1158449,ADVANCE AUTO PARTS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_390,Toll Brothers,Toll Brothers,794170,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_391,Mohawk Industries,Mohawk Industries,851968,MOHAWK INDUSTRIES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_392,Motorola Solutions,Motorola Solutions,68505,"Motorola Solutions, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_393,Oshkosh,Oshkosh,775158,OSHKOSH CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_394,DoorDash,DoorDash,1792789,"DoorDash, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_395,Accendra Health,Owens & Minor,75252,ACCENDRA HEALTH INC/VA/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_396,NVR,NVR,906163,NVR INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_397,Interpublic Group,Interpublic Group,51644,INTERPUBLIC GROUP OF COMPANIES INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_398,Booz Allen Hamilton Holding,Booz Allen Hamilton Holding,1443646,Booz Allen Hamilton Holding Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_399,Burlington Stores,Burlington Stores,1579298,"Burlington Stores, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_400,Expeditors Intl. of Washington,Expeditors Intl. of Washington,746515,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_401,Lululemon athletica,Lululemon athletica,1397187,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_402,Fidelity National Information (FIS),Fidelity National Information Services,1136893,"Fidelity National Information Services, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_403,Jefferies Financial Group,Jefferies Financial Group,96223,Jefferies Financial Group Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_404,Williams,Williams,107263,"WILLIAMS COMPANIES, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_405,VF,VF,103379,V F CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_406,FM,FM Global,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_407,Autoliv,Autoliv,1034670,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_408,Westinghouse Air Brake,Westinghouse Air Brake Technologies,943452,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_409,Public Service Enterprise Group,Public Service Enterprise Group,788784,PUBLIC SERVICE ENTERPRISE GROUP INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_410,Dana,Dana,26780,DANA Inc,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_411,Ebay,eBay,1065088,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_412,Celanese,Celanese,1306830,Celanese Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_413,Global Payments,Global Payments,1123360,GLOBAL PAYMENTS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_414,News Corp.,News Corp.,1564708,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_415,Thor Industries,Thor Industries,730263,THOR INDUSTRIES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_416,QVC Group,QVC Group,1254699,"QVC Group, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_417,Icahn Enterprises,Icahn Enterprises,813762,ICAHN ENTERPRISES L.P.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_418,Constellation Brands,Constellation Brands,16918,"CONSTELLATION BRANDS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_419,Quest Diagnostics,Quest Diagnostics,1022079,QUEST DIAGNOSTICS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_420,KLA,KLA,319201,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_421,QXO Building Products,Beacon Roofing Supply,1124941,BEACON ROOFING SUPPLY INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_422,APA,APA,1841666,APA Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_423,Gold.com,A-Mark Precious Metals,1591588,"Gold.com, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_424,Biogen,Biogen,875045,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_425,Campbell's,Campbell's,16732,CAMPBELL'S Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_426,Concentrix,Concentrix,1803599,Concentrix Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_427,Cintas,Cintas,723254,CINTAS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_428,SpartanNash,SpartanNash,877422,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_429,Ace Hardware,Ace Hardware,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_430,Analog Devices,Analog Devices,6281,ANALOG DEVICES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_431,Eastman Chemical,Eastman Chemical,915389,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_432,Interactive Brokers Group,Interactive Brokers Group,1381197,"Interactive Brokers Group, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_433,Regions Financial,Regions Financial,1281761,REGIONS FINANCIAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_434,JetBlue Airways,JetBlue Airways,1158463,JETBLUE AIRWAYS CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_435,Zoetis,Zoetis,1555280,Zoetis Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_436,KeyCorp,KeyCorp,91576,KEYCORP /NEW/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_437,Oscar Health,Oscar Health,1568651,"Oscar Health, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_438,Ovintiv,Ovintiv,1792580,Ovintiv Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_439,Seaboard,Seaboard,88121,SEABOARD CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_440,Hertz Global Holdings,Hertz Global Holdings,1657853,"HERTZ GLOBAL HOLDINGS, INC",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_441,Skechers U.S.A.,Skechers U.S.A.,1065837,SKECHERS USA INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_442,Optimum Communications,Altice USA,1702780,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_443,NOV,NOV,1021860,NOV Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_444,Graphic Packaging Holding,Graphic Packaging Holding,1408075,GRAPHIC PACKAGING HOLDING CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_445,Avery Dennison,Avery Dennison,8818,Avery Dennison Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_446,Equinix,Equinix,1101239,EQUINIX INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_447,Insight Enterprises,Insight Enterprises,932696,INSIGHT ENTERPRISES INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_448,Sirius XM Holdings,Sirius XM Holdings,908937,SIRIUS XM HOLDINGS INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_449,PVH,PVH,78239,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_450,CenterPoint Energy,CenterPoint Energy,1130310,CENTERPOINT ENERGY INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_451,WEC Energy Group,WEC Energy Group,783325,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_452,Xylem,Xylem,1524472,Xylem Inc.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_453,Franklin Templeton,Franklin Resources,38777,FRANKLIN TEMPLETON INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_454,PPL,PPL,922224,PPL Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_455,Workday,Workday,1327811,"Workday, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_456,Dover,Dover,29905,DOVER Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_457,Packaging Corp. of America,Packaging Corp. of America,75677,PACKAGING CORP OF AMERICA,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_458,ABM Industries,ABM Industries,771497,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_459,Intuitive Surgical,Intuitive Surgical,1035267,INTUITIVE SURGICAL INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_460,American Financial Group,American Financial Group,1042046,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_461,Rockwell Automation,Rockwell Automation,1024478,"ROCKWELL AUTOMATION, INC",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_462,Solventum,Solventum,1964738,Solventum Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_463,Old Republic International,Old Republic International,74260,OLD REPUBLIC INTERNATIONAL CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_464,Securian Financial Group,Securian Financial Group,,,no_unambiguous_ticker_directory_match,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_465,Prologis,Prologis,1045609,"Prologis, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_466,J.M. Smucker,J.M. Smucker,91419,J M SMUCKER Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_467,Taylor Morrison Home,Taylor Morrison Home,1562476,TAYLOR MORRISON HOME CORP,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_468,XPO,XPO,1166003,"XPO, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_469,Voya Financial,Voya Financial,1535929,"Voya Financial, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_470,Palo Alto Networks,Palo Alto Networks,1327567,Palo Alto Networks Inc,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_471,Vertiv Holdings,Vertiv Holdings,1674101,Vertiv Holdings Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_472,Welltower,Welltower,766704,WELLTOWER INC.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_473,Foot Locker,Foot Locker,850209,FOOT LOCKER INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_474,Par Pacific Holdings,Par Pacific Holdings,821483,"PAR PACIFIC HOLDINGS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_475,TransDigm Group,TransDigm Group,1260221,TransDigm Group INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_476,Commercial Metals,Commercial Metals,22444,COMMERCIAL METALS Co,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_477,Post Holdings,Post Holdings,1530950,"Post Holdings, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_478,Masco,Masco,62996,MASCO CORP /DE/,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_479,Rush Enterprises,Rush Enterprises,1012019,RUSH ENTERPRISES INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_480,KBR,KBR,1357615,"KBR, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_481,Sprouts Farmers Market,Sprouts Farmers Market,1575515,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_482,Williams-Sonoma,Williams-Sonoma,719955,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_483,Zimmer Biomet Holdings,Zimmer Biomet Holdings,1136869,"ZIMMER BIOMET HOLDINGS, INC.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_484,CACI International,CACI International,16058,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_485,Microchip Technology,Microchip Technology,827054,MICROCHIP TECHNOLOGY INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_486,Watsco,Watsco,105016,WATSCO INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_487,Newell Brands,Newell Brands,814453,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_488,ARKO,ARKO,1823794,ARKO Corp.,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_489,Sanmina,Sanmina,897723,SANMINA CORP,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_490,Electronic Arts,Electronic Arts,712515,ELECTRONIC ARTS INC,reviewed_identity_override,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_491,Yum Brands,Yum Brands,1041061,YUM BRANDS INC,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_492,Fastenal,Fastenal,815556,FASTENAL CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_493,CMS Energy,CMS Energy,201533,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_494,Monster Beverage,Monster Beverage,865752,Monster Beverage Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_495,Endeavor Group Holdings,Endeavor Group Holdings,1766363,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_496,Science Applications International,Science Applications International,1571123,Science Applications International Corp,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_497,Core & Main,Core & Main,1856525,"Core & Main, Inc.",normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_498,Howmet Aerospace,Howmet Aerospace,4281,,inherited_official_filing_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_499,Ingredion,Ingredion,1046257,Ingredion Inc,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json
+f2025_500,Vulcan Materials,Vulcan Materials,1396009,Vulcan Materials CO,normalized_exact_sec_directory_identity,1,https://www.sec.gov/files/company_tickers_exchange.json

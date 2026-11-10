@@ -1,0 +1,27 @@
+{
+  "seed": 20261109,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-15.7.3-arm64-arm-64bit",
+  "eligible_company_n": 498,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0"
+  },
+  "elapsed_seconds": 52.28256816699286,
+  "selected_model": "A_employment",
+  "data_acceptance_checks": 94,
+  "oof_metro_rows": 490,
+  "oof_probability_rows": 146412,
+  "frozen_selection_sha256": "75fe848a557e83379fbb9eb2638c9c43411d2695550817eb463e9756bf91ee5c",
+  "atlanta_assessment_sha256": {
+    "tables/training_atlanta_2025.csv": "a30837305b51ecdcb7a651c7f0efafa483db4e11b1bb66abd86222071708db0e",
+    "tables/training_company_hq_atlanta_2025.csv": "2be90ec34514434c9b50b7181eead5f6e3f6bf7d66cf16051015aa6a727e5b98"
+  },
+  "uncertainty_caveat": "Percentile 95% intervals on fixed OOF predictions: resample whole metros for fixed-roster count metrics; additionally independently resample company and metro clusters for B count and probability metrics. No independent-Bernoulli intervals. These intervals omit model-refitting and selection uncertainty.",
+  "atlanta_band_caveat": "Heuristic 90% empirical prediction band: final expected count plus/minus the finite-sample-adjusted 90th percentile of absolute development OOF count residuals, lower bound truncated at zero. Not a formal conformal interval or a confidence interval for the expected count."
+}

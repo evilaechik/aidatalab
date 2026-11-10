@@ -7,3 +7,72 @@ __pycache__/
 
 # Licensed ArcGIS Business Analyst / Data Axle exports: local analysis only.
 Artem/data/fortune-100-data/
+
+# Local environments and installed dependencies (including node_modules symlinks)
+.venv/
+venv/
+.training_runtime/
+node_modules
+
+# Editor, notebook and test caches
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local credentials; sanitized examples may be committed
+.env
+.env.*
+!.env.example
+!.env.template
+.aws/
+.ssh/
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Private institutional exports and business-license records: keep local copies
+/BusinessHealthData_export/
+**/Invest_ATL_private/
+**/Invest-atlanta/private/
+
+# Raw source payloads: normalized study tables and fitted models remain publishable
+/data/
+**/raw_inputs/
+**/raw_qcew_industry_slices/
+/study_1/source_data/
+/Artem/data/public_sources/*
+!/Artem/data/public_sources/*.md
+!/Artem/data/public_sources/*.sh
+
+# Keep archive documentation and citation metadata; omit raw/archive data files
+**/raw_archive/*
+!**/raw_archive/*.md
+!**/raw_archive/*registry.csv
+!**/raw_archive/evidence_index.csv
+!**/raw_archive/additional_source_definitions.csv
+!**/raw_archive/evidence_qualifications.csv
+
+# Raw geospatial datasets
+*.dbf
+*.shp
+*.shx
+*.prj
+*.cpg
+
+# Temporary previews, scratch files and database sidecars
+/tmp/
+*.tmp
+*.bak
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal

@@ -1,0 +1,6 @@
+source_url,extraction_date,sha256,raw_bytes,raw_retained_in_expansion,treatment
+https://fortune.com/ranking/fortune500/2025/,2026-11-09,4e5f70d18a852cbe8d8982cadbb03f3aed58bc4d5b34c185042be8e3b89a99fc,1075234,False,Inherited public ranking cache; extracted now; no claim of fresh remote retrieval
+https://interactives.fortune.com/f500-dataviz-2025/map/data.csv,2026-11-09,24fee4f6ebe72f0f2e25e3212e5de1451b4c00293529af53056cfcac51266c5e,49979,False,Public publisher HQ map downloaded for feasibility; identical hash to original study
+https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_cbsa_500k.zip,2026-11-09,520eeb13de65b6365fb879980f2dbca856a9489dfd01f5784371fd48b1e507ab,4686873,False,Fresh Census boundary download; identical hash to original study
+https://www2.census.gov/geo/tiger/TIGER2023/CBSA/tl_2023_us_cbsa.zip,2026-11-09,63d55aabcdd4921bbfe9c003a2b3d3e8d75fa5a3ccd0d69f1e5a12f46128ed40,34499154,False,Same 2023 CBSA membership; full-resolution fallback for Prologis waterfront point only
+https://www.sec.gov/files/company_tickers_exchange.json,2026-11-09,e1469df6a5e24ec90676d0bbd0059f857167207722b4e9952852b8f0806a9472,522530,False,Fresh official identity directory; not independent HQ verification

@@ -1,0 +1,9 @@
+function_code,definition
+headquarters,Reported corporate headquarters or principal executive office; additional co-HQs do not alter the frozen publisher target.
+regional_divisional_management,"Explicit regional, divisional or subsidiary headquarters; not inferred from industry."
+research_development,"Explicit research, R&D or product development at the named locality."
+engineering,Explicit engineering at the named locality.
+finance_shared_services,"Internal finance, accounting or shared-service work; financial-sector membership alone is insufficient."
+administration_back_office,"Administrative, claims, corporate support, business operations or IT operations; subfunctions remain in archive."
+sales_client_services,"Corporate sales, marketing, consulting or customer service; not retail outlets."
+office_function_unspecified,Office evidence without a defensible specific function; never imputed from industry.

@@ -1,0 +1,8 @@
+# Reproducible training environment; Python 3.12 was used for the saved run.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+joblib==1.6.0
+threadpoolctl==3.8.0

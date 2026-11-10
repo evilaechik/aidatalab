@@ -1,0 +1,1051 @@
+cbsa,company_broad_industry,reported_hq_count_2025,eligible_sector_company_n
+35620,Aerospace & Defense,0,11
+35620,Apparel,1,4
+35620,Business Services,6,18
+35620,Chemicals,1,12
+35620,Energy,4,57
+35620,Engineering & Construction,0,12
+35620,Financials,23,93
+35620,Food & Drug Stores,0,5
+35620,"Food, Beverages & Tobacco",1,26
+35620,Health Care,9,45
+35620,"Hotels, Restaurants & Leisure",0,11
+35620,Household Products,3,8
+35620,Industrials,0,19
+35620,Materials,0,17
+35620,Media,5,10
+35620,Motor Vehicles & Parts,0,9
+35620,Retailing,3,44
+35620,Technology,3,52
+35620,Telecommunications,2,7
+35620,Transportation,1,17
+35620,Wholesalers,0,21
+31080,Aerospace & Defense,0,11
+31080,Apparel,1,4
+31080,Business Services,0,18
+31080,Chemicals,0,12
+31080,Energy,1,57
+31080,Engineering & Construction,0,12
+31080,Financials,2,93
+31080,Food & Drug Stores,0,5
+31080,"Food, Beverages & Tobacco",0,26
+31080,Health Care,1,45
+31080,"Hotels, Restaurants & Leisure",1,11
+31080,Household Products,0,8
+31080,Industrials,0,19
+31080,Materials,0,17
+31080,Media,3,10
+31080,Motor Vehicles & Parts,0,9
+31080,Retailing,0,44
+31080,Technology,0,52
+31080,Telecommunications,0,7
+31080,Transportation,0,17
+31080,Wholesalers,2,21
+16980,Aerospace & Defense,0,11
+16980,Apparel,0,4
+16980,Business Services,0,18
+16980,Chemicals,0,12
+16980,Energy,1,57
+16980,Engineering & Construction,0,12
+16980,Financials,6,93
+16980,Food & Drug Stores,1,5
+16980,"Food, Beverages & Tobacco",7,26
+16980,Health Care,4,45
+16980,"Hotels, Restaurants & Leisure",1,11
+16980,Household Products,0,8
+16980,Industrials,2,19
+16980,Materials,1,17
+16980,Media,0,10
+16980,Motor Vehicles & Parts,0,9
+16980,Retailing,1,44
+16980,Technology,2,52
+16980,Telecommunications,0,7
+16980,Transportation,1,17
+16980,Wholesalers,3,21
+41860,Aerospace & Defense,0,11
+41860,Apparel,0,4
+41860,Business Services,2,18
+41860,Chemicals,0,12
+41860,Energy,1,57
+41860,Engineering & Construction,0,12
+41860,Financials,4,93
+41860,Food & Drug Stores,0,5
+41860,"Food, Beverages & Tobacco",0,26
+41860,Health Care,1,45
+41860,"Hotels, Restaurants & Leisure",0,11
+41860,Household Products,0,8
+41860,Industrials,0,19
+41860,Materials,0,17
+41860,Media,1,10
+41860,Motor Vehicles & Parts,0,9
+41860,Retailing,3,44
+41860,Technology,8,52
+41860,Telecommunications,0,7
+41860,Transportation,0,17
+41860,Wholesalers,1,21
+19100,Aerospace & Defense,0,11
+19100,Apparel,0,4
+19100,Business Services,1,18
+19100,Chemicals,1,12
+19100,Energy,3,57
+19100,Engineering & Construction,3,12
+19100,Financials,2,93
+19100,Food & Drug Stores,0,5
+19100,"Food, Beverages & Tobacco",0,26
+19100,Health Care,2,45
+19100,"Hotels, Restaurants & Leisure",1,11
+19100,Household Products,1,8
+19100,Industrials,1,19
+19100,Materials,2,17
+19100,Media,0,10
+19100,Motor Vehicles & Parts,0,9
+19100,Retailing,0,44
+19100,Technology,1,52
+19100,Telecommunications,1,7
+19100,Transportation,2,17
+19100,Wholesalers,0,21
+26420,Aerospace & Defense,0,11
+26420,Apparel,0,4
+26420,Business Services,1,18
+26420,Chemicals,1,12
+26420,Energy,18,57
+26420,Engineering & Construction,1,12
+26420,Financials,1,93
+26420,Food & Drug Stores,0,5
+26420,"Food, Beverages & Tobacco",0,26
+26420,Health Care,0,45
+26420,"Hotels, Restaurants & Leisure",0,11
+26420,Household Products,0,8
+26420,Industrials,0,19
+26420,Materials,0,17
+26420,Media,0,10
+26420,Motor Vehicles & Parts,0,9
+26420,Retailing,1,44
+26420,Technology,2,52
+26420,Telecommunications,0,7
+26420,Transportation,0,17
+26420,Wholesalers,1,21
+47900,Aerospace & Defense,5,11
+47900,Apparel,0,4
+47900,Business Services,0,18
+47900,Chemicals,0,12
+47900,Energy,1,57
+47900,Engineering & Construction,1,12
+47900,Financials,3,93
+47900,Food & Drug Stores,0,5
+47900,"Food, Beverages & Tobacco",0,26
+47900,Health Care,1,45
+47900,"Hotels, Restaurants & Leisure",2,11
+47900,Household Products,0,8
+47900,Industrials,1,19
+47900,Materials,0,17
+47900,Media,0,10
+47900,Motor Vehicles & Parts,0,9
+47900,Retailing,0,44
+47900,Technology,5,52
+47900,Telecommunications,0,7
+47900,Transportation,0,17
+47900,Wholesalers,1,21
+14460,Aerospace & Defense,0,11
+14460,Apparel,0,4
+14460,Business Services,0,18
+14460,Chemicals,0,12
+14460,Energy,2,57
+14460,Engineering & Construction,0,12
+14460,Financials,3,93
+14460,Food & Drug Stores,0,5
+14460,"Food, Beverages & Tobacco",1,26
+14460,Health Care,3,45
+14460,"Hotels, Restaurants & Leisure",0,11
+14460,Household Products,0,8
+14460,Industrials,0,19
+14460,Materials,0,17
+14460,Media,0,10
+14460,Motor Vehicles & Parts,0,9
+14460,Retailing,3,44
+14460,Technology,2,52
+14460,Telecommunications,0,7
+14460,Transportation,0,17
+14460,Wholesalers,0,21
+12060,Aerospace & Defense,0,11
+12060,Apparel,0,4
+12060,Business Services,1,18
+12060,Chemicals,0,12
+12060,Energy,1,57
+12060,Engineering & Construction,1,12
+12060,Financials,2,93
+12060,Food & Drug Stores,0,5
+12060,"Food, Beverages & Tobacco",1,26
+12060,Health Care,0,45
+12060,"Hotels, Restaurants & Leisure",0,11
+12060,Household Products,1,8
+12060,Industrials,1,19
+12060,Materials,1,17
+12060,Media,0,10
+12060,Motor Vehicles & Parts,0,9
+12060,Retailing,2,44
+12060,Technology,0,52
+12060,Telecommunications,0,7
+12060,Transportation,3,17
+12060,Wholesalers,1,21
+42660,Aerospace & Defense,0,11
+42660,Apparel,0,4
+42660,Business Services,0,18
+42660,Chemicals,0,12
+42660,Energy,0,57
+42660,Engineering & Construction,0,12
+42660,Financials,0,93
+42660,Food & Drug Stores,0,5
+42660,"Food, Beverages & Tobacco",0,26
+42660,Health Care,0,45
+42660,"Hotels, Restaurants & Leisure",1,11
+42660,Household Products,0,8
+42660,Industrials,0,19
+42660,Materials,0,17
+42660,Media,0,10
+42660,Motor Vehicles & Parts,1,9
+42660,Retailing,4,44
+42660,Technology,2,52
+42660,Telecommunications,0,7
+42660,Transportation,2,17
+42660,Wholesalers,0,21
+37980,Aerospace & Defense,0,11
+37980,Apparel,0,4
+37980,Business Services,1,18
+37980,Chemicals,1,12
+37980,Energy,0,57
+37980,Engineering & Construction,1,12
+37980,Financials,1,93
+37980,Food & Drug Stores,0,5
+37980,"Food, Beverages & Tobacco",1,26
+37980,Health Care,2,45
+37980,"Hotels, Restaurants & Leisure",0,11
+37980,Household Products,0,8
+37980,Industrials,0,19
+37980,Materials,0,17
+37980,Media,0,10
+37980,Motor Vehicles & Parts,0,9
+37980,Retailing,1,44
+37980,Technology,0,52
+37980,Telecommunications,1,7
+37980,Transportation,0,17
+37980,Wholesalers,0,21
+33100,Aerospace & Defense,0,11
+33100,Apparel,0,4
+33100,Business Services,0,18
+33100,Chemicals,0,12
+33100,Energy,2,57
+33100,Engineering & Construction,2,12
+33100,Financials,1,93
+33100,Food & Drug Stores,0,5
+33100,"Food, Beverages & Tobacco",0,26
+33100,Health Care,0,45
+33100,"Hotels, Restaurants & Leisure",0,11
+33100,Household Products,0,8
+33100,Industrials,1,19
+33100,Materials,0,17
+33100,Media,0,10
+33100,Motor Vehicles & Parts,0,9
+33100,Retailing,2,44
+33100,Technology,0,52
+33100,Telecommunications,0,7
+33100,Transportation,1,17
+33100,Wholesalers,1,21
+41940,Aerospace & Defense,0,11
+41940,Apparel,0,4
+41940,Business Services,1,18
+41940,Chemicals,0,12
+41940,Energy,0,57
+41940,Engineering & Construction,0,12
+41940,Financials,0,93
+41940,Food & Drug Stores,0,5
+41940,"Food, Beverages & Tobacco",0,26
+41940,Health Care,1,45
+41940,"Hotels, Restaurants & Leisure",0,11
+41940,Household Products,0,8
+41940,Industrials,0,19
+41940,Materials,0,17
+41940,Media,1,10
+41940,Motor Vehicles & Parts,0,9
+41940,Retailing,0,44
+41940,Technology,18,52
+41940,Telecommunications,0,7
+41940,Transportation,0,17
+41940,Wholesalers,0,21
+38060,Aerospace & Defense,0,11
+38060,Apparel,0,4
+38060,Business Services,1,18
+38060,Chemicals,0,12
+38060,Energy,1,57
+38060,Engineering & Construction,1,12
+38060,Financials,0,93
+38060,Food & Drug Stores,1,5
+38060,"Food, Beverages & Tobacco",0,26
+38060,Health Care,0,45
+38060,"Hotels, Restaurants & Leisure",0,11
+38060,Household Products,0,8
+38060,Industrials,0,19
+38060,Materials,1,17
+38060,Media,0,10
+38060,Motor Vehicles & Parts,0,9
+38060,Retailing,1,44
+38060,Technology,2,52
+38060,Telecommunications,0,7
+38060,Transportation,0,17
+38060,Wholesalers,1,21
+33460,Aerospace & Defense,0,11
+33460,Apparel,0,4
+33460,Business Services,0,18
+33460,Chemicals,2,12
+33460,Energy,1,57
+33460,Engineering & Construction,0,12
+33460,Financials,4,93
+33460,Food & Drug Stores,0,5
+33460,"Food, Beverages & Tobacco",3,26
+33460,Health Care,2,45
+33460,"Hotels, Restaurants & Leisure",0,11
+33460,Household Products,0,8
+33460,Industrials,0,19
+33460,Materials,0,17
+33460,Media,0,10
+33460,Motor Vehicles & Parts,0,9
+33460,Retailing,2,44
+33460,Technology,0,52
+33460,Telecommunications,0,7
+33460,Transportation,1,17
+33460,Wholesalers,0,21
+19820,Aerospace & Defense,0,11
+19820,Apparel,0,4
+19820,Business Services,0,18
+19820,Chemicals,0,12
+19820,Energy,1,57
+19820,Engineering & Construction,0,12
+19820,Financials,1,93
+19820,Food & Drug Stores,0,5
+19820,"Food, Beverages & Tobacco",0,26
+19820,Health Care,0,45
+19820,"Hotels, Restaurants & Leisure",0,11
+19820,Household Products,1,8
+19820,Industrials,0,19
+19820,Materials,0,17
+19820,Media,0,10
+19820,Motor Vehicles & Parts,4,9
+19820,Retailing,1,44
+19820,Technology,0,52
+19820,Telecommunications,0,7
+19820,Transportation,0,17
+19820,Wholesalers,0,21
+41740,Aerospace & Defense,0,11
+41740,Apparel,0,4
+41740,Business Services,0,18
+41740,Chemicals,0,12
+41740,Energy,1,57
+41740,Engineering & Construction,0,12
+41740,Financials,1,93
+41740,Food & Drug Stores,0,5
+41740,"Food, Beverages & Tobacco",0,26
+41740,Health Care,0,45
+41740,"Hotels, Restaurants & Leisure",0,11
+41740,Household Products,0,8
+41740,Industrials,0,19
+41740,Materials,0,17
+41740,Media,0,10
+41740,Motor Vehicles & Parts,0,9
+41740,Retailing,0,44
+41740,Technology,1,52
+41740,Telecommunications,0,7
+41740,Transportation,0,17
+41740,Wholesalers,0,21
+19740,Aerospace & Defense,0,11
+19740,Apparel,1,4
+19740,Business Services,0,18
+19740,Chemicals,0,12
+19740,Energy,2,57
+19740,Engineering & Construction,0,12
+19740,Financials,0,93
+19740,Food & Drug Stores,0,5
+19740,"Food, Beverages & Tobacco",0,26
+19740,Health Care,1,45
+19740,"Hotels, Restaurants & Leisure",0,11
+19740,Household Products,0,8
+19740,Industrials,0,19
+19740,Materials,1,17
+19740,Media,0,10
+19740,Motor Vehicles & Parts,0,9
+19740,Retailing,1,44
+19740,Technology,0,52
+19740,Telecommunications,1,7
+19740,Transportation,0,17
+19740,Wholesalers,1,21
+16740,Aerospace & Defense,0,11
+16740,Apparel,0,4
+16740,Business Services,0,18
+16740,Chemicals,0,12
+16740,Energy,1,57
+16740,Engineering & Construction,0,12
+16740,Financials,2,93
+16740,Food & Drug Stores,0,5
+16740,"Food, Beverages & Tobacco",0,26
+16740,Health Care,0,45
+16740,"Hotels, Restaurants & Leisure",0,11
+16740,Household Products,0,8
+16740,Industrials,1,19
+16740,Materials,1,17
+16740,Media,0,10
+16740,Motor Vehicles & Parts,0,9
+16740,Retailing,2,44
+16740,Technology,0,52
+16740,Telecommunications,0,7
+16740,Transportation,0,17
+16740,Wholesalers,0,21
+12580,Aerospace & Defense,0,11
+12580,Apparel,0,4
+12580,Business Services,0,18
+12580,Chemicals,0,12
+12580,Energy,1,57
+12580,Engineering & Construction,0,12
+12580,Financials,0,93
+12580,Food & Drug Stores,0,5
+12580,"Food, Beverages & Tobacco",0,26
+12580,Health Care,0,45
+12580,"Hotels, Restaurants & Leisure",0,11
+12580,Household Products,0,8
+12580,Industrials,0,19
+12580,Materials,0,17
+12580,Media,0,10
+12580,Motor Vehicles & Parts,0,9
+12580,Retailing,0,44
+12580,Technology,0,52
+12580,Telecommunications,0,7
+12580,Transportation,0,17
+12580,Wholesalers,0,21
+40140,Aerospace & Defense,0,11
+40140,Apparel,0,4
+40140,Business Services,0,18
+40140,Chemicals,0,12
+40140,Energy,0,57
+40140,Engineering & Construction,0,12
+40140,Financials,0,93
+40140,Food & Drug Stores,0,5
+40140,"Food, Beverages & Tobacco",1,26
+40140,Health Care,0,45
+40140,"Hotels, Restaurants & Leisure",0,11
+40140,Household Products,0,8
+40140,Industrials,0,19
+40140,Materials,0,17
+40140,Media,0,10
+40140,Motor Vehicles & Parts,0,9
+40140,Retailing,0,44
+40140,Technology,0,52
+40140,Telecommunications,0,7
+40140,Transportation,0,17
+40140,Wholesalers,0,21
+12420,Aerospace & Defense,0,11
+12420,Apparel,0,4
+12420,Business Services,0,18
+12420,Chemicals,0,12
+12420,Energy,0,57
+12420,Engineering & Construction,0,12
+12420,Financials,0,93
+12420,Food & Drug Stores,0,5
+12420,"Food, Beverages & Tobacco",0,26
+12420,Health Care,0,45
+12420,"Hotels, Restaurants & Leisure",0,11
+12420,Household Products,0,8
+12420,Industrials,0,19
+12420,Materials,0,17
+12420,Media,0,10
+12420,Motor Vehicles & Parts,1,9
+12420,Retailing,0,44
+12420,Technology,2,52
+12420,Telecommunications,0,7
+12420,Transportation,0,17
+12420,Wholesalers,0,21
+45300,Aerospace & Defense,0,11
+45300,Apparel,0,4
+45300,Business Services,0,18
+45300,Chemicals,1,12
+45300,Energy,0,57
+45300,Engineering & Construction,0,12
+45300,Financials,1,93
+45300,Food & Drug Stores,0,5
+45300,"Food, Beverages & Tobacco",0,26
+45300,Health Care,0,45
+45300,"Hotels, Restaurants & Leisure",0,11
+45300,Household Products,0,8
+45300,Industrials,0,19
+45300,Materials,1,17
+45300,Media,0,10
+45300,Motor Vehicles & Parts,0,9
+45300,Retailing,0,44
+45300,Technology,1,52
+45300,Telecommunications,0,7
+45300,Transportation,0,17
+45300,Wholesalers,0,21
+41180,Aerospace & Defense,0,11
+41180,Apparel,0,4
+41180,Business Services,0,18
+41180,Chemicals,0,12
+41180,Energy,0,57
+41180,Engineering & Construction,0,12
+41180,Financials,2,93
+41180,Food & Drug Stores,0,5
+41180,"Food, Beverages & Tobacco",1,26
+41180,Health Care,1,45
+41180,"Hotels, Restaurants & Leisure",0,11
+41180,Household Products,0,8
+41180,Industrials,1,19
+41180,Materials,0,17
+41180,Media,0,10
+41180,Motor Vehicles & Parts,0,9
+41180,Retailing,0,44
+41180,Technology,0,52
+41180,Telecommunications,0,7
+41180,Transportation,0,17
+41180,Wholesalers,2,21
+36740,Aerospace & Defense,0,11
+36740,Apparel,0,4
+36740,Business Services,0,18
+36740,Chemicals,0,12
+36740,Energy,0,57
+36740,Engineering & Construction,0,12
+36740,Financials,0,93
+36740,Food & Drug Stores,0,5
+36740,"Food, Beverages & Tobacco",0,26
+36740,Health Care,0,45
+36740,"Hotels, Restaurants & Leisure",1,11
+36740,Household Products,0,8
+36740,Industrials,0,19
+36740,Materials,0,17
+36740,Media,0,10
+36740,Motor Vehicles & Parts,0,9
+36740,Retailing,0,44
+36740,Technology,0,52
+36740,Telecommunications,0,7
+36740,Transportation,0,17
+36740,Wholesalers,0,21
+38900,Aerospace & Defense,0,11
+38900,Apparel,1,4
+38900,Business Services,0,18
+38900,Chemicals,0,12
+38900,Energy,0,57
+38900,Engineering & Construction,0,12
+38900,Financials,0,93
+38900,Food & Drug Stores,0,5
+38900,"Food, Beverages & Tobacco",0,26
+38900,Health Care,0,45
+38900,"Hotels, Restaurants & Leisure",0,11
+38900,Household Products,0,8
+38900,Industrials,0,19
+38900,Materials,0,17
+38900,Media,0,10
+38900,Motor Vehicles & Parts,0,9
+38900,Retailing,0,44
+38900,Technology,0,52
+38900,Telecommunications,0,7
+38900,Transportation,0,17
+38900,Wholesalers,0,21
+34980,Aerospace & Defense,0,11
+34980,Apparel,0,4
+34980,Business Services,0,18
+34980,Chemicals,0,12
+34980,Energy,1,57
+34980,Engineering & Construction,0,12
+34980,Financials,0,93
+34980,Food & Drug Stores,0,5
+34980,"Food, Beverages & Tobacco",0,26
+34980,Health Care,2,45
+34980,"Hotels, Restaurants & Leisure",0,11
+34980,Household Products,0,8
+34980,Industrials,0,19
+34980,Materials,0,17
+34980,Media,0,10
+34980,Motor Vehicles & Parts,0,9
+34980,Retailing,2,44
+34980,Technology,0,52
+34980,Telecommunications,0,7
+34980,Transportation,0,17
+34980,Wholesalers,1,21
+26900,Aerospace & Defense,0,11
+26900,Apparel,0,4
+26900,Business Services,0,18
+26900,Chemicals,0,12
+26900,Energy,0,57
+26900,Engineering & Construction,0,12
+26900,Financials,0,93
+26900,Food & Drug Stores,0,5
+26900,"Food, Beverages & Tobacco",1,26
+26900,Health Care,2,45
+26900,"Hotels, Restaurants & Leisure",0,11
+26900,Household Products,0,8
+26900,Industrials,0,19
+26900,Materials,0,17
+26900,Media,0,10
+26900,Motor Vehicles & Parts,0,9
+26900,Retailing,0,44
+26900,Technology,0,52
+26900,Telecommunications,0,7
+26900,Transportation,0,17
+26900,Wholesalers,0,21
+17140,Aerospace & Defense,1,11
+17140,Apparel,0,4
+17140,Business Services,1,18
+17140,Chemicals,0,12
+17140,Energy,0,57
+17140,Engineering & Construction,0,12
+17140,Financials,4,93
+17140,Food & Drug Stores,1,5
+17140,"Food, Beverages & Tobacco",0,26
+17140,Health Care,0,45
+17140,"Hotels, Restaurants & Leisure",0,11
+17140,Household Products,1,8
+17140,Industrials,0,19
+17140,Materials,0,17
+17140,Media,0,10
+17140,Motor Vehicles & Parts,0,9
+17140,Retailing,0,44
+17140,Technology,0,52
+17140,Telecommunications,0,7
+17140,Transportation,0,17
+17140,Wholesalers,0,21
+38300,Aerospace & Defense,1,11
+38300,Apparel,0,4
+38300,Business Services,0,18
+38300,Chemicals,1,12
+38300,Energy,0,57
+38300,Engineering & Construction,0,12
+38300,Financials,1,93
+38300,Food & Drug Stores,0,5
+38300,"Food, Beverages & Tobacco",0,26
+38300,Health Care,1,45
+38300,"Hotels, Restaurants & Leisure",0,11
+38300,Household Products,0,8
+38300,Industrials,1,19
+38300,Materials,2,17
+38300,Media,0,10
+38300,Motor Vehicles & Parts,0,9
+38300,Retailing,1,44
+38300,Technology,0,52
+38300,Telecommunications,0,7
+38300,Transportation,0,17
+38300,Wholesalers,1,21
+40900,Aerospace & Defense,0,11
+40900,Apparel,0,4
+40900,Business Services,0,18
+40900,Chemicals,0,12
+40900,Energy,0,57
+40900,Engineering & Construction,0,12
+40900,Financials,0,93
+40900,Food & Drug Stores,0,5
+40900,"Food, Beverages & Tobacco",0,26
+40900,Health Care,0,45
+40900,"Hotels, Restaurants & Leisure",0,11
+40900,Household Products,0,8
+40900,Industrials,0,19
+40900,Materials,0,17
+40900,Media,0,10
+40900,Motor Vehicles & Parts,0,9
+40900,Retailing,0,44
+40900,Technology,0,52
+40900,Telecommunications,0,7
+40900,Transportation,0,17
+40900,Wholesalers,0,21
+28140,Aerospace & Defense,0,11
+28140,Apparel,0,4
+28140,Business Services,0,18
+28140,Chemicals,0,12
+28140,Energy,0,57
+28140,Engineering & Construction,0,12
+28140,Financials,0,93
+28140,Food & Drug Stores,0,5
+28140,"Food, Beverages & Tobacco",1,26
+28140,Health Care,0,45
+28140,"Hotels, Restaurants & Leisure",0,11
+28140,Household Products,0,8
+28140,Industrials,0,19
+28140,Materials,0,17
+28140,Media,0,10
+28140,Motor Vehicles & Parts,0,9
+28140,Retailing,0,44
+28140,Technology,0,52
+28140,Telecommunications,0,7
+28140,Transportation,0,17
+28140,Wholesalers,0,21
+41700,Aerospace & Defense,0,11
+41700,Apparel,0,4
+41700,Business Services,0,18
+41700,Chemicals,0,12
+41700,Energy,1,57
+41700,Engineering & Construction,0,12
+41700,Financials,1,93
+41700,Food & Drug Stores,0,5
+41700,"Food, Beverages & Tobacco",0,26
+41700,Health Care,0,45
+41700,"Hotels, Restaurants & Leisure",0,11
+41700,Household Products,0,8
+41700,Industrials,0,19
+41700,Materials,0,17
+41700,Media,0,10
+41700,Motor Vehicles & Parts,0,9
+41700,Retailing,1,44
+41700,Technology,0,52
+41700,Telecommunications,0,7
+41700,Transportation,0,17
+41700,Wholesalers,0,21
+18140,Aerospace & Defense,0,11
+18140,Apparel,0,4
+18140,Business Services,0,18
+18140,Chemicals,0,12
+18140,Energy,1,57
+18140,Engineering & Construction,0,12
+18140,Financials,2,93
+18140,Food & Drug Stores,0,5
+18140,"Food, Beverages & Tobacco",0,26
+18140,Health Care,1,45
+18140,"Hotels, Restaurants & Leisure",0,11
+18140,Household Products,0,8
+18140,Industrials,1,19
+18140,Materials,0,17
+18140,Media,0,10
+18140,Motor Vehicles & Parts,0,9
+18140,Retailing,0,44
+18140,Technology,0,52
+18140,Telecommunications,0,7
+18140,Transportation,0,17
+18140,Wholesalers,0,21
+29820,Aerospace & Defense,0,11
+29820,Apparel,0,4
+29820,Business Services,0,18
+29820,Chemicals,0,12
+29820,Energy,0,57
+29820,Engineering & Construction,0,12
+29820,Financials,0,93
+29820,Food & Drug Stores,0,5
+29820,"Food, Beverages & Tobacco",0,26
+29820,Health Care,0,45
+29820,"Hotels, Restaurants & Leisure",2,11
+29820,Household Products,0,8
+29820,Industrials,0,19
+29820,Materials,0,17
+29820,Media,0,10
+29820,Motor Vehicles & Parts,0,9
+29820,Retailing,0,44
+29820,Technology,0,52
+29820,Telecommunications,0,7
+29820,Transportation,0,17
+29820,Wholesalers,0,21
+17410,Aerospace & Defense,1,11
+17410,Apparel,0,4
+17410,Business Services,0,18
+17410,Chemicals,1,12
+17410,Energy,0,57
+17410,Engineering & Construction,0,12
+17410,Financials,2,93
+17410,Food & Drug Stores,0,5
+17410,"Food, Beverages & Tobacco",0,26
+17410,Health Care,0,45
+17410,"Hotels, Restaurants & Leisure",0,11
+17410,Household Products,0,8
+17410,Industrials,1,19
+17410,Materials,2,17
+17410,Media,0,10
+17410,Motor Vehicles & Parts,0,9
+17410,Retailing,0,44
+17410,Technology,0,52
+17410,Telecommunications,0,7
+17410,Transportation,0,17
+17410,Wholesalers,0,21
+41620,Aerospace & Defense,0,11
+41620,Apparel,0,4
+41620,Business Services,0,18
+41620,Chemicals,0,12
+41620,Energy,0,57
+41620,Engineering & Construction,0,12
+41620,Financials,0,93
+41620,Food & Drug Stores,0,5
+41620,"Food, Beverages & Tobacco",0,26
+41620,Health Care,0,45
+41620,"Hotels, Restaurants & Leisure",0,11
+41620,Household Products,0,8
+41620,Industrials,0,19
+41620,Materials,0,17
+41620,Media,0,10
+41620,Motor Vehicles & Parts,0,9
+41620,Retailing,0,44
+41620,Technology,0,52
+41620,Telecommunications,0,7
+41620,Transportation,0,17
+41620,Wholesalers,0,21
+39580,Aerospace & Defense,0,11
+39580,Apparel,0,4
+39580,Business Services,0,18
+39580,Chemicals,0,12
+39580,Energy,0,57
+39580,Engineering & Construction,0,12
+39580,Financials,1,93
+39580,Food & Drug Stores,0,5
+39580,"Food, Beverages & Tobacco",0,26
+39580,Health Care,0,45
+39580,"Hotels, Restaurants & Leisure",0,11
+39580,Household Products,0,8
+39580,Industrials,0,19
+39580,Materials,0,17
+39580,Media,0,10
+39580,Motor Vehicles & Parts,0,9
+39580,Retailing,1,44
+39580,Technology,0,52
+39580,Telecommunications,0,7
+39580,Transportation,0,17
+39580,Wholesalers,0,21
+33340,Aerospace & Defense,0,11
+33340,Apparel,0,4
+33340,Business Services,2,18
+33340,Chemicals,0,12
+33340,Energy,1,57
+33340,Engineering & Construction,0,12
+33340,Financials,1,93
+33340,Food & Drug Stores,0,5
+33340,"Food, Beverages & Tobacco",0,26
+33340,Health Care,0,45
+33340,"Hotels, Restaurants & Leisure",0,11
+33340,Household Products,0,8
+33340,Industrials,1,19
+33340,Materials,0,17
+33340,Media,0,10
+33340,Motor Vehicles & Parts,0,9
+33340,Retailing,1,44
+33340,Technology,0,52
+33340,Telecommunications,0,7
+33340,Transportation,0,17
+33340,Wholesalers,0,21
+27260,Aerospace & Defense,0,11
+27260,Apparel,0,4
+27260,Business Services,1,18
+27260,Chemicals,0,12
+27260,Energy,0,57
+27260,Engineering & Construction,0,12
+27260,Financials,2,93
+27260,Food & Drug Stores,0,5
+27260,"Food, Beverages & Tobacco",0,26
+27260,Health Care,0,45
+27260,"Hotels, Restaurants & Leisure",0,11
+27260,Household Products,0,8
+27260,Industrials,0,19
+27260,Materials,0,17
+27260,Media,0,10
+27260,Motor Vehicles & Parts,0,9
+27260,Retailing,0,44
+27260,Technology,0,52
+27260,Telecommunications,0,7
+27260,Transportation,1,17
+27260,Wholesalers,0,21
+47260,Aerospace & Defense,1,11
+47260,Apparel,0,4
+47260,Business Services,0,18
+47260,Chemicals,0,12
+47260,Energy,0,57
+47260,Engineering & Construction,0,12
+47260,Financials,0,93
+47260,Food & Drug Stores,0,5
+47260,"Food, Beverages & Tobacco",0,26
+47260,Health Care,0,45
+47260,"Hotels, Restaurants & Leisure",0,11
+47260,Household Products,0,8
+47260,Industrials,0,19
+47260,Materials,0,17
+47260,Media,0,10
+47260,Motor Vehicles & Parts,0,9
+47260,Retailing,1,44
+47260,Technology,0,52
+47260,Telecommunications,0,7
+47260,Transportation,0,17
+47260,Wholesalers,1,21
+25540,Aerospace & Defense,0,11
+25540,Apparel,0,4
+25540,Business Services,0,18
+25540,Chemicals,0,12
+25540,Energy,0,57
+25540,Engineering & Construction,0,12
+25540,Financials,1,93
+25540,Food & Drug Stores,0,5
+25540,"Food, Beverages & Tobacco",0,26
+25540,Health Care,1,45
+25540,"Hotels, Restaurants & Leisure",0,11
+25540,Household Products,0,8
+25540,Industrials,2,19
+25540,Materials,0,17
+25540,Media,0,10
+25540,Motor Vehicles & Parts,0,9
+25540,Retailing,0,44
+25540,Technology,0,52
+25540,Telecommunications,0,7
+25540,Transportation,0,17
+25540,Wholesalers,0,21
+40060,Aerospace & Defense,0,11
+40060,Apparel,0,4
+40060,Business Services,0,18
+40060,Chemicals,0,12
+40060,Energy,1,57
+40060,Engineering & Construction,0,12
+40060,Financials,1,93
+40060,Food & Drug Stores,0,5
+40060,"Food, Beverages & Tobacco",1,26
+40060,Health Care,1,45
+40060,"Hotels, Restaurants & Leisure",0,11
+40060,Household Products,0,8
+40060,Industrials,0,19
+40060,Materials,0,17
+40060,Media,0,10
+40060,Motor Vehicles & Parts,0,9
+40060,Retailing,2,44
+40060,Technology,0,52
+40060,Telecommunications,0,7
+40060,Transportation,0,17
+40060,Wholesalers,1,21
+14860,Aerospace & Defense,0,11
+14860,Apparel,0,4
+14860,Business Services,0,18
+14860,Chemicals,0,12
+14860,Energy,0,57
+14860,Engineering & Construction,1,12
+14860,Financials,3,93
+14860,Food & Drug Stores,0,5
+14860,"Food, Beverages & Tobacco",1,26
+14860,Health Care,0,45
+14860,"Hotels, Restaurants & Leisure",0,11
+14860,Household Products,0,8
+14860,Industrials,0,19
+14860,Materials,0,17
+14860,Media,0,10
+14860,Motor Vehicles & Parts,0,9
+14860,Retailing,1,44
+14860,Technology,1,52
+14860,Telecommunications,1,7
+14860,Transportation,2,17
+14860,Wholesalers,0,21
+39300,Aerospace & Defense,1,11
+39300,Apparel,0,4
+39300,Business Services,0,18
+39300,Chemicals,0,12
+39300,Energy,0,57
+39300,Engineering & Construction,0,12
+39300,Financials,2,93
+39300,Food & Drug Stores,0,5
+39300,"Food, Beverages & Tobacco",0,26
+39300,Health Care,1,45
+39300,"Hotels, Restaurants & Leisure",0,11
+39300,Household Products,0,8
+39300,Industrials,0,19
+39300,Materials,0,17
+39300,Media,0,10
+39300,Motor Vehicles & Parts,0,9
+39300,Retailing,0,44
+39300,Technology,0,52
+39300,Telecommunications,0,7
+39300,Transportation,0,17
+39300,Wholesalers,1,21
+32820,Aerospace & Defense,0,11
+32820,Apparel,0,4
+32820,Business Services,0,18
+32820,Chemicals,0,12
+32820,Energy,0,57
+32820,Engineering & Construction,0,12
+32820,Financials,0,93
+32820,Food & Drug Stores,0,5
+32820,"Food, Beverages & Tobacco",0,26
+32820,Health Care,0,45
+32820,"Hotels, Restaurants & Leisure",0,11
+32820,Household Products,0,8
+32820,Industrials,0,19
+32820,Materials,1,17
+32820,Media,0,10
+32820,Motor Vehicles & Parts,0,9
+32820,Retailing,1,44
+32820,Technology,0,52
+32820,Telecommunications,0,7
+32820,Transportation,1,17
+32820,Wholesalers,0,21
+35380,Aerospace & Defense,0,11
+35380,Apparel,0,4
+35380,Business Services,0,18
+35380,Chemicals,0,12
+35380,Energy,1,57
+35380,Engineering & Construction,0,12
+35380,Financials,0,93
+35380,Food & Drug Stores,0,5
+35380,"Food, Beverages & Tobacco",0,26
+35380,Health Care,0,45
+35380,"Hotels, Restaurants & Leisure",0,11
+35380,Household Products,0,8
+35380,Industrials,0,19
+35380,Materials,0,17
+35380,Media,0,10
+35380,Motor Vehicles & Parts,0,9
+35380,Retailing,0,44
+35380,Technology,0,52
+35380,Telecommunications,0,7
+35380,Transportation,0,17
+35380,Wholesalers,0,21
+36420,Aerospace & Defense,0,11
+36420,Apparel,0,4
+36420,Business Services,0,18
+36420,Chemicals,0,12
+36420,Energy,1,57
+36420,Engineering & Construction,0,12
+36420,Financials,0,93
+36420,Food & Drug Stores,0,5
+36420,"Food, Beverages & Tobacco",0,26
+36420,Health Care,0,45
+36420,"Hotels, Restaurants & Leisure",0,11
+36420,Household Products,0,8
+36420,Industrials,0,19
+36420,Materials,0,17
+36420,Media,0,10
+36420,Motor Vehicles & Parts,0,9
+36420,Retailing,0,44
+36420,Technology,0,52
+36420,Telecommunications,0,7
+36420,Transportation,0,17
+36420,Wholesalers,0,21
+31140,Aerospace & Defense,0,11
+31140,Apparel,0,4
+31140,Business Services,0,18
+31140,Chemicals,0,12
+31140,Energy,0,57
+31140,Engineering & Construction,0,12
+31140,Financials,0,93
+31140,Food & Drug Stores,0,5
+31140,"Food, Beverages & Tobacco",0,26
+31140,Health Care,2,45
+31140,"Hotels, Restaurants & Leisure",1,11
+31140,Household Products,0,8
+31140,Industrials,0,19
+31140,Materials,0,17
+31140,Media,0,10
+31140,Motor Vehicles & Parts,0,9
+31140,Retailing,0,44
+31140,Technology,0,52
+31140,Telecommunications,0,7
+31140,Transportation,0,17
+31140,Wholesalers,0,21
+36540,Aerospace & Defense,0,11
+36540,Apparel,0,4
+36540,Business Services,0,18
+36540,Chemicals,0,12
+36540,Energy,0,57
+36540,Engineering & Construction,1,12
+36540,Financials,2,93
+36540,Food & Drug Stores,0,5
+36540,"Food, Beverages & Tobacco",0,26
+36540,Health Care,0,45
+36540,"Hotels, Restaurants & Leisure",0,11
+36540,Household Products,0,8
+36540,Industrials,0,19
+36540,Materials,0,17
+36540,Media,0,10
+36540,Motor Vehicles & Parts,0,9
+36540,Retailing,0,44
+36540,Technology,0,52
+36540,Telecommunications,0,7
+36540,Transportation,1,17
+36540,Wholesalers,0,21

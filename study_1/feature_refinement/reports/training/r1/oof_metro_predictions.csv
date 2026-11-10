@@ -1,0 +1,491 @@
+cbsa,metro_name,observed,expected,model,fold,track,method,residual
+16980,"Chicago–Naperville–Elgin, IL–IN",30,22.07277489603561,A_employment,0,A,employment,7.927225103964389
+19100,"Dallas–Fort Worth–Arlington, TX",21,19.88762863245042,A_employment,0,A,employment,1.1123713675495814
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,14.24834028848726,A_employment,0,A,employment,-5.24834028848726
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,5.805254291261973,A_employment,0,A,employment,15.194745708738026
+19740,"Denver–Aurora–Centennial, CO",8,7.787138446717903,A_employment,0,A,employment,0.21286155328209677
+40140,"Riverside–San Bernardino–Ontario, CA",1,7.922337729571351,A_employment,0,A,employment,-6.922337729571351
+28140,"Kansas City, MO–KS",1,5.269622367411086,A_employment,0,A,employment,-4.269622367411086
+18140,"Columbus, OH",5,5.157144379348654,A_employment,0,A,employment,-0.15714437934865444
+39580,"Raleigh–Cary, NC",2,3.5363193936264024,A_employment,0,A,employment,-1.5363193936264024
+35380,"New Orleans–Metairie, LA",1,2.1926358131020676,A_employment,0,A,employment,-1.1926358131020676
+16980,"Chicago–Naperville–Elgin, IL–IN",30,22.07277489603561,B_employment,0,B,employment,7.927225103964389
+18140,"Columbus, OH",5,5.157144379348654,B_employment,0,B,employment,-0.15714437934865444
+19100,"Dallas–Fort Worth–Arlington, TX",21,19.88762863245042,B_employment,0,B,employment,1.1123713675495814
+19740,"Denver–Aurora–Centennial, CO",8,7.787138446717902,B_employment,0,B,employment,0.21286155328209766
+28140,"Kansas City, MO–KS",1,5.269622367411086,B_employment,0,B,employment,-4.269622367411086
+35380,"New Orleans–Metairie, LA",1,2.1926358131020676,B_employment,0,B,employment,-1.1926358131020676
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,14.24834028848726,B_employment,0,B,employment,-5.24834028848726
+39580,"Raleigh–Cary, NC",2,3.5363193936264024,B_employment,0,B,employment,-1.5363193936264024
+40140,"Riverside–San Bernardino–Ontario, CA",1,7.92233772957135,B_employment,0,B,employment,-6.92233772957135
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,5.805254291261973,B_employment,0,B,employment,15.194745708738026
+16980,"Chicago–Naperville–Elgin, IL–IN",30,8.23076923076923,A_mean,0,A,mean,21.76923076923077
+19100,"Dallas–Fort Worth–Arlington, TX",21,8.23076923076923,A_mean,0,A,mean,12.76923076923077
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,8.23076923076923,A_mean,0,A,mean,0.76923076923077
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,8.23076923076923,A_mean,0,A,mean,12.76923076923077
+19740,"Denver–Aurora–Centennial, CO",8,8.23076923076923,A_mean,0,A,mean,-0.23076923076922995
+40140,"Riverside–San Bernardino–Ontario, CA",1,8.23076923076923,A_mean,0,A,mean,-7.23076923076923
+28140,"Kansas City, MO–KS",1,8.23076923076923,A_mean,0,A,mean,-7.23076923076923
+18140,"Columbus, OH",5,8.23076923076923,A_mean,0,A,mean,-3.23076923076923
+39580,"Raleigh–Cary, NC",2,8.23076923076923,A_mean,0,A,mean,-6.23076923076923
+35380,"New Orleans–Metairie, LA",1,8.23076923076923,A_mean,0,A,mean,-7.23076923076923
+16980,"Chicago–Naperville–Elgin, IL–IN",30,8.23076923076923,B_mean,0,B,mean,21.76923076923077
+18140,"Columbus, OH",5,8.23076923076923,B_mean,0,B,mean,-3.23076923076923
+19100,"Dallas–Fort Worth–Arlington, TX",21,8.23076923076923,B_mean,0,B,mean,12.76923076923077
+19740,"Denver–Aurora–Centennial, CO",8,8.23076923076923,B_mean,0,B,mean,-0.23076923076922995
+28140,"Kansas City, MO–KS",1,8.23076923076923,B_mean,0,B,mean,-7.23076923076923
+35380,"New Orleans–Metairie, LA",1,8.23076923076923,B_mean,0,B,mean,-7.23076923076923
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,8.23076923076923,B_mean,0,B,mean,0.76923076923077
+39580,"Raleigh–Cary, NC",2,8.23076923076923,B_mean,0,B,mean,-6.23076923076923
+40140,"Riverside–San Bernardino–Ontario, CA",1,8.23076923076923,B_mean,0,B,mean,-7.23076923076923
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,8.23076923076923,B_mean,0,B,mean,12.76923076923077
+16980,"Chicago–Naperville–Elgin, IL–IN",30,23.421595906954305,A_poisson,0,A,poisson,6.578404093045695
+19100,"Dallas–Fort Worth–Arlington, TX",21,13.08075948633197,A_poisson,0,A,poisson,7.919240513668029
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,15.429955494013774,A_poisson,0,A,poisson,-6.4299554940137735
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,12.55483225711729,A_poisson,0,A,poisson,8.44516774288271
+19740,"Denver–Aurora–Centennial, CO",8,4.684538147676052,A_poisson,0,A,poisson,3.3154618523239483
+40140,"Riverside–San Bernardino–Ontario, CA",1,2.024315501440429,A_poisson,0,A,poisson,-1.0243155014404288
+28140,"Kansas City, MO–KS",1,3.729597693176822,A_poisson,0,A,poisson,-2.729597693176822
+18140,"Columbus, OH",5,5.41107239710439,A_poisson,0,A,poisson,-0.41107239710439014
+39580,"Raleigh–Cary, NC",2,3.1490853382011674,A_poisson,0,A,poisson,-1.1490853382011674
+35380,"New Orleans–Metairie, LA",1,3.4877822492044057,A_poisson,0,A,poisson,-2.4877822492044057
+16980,"Chicago–Naperville–Elgin, IL–IN",30,22.509510040283203,A_xgboost,0,A,xgboost,7.490489959716797
+19100,"Dallas–Fort Worth–Arlington, TX",21,21.915918350219727,A_xgboost,0,A,xgboost,-0.9159183502197266
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,14.0608549118042,A_xgboost,0,A,xgboost,-5.060854911804199
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,8.695183753967285,A_xgboost,0,A,xgboost,12.304816246032715
+19740,"Denver–Aurora–Centennial, CO",8,5.628410339355469,A_xgboost,0,A,xgboost,2.3715896606445312
+40140,"Riverside–San Bernardino–Ontario, CA",1,3.016420602798462,A_xgboost,0,A,xgboost,-2.016420602798462
+28140,"Kansas City, MO–KS",1,3.3520586490631104,A_xgboost,0,A,xgboost,-2.3520586490631104
+18140,"Columbus, OH",5,5.23759126663208,A_xgboost,0,A,xgboost,-0.23759126663208008
+39580,"Raleigh–Cary, NC",2,3.1830592155456543,A_xgboost,0,A,xgboost,-1.1830592155456543
+35380,"New Orleans–Metairie, LA",1,4.318564414978027,A_xgboost,0,A,xgboost,-3.3185644149780273
+16980,"Chicago–Naperville–Elgin, IL–IN",30,22.15102567523202,B_logistic,0,B,logistic,7.84897432476798
+18140,"Columbus, OH",5,5.747765065447543,B_logistic,0,B,logistic,-0.7477650654475427
+19100,"Dallas–Fort Worth–Arlington, TX",21,13.55685472427277,B_logistic,0,B,logistic,7.443145275727231
+19740,"Denver–Aurora–Centennial, CO",8,5.14386174821387,B_logistic,0,B,logistic,2.8561382517861302
+28140,"Kansas City, MO–KS",1,4.166220288539215,B_logistic,0,B,logistic,-3.1662202885392148
+35380,"New Orleans–Metairie, LA",1,3.1675029986238337,B_logistic,0,B,logistic,-2.1675029986238337
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,15.254888883247187,B_logistic,0,B,logistic,-6.254888883247187
+39580,"Raleigh–Cary, NC",2,3.591495765097928,B_logistic,0,B,logistic,-1.5914957650979278
+40140,"Riverside–San Bernardino–Ontario, CA",1,2.359731288731897,B_logistic,0,B,logistic,-1.359731288731897
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,15.041354734484994,B_logistic,0,B,logistic,5.958645265515006
+16980,"Chicago–Naperville–Elgin, IL–IN",30,18.287261962890625,B_xgboost,0,B,xgboost,11.712738037109375
+18140,"Columbus, OH",5,5.343622207641602,B_xgboost,0,B,xgboost,-0.34362220764160156
+19100,"Dallas–Fort Worth–Arlington, TX",21,17.942577362060547,B_xgboost,0,B,xgboost,3.057422637939453
+19740,"Denver–Aurora–Centennial, CO",8,5.841994285583496,B_xgboost,0,B,xgboost,2.158005714416504
+28140,"Kansas City, MO–KS",1,4.126560211181641,B_xgboost,0,B,xgboost,-3.1265602111816406
+35380,"New Orleans–Metairie, LA",1,4.474241256713867,B_xgboost,0,B,xgboost,-3.474241256713867
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,13.819252967834473,B_xgboost,0,B,xgboost,-4.819252967834473
+39580,"Raleigh–Cary, NC",2,4.164322853088379,B_xgboost,0,B,xgboost,-2.164322853088379
+40140,"Riverside–San Bernardino–Ontario, CA",1,3.427873134613037,B_xgboost,0,B,xgboost,-2.427873134613037
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,8.900249481201172,B_xgboost,0,B,xgboost,12.099750518798828
+16980,"Chicago–Naperville–Elgin, IL–IN",30,22.04991195242244,B_logistic_main,0,B,logistic,7.950088047577559
+18140,"Columbus, OH",5,5.746516950476524,B_logistic_main,0,B,logistic,-0.7465169504765239
+19100,"Dallas–Fort Worth–Arlington, TX",21,13.334494054672842,B_logistic_main,0,B,logistic,7.665505945327158
+19740,"Denver–Aurora–Centennial, CO",8,5.193893402250593,B_logistic_main,0,B,logistic,2.806106597749407
+28140,"Kansas City, MO–KS",1,4.163934849723765,B_logistic_main,0,B,logistic,-3.1639348497237654
+35380,"New Orleans–Metairie, LA",1,3.2218113258976677,B_logistic_main,0,B,logistic,-2.2218113258976677
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,15.219723122639492,B_logistic_main,0,B,logistic,-6.219723122639492
+39580,"Raleigh–Cary, NC",2,3.6145996347583016,B_logistic_main,0,B,logistic,-1.6145996347583016
+40140,"Riverside–San Bernardino–Ontario, CA",1,2.386972658222994,B_logistic_main,0,B,logistic,-1.386972658222994
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,14.31328344117828,B_logistic_main,0,B,logistic,6.68671655882172
+16980,"Chicago–Naperville–Elgin, IL–IN",30,20.747615814208984,B_xgboost_main,0,B,xgboost,9.252384185791016
+18140,"Columbus, OH",5,5.220363616943359,B_xgboost_main,0,B,xgboost,-0.22036361694335938
+19100,"Dallas–Fort Worth–Arlington, TX",21,20.747615814208984,B_xgboost_main,0,B,xgboost,0.2523841857910156
+19740,"Denver–Aurora–Centennial, CO",8,5.565965175628662,B_xgboost_main,0,B,xgboost,2.434034824371338
+28140,"Kansas City, MO–KS",1,3.650563955307007,B_xgboost_main,0,B,xgboost,-2.650563955307007
+35380,"New Orleans–Metairie, LA",1,5.1140217781066895,B_xgboost_main,0,B,xgboost,-4.1140217781066895
+37980,"Philadelphia–Camden–Wilmington, PA–NJ–DE–MD",9,13.378422737121582,B_xgboost_main,0,B,xgboost,-4.378422737121582
+39580,"Raleigh–Cary, NC",2,4.055812835693359,B_xgboost_main,0,B,xgboost,-2.0558128356933594
+40140,"Riverside–San Bernardino–Ontario, CA",1,3.1055901050567627,B_xgboost_main,0,B,xgboost,-2.1055901050567627
+41940,"San Jose–Sunnyvale–Santa Clara, CA",21,8.548425674438477,B_xgboost_main,0,B,xgboost,12.451574325561523
+41860,"San Francisco–Oakland–Fremont, CA",21,11.377504258676913,A_employment,1,A,employment,9.622495741323087
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,13.553396478235634,A_employment,1,A,employment,-3.5533964782356335
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,6.4360189758361965,A_employment,1,A,employment,0.5639810241638035
+36740,"Orlando–Kissimmee–Sanford, FL",1,6.934805011684058,A_employment,1,A,employment,-5.934805011684058
+17140,"Cincinnati, OH–KY–IN",8,5.295645545184442,A_employment,1,A,employment,2.704354454815558
+33340,"Milwaukee–Waukesha, WI",6,4.033200249165384,A_employment,1,A,employment,1.9667997508346158
+14860,"Bridgeport–Stamford–Danbury, CT",10,1.9645824775295537,A_employment,1,A,employment,8.035417522470446
+39300,"Providence–Warwick, RI–MA",5,3.374401092540234,A_employment,1,A,employment,1.625598907459766
+31140,"Louisville/Jefferson County, KY–IN",3,3.349738730216948,A_employment,1,A,employment,-0.3497387302169481
+36540,"Omaha, NE–IA",4,2.3248987714158975,A_employment,1,A,employment,1.6751012285841025
+14860,"Bridgeport–Stamford–Danbury, CT",10,1.9645824775295535,B_employment,1,B,employment,8.035417522470446
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,6.4360189758361965,B_employment,1,B,employment,0.5639810241638035
+17140,"Cincinnati, OH–KY–IN",8,5.295645545184442,B_employment,1,B,employment,2.704354454815558
+31140,"Louisville/Jefferson County, KY–IN",3,3.349738730216948,B_employment,1,B,employment,-0.3497387302169481
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,13.553396478235634,B_employment,1,B,employment,-3.5533964782356335
+33340,"Milwaukee–Waukesha, WI",6,4.033200249165384,B_employment,1,B,employment,1.9667997508346158
+36540,"Omaha, NE–IA",4,2.3248987714158975,B_employment,1,B,employment,1.6751012285841025
+36740,"Orlando–Kissimmee–Sanford, FL",1,6.934805011684058,B_employment,1,B,employment,-5.934805011684058
+39300,"Providence–Warwick, RI–MA",5,3.374401092540234,B_employment,1,B,employment,1.625598907459766
+41860,"San Francisco–Oakland–Fremont, CA",21,11.377504258676913,B_employment,1,B,employment,9.622495741323087
+41860,"San Francisco–Oakland–Fremont, CA",21,8.846153846153847,A_mean,1,A,mean,12.153846153846153
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,8.846153846153847,A_mean,1,A,mean,1.1538461538461533
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,8.846153846153847,A_mean,1,A,mean,-1.8461538461538467
+36740,"Orlando–Kissimmee–Sanford, FL",1,8.846153846153847,A_mean,1,A,mean,-7.846153846153847
+17140,"Cincinnati, OH–KY–IN",8,8.846153846153847,A_mean,1,A,mean,-0.8461538461538467
+33340,"Milwaukee–Waukesha, WI",6,8.846153846153847,A_mean,1,A,mean,-2.8461538461538467
+14860,"Bridgeport–Stamford–Danbury, CT",10,8.846153846153847,A_mean,1,A,mean,1.1538461538461533
+39300,"Providence–Warwick, RI–MA",5,8.846153846153847,A_mean,1,A,mean,-3.8461538461538467
+31140,"Louisville/Jefferson County, KY–IN",3,8.846153846153847,A_mean,1,A,mean,-5.846153846153847
+36540,"Omaha, NE–IA",4,8.846153846153847,A_mean,1,A,mean,-4.846153846153847
+14860,"Bridgeport–Stamford–Danbury, CT",10,8.846153846153847,B_mean,1,B,mean,1.1538461538461533
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,8.846153846153847,B_mean,1,B,mean,-1.8461538461538467
+17140,"Cincinnati, OH–KY–IN",8,8.846153846153847,B_mean,1,B,mean,-0.8461538461538467
+31140,"Louisville/Jefferson County, KY–IN",3,8.846153846153847,B_mean,1,B,mean,-5.846153846153847
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,8.846153846153847,B_mean,1,B,mean,1.1538461538461533
+33340,"Milwaukee–Waukesha, WI",6,8.846153846153847,B_mean,1,B,mean,-2.8461538461538467
+36540,"Omaha, NE–IA",4,8.846153846153847,B_mean,1,B,mean,-4.846153846153847
+36740,"Orlando–Kissimmee–Sanford, FL",1,8.846153846153847,B_mean,1,B,mean,-7.846153846153847
+39300,"Providence–Warwick, RI–MA",5,8.846153846153847,B_mean,1,B,mean,-3.8461538461538467
+41860,"San Francisco–Oakland–Fremont, CA",21,8.846153846153847,B_mean,1,B,mean,12.153846153846153
+41860,"San Francisco–Oakland–Fremont, CA",21,13.156361641373456,A_poisson,1,A,poisson,7.843638358626544
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,4.6304809741593305,A_poisson,1,A,poisson,5.3695190258406695
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,11.226370228422288,A_poisson,1,A,poisson,-4.226370228422288
+36740,"Orlando–Kissimmee–Sanford, FL",1,3.593660324959631,A_poisson,1,A,poisson,-2.593660324959631
+17140,"Cincinnati, OH–KY–IN",8,9.197300763623732,A_poisson,1,A,poisson,-1.1973007636237316
+33340,"Milwaukee–Waukesha, WI",6,4.971207617513927,A_poisson,1,A,poisson,1.0287923824860732
+14860,"Bridgeport–Stamford–Danbury, CT",10,2.8905622331242915,A_poisson,1,A,poisson,7.1094377668757085
+39300,"Providence–Warwick, RI–MA",5,1.7040053437057192,A_poisson,1,A,poisson,3.2959946562942806
+31140,"Louisville/Jefferson County, KY–IN",3,2.766003235310398,A_poisson,1,A,poisson,0.23399676468960218
+36540,"Omaha, NE–IA",4,3.5453324136635573,A_poisson,1,A,poisson,0.45466758633644266
+41860,"San Francisco–Oakland–Fremont, CA",21,18.480587005615234,A_xgboost,1,A,xgboost,2.5194129943847656
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,9.329273223876953,A_xgboost,1,A,xgboost,0.6707267761230469
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,4.691970348358154,A_xgboost,1,A,xgboost,2.3080296516418457
+36740,"Orlando–Kissimmee–Sanford, FL",1,4.596220970153809,A_xgboost,1,A,xgboost,-3.5962209701538086
+17140,"Cincinnati, OH–KY–IN",8,5.071750164031982,A_xgboost,1,A,xgboost,2.9282498359680176
+33340,"Milwaukee–Waukesha, WI",6,5.071750164031982,A_xgboost,1,A,xgboost,0.9282498359680176
+14860,"Bridgeport–Stamford–Danbury, CT",10,5.006008148193359,A_xgboost,1,A,xgboost,4.993991851806641
+39300,"Providence–Warwick, RI–MA",5,3.3040053844451904,A_xgboost,1,A,xgboost,1.6959946155548096
+31140,"Louisville/Jefferson County, KY–IN",3,4.596220970153809,A_xgboost,1,A,xgboost,-1.5962209701538086
+36540,"Omaha, NE–IA",4,4.691970348358154,A_xgboost,1,A,xgboost,-0.6919703483581543
+14860,"Bridgeport–Stamford–Danbury, CT",10,2.874362579726835,B_logistic,1,B,logistic,7.125637420273165
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,8.8757027700065,B_logistic,1,B,logistic,-1.8757027700064999
+17140,"Cincinnati, OH–KY–IN",8,8.145779967860216,B_logistic,1,B,logistic,-0.14577996786021608
+31140,"Louisville/Jefferson County, KY–IN",3,3.1338900353125756,B_logistic,1,B,logistic,-0.1338900353125756
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,5.3800727938533015,B_logistic,1,B,logistic,4.6199272061466985
+33340,"Milwaukee–Waukesha, WI",6,4.773612838675753,B_logistic,1,B,logistic,1.2263871613242472
+36540,"Omaha, NE–IA",4,3.1814900955800844,B_logistic,1,B,logistic,0.8185099044199156
+36740,"Orlando–Kissimmee–Sanford, FL",1,3.8427074992682875,B_logistic,1,B,logistic,-2.8427074992682875
+39300,"Providence–Warwick, RI–MA",5,2.013713452581728,B_logistic,1,B,logistic,2.986286547418272
+41860,"San Francisco–Oakland–Fremont, CA",21,13.40397485375646,B_logistic,1,B,logistic,7.596025146243541
+14860,"Bridgeport–Stamford–Danbury, CT",10,3.9437055587768555,B_xgboost,1,B,xgboost,6.0562944412231445
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,3.205042600631714,B_xgboost,1,B,xgboost,3.794957399368286
+17140,"Cincinnati, OH–KY–IN",8,4.918118000030518,B_xgboost,1,B,xgboost,3.0818819999694824
+31140,"Louisville/Jefferson County, KY–IN",3,5.564345359802246,B_xgboost,1,B,xgboost,-2.564345359802246
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,12.645776748657227,B_xgboost,1,B,xgboost,-2.6457767486572266
+33340,"Milwaukee–Waukesha, WI",6,5.180757522583008,B_xgboost,1,B,xgboost,0.8192424774169922
+36540,"Omaha, NE–IA",4,4.353615760803223,B_xgboost,1,B,xgboost,-0.35361576080322266
+36740,"Orlando–Kissimmee–Sanford, FL",1,3.337297201156616,B_xgboost,1,B,xgboost,-2.337297201156616
+39300,"Providence–Warwick, RI–MA",5,2.7851483821868896,B_xgboost,1,B,xgboost,2.2148516178131104
+41860,"San Francisco–Oakland–Fremont, CA",21,18.439706802368164,B_xgboost,1,B,xgboost,2.560293197631836
+14860,"Bridgeport–Stamford–Danbury, CT",10,3.180560333330002,B_logistic_main,1,B,logistic,6.819439666669998
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,8.818856222858017,B_logistic_main,1,B,logistic,-1.8188562228580167
+17140,"Cincinnati, OH–KY–IN",8,8.298545096176566,B_logistic_main,1,B,logistic,-0.2985450961765661
+31140,"Louisville/Jefferson County, KY–IN",3,3.080190937485273,B_logistic_main,1,B,logistic,-0.08019093748527295
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,5.184085267659711,B_logistic_main,1,B,logistic,4.815914732340289
+33340,"Milwaukee–Waukesha, WI",6,4.723944044328021,B_logistic_main,1,B,logistic,1.2760559556719793
+36540,"Omaha, NE–IA",4,3.194967717437686,B_logistic_main,1,B,logistic,0.8050322825623142
+36740,"Orlando–Kissimmee–Sanford, FL",1,3.8239888136252933,B_logistic_main,1,B,logistic,-2.8239888136252933
+39300,"Providence–Warwick, RI–MA",5,1.9760282196788266,B_logistic_main,1,B,logistic,3.0239717803211734
+41860,"San Francisco–Oakland–Fremont, CA",21,14.684174767523338,B_logistic_main,1,B,logistic,6.315825232476662
+14860,"Bridgeport–Stamford–Danbury, CT",10,4.216068267822266,B_xgboost_main,1,B,xgboost,5.783931732177734
+16740,"Charlotte–Concord–Gastonia, NC–SC",7,3.9753317832946777,B_xgboost_main,1,B,xgboost,3.0246682167053223
+17140,"Cincinnati, OH–KY–IN",8,4.956745624542236,B_xgboost_main,1,B,xgboost,3.0432543754577637
+31140,"Louisville/Jefferson County, KY–IN",3,4.260678291320801,B_xgboost_main,1,B,xgboost,-1.2606782913208008
+33100,"Miami–Fort Lauderdale–West Palm Beach, FL",10,7.655029773712158,B_xgboost_main,1,B,xgboost,2.344970226287842
+33340,"Milwaukee–Waukesha, WI",6,4.882748603820801,B_xgboost_main,1,B,xgboost,1.1172513961791992
+36540,"Omaha, NE–IA",4,4.511807918548584,B_xgboost_main,1,B,xgboost,-0.511807918548584
+36740,"Orlando–Kissimmee–Sanford, FL",1,3.9127602577209473,B_xgboost_main,1,B,xgboost,-2.9127602577209473
+39300,"Providence–Warwick, RI–MA",5,2.608945369720459,B_xgboost_main,1,B,xgboost,2.391054630279541
+41860,"San Francisco–Oakland–Fremont, CA",21,16.75762176513672,B_xgboost_main,1,B,xgboost,4.242378234863281
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,33.3277246896718,A_employment,2,A,employment,-22.327724689671797
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,15.18305423913095,A_employment,2,A,employment,4.81694576086905
+19820,"Detroit–Warren–Dearborn, MI",8,10.607246044200458,A_employment,2,A,employment,-2.6072460442004584
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,7.894183517995206,A_employment,2,A,employment,-3.894183517995206
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,6.524241526827148,A_employment,2,A,employment,-5.524241526827148
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.951733670756274,A_employment,2,A,employment,0.048266329243726425
+38300,"Pittsburgh, PA",9,6.074842631145805,A_employment,2,A,employment,2.9251573688541948
+40900,"Sacramento–Roseville–Folsom, CA",0,5.005110921467366,A_employment,2,A,employment,-5.005110921467366
+25540,"Hartford–West Hartford–East Hartford, CT",4,3.097611732965379,A_employment,2,A,employment,0.9023882670346208
+36420,"Oklahoma City, OK",1,3.363367936007802,A_employment,2,A,employment,-2.363367936007802
+19820,"Detroit–Warren–Dearborn, MI",8,10.607246044200458,B_employment,2,B,employment,-2.6072460442004584
+25540,"Hartford–West Hartford–East Hartford, CT",4,3.097611732965379,B_employment,2,B,employment,0.9023882670346208
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,33.3277246896718,B_employment,2,B,employment,-22.327724689671797
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.951733670756274,B_employment,2,B,employment,0.048266329243726425
+36420,"Oklahoma City, OK",1,3.363367936007802,B_employment,2,B,employment,-2.363367936007802
+38300,"Pittsburgh, PA",9,6.074842631145805,B_employment,2,B,employment,2.9251573688541948
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,6.524241526827148,B_employment,2,B,employment,-5.524241526827148
+40900,"Sacramento–Roseville–Folsom, CA",0,5.005110921467366,B_employment,2,B,employment,-5.005110921467366
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,7.894183517995206,B_employment,2,B,employment,-3.894183517995206
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,15.18305423913095,B_employment,2,B,employment,4.81694576086905
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,9.128205128205128,A_mean,2,A,mean,1.8717948717948723
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,9.128205128205128,A_mean,2,A,mean,10.871794871794872
+19820,"Detroit–Warren–Dearborn, MI",8,9.128205128205128,A_mean,2,A,mean,-1.1282051282051277
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,9.128205128205128,A_mean,2,A,mean,-5.128205128205128
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,9.128205128205128,A_mean,2,A,mean,-8.128205128205128
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,9.128205128205128,A_mean,2,A,mean,-3.1282051282051277
+38300,"Pittsburgh, PA",9,9.128205128205128,A_mean,2,A,mean,-0.12820512820512775
+40900,"Sacramento–Roseville–Folsom, CA",0,9.128205128205128,A_mean,2,A,mean,-9.128205128205128
+25540,"Hartford–West Hartford–East Hartford, CT",4,9.128205128205128,A_mean,2,A,mean,-5.128205128205128
+36420,"Oklahoma City, OK",1,9.128205128205128,A_mean,2,A,mean,-8.128205128205128
+19820,"Detroit–Warren–Dearborn, MI",8,9.128205128205128,B_mean,2,B,mean,-1.1282051282051277
+25540,"Hartford–West Hartford–East Hartford, CT",4,9.128205128205128,B_mean,2,B,mean,-5.128205128205128
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,9.128205128205128,B_mean,2,B,mean,1.8717948717948723
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,9.128205128205128,B_mean,2,B,mean,-3.1282051282051277
+36420,"Oklahoma City, OK",1,9.128205128205128,B_mean,2,B,mean,-8.128205128205128
+38300,"Pittsburgh, PA",9,9.128205128205128,B_mean,2,B,mean,-0.12820512820512775
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,9.128205128205128,B_mean,2,B,mean,-8.128205128205128
+40900,"Sacramento–Roseville–Folsom, CA",0,9.128205128205128,B_mean,2,B,mean,-9.128205128205128
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,9.128205128205128,B_mean,2,B,mean,-5.128205128205128
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,9.128205128205128,B_mean,2,B,mean,10.871794871794872
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,22.6498732394234,A_poisson,2,A,poisson,-11.6498732394234
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,10.979987208116405,A_poisson,2,A,poisson,9.020012791883595
+19820,"Detroit–Warren–Dearborn, MI",8,7.800754415944424,A_poisson,2,A,poisson,0.1992455840555758
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,4.431418066137517,A_poisson,2,A,poisson,-0.43141806613751665
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,5.236713207544106,A_poisson,2,A,poisson,-4.236713207544106
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.28267881349085,A_poisson,2,A,poisson,0.7173211865091504
+38300,"Pittsburgh, PA",9,6.335365884651922,A_poisson,2,A,poisson,2.664634115348078
+40900,"Sacramento–Roseville–Folsom, CA",0,3.540598518358762,A_poisson,2,A,poisson,-3.540598518358762
+25540,"Hartford–West Hartford–East Hartford, CT",4,10.905109352787688,A_poisson,2,A,poisson,-6.905109352787688
+36420,"Oklahoma City, OK",1,2.617703155199892,A_poisson,2,A,poisson,-1.6177031551998922
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,17.949731826782227,A_xgboost,2,A,xgboost,-6.949731826782227
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,11.744349479675293,A_xgboost,2,A,xgboost,8.255650520324707
+19820,"Detroit–Warren–Dearborn, MI",8,5.754997730255127,A_xgboost,2,A,xgboost,2.245002269744873
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,3.522446393966675,A_xgboost,2,A,xgboost,0.4775536060333252
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,5.217167377471924,A_xgboost,2,A,xgboost,-4.217167377471924
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.217167377471924,A_xgboost,2,A,xgboost,0.7828326225280762
+38300,"Pittsburgh, PA",9,4.98150110244751,A_xgboost,2,A,xgboost,4.01849889755249
+40900,"Sacramento–Roseville–Folsom, CA",0,3.6890876293182373,A_xgboost,2,A,xgboost,-3.6890876293182373
+25540,"Hartford–West Hartford–East Hartford, CT",4,5.3669843673706055,A_xgboost,2,A,xgboost,-1.3669843673706055
+36420,"Oklahoma City, OK",1,4.98150110244751,A_xgboost,2,A,xgboost,-3.9815011024475098
+19820,"Detroit–Warren–Dearborn, MI",8,8.085542514852362,B_logistic,2,B,logistic,-0.08554251485236186
+25540,"Hartford–West Hartford–East Hartford, CT",4,9.761944173077707,B_logistic,2,B,logistic,-5.761944173077707
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,19.445080096972795,B_logistic,2,B,logistic,-8.445080096972795
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.715986192156589,B_logistic,2,B,logistic,0.2840138078434107
+36420,"Oklahoma City, OK",1,2.607291287005881,B_logistic,2,B,logistic,-1.6072912870058809
+38300,"Pittsburgh, PA",9,6.632610087960466,B_logistic,2,B,logistic,2.367389912039534
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,5.4717990583943905,B_logistic,2,B,logistic,-4.4717990583943905
+40900,"Sacramento–Roseville–Folsom, CA",0,3.5661020849137266,B_logistic,2,B,logistic,-3.5661020849137266
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,4.828558382315343,B_logistic,2,B,logistic,-0.8285583823153431
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,12.797189650545445,B_logistic,2,B,logistic,7.2028103494545554
+19820,"Detroit–Warren–Dearborn, MI",8,4.177536487579346,B_xgboost,2,B,xgboost,3.8224635124206543
+25540,"Hartford–West Hartford–East Hartford, CT",4,5.8110127449035645,B_xgboost,2,B,xgboost,-1.8110127449035645
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,18.042146682739258,B_xgboost,2,B,xgboost,-7.042146682739258
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,4.178142547607422,B_xgboost,2,B,xgboost,1.8218574523925781
+36420,"Oklahoma City, OK",1,4.037710666656494,B_xgboost,2,B,xgboost,-3.037710666656494
+38300,"Pittsburgh, PA",9,6.005520820617676,B_xgboost,2,B,xgboost,2.994479179382324
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,4.363279819488525,B_xgboost,2,B,xgboost,-3.3632798194885254
+40900,"Sacramento–Roseville–Folsom, CA",0,3.0059385299682617,B_xgboost,2,B,xgboost,-3.0059385299682617
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,3.8226845264434814,B_xgboost,2,B,xgboost,0.17731547355651855
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,12.594171524047852,B_xgboost,2,B,xgboost,7.405828475952148
+19820,"Detroit–Warren–Dearborn, MI",8,7.913148253040942,B_logistic_main,2,B,logistic,0.0868517469590584
+25540,"Hartford–West Hartford–East Hartford, CT",4,8.92703160483208,B_logistic_main,2,B,logistic,-4.927031604832081
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,19.973592535797845,B_logistic_main,2,B,logistic,-8.973592535797845
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.724181493923432,B_logistic_main,2,B,logistic,0.2758185060765683
+36420,"Oklahoma City, OK",1,2.595316023505228,B_logistic_main,2,B,logistic,-1.595316023505228
+38300,"Pittsburgh, PA",9,6.532591867495774,B_logistic_main,2,B,logistic,2.467408132504226
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,5.572095140970192,B_logistic_main,2,B,logistic,-4.572095140970192
+40900,"Sacramento–Roseville–Folsom, CA",0,3.5793288958009546,B_logistic_main,2,B,logistic,-3.5793288958009546
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,4.45308329582631,B_logistic_main,2,B,logistic,-0.4530832958263096
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,12.568832233856053,B_logistic_main,2,B,logistic,7.431167766143947
+19820,"Detroit–Warren–Dearborn, MI",8,5.723258972167969,B_xgboost_main,2,B,xgboost,2.2767410278320312
+25540,"Hartford–West Hartford–East Hartford, CT",4,6.133392810821533,B_xgboost_main,2,B,xgboost,-2.133392810821533
+31080,"Los Angeles–Long Beach–Anaheim, CA",11,19.520915985107422,B_xgboost_main,2,B,xgboost,-8.520915985107422
+34980,"Nashville-Davidson–Murfreesboro–Franklin, TN",6,5.2312331199646,B_xgboost_main,2,B,xgboost,0.7687668800354004
+36420,"Oklahoma City, OK",1,5.2312331199646,B_xgboost_main,2,B,xgboost,-4.2312331199646
+38300,"Pittsburgh, PA",9,5.2312331199646,B_xgboost_main,2,B,xgboost,3.7687668800354004
+38900,"Portland–Vancouver–Hillsboro, OR–WA",1,5.2312331199646,B_xgboost_main,2,B,xgboost,-4.2312331199646
+40900,"Sacramento–Roseville–Folsom, CA",0,4.224774360656738,B_xgboost_main,2,B,xgboost,-4.224774360656738
+45300,"Tampa–St. Petersburg–Clearwater, FL",4,4.224774360656738,B_xgboost_main,2,B,xgboost,-0.22477436065673828
+47900,"Washington–Arlington–Alexandria, DC–VA–MD–WV",20,13.15363883972168,B_xgboost_main,2,B,xgboost,6.84636116027832
+26420,"Houston–Pasadena–The Woodlands, TX",26,15.951441802789278,A_employment,3,A,employment,10.048558197210722
+14460,"Boston–Cambridge–Newton, MA–NH",14,13.609986567498517,A_employment,3,A,employment,0.39001343250148324
+38060,"Phoenix–Mesa–Chandler, AZ",9,11.99652428365562,A_employment,3,A,employment,-2.9965242836556207
+12580,"Baltimore–Columbia–Towson, MD",1,6.3353598447545965,A_employment,3,A,employment,-5.3353598447545965
+41180,"St. Louis, MO–IL",7,6.651817988962633,A_employment,3,A,employment,0.348182011037367
+26900,"Indianapolis–Carmel–Greenwood, IN",3,5.426817443259094,A_employment,3,A,employment,-2.426817443259094
+41700,"San Antonio–New Braunfels, TX",3,5.280840810244708,A_employment,3,A,employment,-2.280840810244708
+27260,"Jacksonville, FL",4,3.8250077097778346,A_employment,3,A,employment,0.17499229022216545
+40060,"Richmond, VA",7,3.0967714077596096,A_employment,3,A,employment,3.9032285922403904
+32820,"Memphis, TN–MS–AR",3,3.0277502782067476,A_employment,3,A,employment,-0.02775027820674758
+12580,"Baltimore–Columbia–Towson, MD",1,6.3353598447545965,B_employment,3,B,employment,-5.3353598447545965
+14460,"Boston–Cambridge–Newton, MA–NH",14,13.609986567498517,B_employment,3,B,employment,0.39001343250148324
+26420,"Houston–Pasadena–The Woodlands, TX",26,15.95144180278928,B_employment,3,B,employment,10.04855819721072
+26900,"Indianapolis–Carmel–Greenwood, IN",3,5.426817443259094,B_employment,3,B,employment,-2.426817443259094
+27260,"Jacksonville, FL",4,3.8250077097778346,B_employment,3,B,employment,0.17499229022216545
+32820,"Memphis, TN–MS–AR",3,3.0277502782067476,B_employment,3,B,employment,-0.02775027820674758
+38060,"Phoenix–Mesa–Chandler, AZ",9,11.99652428365562,B_employment,3,B,employment,-2.9965242836556207
+40060,"Richmond, VA",7,3.0967714077596096,B_employment,3,B,employment,3.9032285922403904
+41180,"St. Louis, MO–IL",7,6.651817988962633,B_employment,3,B,employment,0.348182011037367
+41700,"San Antonio–New Braunfels, TX",3,5.280840810244708,B_employment,3,B,employment,-2.280840810244708
+26420,"Houston–Pasadena–The Woodlands, TX",26,8.794871794871796,A_mean,3,A,mean,17.205128205128204
+14460,"Boston–Cambridge–Newton, MA–NH",14,8.794871794871796,A_mean,3,A,mean,5.205128205128204
+38060,"Phoenix–Mesa–Chandler, AZ",9,8.794871794871796,A_mean,3,A,mean,0.2051282051282044
+12580,"Baltimore–Columbia–Towson, MD",1,8.794871794871796,A_mean,3,A,mean,-7.794871794871796
+41180,"St. Louis, MO–IL",7,8.794871794871796,A_mean,3,A,mean,-1.7948717948717956
+26900,"Indianapolis–Carmel–Greenwood, IN",3,8.794871794871796,A_mean,3,A,mean,-5.794871794871796
+41700,"San Antonio–New Braunfels, TX",3,8.794871794871796,A_mean,3,A,mean,-5.794871794871796
+27260,"Jacksonville, FL",4,8.794871794871796,A_mean,3,A,mean,-4.794871794871796
+40060,"Richmond, VA",7,8.794871794871796,A_mean,3,A,mean,-1.7948717948717956
+32820,"Memphis, TN–MS–AR",3,8.794871794871796,A_mean,3,A,mean,-5.794871794871796
+12580,"Baltimore–Columbia–Towson, MD",1,8.794871794871796,B_mean,3,B,mean,-7.794871794871796
+14460,"Boston–Cambridge–Newton, MA–NH",14,8.794871794871796,B_mean,3,B,mean,5.205128205128204
+26420,"Houston–Pasadena–The Woodlands, TX",26,8.794871794871796,B_mean,3,B,mean,17.205128205128204
+26900,"Indianapolis–Carmel–Greenwood, IN",3,8.794871794871796,B_mean,3,B,mean,-5.794871794871796
+27260,"Jacksonville, FL",4,8.794871794871796,B_mean,3,B,mean,-4.794871794871796
+32820,"Memphis, TN–MS–AR",3,8.794871794871796,B_mean,3,B,mean,-5.794871794871796
+38060,"Phoenix–Mesa–Chandler, AZ",9,8.794871794871796,B_mean,3,B,mean,0.2051282051282044
+40060,"Richmond, VA",7,8.794871794871796,B_mean,3,B,mean,-1.7948717948717956
+41180,"St. Louis, MO–IL",7,8.794871794871796,B_mean,3,B,mean,-1.7948717948717956
+41700,"San Antonio–New Braunfels, TX",3,8.794871794871796,B_mean,3,B,mean,-5.794871794871796
+26420,"Houston–Pasadena–The Woodlands, TX",26,13.49972070633828,A_poisson,3,A,poisson,12.50027929366172
+14460,"Boston–Cambridge–Newton, MA–NH",14,25.525462141047164,A_poisson,3,A,poisson,-11.525462141047164
+38060,"Phoenix–Mesa–Chandler, AZ",9,5.764848714789878,A_poisson,3,A,poisson,3.2351512852101223
+12580,"Baltimore–Columbia–Towson, MD",1,5.676234813684783,A_poisson,3,A,poisson,-4.676234813684783
+41180,"St. Louis, MO–IL",7,5.733830335838292,A_poisson,3,A,poisson,1.2661696641617084
+26900,"Indianapolis–Carmel–Greenwood, IN",3,3.977352473071036,A_poisson,3,A,poisson,-0.9773524730710359
+41700,"San Antonio–New Braunfels, TX",3,3.8949511725080397,A_poisson,3,A,poisson,-0.8949511725080397
+27260,"Jacksonville, FL",4,2.1541445089488285,A_poisson,3,A,poisson,1.8458554910511715
+40060,"Richmond, VA",7,3.5488701002375547,A_poisson,3,A,poisson,3.4511298997624453
+32820,"Memphis, TN–MS–AR",3,3.100086281970143,A_poisson,3,A,poisson,-0.10008628197014291
+26420,"Houston–Pasadena–The Woodlands, TX",26,8.790976524353027,A_xgboost,3,A,xgboost,17.209023475646973
+14460,"Boston–Cambridge–Newton, MA–NH",14,22.167295455932617,A_xgboost,3,A,xgboost,-8.167295455932617
+38060,"Phoenix–Mesa–Chandler, AZ",9,9.30124282836914,A_xgboost,3,A,xgboost,-0.3012428283691406
+12580,"Baltimore–Columbia–Towson, MD",1,3.782080888748169,A_xgboost,3,A,xgboost,-2.782080888748169
+41180,"St. Louis, MO–IL",7,3.886443853378296,A_xgboost,3,A,xgboost,3.113556146621704
+26900,"Indianapolis–Carmel–Greenwood, IN",3,3.276951551437378,A_xgboost,3,A,xgboost,-0.27695155143737793
+41700,"San Antonio–New Braunfels, TX",3,3.3094732761383057,A_xgboost,3,A,xgboost,-0.30947327613830566
+27260,"Jacksonville, FL",4,2.472285270690918,A_xgboost,3,A,xgboost,1.527714729309082
+40060,"Richmond, VA",7,3.960881233215332,A_xgboost,3,A,xgboost,3.039118766784668
+32820,"Memphis, TN–MS–AR",3,2.6804661750793457,A_xgboost,3,A,xgboost,0.3195338249206543
+12580,"Baltimore–Columbia–Towson, MD",1,6.417105505640241,B_logistic,3,B,logistic,-5.417105505640241
+14460,"Boston–Cambridge–Newton, MA–NH",14,22.20611384804458,B_logistic,3,B,logistic,-8.20611384804458
+26420,"Houston–Pasadena–The Woodlands, TX",26,10.885195341559276,B_logistic,3,B,logistic,15.114804658440724
+26900,"Indianapolis–Carmel–Greenwood, IN",3,4.244388506986947,B_logistic,3,B,logistic,-1.2443885069869474
+27260,"Jacksonville, FL",4,2.5637458006918092,B_logistic,3,B,logistic,1.4362541993081908
+32820,"Memphis, TN–MS–AR",3,3.2762066764569764,B_logistic,3,B,logistic,-0.2762066764569764
+38060,"Phoenix–Mesa–Chandler, AZ",9,6.431328652022373,B_logistic,3,B,logistic,2.5686713479776273
+40060,"Richmond, VA",7,3.671019163226128,B_logistic,3,B,logistic,3.328980836773872
+41180,"St. Louis, MO–IL",7,6.237109015385069,B_logistic,3,B,logistic,0.7628909846149314
+41700,"San Antonio–New Braunfels, TX",3,4.10419206106391,B_logistic,3,B,logistic,-1.1041920610639098
+12580,"Baltimore–Columbia–Towson, MD",1,3.058879852294922,B_xgboost,3,B,xgboost,-2.058879852294922
+14460,"Boston–Cambridge–Newton, MA–NH",14,20.31482696533203,B_xgboost,3,B,xgboost,-6.314826965332031
+26420,"Houston–Pasadena–The Woodlands, TX",26,8.05611515045166,B_xgboost,3,B,xgboost,17.94388484954834
+26900,"Indianapolis–Carmel–Greenwood, IN",3,3.6498563289642334,B_xgboost,3,B,xgboost,-0.6498563289642334
+27260,"Jacksonville, FL",4,2.631840467453003,B_xgboost,3,B,xgboost,1.368159532546997
+32820,"Memphis, TN–MS–AR",3,2.387296438217163,B_xgboost,3,B,xgboost,0.6127035617828369
+38060,"Phoenix–Mesa–Chandler, AZ",9,10.104291915893555,B_xgboost,3,B,xgboost,-1.1042919158935547
+40060,"Richmond, VA",7,3.968273401260376,B_xgboost,3,B,xgboost,3.031726598739624
+41180,"St. Louis, MO–IL",7,3.7965145111083984,B_xgboost,3,B,xgboost,3.2034854888916016
+41700,"San Antonio–New Braunfels, TX",3,3.0147616863250732,B_xgboost,3,B,xgboost,-0.014761686325073242
+12580,"Baltimore–Columbia–Towson, MD",1,6.563474230761821,B_logistic_main,3,B,logistic,-5.563474230761821
+14460,"Boston–Cambridge–Newton, MA–NH",14,23.128791232572325,B_logistic_main,3,B,logistic,-9.128791232572325
+26420,"Houston–Pasadena–The Woodlands, TX",26,11.74533089504434,B_logistic_main,3,B,logistic,14.25466910495566
+26900,"Indianapolis–Carmel–Greenwood, IN",3,4.258940235916814,B_logistic_main,3,B,logistic,-1.258940235916814
+27260,"Jacksonville, FL",4,2.514516781299114,B_logistic_main,3,B,logistic,1.4854832187008862
+32820,"Memphis, TN–MS–AR",3,3.294289074037497,B_logistic_main,3,B,logistic,-0.29428907403749704
+38060,"Phoenix–Mesa–Chandler, AZ",9,6.481804966235349,B_logistic_main,3,B,logistic,2.518195033764651
+40060,"Richmond, VA",7,3.6443806900248052,B_logistic_main,3,B,logistic,3.3556193099751948
+41180,"St. Louis, MO–IL",7,6.124429200687727,B_logistic_main,3,B,logistic,0.875570799312273
+41700,"San Antonio–New Braunfels, TX",3,4.0549913399351905,B_logistic_main,3,B,logistic,-1.0549913399351905
+12580,"Baltimore–Columbia–Towson, MD",1,3.516188621520996,B_xgboost_main,3,B,xgboost,-2.516188621520996
+14460,"Boston–Cambridge–Newton, MA–NH",14,23.950801849365234,B_xgboost_main,3,B,xgboost,-9.950801849365234
+26420,"Houston–Pasadena–The Woodlands, TX",26,8.727904319763184,B_xgboost_main,3,B,xgboost,17.272095680236816
+26900,"Indianapolis–Carmel–Greenwood, IN",3,3.0551092624664307,B_xgboost_main,3,B,xgboost,-0.055109262466430664
+27260,"Jacksonville, FL",4,2.122556686401367,B_xgboost_main,3,B,xgboost,1.8774433135986328
+32820,"Memphis, TN–MS–AR",3,2.8587613105773926,B_xgboost_main,3,B,xgboost,0.14123868942260742
+38060,"Phoenix–Mesa–Chandler, AZ",9,10.861875534057617,B_xgboost_main,3,B,xgboost,-1.8618755340576172
+40060,"Richmond, VA",7,3.7560150623321533,B_xgboost_main,3,B,xgboost,3.2439849376678467
+41180,"St. Louis, MO–IL",7,3.4146509170532227,B_xgboost_main,3,B,xgboost,3.5853490829467773
+41700,"San Antonio–New Braunfels, TX",3,2.811150550842285,B_xgboost_main,3,B,xgboost,0.18884944915771484
+35620,"New York–Newark–Jersey City, NY–NJ",62,45.960559102034814,A_employment,4,A,employment,16.039440897965186
+42660,"Seattle–Tacoma–Bellevue, WA",10,10.028399791044292,A_employment,4,A,employment,-0.02839979104429169
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,9.436280450876579,A_employment,4,A,employment,5.563719549123421
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,7.188563318717173,A_employment,4,A,employment,-4.188563318717173
+12420,"Austin–Round Rock–San Marcos, TX",3,5.981701583224791,A_employment,4,A,employment,-2.9817015832247913
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,5.615840630028139,A_employment,4,A,employment,-3.6158406300281394
+17410,"Cleveland, OH",7,5.0075516241811115,A_employment,4,A,employment,1.9924483758188885
+41620,"Salt Lake City–Murray, UT",0,3.904294904173774,A_employment,4,A,employment,-3.904294904173774
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,3.335472354854903,A_employment,4,A,employment,-0.335472354854903
+12420,"Austin–Round Rock–San Marcos, TX",3,5.981701583224791,B_employment,4,B,employment,-2.9817015832247913
+17410,"Cleveland, OH",7,5.0075516241811115,B_employment,4,B,employment,1.9924483758188885
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,5.615840630028139,B_employment,4,B,employment,-3.6158406300281394
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,9.436280450876579,B_employment,4,B,employment,5.563719549123421
+35620,"New York–Newark–Jersey City, NY–NJ",62,45.960559102034814,B_employment,4,B,employment,16.039440897965186
+41620,"Salt Lake City–Murray, UT",0,3.9042949041737742,B_employment,4,B,employment,-3.9042949041737742
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,7.188563318717173,B_employment,4,B,employment,-4.188563318717173
+42660,"Seattle–Tacoma–Bellevue, WA",10,10.028399791044292,B_employment,4,B,employment,-0.02839979104429169
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,3.335472354854903,B_employment,4,B,employment,-0.335472354854903
+35620,"New York–Newark–Jersey City, NY–NJ",62,7.875,A_mean,4,A,mean,54.125
+42660,"Seattle–Tacoma–Bellevue, WA",10,7.875,A_mean,4,A,mean,2.125
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,7.875,A_mean,4,A,mean,7.125
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,7.875,A_mean,4,A,mean,-4.875
+12420,"Austin–Round Rock–San Marcos, TX",3,7.875,A_mean,4,A,mean,-4.875
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,7.875,A_mean,4,A,mean,-5.875
+17410,"Cleveland, OH",7,7.875,A_mean,4,A,mean,-0.875
+41620,"Salt Lake City–Murray, UT",0,7.875,A_mean,4,A,mean,-7.875
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,7.875,A_mean,4,A,mean,-4.875
+12420,"Austin–Round Rock–San Marcos, TX",3,7.874999999999999,B_mean,4,B,mean,-4.874999999999999
+17410,"Cleveland, OH",7,7.874999999999999,B_mean,4,B,mean,-0.8749999999999991
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,7.874999999999999,B_mean,4,B,mean,-5.874999999999999
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,7.874999999999999,B_mean,4,B,mean,7.125000000000001
+35620,"New York–Newark–Jersey City, NY–NJ",62,7.874999999999999,B_mean,4,B,mean,54.125
+41620,"Salt Lake City–Murray, UT",0,7.874999999999999,B_mean,4,B,mean,-7.874999999999999
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,7.874999999999999,B_mean,4,B,mean,-4.874999999999999
+42660,"Seattle–Tacoma–Bellevue, WA",10,7.874999999999999,B_mean,4,B,mean,2.125000000000001
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,7.874999999999999,B_mean,4,B,mean,-4.874999999999999
+35620,"New York–Newark–Jersey City, NY–NJ",62,37.210380495723534,A_poisson,4,A,poisson,24.789619504276466
+42660,"Seattle–Tacoma–Bellevue, WA",10,13.060907546795773,A_poisson,4,A,poisson,-3.0609075467957734
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,10.347593031832202,A_poisson,4,A,poisson,4.6524069681677975
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,6.3503796687557985,A_poisson,4,A,poisson,-3.3503796687557985
+12420,"Austin–Round Rock–San Marcos, TX",3,8.048201130415908,A_poisson,4,A,poisson,-5.048201130415908
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,5.366987284721354,A_poisson,4,A,poisson,-3.366987284721354
+17410,"Cleveland, OH",7,4.968655060180971,A_poisson,4,A,poisson,2.0313449398190286
+41620,"Salt Lake City–Murray, UT",0,5.077809186271653,A_poisson,4,A,poisson,-5.077809186271653
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,2.8931470545942983,A_poisson,4,A,poisson,0.10685294540570167
+35620,"New York–Newark–Jersey City, NY–NJ",62,12.898097038269043,A_xgboost,4,A,xgboost,49.10190296173096
+42660,"Seattle–Tacoma–Bellevue, WA",10,13.713176727294922,A_xgboost,4,A,xgboost,-3.713176727294922
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,7.982028007507324,A_xgboost,4,A,xgboost,7.017971992492676
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,7.508228302001953,A_xgboost,4,A,xgboost,-4.508228302001953
+12420,"Austin–Round Rock–San Marcos, TX",3,2.9046454429626465,A_xgboost,4,A,xgboost,0.09535455703735352
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,2.0840463638305664,A_xgboost,4,A,xgboost,-0.0840463638305664
+17410,"Cleveland, OH",7,4.439690113067627,A_xgboost,4,A,xgboost,2.560309886932373
+41620,"Salt Lake City–Murray, UT",0,5.753609657287598,A_xgboost,4,A,xgboost,-5.753609657287598
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,1.9550695419311523,A_xgboost,4,A,xgboost,1.0449304580688477
+12420,"Austin–Round Rock–San Marcos, TX",3,6.901118365446936,B_logistic,4,B,logistic,-3.901118365446936
+17410,"Cleveland, OH",7,4.650815005047493,B_logistic,4,B,logistic,2.349184994952507
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,4.7158342816913805,B_logistic,4,B,logistic,-2.7158342816913805
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,11.698680890014984,B_logistic,4,B,logistic,3.301319109985016
+35620,"New York–Newark–Jersey City, NY–NJ",62,52.381571727182305,B_logistic,4,B,logistic,9.618428272817695
+41620,"Salt Lake City–Murray, UT",0,4.118723833301614,B_logistic,4,B,logistic,-4.118723833301614
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,4.290392652219881,B_logistic,4,B,logistic,-1.2903926522198814
+42660,"Seattle–Tacoma–Bellevue, WA",10,13.330077233801509,B_logistic,4,B,logistic,-3.330077233801509
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,1.8158470579778763,B_logistic,4,B,logistic,1.1841529420221237
+12420,"Austin–Round Rock–San Marcos, TX",3,4.689911365509033,B_xgboost,4,B,xgboost,-1.6899113655090332
+17410,"Cleveland, OH",7,4.009056091308594,B_xgboost,4,B,xgboost,2.9909439086914062
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,3.1443090438842773,B_xgboost,4,B,xgboost,-1.1443090438842773
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,8.119070053100586,B_xgboost,4,B,xgboost,6.880929946899414
+35620,"New York–Newark–Jersey City, NY–NJ",62,15.905660629272461,B_xgboost,4,B,xgboost,46.09433937072754
+41620,"Salt Lake City–Murray, UT",0,5.041873455047607,B_xgboost,4,B,xgboost,-5.041873455047607
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,5.545716762542725,B_xgboost,4,B,xgboost,-2.5457167625427246
+42660,"Seattle–Tacoma–Bellevue, WA",10,19.739139556884766,B_xgboost,4,B,xgboost,-9.739139556884766
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,2.937387704849243,B_xgboost,4,B,xgboost,0.06261229515075684
+12420,"Austin–Round Rock–San Marcos, TX",3,6.93988250424554,B_logistic_main,4,B,logistic,-3.9398825042455403
+17410,"Cleveland, OH",7,4.609302455813334,B_logistic_main,4,B,logistic,2.390697544186666
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,4.85435956181288,B_logistic_main,4,B,logistic,-2.8543595618128803
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,12.071963926193234,B_logistic_main,4,B,logistic,2.9280360738067657
+35620,"New York–Newark–Jersey City, NY–NJ",62,49.04673854537698,B_logistic_main,4,B,logistic,12.953261454623018
+41620,"Salt Lake City–Murray, UT",0,4.065158719836023,B_logistic_main,4,B,logistic,-4.065158719836023
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,4.482206631298318,B_logistic_main,4,B,logistic,-1.4822066312983182
+42660,"Seattle–Tacoma–Bellevue, WA",10,13.56000241520955,B_logistic_main,4,B,logistic,-3.5600024152095493
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,1.8030526495243877,B_logistic_main,4,B,logistic,1.1969473504756123
+12420,"Austin–Round Rock–San Marcos, TX",3,3.620445728302002,B_xgboost_main,4,B,xgboost,-0.620445728302002
+17410,"Cleveland, OH",7,4.305964469909668,B_xgboost_main,4,B,xgboost,2.694035530090332
+29820,"Las Vegas–Henderson–North Las Vegas, NV",2,2.8640291690826416,B_xgboost_main,4,B,xgboost,-0.8640291690826416
+33460,"Minneapolis–St. Paul–Bloomington, MN–WI",15,8.119455337524414,B_xgboost_main,4,B,xgboost,6.880544662475586
+35620,"New York–Newark–Jersey City, NY–NJ",62,14.233224868774414,B_xgboost_main,4,B,xgboost,47.766775131225586
+41620,"Salt Lake City–Murray, UT",0,5.348579406738281,B_xgboost_main,4,B,xgboost,-5.348579406738281
+41740,"San Diego–Chula Vista–Carlsbad, CA",3,6.947956085205078,B_xgboost_main,4,B,xgboost,-3.947956085205078
+42660,"Seattle–Tacoma–Bellevue, WA",10,14.945978164672852,B_xgboost_main,4,B,xgboost,-4.945978164672852
+47260,"Virginia Beach–Chesapeake–Norfolk, VA–NC",3,2.792550563812256,B_xgboost_main,4,B,xgboost,0.20744943618774414

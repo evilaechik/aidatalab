@@ -1,0 +1,28 @@
+Completed R1 outer fold 0
+Completed R1 outer fold 1
+Completed R1 outer fold 2
+Completed R1 outer fold 3
+Completed R1 outer fold 4
+Selection frozen: R1 / B_logistic; assessing Atlanta.
+feature_set           model  primary      mae      rmse  poisson_deviance
+         R0    A_employment     True 4.016369  5.960600          3.473458
+         R0    B_employment     True 4.016369  5.960600          3.473458
+         R0          A_mean     True 6.600406 10.470263          8.970485
+         R0          B_mean     True 6.600406 10.470263          8.970485
+         R0       A_poisson     True 4.560388  6.613078          3.812042
+         R0       A_xgboost     True 4.577679  8.741287          5.034175
+         R0      B_logistic     True 4.113176  5.285675          3.340795
+         R0       B_xgboost     True 4.761664  8.481076          4.726380
+         R0 B_logistic_main    False 4.183402  5.368124          3.282677
+         R0  B_xgboost_main    False 4.755219  8.624004          4.969785
+         R1    A_employment     True 4.016369  5.960600          3.473458
+         R1    B_employment     True 4.016369  5.960600          3.473458
+         R1          A_mean     True 6.600406 10.470263          8.970485
+         R1          B_mean     True 6.600406 10.470263          8.970485
+         R1       A_poisson     True 4.220067  6.051235          3.018052
+         R1       A_xgboost     True 4.205918  8.381158          4.489142
+         R1      B_logistic     True 3.564382  4.697025          2.461521
+         R1       B_xgboost     True 4.465035  8.219942          4.309118
+         R1 B_logistic_main    False 3.633920  4.839747          2.444202
+         R1  B_xgboost_main    False 4.443747  8.365430          4.525302
+Finished R1 in 54.0s.

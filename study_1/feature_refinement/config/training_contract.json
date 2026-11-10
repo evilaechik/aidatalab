@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "created": "2026-11-10",
+  "eligible_company_n": 498,
+  "roster_n": 500,
+  "target_scope": "Frozen 2025 publisher-selected HQ point; no office presence outcome",
+  "new_features": [
+    "cbp_management_employment_share_2023",
+    "bds_establishment_entry_rate_2023",
+    "bds_establishment_exit_rate_2023"
+  ],
+  "tracks": {
+    "A": {
+      "rows": 50,
+      "development_rows": 49,
+      "assessment_rows": 1,
+      "predictors": 34
+    },
+    "B": {
+      "rows": 24900,
+      "development_rows": 24402,
+      "assessment_rows": 498,
+      "predictors": 42,
+      "main_effect_predictors": 38
+    }
+  },
+  "reference": "R0 expanded_500 unchanged artifacts; verify hashes before reuse",
+  "selection_rule": "OOF count MAE, RMSE, R0 before R1 for remaining ties, then original model order; main-only diagnostic",
+  "geography_gate": "passed: official county membership and BDS geography-vintage documentation",
+  "office_models": false,
+  "weighted_score": false,
+  "bespoke_tech_health_outcomes": false
+}

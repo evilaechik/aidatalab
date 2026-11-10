@@ -1,0 +1,3087 @@
+{
+  "additional_hq_context": {
+    "rows": 1,
+    "primary_key": [
+      "company_id",
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "function",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reference_year",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "treatment",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "cohort_coverage_summary": {
+    "rows": 73,
+    "primary_key": [
+      "company_broad_industry",
+      "revenue_band",
+      "ownership_listing_type_2025"
+    ],
+    "columns": [
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "revenue_band",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "selected_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "population_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "excluded_n",
+        "dtype": "int64",
+        "null_n": 0
+      }
+    ]
+  },
+  "cohort_strata": {
+    "rows": 73,
+    "primary_key": [
+      "company_broad_industry",
+      "revenue_band",
+      "ownership_listing_type_2025"
+    ],
+    "columns": [
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "revenue_band",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "population_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "sample_n",
+        "dtype": "int64",
+        "null_n": 0
+      }
+    ]
+  },
+  "collection_source_registry": {
+    "rows": 5,
+    "primary_key": [],
+    "columns": [
+      {
+        "name": "source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "extraction_date",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "sha256",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "raw_bytes",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "raw_retained_in_expansion",
+        "dtype": "bool",
+        "null_n": 0
+      },
+      {
+        "name": "treatment",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "company_cohort_500": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "fortune_slug",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "fortune_2025_rank",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "fortune_2025_list_position",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "revenue_band",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_usd_millions",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_global_workforce_fortune",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "company_profit_usd_millions",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_assets_usd_millions",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_growth_percent",
+        "dtype": "float64",
+        "null_n": 7
+      },
+      {
+        "name": "financial_reference",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "stratum_population_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "stratum_sample_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "inclusion_probability",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "design_weight",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_company_id",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_reported_location",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_hq_cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_hq_msa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_hq_state_context",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "identity_match_method",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "geography_source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "geography_method",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_year",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "access_date",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_rank",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_revenue_usd_millions",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "financial_source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "observed_function",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "company_hq_feature_dictionary": {
+    "rows": 42,
+    "primary_key": [
+      "feature_name"
+    ],
+    "columns": [
+      {
+        "name": "feature_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "block",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "definition",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "unit",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reference_period",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_program",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "formula",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "missing_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "missing_policy",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "company_hq_features_2025": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_revenue",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_workforce",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_assets",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_profit_margin",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_growth_fraction",
+        "dtype": "float64",
+        "null_n": 7
+      }
+    ]
+  },
+  "company_identity_matches": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "identity_match_method",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ranking_rank",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_rank",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "rank_agrees",
+        "dtype": "bool",
+        "null_n": 0
+      },
+      {
+        "name": "revenue_agrees",
+        "dtype": "bool",
+        "null_n": 0
+      },
+      {
+        "name": "industry_agrees",
+        "dtype": "bool",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ranking_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "latitude",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "longitude",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa_match_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa_assignment_method",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "company_msa_hq_labels_2025": {
+    "rows": 25000,
+    "primary_key": [
+      "company_id",
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_presence",
+        "dtype": "float64",
+        "null_n": 100
+      },
+      {
+        "name": "label_status",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "economic_source_registry": {
+    "rows": 262,
+    "primary_key": [],
+    "columns": [
+      {
+        "name": "source_group",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "program",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reference_period",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "landing_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_vintage",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "access_date",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "original_payload_sha256",
+        "dtype": "object",
+        "null_n": 10
+      },
+      {
+        "name": "hash_scope",
+        "dtype": "object",
+        "null_n": 10
+      }
+    ]
+  },
+  "feature_dictionary": {
+    "rows": 31,
+    "primary_key": [
+      "feature_name"
+    ],
+    "columns": [
+      {
+        "name": "feature_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "block",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "definition",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "unit",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reference_period",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_program",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "formula",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "missing_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "missing_policy",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "firm_coverage_and_omissions": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_reported_location",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_hq_cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_hq_msa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "official_supplementary_source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_primary",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "coverage_status",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "hq_inside_frame",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "omission_reason",
+        "dtype": "object",
+        "null_n": 498
+      },
+      {
+        "name": "omission_supports_general_office_absence",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "selected_hq_absence_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "general_office_presence_status",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "other_msa_zero_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "known_additional_hq",
+        "dtype": "object",
+        "null_n": 499
+      },
+      {
+        "name": "policy_note",
+        "dtype": "object",
+        "null_n": 83
+      }
+    ]
+  },
+  "firm_source_checks": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "search_query",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "directory_or_listing_attempted",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_listing_found",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_listing_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "official_supplementary_source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "official_source_check_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "access_date",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "fixed_geography_employment_growth": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "q4_2023_private_jobs",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "q4_2024_private_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "missing_2023_counties",
+        "dtype": "object",
+        "null_n": 48
+      },
+      {
+        "name": "missing_2024_counties",
+        "dtype": "float64",
+        "null_n": 50
+      },
+      {
+        "name": "expected_counties",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "growth",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "method",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_economic_inputs_2024": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "comparison_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "priority_peer",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "boundary_vintage",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "economic_reference_year",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "qcew_geography",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "qcew_ownership",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_2024",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_establishments_2024",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_average_pay_2024",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_nominal_gdp_2024_thousand_usd",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "employment_growth_status",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "msa_population_2024",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "acs_population_2024",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "acs_population_moe90_2024",
+        "dtype": "float64",
+        "null_n": 35
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_conservative_moe90_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "median_household_income_2024_usd",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "median_household_income_moe90_2024_usd",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "median_gross_rent_2024_usd_month",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "median_gross_rent_moe90_2024_usd_month",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "rpp_native_geography_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "rpp_geography_status",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_features_2024": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_hq_targets_2025": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_count_2025",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "sampled_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "excluded_unknown_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_share_2025",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_lower_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_upper_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "unreviewed_publisher_count_500",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "known_additional_hq_sensitivity_count",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "target_scope",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_occupation_inputs_2024": {
+    "rows": 350,
+    "primary_key": [
+      "cbsa",
+      "soc"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "soc",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "OCC_TITLE",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "occupation_employment",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "occupation_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "occupation_annual_mean_wage_usd",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "occupation_annual_median_wage_usd",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "occupation_mean_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "national_occupation_annual_mean_wage_usd",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "employment_relative_standard_error_percent",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "mean_wage_relative_standard_error_percent",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "TOT_EMP",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "JOBS_1000",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "A_MEAN",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "A_MEDIAN",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reference_period",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "access_date",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_sector_hq_counts_2025": {
+    "rows": 1050,
+    "primary_key": [
+      "cbsa",
+      "company_broad_industry"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_count_2025",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_sector_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      }
+    ]
+  },
+  "metro_sector_inputs": {
+    "rows": 350,
+    "primary_key": [
+      "cbsa",
+      "industry_proxy"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "industry_proxy",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "qcew_private_sector_employment_2024",
+        "dtype": "float64",
+        "null_n": 112
+      },
+      {
+        "name": "qcew_private_sector_share_2024",
+        "dtype": "float64",
+        "null_n": 112
+      },
+      {
+        "name": "qcew_disclosure_code",
+        "dtype": "object",
+        "null_n": 238
+      },
+      {
+        "name": "qcew_published_lq",
+        "dtype": "float64",
+        "null_n": 112
+      },
+      {
+        "name": "cbp_sector_employment_2023",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_total_employment_2023",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_sector_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_employment_flag",
+        "dtype": "float64",
+        "null_n": 350
+      },
+      {
+        "name": "cbp_native_geography_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_geography_compatible",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "interpretation",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "msa_split_assignments": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "float64",
+        "null_n": 1
+      }
+    ]
+  },
+  "sec_identity_candidates": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "publisher_map_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cik",
+        "dtype": "float64",
+        "null_n": 24
+      },
+      {
+        "name": "sec_name",
+        "dtype": "object",
+        "null_n": 114
+      },
+      {
+        "name": "match_method",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "official_directory_searched",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "directory_source_url",
+        "dtype": "object",
+        "null_n": 0
+      }
+    ]
+  },
+  "sec_source_checks": {
+    "rows": 500,
+    "primary_key": [
+      "company_id"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cik",
+        "dtype": "float64",
+        "null_n": 24
+      },
+      {
+        "name": "sec_current_name",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "status",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "source_url",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "access_date",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "raw_sha256",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "business_city",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "business_state_or_country",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "business_state_or_country_description",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "foreign_business_address_flag",
+        "dtype": "object",
+        "null_n": 24
+      },
+      {
+        "name": "annual_2025_url",
+        "dtype": "object",
+        "null_n": 35
+      },
+      {
+        "name": "annual_2025_filing_date",
+        "dtype": "object",
+        "null_n": 35
+      },
+      {
+        "name": "interpretation",
+        "dtype": "object",
+        "null_n": 24
+      }
+    ]
+  },
+  "training_aggregate_2025": {
+    "rows": 50,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_count_2025",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "sampled_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "excluded_unknown_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_share_2025",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_lower_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_upper_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "unreviewed_publisher_count_500",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "known_additional_hq_sensitivity_count",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "target_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "float64",
+        "null_n": 1
+      }
+    ]
+  },
+  "training_atlanta_2025": {
+    "rows": 1,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_count_2025",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "sampled_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "excluded_unknown_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_share_2025",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_lower_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_upper_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "unreviewed_publisher_count_500",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "known_additional_hq_sensitivity_count",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "target_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "float64",
+        "null_n": 1
+      }
+    ]
+  },
+  "training_company_hq_atlanta_2025": {
+    "rows": 498,
+    "primary_key": [
+      "company_id",
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_presence",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_revenue",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_workforce",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_assets",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_profit_margin",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_growth_fraction",
+        "dtype": "float64",
+        "null_n": 7
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "tech_x_computer_math_intensity",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "financials_x_finance_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "health_care_x_health_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "industrial_x_manufacturing_share",
+        "dtype": "float64",
+        "null_n": 0
+      }
+    ]
+  },
+  "training_company_hq_development_2025": {
+    "rows": 24402,
+    "primary_key": [
+      "company_id",
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_presence",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_revenue",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_workforce",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_assets",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_profit_margin",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_growth_fraction",
+        "dtype": "float64",
+        "null_n": 343
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 996
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "tech_x_computer_math_intensity",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "financials_x_finance_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "health_care_x_health_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "industrial_x_manufacturing_share",
+        "dtype": "float64",
+        "null_n": 0
+      }
+    ]
+  },
+  "training_company_metro_hq_2025": {
+    "rows": 24900,
+    "primary_key": [
+      "company_id",
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "company_id",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_presence",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "company",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "company_broad_industry",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "ownership_listing_type_2025",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_revenue",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_workforce",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_company_assets",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_profit_margin",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "company_revenue_growth_fraction",
+        "dtype": "float64",
+        "null_n": 350
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 996
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "float64",
+        "null_n": 498
+      },
+      {
+        "name": "tech_x_computer_math_intensity",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "financials_x_finance_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "health_care_x_health_share",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "industrial_x_manufacturing_share",
+        "dtype": "float64",
+        "null_n": 0
+      }
+    ]
+  },
+  "training_development_2025": {
+    "rows": 49,
+    "primary_key": [
+      "cbsa"
+    ],
+    "columns": [
+      {
+        "name": "cbsa",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "metro_name",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_employment",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_population",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_gdp",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "msa_private_employment_growth_q4_2023_2024",
+        "dtype": "float64",
+        "null_n": 2
+      },
+      {
+        "name": "msa_population_growth_2023_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "bachelors_plus_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_household_income",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_median_gross_rent",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "transit_commute_share_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "regional_price_parity_2024",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "log_msa_private_average_pay",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "private_establishments_per_1000_jobs",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_manufacturing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_retail_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_transport_warehousing_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_information_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_finance_insurance_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_professional_technical_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "cbp_health_social_share_2023",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_management_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_management_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_business_financial_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_computer_math_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_architecture_engineering_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_legal_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 1
+      },
+      {
+        "name": "soc_office_admin_jobs_per_1000",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "soc_office_admin_wage_us_relative",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_count_2025",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "eligible_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "sampled_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "excluded_unknown_company_n",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "reported_hq_share_2025",
+        "dtype": "float64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_lower_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "selected500_count_upper_bound",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "unreviewed_publisher_count_500",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "known_additional_hq_sensitivity_count",
+        "dtype": "int64",
+        "null_n": 0
+      },
+      {
+        "name": "target_scope",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "split_role",
+        "dtype": "object",
+        "null_n": 0
+      },
+      {
+        "name": "validation_fold",
+        "dtype": "int64",
+        "null_n": 0
+      }
+    ]
+  }
+}

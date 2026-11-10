@@ -1,0 +1,158 @@
+{
+  "frozen_at_utc": "2026-11-09T20:10:14.089225+00:00",
+  "selected_model": "A_employment",
+  "ranking": [
+    "A_employment",
+    "B_employment",
+    "B_logistic",
+    "A_poisson",
+    "A_xgboost",
+    "B_xgboost",
+    "A_mean",
+    "B_mean"
+  ],
+  "rule": "Minimum primary out-of-fold count MAE, then RMSE, then declared model order. Mean-count baseline is eligible. Main-effects ablations are diagnostic only.",
+  "final_params": {
+    "A_poisson": {
+      "alpha": 10.0
+    },
+    "A_xgboost": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "B_logistic": {
+      "C": 0.01
+    },
+    "B_xgboost": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "B_logistic_main": {
+      "C": 0.01
+    },
+    "B_xgboost_main": {
+      "max_depth": 1,
+      "n_estimators": 250
+    }
+  },
+  "outer_params": {
+    "outer_0_A_poisson": {
+      "alpha": 10.0
+    },
+    "outer_0_A_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_0_B_logistic": {
+      "C": 0.01
+    },
+    "outer_0_B_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 100
+    },
+    "outer_0_B_logistic_main": {
+      "C": 0.01
+    },
+    "outer_0_B_xgboost_main": {
+      "max_depth": 2,
+      "n_estimators": 100
+    },
+    "outer_1_A_poisson": {
+      "alpha": 1.0
+    },
+    "outer_1_A_xgboost": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "outer_1_B_logistic": {
+      "C": 0.1
+    },
+    "outer_1_B_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_1_B_logistic_main": {
+      "C": 0.1
+    },
+    "outer_1_B_xgboost_main": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "outer_2_A_poisson": {
+      "alpha": 1.0
+    },
+    "outer_2_A_xgboost": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "outer_2_B_logistic": {
+      "C": 0.01
+    },
+    "outer_2_B_xgboost": {
+      "max_depth": 1,
+      "n_estimators": 250
+    },
+    "outer_2_B_logistic_main": {
+      "C": 0.01
+    },
+    "outer_2_B_xgboost_main": {
+      "max_depth": 1,
+      "n_estimators": 100
+    },
+    "outer_3_A_poisson": {
+      "alpha": 10.0
+    },
+    "outer_3_A_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_3_B_logistic": {
+      "C": 0.01
+    },
+    "outer_3_B_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_3_B_logistic_main": {
+      "C": 0.01
+    },
+    "outer_3_B_xgboost_main": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_4_A_poisson": {
+      "alpha": 10.0
+    },
+    "outer_4_A_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 250
+    },
+    "outer_4_B_logistic": {
+      "C": 0.01
+    },
+    "outer_4_B_xgboost": {
+      "max_depth": 2,
+      "n_estimators": 100
+    },
+    "outer_4_B_logistic_main": {
+      "C": 0.01
+    },
+    "outer_4_B_xgboost_main": {
+      "max_depth": 2,
+      "n_estimators": 100
+    }
+  },
+  "input_sha256": {
+    "config/training_plan.json": "4c176bb51ecb437ea76fe449860a1450bfdcae0165c3569f0add814d1d325386",
+    "config/training_contract.json": "eaff22d32ef2fa027eac2c5e8df5ace2371915e6cbea12b1fbb7e060c4c42bc6",
+    "config/feature_spec.json": "4b1f40d98ce83cc765e35bb7d278bfd551403fc0b7a57a38d11892d5b574434d",
+    "config/company_hq_feature_spec.json": "0daf54ba9bc330b686264644fa1953a652e370bf4b3709f3e1816dbee516a258",
+    "tables/training_development_2025.csv": "c21defe6c81544da651f9a6d0d3730d472d02ad7533f5e752aa6c8b8a2047797",
+    "tables/training_company_hq_development_2025.csv": "1fc98f7729e90ce61c70d6ed3b51e26323884a9be00e0df81dbe7c0f239e7e09",
+    "../scripts/train_expanded_500.py": "e30889ac96db4c5c3bbfd667228e69624598e145c474d1d2fd37ab0734cdb3b1",
+    "../scripts/train_hq_2025.py": "218e142172fb57dee45815a13c4ba77c9e37117521aca65ee81e21e7bcecc915",
+    "../scripts/build_expanded_500.py": "f81ad9eb04fdccd63a8a9ad2e914d33bdf63dd72b55becf14df740ac705ca470",
+    "../requirements-training.txt": "3136ddad88a3452fd69fa2ab56013fa2d929da78c238f0a6663f013566f402ae"
+  },
+  "atlanta_loaded_for_model_assessment": false
+}

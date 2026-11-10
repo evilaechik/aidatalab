@@ -1,0 +1,13 @@
+{
+  "collection_date": "2026-11-09",
+  "models_trained": false,
+  "sec_metadata_responses": 476,
+  "new_company_metadata_routes": 385,
+  "new_company_site_routes": 15,
+  "code_sha256": {
+    "study_1/scripts/collect_expanded_500.py": "ed7386968de2997f2507d825212c0e8d57696d9d9ee2d9b4d73ecb16983a05dc",
+    "study_1/scripts/build_expanded_500.py": "f81ad9eb04fdccd63a8a9ad2e914d33bdf63dd72b55becf14df740ac705ca470",
+    "study_1/scripts/company_hq_extension.py": "4dbf86dc9ad6971ee59eb394a21e0df1bf0d51e064ac5b5e60c65c4b79e23c89",
+    "study_1/requirements-collection.txt": "74a9d71b2afd35ab4b7f3796b539840b048a398f4e1d3158fb994c61221d46de"
+  }
+}

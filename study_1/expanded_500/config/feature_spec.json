@@ -1,0 +1,144 @@
+{
+  "protocol_version": 2,
+  "target": "reported_hq_count_2025",
+  "target_year": 2025,
+  "training_ready": true,
+  "model_grain": "One row per MSA; same 50 economic profiles regardless of company-row count",
+  "common_covered_company_n": 498,
+  "sampled_company_n": 500,
+  "primary_predictors": [
+    "log_msa_private_employment",
+    "log_msa_population",
+    "log_msa_gdp",
+    "msa_private_employment_growth_q4_2023_2024",
+    "msa_population_growth_2023_2024",
+    "bachelors_plus_share_2024",
+    "log_median_household_income",
+    "log_median_gross_rent",
+    "transit_commute_share_2024",
+    "regional_price_parity_2024",
+    "log_msa_private_average_pay",
+    "private_establishments_per_1000_jobs",
+    "cbp_manufacturing_share_2023",
+    "cbp_retail_share_2023",
+    "cbp_transport_warehousing_share_2023",
+    "cbp_information_share_2023",
+    "cbp_finance_insurance_share_2023",
+    "cbp_professional_technical_share_2023",
+    "cbp_health_social_share_2023",
+    "soc_management_jobs_per_1000",
+    "soc_management_wage_us_relative",
+    "soc_business_financial_jobs_per_1000",
+    "soc_business_financial_wage_us_relative",
+    "soc_computer_math_jobs_per_1000",
+    "soc_computer_math_wage_us_relative",
+    "soc_architecture_engineering_jobs_per_1000",
+    "soc_architecture_engineering_wage_us_relative",
+    "soc_legal_jobs_per_1000",
+    "soc_legal_wage_us_relative",
+    "soc_office_admin_jobs_per_1000",
+    "soc_office_admin_wage_us_relative"
+  ],
+  "all_predictors_numeric": true,
+  "feature_blocks": {
+    "scale": [
+      "log_msa_private_employment",
+      "log_msa_population",
+      "log_msa_gdp"
+    ],
+    "growth": [
+      "msa_private_employment_growth_q4_2023_2024",
+      "msa_population_growth_2023_2024"
+    ],
+    "skills": [
+      "bachelors_plus_share_2024"
+    ],
+    "cost_and_income": [
+      "log_median_household_income",
+      "log_median_gross_rent",
+      "regional_price_parity_2024",
+      "log_msa_private_average_pay"
+    ],
+    "transport": [
+      "transit_commute_share_2024"
+    ],
+    "business_structure": [
+      "private_establishments_per_1000_jobs"
+    ],
+    "industry_mix": [
+      "cbp_manufacturing_share_2023",
+      "cbp_retail_share_2023",
+      "cbp_transport_warehousing_share_2023",
+      "cbp_information_share_2023",
+      "cbp_finance_insurance_share_2023",
+      "cbp_professional_technical_share_2023",
+      "cbp_health_social_share_2023"
+    ],
+    "occupation_mix": [
+      "soc_management_jobs_per_1000",
+      "soc_business_financial_jobs_per_1000",
+      "soc_computer_math_jobs_per_1000",
+      "soc_architecture_engineering_jobs_per_1000",
+      "soc_legal_jobs_per_1000",
+      "soc_office_admin_jobs_per_1000"
+    ],
+    "occupation_pay": [
+      "soc_management_wage_us_relative",
+      "soc_business_financial_wage_us_relative",
+      "soc_computer_math_wage_us_relative",
+      "soc_architecture_engineering_wage_us_relative",
+      "soc_legal_wage_us_relative",
+      "soc_office_admin_wage_us_relative"
+    ]
+  },
+  "baseline": {
+    "method": "Employment-proportional count baseline; estimate count/private-job rate using each training fold only",
+    "exposure": "msa_private_employment_2024 in metro_economic_inputs_2024; exp(log_msa_private_employment) in training file",
+    "secondary": "Training-fold intercept-only mean count"
+  },
+  "regularized_regression": {
+    "primary": "Penalized Poisson regression using the broad predictor allowlist",
+    "alternative": "Ridge on log1p(count), with explicitly checked retransformation and nonnegative predictions",
+    "processing": "Training-fold median imputation and missing flags, training-fold standardization; alpha chosen inside development CV"
+  },
+  "conservative_xgboost": {
+    "objective": "count:poisson",
+    "features": "Same primary predictor allowlist",
+    "starting_search": "max_depth 1 or 2; strong L1/L2 penalties; learning_rate 0.02-0.05; capped tree counts tuned only inside development; avoid broad search on 49 metros",
+    "missing": "Native missing handling or identical fold-fitted preprocessing; never replace missing outcomes"
+  },
+  "grouping_only": [
+    "cbsa"
+  ],
+  "prohibited_predictors": [
+    "cbsa",
+    "metro_name",
+    "reported_hq_count_2025",
+    "eligible_company_n",
+    "sampled_company_n",
+    "excluded_unknown_company_n",
+    "reported_hq_share_2025",
+    "selected500_count_lower_bound",
+    "selected500_count_upper_bound",
+    "unreviewed_publisher_count_500",
+    "known_additional_hq_sensitivity_count",
+    "target_scope",
+    "split_role",
+    "validation_fold"
+  ],
+  "validation": {
+    "atlanta": "CBSA12060 is reserved for final assessment after model and tuning rules are frozen; labels physically provided but never use for fitting or selection",
+    "development": "5 deterministic whole-MSA folds; use nested tuning or a small predeclared grid, compare identical outer held-out MSAs",
+    "processing": "All data-dependent preprocessing fitted on the training fold only",
+    "metrics": [
+      "MAE of counts",
+      "RMSE of counts",
+      "Poisson deviance with strictly positive expected counts"
+    ],
+    "weighting": "One MSA one evaluation unit; no forced fit to frame total; no pseudo-replication of company-MSA rows"
+  },
+  "inference_scope": "Covered 498-firm Fortune 500 2025 roster in fixed50 frame; retrospective reported-HQ benchmark, not all offices or causal effects",
+  "known_missing": "Two CT employment-growth cells, one Sacramento management-intensity cell, and one legal relative-wage cell; retained as nulls",
+  "sector_counts": "Target-derived descriptive output only",
+  "design_weights": "Attempted census: all 500 companies included in roster; unit design weights; coverage exclusions remain explicit"
+}

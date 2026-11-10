@@ -1,0 +1,74 @@
+company_broad_industry,revenue_band,ownership_listing_type_2025,selected_n,eligible_n,population_n,excluded_n
+Aerospace & Defense,lower_335_500,public_at_publisher_valuation,3,3,3,0
+Aerospace & Defense,middle_168_334,public_at_publisher_valuation,2,2,2,0
+Aerospace & Defense,upper_1_167,public_at_publisher_valuation,6,6,6,0
+Apparel,lower_335_500,public_at_publisher_valuation,3,3,3,0
+Apparel,upper_1_167,public_at_publisher_valuation,1,1,1,0
+Business Services,lower_335_500,public_at_publisher_valuation,5,5,5,0
+Business Services,middle_168_334,public_at_publisher_valuation,10,10,10,0
+Business Services,upper_1_167,public_at_publisher_valuation,3,3,3,0
+Chemicals,lower_335_500,public_at_publisher_valuation,7,7,7,0
+Chemicals,middle_168_334,public_at_publisher_valuation,4,4,4,0
+Chemicals,upper_1_167,public_at_publisher_valuation,1,1,1,0
+Energy,lower_335_500,public_at_publisher_valuation,16,16,16,0
+Energy,middle_168_334,public_at_publisher_valuation,23,23,23,0
+Energy,upper_1_167,public_at_publisher_valuation,18,18,18,0
+Engineering & Construction,lower_335_500,public_at_publisher_valuation,4,4,4,0
+Engineering & Construction,middle_168_334,public_at_publisher_valuation,5,5,5,0
+Engineering & Construction,middle_168_334,unknown_private_or_other,1,1,1,0
+Engineering & Construction,upper_1_167,public_at_publisher_valuation,2,2,2,0
+Financials,lower_335_500,mutual,1,1,1,0
+Financials,lower_335_500,public_at_publisher_valuation,21,21,21,0
+Financials,lower_335_500,unknown_private_or_other,2,2,2,0
+Financials,middle_168_334,mutual,6,6,6,0
+Financials,middle_168_334,public_at_publisher_valuation,25,25,25,0
+Financials,middle_168_334,unknown_private_or_other,3,3,3,0
+Financials,upper_1_167,mutual,6,6,6,0
+Financials,upper_1_167,public_at_publisher_valuation,26,26,26,0
+Financials,upper_1_167,unknown_private_or_other,3,3,3,0
+Food & Drug Stores,lower_335_500,public_at_publisher_valuation,1,1,1,0
+Food & Drug Stores,upper_1_167,public_at_publisher_valuation,3,3,3,0
+Food & Drug Stores,upper_1_167,unknown_private_or_other,1,1,1,0
+"Food, Beverages & Tobacco",lower_335_500,public_at_publisher_valuation,12,12,12,0
+"Food, Beverages & Tobacco",middle_168_334,public_at_publisher_valuation,5,5,5,0
+"Food, Beverages & Tobacco",middle_168_334,unknown_private_or_other,1,1,1,0
+"Food, Beverages & Tobacco",upper_1_167,public_at_publisher_valuation,7,7,7,0
+"Food, Beverages & Tobacco",upper_1_167,unknown_private_or_other,1,1,1,0
+Health Care,lower_335_500,public_at_publisher_valuation,11,11,11,0
+Health Care,middle_168_334,public_at_publisher_valuation,14,14,14,0
+Health Care,upper_1_167,public_at_publisher_valuation,20,20,20,0
+"Hotels, Restaurants & Leisure",lower_335_500,public_at_publisher_valuation,7,7,7,0
+"Hotels, Restaurants & Leisure",middle_168_334,public_at_publisher_valuation,2,2,2,0
+"Hotels, Restaurants & Leisure",upper_1_167,public_at_publisher_valuation,2,2,2,0
+Household Products,lower_335_500,public_at_publisher_valuation,3,3,3,0
+Household Products,middle_168_334,public_at_publisher_valuation,4,4,4,0
+Household Products,upper_1_167,public_at_publisher_valuation,1,1,1,0
+Industrials,lower_335_500,public_at_publisher_valuation,7,7,7,0
+Industrials,middle_168_334,public_at_publisher_valuation,8,8,8,0
+Industrials,upper_1_167,public_at_publisher_valuation,4,4,4,0
+Materials,lower_335_500,public_at_publisher_valuation,10,10,10,0
+Materials,middle_168_334,public_at_publisher_valuation,6,6,6,0
+Materials,upper_1_167,public_at_publisher_valuation,1,1,1,0
+Media,lower_335_500,public_at_publisher_valuation,3,3,3,0
+Media,lower_335_500,unknown_private_or_other,1,1,1,0
+Media,middle_168_334,public_at_publisher_valuation,2,2,2,0
+Media,upper_1_167,public_at_publisher_valuation,4,4,4,0
+Motor Vehicles & Parts,lower_335_500,public_at_publisher_valuation,3,2,3,1
+Motor Vehicles & Parts,middle_168_334,public_at_publisher_valuation,3,3,3,0
+Motor Vehicles & Parts,upper_1_167,public_at_publisher_valuation,4,4,4,0
+Retailing,lower_335_500,public_at_publisher_valuation,13,12,13,1
+Retailing,middle_168_334,public_at_publisher_valuation,17,17,17,0
+Retailing,upper_1_167,public_at_publisher_valuation,15,15,15,0
+Technology,lower_335_500,public_at_publisher_valuation,17,17,17,0
+Technology,middle_168_334,public_at_publisher_valuation,15,15,15,0
+Technology,upper_1_167,public_at_publisher_valuation,20,20,20,0
+Telecommunications,lower_335_500,public_at_publisher_valuation,1,1,1,0
+Telecommunications,middle_168_334,public_at_publisher_valuation,2,2,2,0
+Telecommunications,upper_1_167,public_at_publisher_valuation,4,4,4,0
+Transportation,lower_335_500,public_at_publisher_valuation,7,7,7,0
+Transportation,middle_168_334,public_at_publisher_valuation,4,4,4,0
+Transportation,upper_1_167,public_at_publisher_valuation,6,6,6,0
+Wholesalers,lower_335_500,public_at_publisher_valuation,6,6,6,0
+Wholesalers,lower_335_500,unknown_private_or_other,2,2,2,0
+Wholesalers,middle_168_334,public_at_publisher_valuation,5,5,5,0
+Wholesalers,upper_1_167,public_at_publisher_valuation,8,8,8,0

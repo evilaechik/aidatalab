@@ -1,0 +1,4 @@
+feature_name,metric_id,sector_code,reference_period,unit,transform,scope
+cbp_management_employment_share_2023,cbp_employment_share,55,2023,fraction,Identity; preserve fraction/percent units; fold-fitted scaling for regression,Whole-metro published industry/economy measure; not allocated to named firms
+bds_establishment_entry_rate_2023,bds_estabs_entry_rate,00,2023,percent,Identity; preserve fraction/percent units; fold-fitted scaling for regression,Whole-metro published industry/economy measure; not allocated to named firms
+bds_establishment_exit_rate_2023,bds_estabs_exit_rate,00,2023,percent,Identity; preserve fraction/percent units; fold-fitted scaling for regression,Whole-metro published industry/economy measure; not allocated to named firms

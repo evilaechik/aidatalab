@@ -1,0 +1,28 @@
+{
+  "protocol_version": 3,
+  "target_year": 2025,
+  "collection_date": "2026-11-09",
+  "company_population": "Fixed Fortune 500 2025 edition",
+  "selection": "Attempted census of all 500 stable list-position identities; no outcome-based selection",
+  "cohort_n": 500,
+  "final_covered_company_n": 498,
+  "final_coverage_exclusions_n": 2,
+  "exclusion_ids": [
+    "f2025_401",
+    "f2025_407"
+  ],
+  "metro_n": 50,
+  "geography": "July 2023 CBSA membership; 500k cartographic polygons, full TIGER fallback for one waterfront point",
+  "raw_retention": "No new raw payloads retained in expansion; source URLs, hashes, compact normalized fields and ledgers only",
+  "primary_predictors_unchanged": true,
+  "original_study_preserved": true,
+  "model_training_performed": false,
+  "financial_reference": "2025 edition primarily FY2024; archived public ranking response reused",
+  "temporal_scope": "Retrospective: economic vintages and source revisions unchanged; current SEC metadata is supplemental only",
+  "schema_changes": {
+    "company_cohort_100.csv": "company_cohort_500.csv",
+    "selected100_count_lower_bound": "selected500_count_lower_bound",
+    "selected100_count_upper_bound": "selected500_count_upper_bound",
+    "unreviewed_publisher_count_100": "unreviewed_publisher_count_500"
+  }
+}
