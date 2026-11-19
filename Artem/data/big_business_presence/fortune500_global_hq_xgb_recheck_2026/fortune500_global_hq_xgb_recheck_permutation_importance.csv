@@ -1,0 +1,15 @@
+feature,held_out_mae_increase,permutation_std,folds,permutations,interpretation
+log_qcew_employment,1.5946363671620687,0.6610506682055076,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+avg_weekly_wage,0.2908854301770528,0.27608993698316353,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_finance,0.05498011906941732,0.0988928355309544,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_hospitality,0.03827979882558187,0.08276255476006174,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+fhfa_hpi_yoy_growth,0.009165600140889485,0.019580789882921456,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_health,0.008602364857991537,0.06791773227769121,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_information,0.003597434361775716,0.025931355959704777,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+employment_share_in_gross_receipts_tax_states,-0.0027664518356323243,0.005122385833756019,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+regional_price_parity,-0.005286196072896322,0.029108288373422435,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+qcew_employment_growth,-0.007277218500773112,0.043088298989455244,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_professional,-0.011882607142130535,0.019455563215011427,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+employment_weighted_corporate_tax_rate,-0.014534192085266113,0.026319256717503927,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+share_manufacturing,-0.02878982384999593,0.08457529122837802,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.
+establishments_per_100_jobs,-0.03352789878845215,0.12506965714522844,5,150,Held-out association with the supplied Fortune location outcome; not causal. Fortune 2025 listed global headquarters count by MSA; not regional HQs.

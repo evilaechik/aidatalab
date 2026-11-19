@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Evaluate a regularized XGBoost model of public Fortune 500 global-HQ counts.
+"""Evaluate a regularized XGBoost model of a supplied Fortune location outcome.
 
-This is the project's defensible first corporate-location model.  The outcome
-is Fortune's listed *global* headquarters count by MSA, so every top-100 MSA
-has a true zero or a count—not an unobserved office footprint.  It deliberately
-does not label offices or branches as regional HQs.  Those require separate
-company-source verification before they can augment this outcome.
+The default target is Fortune's listed *global* headquarters count by MSA,
+which has a complete zero-or-count universe.  A caller may instead supply a
+clearly named sensitivity outcome, such as documented regional/divisional HQ
+evidence.  The outcome definition travels into every result file so an
+incomplete regional component cannot be misrepresented as a full office census.
 """
 
 from __future__ import annotations
@@ -24,7 +24,6 @@ from xgboost import XGBRegressor
 
 SCRIPT = Path(__file__).resolve()
 ARTEM = SCRIPT.parents[1]
-REPO_ROOT = ARTEM.parent
 DEFAULT_OUTCOME = ARTEM / "data" / "big_business_presence" / "fortune500_global_hq_msa_outcome_2025.csv"
 DEFAULT_ROSTER = ARTEM / "data" / "business_entry_models" / "top100_xgboost" / "top_100_msa_roster.csv"
 DEFAULT_FACTORS = ARTEM / "data" / "business_entry_models" / "external_qcew_factors" / "external_factor_model_panel.csv"
@@ -52,21 +51,19 @@ def msa_code(value: object) -> str:
     return str(value).replace(".0", "").zfill(5)
 
 
-def external_output(path: Path) -> Path:
-    """Keep model outputs outside the repository so data artifacts stay deliberate."""
+def prepare_output(path: Path) -> Path:
+    """Create the requested output directory, including a repository data folder."""
     resolved = path.expanduser().resolve()
-    try:
-        resolved.relative_to(REPO_ROOT)
-    except ValueError:
-        resolved.mkdir(parents=True, exist_ok=True)
-        return resolved
-    raise ValueError("Use an output directory outside the repository.")
+    resolved.mkdir(parents=True, exist_ok=True)
+    return resolved
 
 
-def load_panel(outcome_path: Path, roster_path: Path, factors_path: Path, year: int) -> pd.DataFrame:
+def load_panel(
+    outcome_path: Path, roster_path: Path, factors_path: Path, year: int, target_column: str, features: list[str]
+) -> pd.DataFrame:
     outcome = pd.read_csv(outcome_path, dtype={"msa_cbsa": str})
-    if "fortune500_global_hq_count" not in outcome.columns:
-        raise ValueError("Outcome file must include fortune500_global_hq_count.")
+    if target_column not in outcome.columns:
+        raise ValueError(f"Outcome file must include {target_column!r}.")
     outcome["msa"] = outcome["msa_cbsa"].map(msa_code)
     if outcome["msa"].duplicated().any():
         raise ValueError("HQ outcome has duplicate MSAs.")
@@ -81,28 +78,27 @@ def load_panel(outcome_path: Path, roster_path: Path, factors_path: Path, year: 
     factors = factors[pd.to_numeric(factors["year"], errors="coerce").eq(year)].copy()
     if factors["msa"].duplicated().any():
         raise ValueError(f"Factor data has duplicate MSA rows for {year}.")
-    missing_features = set(FEATURES) - set(factors.columns)
+    missing_features = set(features) - set(factors.columns)
     if missing_features:
         raise ValueError(f"Factor data missing features: {sorted(missing_features)}")
 
     panel = roster.merge(
-        outcome[["msa", "fortune500_global_hq_count"]], on="msa", how="left", validate="one_to_one"
+        outcome[["msa", target_column]], on="msa", how="left", validate="one_to_one"
     ).merge(
-        factors[["msa", *FEATURES]], on="msa", how="left", validate="one_to_one"
+        factors[["msa", *features]], on="msa", how="left", validate="one_to_one"
     )
-    panel["fortune500_global_hq_count"] = pd.to_numeric(panel["fortune500_global_hq_count"], errors="coerce")
-    if panel["fortune500_global_hq_count"].isna().any():
-        raise ValueError("A roster MSA lacks a global-HQ count; this should be a complete zero-or-count outcome.")
-    panel["factor_row_available"] = panel[FEATURES].notna().any(axis=1)
-    panel["included_in_model"] = panel["factor_row_available"]
+    panel[target_column] = pd.to_numeric(panel[target_column], errors="coerce")
+    panel["outcome_row_available"] = panel[target_column].notna()
+    panel["factor_row_available"] = panel[features].notna().any(axis=1)
+    panel["included_in_model"] = panel["factor_row_available"] & panel["outcome_row_available"]
     return panel
 
 
-def fixed_model() -> XGBRegressor:
-    """A shallow, strongly regularized count model suitable for <100 MSAs."""
+def fixed_model(objective: str) -> XGBRegressor:
+    """A shallow, strongly regularized model suitable for fewer than 100 MSAs."""
     return XGBRegressor(
-        objective="count:poisson",
-        eval_metric="poisson-nloglik",
+        objective=objective,
+        eval_metric="poisson-nloglik" if objective == "count:poisson" else "rmse",
         n_estimators=180,
         max_depth=2,
         min_child_weight=6,
@@ -130,10 +126,10 @@ def trial_params(trial) -> dict[str, float | int]:
     }
 
 
-def poisson_model(params: dict[str, float | int]) -> XGBRegressor:
+def model_with_params(params: dict[str, float | int], objective: str) -> XGBRegressor:
     return XGBRegressor(
-        objective="count:poisson",
-        eval_metric="poisson-nloglik",
+        objective=objective,
+        eval_metric="poisson-nloglik" if objective == "count:poisson" else "rmse",
         max_delta_step=1.0,
         random_state=SEED,
         n_jobs=1,
@@ -141,18 +137,39 @@ def poisson_model(params: dict[str, float | int]) -> XGBRegressor:
     )
 
 
-def fit_predict(train: pd.DataFrame, test: pd.DataFrame, model: XGBRegressor) -> tuple[np.ndarray, np.ndarray]:
+def fit_predict(
+    train: pd.DataFrame,
+    test: pd.DataFrame,
+    target_column: str,
+    features: list[str],
+    target_transform: str,
+    model: XGBRegressor,
+) -> tuple[np.ndarray, np.ndarray]:
     imputer = SimpleImputer(strategy="median", keep_empty_features=True)
-    x_train = imputer.fit_transform(train[FEATURES])
-    x_test = imputer.transform(test[FEATURES])
-    model.fit(x_train, train["fortune500_global_hq_count"].to_numpy())
-    return np.maximum(model.predict(x_test), 0), x_test
+    x_train = imputer.fit_transform(train[features])
+    x_test = imputer.transform(test[features])
+    y_train = train[target_column].to_numpy()
+    if target_transform == "log1p":
+        y_train = np.log1p(y_train)
+    model.fit(x_train, y_train)
+    prediction = model.predict(x_test)
+    if target_transform == "log1p":
+        prediction = np.expm1(prediction)
+    return np.maximum(prediction, 0), x_test
 
 
-def tune_outer_fold(train: pd.DataFrame, fold: int, trials: int) -> tuple[dict[str, float | int], pd.DataFrame]:
+def tune_outer_fold(
+    train: pd.DataFrame,
+    target_column: str,
+    features: list[str],
+    objective_name: str,
+    target_transform: str,
+    fold: int,
+    trials: int,
+) -> tuple[dict[str, float | int], pd.DataFrame]:
     import optuna
 
-    y = train["fortune500_global_hq_count"].to_numpy()
+    y = train[target_column].to_numpy()
     inner = StratifiedKFold(n_splits=3, shuffle=True, random_state=SEED + fold)
 
     def objective(trial) -> float:
@@ -160,7 +177,8 @@ def tune_outer_fold(train: pd.DataFrame, fold: int, trials: int) -> tuple[dict[s
         errors = []
         for train_index, validation_index in inner.split(train, y > 0):
             prediction, _ = fit_predict(
-                train.iloc[train_index], train.iloc[validation_index], poisson_model(params)
+                train.iloc[train_index], train.iloc[validation_index], target_column, features,
+                target_transform, model_with_params(params, objective_name)
             )
             errors.append(
                 mean_absolute_error(y[validation_index], prediction)
@@ -182,19 +200,19 @@ def tune_outer_fold(train: pd.DataFrame, fold: int, trials: int) -> tuple[dict[s
     return study.best_params, trial_frame
 
 
-def metrics(predictions: pd.DataFrame) -> pd.DataFrame:
+def metrics(predictions: pd.DataFrame, outcome_definition: str) -> pd.DataFrame:
     rows = []
     for model_name, group in predictions.groupby("model", sort=False):
-        actual = group["actual_global_hq_count"].to_numpy()
-        predicted = group["predicted_global_hq_count"].to_numpy()
+        actual = group["actual_outcome_count"].to_numpy()
+        predicted = group["predicted_outcome_count"].to_numpy()
         rows.append(
             {
                 "model": model_name,
                 "held_out_msas": len(group),
-                "mae_global_hq_count": mean_absolute_error(actual, predicted),
-                "rmse_global_hq_count": mean_squared_error(actual, predicted) ** 0.5,
+                "mae_outcome": mean_absolute_error(actual, predicted),
+                "rmse_outcome": mean_squared_error(actual, predicted) ** 0.5,
                 "held_out_r2": r2_score(actual, predicted),
-                "outcome_definition": "Fortune 2025 listed global headquarters count by MSA; not regional HQs.",
+                "outcome_definition": outcome_definition,
             }
         )
     return pd.DataFrame(rows)
@@ -208,16 +226,37 @@ def main() -> None:
     parser.add_argument("--factors-csv", type=Path, default=DEFAULT_FACTORS)
     parser.add_argument("--factor-year", type=int, default=2022)
     parser.add_argument("--optuna-trials", type=int, default=25)
+    parser.add_argument("--target-column", default="fortune500_global_hq_count")
+    parser.add_argument("--model-objective", choices=["count:poisson", "reg:squarederror"], default="count:poisson")
+    parser.add_argument("--target-transform", choices=["identity", "log1p"], default="identity")
+    parser.add_argument(
+        "--exclude-features", default="",
+        help="Comma-separated predictors to omit, for example log_qcew_employment.",
+    )
+    parser.add_argument(
+        "--outcome-description",
+        default="Fortune 2025 listed global headquarters count by MSA; not regional HQs.",
+    )
+    parser.add_argument("--output-prefix", default="fortune500_global_hq_xgb")
     args = parser.parse_args()
     if args.optuna_trials < 10:
         raise ValueError("Use at least 10 Optuna trials for the nested comparison.")
     for path in [args.outcome_csv, args.roster_csv, args.factors_csv]:
         if not path.expanduser().is_file():
             raise FileNotFoundError(path)
-    output = external_output(args.output_dir)
+    output = prepare_output(args.output_dir)
 
-    panel = load_panel(args.outcome_csv, args.roster_csv, args.factors_csv, args.factor_year)
-    panel.to_csv(output / "fortune500_global_hq_model_input_audit.csv", index=False, quoting=csv.QUOTE_MINIMAL)
+    excluded_features = {item.strip() for item in args.exclude_features.split(",") if item.strip()}
+    unknown_exclusions = excluded_features - set(FEATURES)
+    if unknown_exclusions:
+        raise ValueError(f"Unknown excluded feature(s): {sorted(unknown_exclusions)}")
+    features = [feature for feature in FEATURES if feature not in excluded_features]
+    if not features:
+        raise ValueError("At least one feature must remain after --exclude-features.")
+    panel = load_panel(
+        args.outcome_csv, args.roster_csv, args.factors_csv, args.factor_year, args.target_column, features
+    )
+    panel.to_csv(output / f"{args.output_prefix}_model_input_audit.csv", index=False, quoting=csv.QUOTE_MINIMAL)
     usable = panel[panel["included_in_model"]].copy().reset_index(drop=True)
     if len(usable) < 50:
         raise ValueError(f"Need at least 50 MSAs with factors; found {len(usable)}.")
@@ -225,7 +264,8 @@ def main() -> None:
     import optuna
 
     optuna.logging.set_verbosity(optuna.logging.WARNING)
-    target = usable["fortune500_global_hq_count"].to_numpy()
+    target = usable[args.target_column].to_numpy()
+    model_label = "poisson" if args.model_objective == "count:poisson" else "squared_error"
     outer = StratifiedKFold(n_splits=5, shuffle=True, random_state=SEED)
     prediction_rows: list[dict[str, object]] = []
     parameter_rows: list[dict[str, object]] = []
@@ -234,17 +274,24 @@ def main() -> None:
 
     for fold, (train_index, test_index) in enumerate(outer.split(usable, target > 0), start=1):
         train, test = usable.iloc[train_index], usable.iloc[test_index]
-        best_params, trial_frame = tune_outer_fold(train, fold, args.optuna_trials)
+        best_params, trial_frame = tune_outer_fold(
+            train, args.target_column, features, args.model_objective, args.target_transform, fold, args.optuna_trials
+        )
         parameter_rows.append({"outer_fold": fold, **best_params})
         trial_rows.append(trial_frame)
 
-        fixed_prediction, fixed_x_test = fit_predict(train, test, fixed_model())
-        tuned_prediction, _ = fit_predict(train, test, poisson_model(best_params))
-        mean_prediction = np.full(len(test), train["fortune500_global_hq_count"].mean())
+        fixed_prediction, fixed_x_test = fit_predict(
+            train, test, args.target_column, features, args.target_transform, fixed_model(args.model_objective)
+        )
+        tuned_prediction, _ = fit_predict(
+            train, test, args.target_column, features, args.target_transform,
+            model_with_params(best_params, args.model_objective)
+        )
+        mean_prediction = np.full(len(test), train[args.target_column].mean())
         for row_number, (_, row) in enumerate(test.iterrows()):
             for model_name, prediction in [
-                ("fixed_regularized_poisson_xgboost", fixed_prediction[row_number]),
-                ("nested_optuna_poisson_xgboost", tuned_prediction[row_number]),
+                (f"fixed_regularized_{model_label}_xgboost", fixed_prediction[row_number]),
+                (f"nested_optuna_{model_label}_xgboost", tuned_prediction[row_number]),
                 ("training_mean_baseline", mean_prediction[row_number]),
             ]:
                 prediction_rows.append(
@@ -253,32 +300,37 @@ def main() -> None:
                         "model": model_name,
                         "msa": row["msa"],
                         "msa_title": row["msa_title"],
-                        "actual_global_hq_count": row["fortune500_global_hq_count"],
-                        "predicted_global_hq_count": float(prediction),
+                        "actual_outcome_count": row[args.target_column],
+                        "predicted_outcome_count": float(prediction),
                     }
                 )
 
-        base_mae = mean_absolute_error(test["fortune500_global_hq_count"], fixed_prediction)
+        base_mae = mean_absolute_error(test[args.target_column], fixed_prediction)
         rng = np.random.default_rng(SEED + fold)
-        for feature_index, feature in enumerate(FEATURES):
+        for feature_index, feature in enumerate(features):
             for repeat in range(30):
                 shuffled = fixed_x_test.copy()
                 shuffled[:, feature_index] = rng.permutation(shuffled[:, feature_index])
-                permuted = np.maximum(fixed_model().fit(
-                    SimpleImputer(strategy="median", keep_empty_features=True).fit_transform(train[FEATURES]),
-                    train["fortune500_global_hq_count"].to_numpy(),
-                ).predict(shuffled), 0)
+                permuted_model = fixed_model(args.model_objective)
+                x_train = SimpleImputer(strategy="median", keep_empty_features=True).fit_transform(train[features])
+                y_train = train[args.target_column].to_numpy()
+                if args.target_transform == "log1p":
+                    y_train = np.log1p(y_train)
+                permuted = permuted_model.fit(x_train, y_train).predict(shuffled)
+                if args.target_transform == "log1p":
+                    permuted = np.expm1(permuted)
+                permuted = np.maximum(permuted, 0)
                 importance_rows.append(
                     {
                         "outer_fold": fold,
                         "feature": feature,
                         "repeat": repeat + 1,
-                        "held_out_mae_increase": mean_absolute_error(test["fortune500_global_hq_count"], permuted) - base_mae,
+                        "held_out_mae_increase": mean_absolute_error(test[args.target_column], permuted) - base_mae,
                     }
                 )
 
     predictions = pd.DataFrame(prediction_rows)
-    metric_frame = metrics(predictions)
+    metric_frame = metrics(predictions, args.outcome_description)
     importance = (
         pd.DataFrame(importance_rows)
         .groupby("feature", as_index=False)
@@ -290,13 +342,16 @@ def main() -> None:
         )
         .sort_values("held_out_mae_increase", ascending=False)
     )
-    importance["interpretation"] = "Held-out association with Fortune 500 global-HQ count; not causal and not a regional-HQ result."
+    importance["interpretation"] = (
+        "Held-out association with the supplied Fortune location outcome; not causal. "
+        + args.outcome_description
+    )
 
-    predictions.to_csv(output / "fortune500_global_hq_xgb_outer_fold_predictions.csv", index=False)
-    metric_frame.to_csv(output / "fortune500_global_hq_xgb_metrics.csv", index=False)
-    importance.to_csv(output / "fortune500_global_hq_xgb_permutation_importance.csv", index=False)
-    pd.DataFrame(parameter_rows).to_csv(output / "fortune500_global_hq_xgb_optuna_parameters.csv", index=False)
-    pd.concat(trial_rows, ignore_index=True).to_csv(output / "fortune500_global_hq_xgb_optuna_trials.csv", index=False)
+    predictions.to_csv(output / f"{args.output_prefix}_outer_fold_predictions.csv", index=False)
+    metric_frame.to_csv(output / f"{args.output_prefix}_metrics.csv", index=False)
+    importance.to_csv(output / f"{args.output_prefix}_permutation_importance.csv", index=False)
+    pd.DataFrame(parameter_rows).to_csv(output / f"{args.output_prefix}_optuna_parameters.csv", index=False)
+    pd.concat(trial_rows, ignore_index=True).to_csv(output / f"{args.output_prefix}_optuna_trials.csv", index=False)
     print(f"Usable top-100 MSAs: {len(usable):,}")
     print(metric_frame.to_string(index=False))
     print("\nTop held-out permutation associations:")

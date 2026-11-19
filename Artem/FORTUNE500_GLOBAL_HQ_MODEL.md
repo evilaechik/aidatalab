@@ -20,10 +20,11 @@ real zeroes rather than treating missing location coverage as no presence.
 - **Tax context:** every HQ row has a 2026 state corporate-tax context, but
   city business, payroll, and property taxes cannot be reduced to one national
   rate or an exact company tax bill without address- and company-specific data.
-- **Regional HQs:** the verified file now contains 18 additional
-  regional/divisional/business-unit HQ or base sites, three co-located
-  global-and-regional HQ records, and 17 verified division offices. It is
-  still not a complete national outcome and remains out of model training.
+- **Documented regional/divisional evidence:** a separate direct-source pass
+  contributes 75 incremental Fortune parent-company × MSA pairs in the
+  200-MSA roster. A clearly labelled sensitivity model combines these with
+  the complete global-HQ outcome; it remains a documented-evidence measure,
+  not a complete national regional-HQ census.
 
 ## What changed
 
@@ -99,51 +100,31 @@ in this sample. Do not translate this into a tax-incentive claim.
 
 ## Regional-HQ workstream
 
-The external Fortune 100/Data Axle candidate queue is now linked to the
-current Fortune 500 universe:
+Data Axle category labels and commercial-location candidates are not used as
+proof of headquarters function. The current public evidence table instead
+contains 109 documented sites: 85 meet the project's HQ/regional/divisional
+inclusion rule, representing 79 potential parent-company × MSA pairs. Two
+exception records need direct company confirmation, and two direct-source
+sites fall outside the 200-MSA roster. The resulting strict sensitivity input
+is **75** incremental parent-company × MSA pairs in **42** roster MSAs.
 
-- 164 candidate company-MSA rows link to 47 current Fortune 500 companies.
-- 28 rows from 11 source-company labels require entity review or no longer map
-  to the current Fortune 500 list.
-- All candidate rows remain `excluded_until_company_source_verifies_function`.
+The strict input excludes stores, warehouses, distribution centers, generic
+sales offices, and sites whose global-HQ parent is already counted in the same
+MSA. It also collapses multiple eligible sites from the same parent in an MSA
+to one pair; for example, Comcast's Atlanta-area divisional and regional sites
+remain one Comcast × Atlanta MSA addition.
 
-Data Axle category labels are not used as proof of HQ function. Instead, a
-separate public seed list records only sites with a company-owned source:
-
-- 18 additional verified HQ/base site records across 13 Fortune 500 companies
-  and 16 company-MSA pairs,
-  including Amazon HQ2 in Arlington; JPMorgan Chase regional HQs in Washington
-  and Columbus; Cigna in Plano; Comcast division/regional headquarters in
-  Metro Atlanta; HCA's East Florida divisional base in Fort Lauderdale;
-  Kroger's Atlanta Division HQ in Alpharetta; Lockheed Martin business-unit
-  HQs in Denver and DFW; PepsiCo's Frito-Lay North America HQ in Plano; RTX
-  business HQs in Charlotte and East Hartford; Boeing Defense, Space &
-  Security in St. Louis; Centene's East Coast HQ in Charlotte; General
-  Dynamics' Gulfstream HQ in Savannah; and Merck's U.S. Human Health Division
-  HQ in Upper Gwynedd, Pennsylvania.
-- Three HQ records (Kenvue, JLL, and Rockwell Automation) are separately kept
-  because their global and regional/North America HQs are co-located in the
-  same MSA. They document corporate structure but do **not** increase a
-  company-MSA presence score.
-- 17 Kroger **division office** addresses are separately retained as verified
-  operating footprint, not promoted to regional HQs.
-- 37 of the 38 records map to the 200-MSA roster. Dillons in Hutchinson,
-  Kansas is explicitly retained as outside that roster rather than treated as
-  a zero or discarded.
-
-The files are
-`data/big_business_presence/fortune500_verified_regional_divisional_sites_2026.csv`
-and `data/big_business_presence/fortune500_verified_regional_divisional_sites_summary_2026.csv`.
-Every HQ/base row is flagged for one additional currentness review before it
-can become a training label. This protects the model from silently treating an
-older source or a division-office location as a current regional HQ.
+The evidence and its source links are in
+`data/big_business_presence/fortune500_verified_regional_divisional_sites_2026.csv`.
+The combined outcome and its model results are documented in
+`FORTUNE500_DOCUMENTED_CORPORATE_ANCHOR_MODEL.md`.
 
 ### Company-by-company public-filing discovery pass
 
 To avoid relying only on location directories, a second reproducible pass
 searches official SEC 10-K text for regional/divisional/business-unit HQ
 language and matches unambiguous issuers to the 2025 Fortune 500 universe. The
-first scan found 19 leads across 16 Fortune 500 companies. These are not added
+current scan has 29 leads requiring source review. These are not added
 to the verified-site table until a current company source confirms the site
 function and location.
 
@@ -157,10 +138,11 @@ and source link—not downloaded filings or licensed location data.
 
 ## Recommended use in the project
 
-1. Use the complete Fortune 500 global-HQ model for an initial benchmark of
+1. Use the complete Fortune 500 global-HQ model as the primary benchmark of
    corporate-anchor concentration.
-2. Describe regional-HQ results as a separate, source-verified dataset under
-   construction—not as model labels yet.
+2. Use the documented corporate-anchor sensitivity model to test whether the
+   main descriptive pattern changes when verified regional/divisional evidence
+   is added. Do not present regional zeroes as confirmed absence.
 3. After a licensed Data Axle/D&B export covers the Fortune 500 consistently,
    assign locations to MSAs, screen out retail/distribution sites, and verify
    regional/divisional HQ function with a first-party source. Only then test a

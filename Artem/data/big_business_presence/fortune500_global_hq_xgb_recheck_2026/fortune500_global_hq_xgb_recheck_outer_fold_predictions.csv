@@ -1,0 +1,292 @@
+outer_fold,model,msa,msa_title,actual_outcome_count,predicted_outcome_count
+1,fixed_regularized_poisson_xgboost,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",8,16.087806701660156
+1,nested_optuna_poisson_xgboost,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",8,18.941377639770508
+1,training_mean_baseline,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",8,4.597402597402597
+1,fixed_regularized_poisson_xgboost,41860,"San Francisco-Oakland-Fremont, CA",21,9.741762161254883
+1,nested_optuna_poisson_xgboost,41860,"San Francisco-Oakland-Fremont, CA",21,9.962653160095215
+1,training_mean_baseline,41860,"San Francisco-Oakland-Fremont, CA",21,4.597402597402597
+1,fixed_regularized_poisson_xgboost,42660,"Seattle-Tacoma-Bellevue, WA",11,12.226758003234863
+1,nested_optuna_poisson_xgboost,42660,"Seattle-Tacoma-Bellevue, WA",11,10.782864570617676
+1,training_mean_baseline,42660,"Seattle-Tacoma-Bellevue, WA",11,4.597402597402597
+1,fixed_regularized_poisson_xgboost,12580,"Baltimore-Columbia-Towson, MD",1,4.949263572692871
+1,nested_optuna_poisson_xgboost,12580,"Baltimore-Columbia-Towson, MD",1,6.833166122436523
+1,training_mean_baseline,12580,"Baltimore-Columbia-Towson, MD",1,4.597402597402597
+1,fixed_regularized_poisson_xgboost,12420,"Austin-Round Rock-San Marcos, TX",3,6.511739253997803
+1,nested_optuna_poisson_xgboost,12420,"Austin-Round Rock-San Marcos, TX",3,7.151810169219971
+1,training_mean_baseline,12420,"Austin-Round Rock-San Marcos, TX",3,4.597402597402597
+1,fixed_regularized_poisson_xgboost,41940,"San Jose-Sunnyvale-Santa Clara, CA",21,5.657059192657471
+1,nested_optuna_poisson_xgboost,41940,"San Jose-Sunnyvale-Santa Clara, CA",21,4.1895952224731445
+1,training_mean_baseline,41940,"San Jose-Sunnyvale-Santa Clara, CA",21,4.597402597402597
+1,fixed_regularized_poisson_xgboost,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",3,3.043010950088501
+1,nested_optuna_poisson_xgboost,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",3,2.881082057952881
+1,training_mean_baseline,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",3,4.597402597402597
+1,fixed_regularized_poisson_xgboost,41620,"Salt Lake City-Murray, UT",0,4.456409454345703
+1,nested_optuna_poisson_xgboost,41620,"Salt Lake City-Murray, UT",0,3.1415162086486816
+1,training_mean_baseline,41620,"Salt Lake City-Murray, UT",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,13820,"Birmingham, AL",2,2.6619911193847656
+1,nested_optuna_poisson_xgboost,13820,"Birmingham, AL",2,3.0666284561157227
+1,training_mean_baseline,13820,"Birmingham, AL",2,4.597402597402597
+1,fixed_regularized_poisson_xgboost,32820,"Memphis, TN-MS-AR",3,3.3885505199432373
+1,nested_optuna_poisson_xgboost,32820,"Memphis, TN-MS-AR",3,4.22465705871582
+1,training_mean_baseline,32820,"Memphis, TN-MS-AR",3,4.597402597402597
+1,fixed_regularized_poisson_xgboost,46140,"Tulsa, OK",2,1.3350179195404053
+1,nested_optuna_poisson_xgboost,46140,"Tulsa, OK",2,0.7353012561798096
+1,training_mean_baseline,46140,"Tulsa, OK",2,4.597402597402597
+1,fixed_regularized_poisson_xgboost,37100,"Oxnard-Thousand Oaks-Ventura, CA",1,1.3719285726547241
+1,nested_optuna_poisson_xgboost,37100,"Oxnard-Thousand Oaks-Ventura, CA",1,0.46934425830841064
+1,training_mean_baseline,37100,"Oxnard-Thousand Oaks-Ventura, CA",1,4.597402597402597
+1,fixed_regularized_poisson_xgboost,23420,"Fresno, CA",0,1.3817310333251953
+1,nested_optuna_poisson_xgboost,23420,"Fresno, CA",0,0.858350396156311
+1,training_mean_baseline,23420,"Fresno, CA",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,10580,"Albany-Schenectady-Troy, NY",0,1.6651957035064697
+1,nested_optuna_poisson_xgboost,10580,"Albany-Schenectady-Troy, NY",0,0.8725675344467163
+1,training_mean_baseline,10580,"Albany-Schenectady-Troy, NY",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,17820,"Colorado Springs, CO",0,1.3565232753753662
+1,nested_optuna_poisson_xgboost,17820,"Colorado Springs, CO",0,0.44326797127723694
+1,training_mean_baseline,17820,"Colorado Springs, CO",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,10420,"Akron, OH",2,1.2213212251663208
+1,nested_optuna_poisson_xgboost,10420,"Akron, OH",2,0.3825000524520874
+1,training_mean_baseline,10420,"Akron, OH",2,4.597402597402597
+1,fixed_regularized_poisson_xgboost,39340,"Provo-Orem-Lehi, UT",0,1.208802342414856
+1,nested_optuna_poisson_xgboost,39340,"Provo-Orem-Lehi, UT",0,0.4200599491596222
+1,training_mean_baseline,39340,"Provo-Orem-Lehi, UT",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,44060,"Spokane-Spokane Valley, WA",0,1.3873276710510254
+1,nested_optuna_poisson_xgboost,44060,"Spokane-Spokane Valley, WA",0,0.5408082008361816
+1,training_mean_baseline,44060,"Spokane-Spokane Valley, WA",0,4.597402597402597
+1,fixed_regularized_poisson_xgboost,25420,"Harrisburg-Carlisle, PA",1,1.4118080139160156
+1,nested_optuna_poisson_xgboost,25420,"Harrisburg-Carlisle, PA",1,1.0176981687545776
+1,training_mean_baseline,25420,"Harrisburg-Carlisle, PA",1,4.597402597402597
+1,fixed_regularized_poisson_xgboost,49180,"Winston-Salem, NC",0,1.321530818939209
+1,nested_optuna_poisson_xgboost,49180,"Winston-Salem, NC",0,0.529975950717926
+1,training_mean_baseline,49180,"Winston-Salem, NC",0,4.597402597402597
+2,fixed_regularized_poisson_xgboost,35620,"New York-Newark-Jersey City, NY-NJ",57,9.876919746398926
+2,nested_optuna_poisson_xgboost,35620,"New York-Newark-Jersey City, NY-NJ",57,9.846450805664062
+2,training_mean_baseline,35620,"New York-Newark-Jersey City, NY-NJ",57,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,31080,"Los Angeles-Long Beach-Anaheim, CA",10,11.517651557922363
+2,nested_optuna_poisson_xgboost,31080,"Los Angeles-Long Beach-Anaheim, CA",10,9.833020210266113
+2,training_mean_baseline,31080,"Los Angeles-Long Beach-Anaheim, CA",10,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",10,5.5074357986450195
+2,nested_optuna_poisson_xgboost,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",10,3.5349326133728027
+2,training_mean_baseline,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",10,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,26420,"Houston-Pasadena-The Woodlands, TX",26,11.794381141662598
+2,nested_optuna_poisson_xgboost,26420,"Houston-Pasadena-The Woodlands, TX",26,10.553791046142578
+2,training_mean_baseline,26420,"Houston-Pasadena-The Woodlands, TX",26,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,14460,"Boston-Cambridge-Newton, MA-NH",14,13.674497604370117
+2,nested_optuna_poisson_xgboost,14460,"Boston-Cambridge-Newton, MA-NH",14,15.472587585449219
+2,training_mean_baseline,14460,"Boston-Cambridge-Newton, MA-NH",14,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,41740,"San Diego-Chula Vista-Carlsbad, CA",3,8.076481819152832
+2,nested_optuna_poisson_xgboost,41740,"San Diego-Chula Vista-Carlsbad, CA",3,6.08144998550415
+2,training_mean_baseline,41740,"San Diego-Chula Vista-Carlsbad, CA",3,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,41700,"San Antonio-New Braunfels, TX",3,3.256948709487915
+2,nested_optuna_poisson_xgboost,41700,"San Antonio-New Braunfels, TX",3,1.9331914186477661
+2,training_mean_baseline,41700,"San Antonio-New Braunfels, TX",3,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,29820,"Las Vegas-Henderson-North Las Vegas, NV",2,3.042219400405884
+2,nested_optuna_poisson_xgboost,29820,"Las Vegas-Henderson-North Las Vegas, NV",2,1.2888720035552979
+2,training_mean_baseline,29820,"Las Vegas-Henderson-North Las Vegas, NV",2,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",5,4.200551509857178
+2,nested_optuna_poisson_xgboost,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",5,3.597269058227539
+2,training_mean_baseline,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",5,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,39300,"Providence-Warwick, RI-MA",4,2.154850721359253
+2,nested_optuna_poisson_xgboost,39300,"Providence-Warwick, RI-MA",4,0.798092782497406
+2,training_mean_baseline,39300,"Providence-Warwick, RI-MA",4,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,40060,"Richmond, VA",7,2.0008385181427
+2,nested_optuna_poisson_xgboost,40060,"Richmond, VA",7,1.8307830095291138
+2,training_mean_baseline,40060,"Richmond, VA",7,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,14260,"Boise City, ID",0,1.307979941368103
+2,nested_optuna_poisson_xgboost,14260,"Boise City, ID",0,0.31696319580078125
+2,training_mean_baseline,14260,"Boise City, ID",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,24860,"Greenville-Anderson-Greer, SC",0,1.177516222000122
+2,nested_optuna_poisson_xgboost,24860,"Greenville-Anderson-Greer, SC",0,0.34850892424583435
+2,training_mean_baseline,24860,"Greenville-Anderson-Greer, SC",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,28940,"Knoxville, TN",0,1.5513479709625244
+2,nested_optuna_poisson_xgboost,28940,"Knoxville, TN",0,1.1933201551437378
+2,training_mean_baseline,28940,"Knoxville, TN",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,10740,"Albuquerque, NM",0,1.201505184173584
+2,nested_optuna_poisson_xgboost,10740,"Albuquerque, NM",0,0.1930435448884964
+2,training_mean_baseline,10740,"Albuquerque, NM",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,31540,"Madison, WI",1,1.5692977905273438
+2,nested_optuna_poisson_xgboost,31540,"Madison, WI",1,0.5777117609977722
+2,training_mean_baseline,31540,"Madison, WI",1,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,19660,"Deltona-Daytona Beach-Ormond Beach, FL",0,1.131037950515747
+2,nested_optuna_poisson_xgboost,19660,"Deltona-Daytona Beach-Ormond Beach, FL",0,0.3475135862827301
+2,training_mean_baseline,19660,"Deltona-Daytona Beach-Ormond Beach, FL",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,21340,"El Paso, TX",0,1.4217840433120728
+2,nested_optuna_poisson_xgboost,21340,"El Paso, TX",0,0.4178012013435364
+2,training_mean_baseline,21340,"El Paso, TX",0,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,39900,"Reno, NV",1,1.3264557123184204
+2,nested_optuna_poisson_xgboost,39900,"Reno, NV",1,0.3566025495529175
+2,training_mean_baseline,39900,"Reno, NV",1,3.7662337662337664
+2,fixed_regularized_poisson_xgboost,36260,"Ogden, UT",0,1.1234480142593384
+2,nested_optuna_poisson_xgboost,36260,"Ogden, UT",0,0.3032349646091461
+2,training_mean_baseline,36260,"Ogden, UT",0,3.7662337662337664
+3,fixed_regularized_poisson_xgboost,16980,"Chicago-Naperville-Elgin, IL-IN",29,13.751958847045898
+3,nested_optuna_poisson_xgboost,16980,"Chicago-Naperville-Elgin, IL-IN",29,17.141605377197266
+3,training_mean_baseline,16980,"Chicago-Naperville-Elgin, IL-IN",29,4.564102564102564
+3,fixed_regularized_poisson_xgboost,38060,"Phoenix-Mesa-Chandler, AZ",9,9.646612167358398
+3,nested_optuna_poisson_xgboost,38060,"Phoenix-Mesa-Chandler, AZ",9,8.148049354553223
+3,training_mean_baseline,38060,"Phoenix-Mesa-Chandler, AZ",9,4.564102564102564
+3,fixed_regularized_poisson_xgboost,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",15,7.851014137268066
+3,nested_optuna_poisson_xgboost,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",15,7.0966291427612305
+3,training_mean_baseline,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",15,4.564102564102564
+3,fixed_regularized_poisson_xgboost,45300,"Tampa-St. Petersburg-Clearwater, FL",4,5.603727340698242
+3,nested_optuna_poisson_xgboost,45300,"Tampa-St. Petersburg-Clearwater, FL",4,5.209806442260742
+3,training_mean_baseline,45300,"Tampa-St. Petersburg-Clearwater, FL",4,4.564102564102564
+3,fixed_regularized_poisson_xgboost,40140,"Riverside-San Bernardino-Ontario, CA",1,4.670778274536133
+3,nested_optuna_poisson_xgboost,40140,"Riverside-San Bernardino-Ontario, CA",1,4.7505879402160645
+3,training_mean_baseline,40140,"Riverside-San Bernardino-Ontario, CA",1,4.564102564102564
+3,fixed_regularized_poisson_xgboost,17410,"Cleveland, OH",6,3.3280205726623535
+3,nested_optuna_poisson_xgboost,17410,"Cleveland, OH",6,3.3902623653411865
+3,training_mean_baseline,17410,"Cleveland, OH",6,4.564102564102564
+3,fixed_regularized_poisson_xgboost,27260,"Jacksonville, FL",4,3.169153928756714
+3,nested_optuna_poisson_xgboost,27260,"Jacksonville, FL",4,3.2670278549194336
+3,training_mean_baseline,27260,"Jacksonville, FL",4,4.564102564102564
+3,fixed_regularized_poisson_xgboost,31140,"Louisville/Jefferson County, KY-IN",3,3.111407995223999
+3,nested_optuna_poisson_xgboost,31140,"Louisville/Jefferson County, KY-IN",3,2.883202075958252
+3,training_mean_baseline,31140,"Louisville/Jefferson County, KY-IN",3,4.564102564102564
+3,fixed_regularized_poisson_xgboost,24340,"Grand Rapids-Wyoming-Kentwood, MI",1,3.0827455520629883
+3,nested_optuna_poisson_xgboost,24340,"Grand Rapids-Wyoming-Kentwood, MI",1,3.1809911727905273
+3,training_mean_baseline,24340,"Grand Rapids-Wyoming-Kentwood, MI",1,4.564102564102564
+3,fixed_regularized_poisson_xgboost,40380,"Rochester, NY",1,2.309379816055298
+3,nested_optuna_poisson_xgboost,40380,"Rochester, NY",1,2.2315127849578857
+3,training_mean_baseline,40380,"Rochester, NY",1,4.564102564102564
+3,fixed_regularized_poisson_xgboost,46520,"Urban Honolulu, HI",0,1.3846001625061035
+3,nested_optuna_poisson_xgboost,46520,"Urban Honolulu, HI",0,0.9691892862319946
+3,training_mean_baseline,46520,"Urban Honolulu, HI",0,4.564102564102564
+3,fixed_regularized_poisson_xgboost,17900,"Columbia, SC",0,1.4472979307174683
+3,nested_optuna_poisson_xgboost,17900,"Columbia, SC",0,0.8848299384117126
+3,training_mean_baseline,17900,"Columbia, SC",0,4.564102564102564
+3,fixed_regularized_poisson_xgboost,19780,"Des Moines-West Des Moines, IA",2,1.4574402570724487
+3,nested_optuna_poisson_xgboost,19780,"Des Moines-West Des Moines, IA",2,1.0339269638061523
+3,training_mean_baseline,19780,"Des Moines-West Des Moines, IA",2,4.564102564102564
+3,fixed_regularized_poisson_xgboost,19430,"Dayton-Kettering-Beavercreek, OH",0,1.5558104515075684
+3,nested_optuna_poisson_xgboost,19430,"Dayton-Kettering-Beavercreek, OH",0,0.8650201559066772
+3,training_mean_baseline,19430,"Dayton-Kettering-Beavercreek, OH",0,4.564102564102564
+3,fixed_regularized_poisson_xgboost,37340,"Palm Bay-Melbourne-Titusville, FL",1,1.293495535850525
+3,nested_optuna_poisson_xgboost,37340,"Palm Bay-Melbourne-Titusville, FL",1,0.9424093961715698
+3,training_mean_baseline,37340,"Palm Bay-Melbourne-Titusville, FL",1,4.564102564102564
+3,fixed_regularized_poisson_xgboost,45060,"Syracuse, NY",0,1.3499243259429932
+3,nested_optuna_poisson_xgboost,45060,"Syracuse, NY",0,0.8712062835693359
+3,training_mean_baseline,45060,"Syracuse, NY",0,4.564102564102564
+3,fixed_regularized_poisson_xgboost,27140,"Jackson, MS",0,1.3228408098220825
+3,nested_optuna_poisson_xgboost,27140,"Jackson, MS",0,0.8779900670051575
+3,training_mean_baseline,27140,"Jackson, MS",0,4.564102564102564
+3,fixed_regularized_poisson_xgboost,20500,"Durham-Chapel Hill, NC",1,2.778440237045288
+3,nested_optuna_poisson_xgboost,20500,"Durham-Chapel Hill, NC",1,1.6137099266052246
+3,training_mean_baseline,20500,"Durham-Chapel Hill, NC",1,4.564102564102564
+3,fixed_regularized_poisson_xgboost,34940,"Naples-Marco Island, FL",0,1.434502124786377
+3,nested_optuna_poisson_xgboost,34940,"Naples-Marco Island, FL",0,0.9424093961715698
+3,training_mean_baseline,34940,"Naples-Marco Island, FL",0,4.564102564102564
+4,fixed_regularized_poisson_xgboost,19820,"Detroit-Warren-Dearborn, MI",9,6.728006839752197
+4,nested_optuna_poisson_xgboost,19820,"Detroit-Warren-Dearborn, MI",9,5.801162242889404
+4,training_mean_baseline,19820,"Detroit-Warren-Dearborn, MI",9,4.846153846153846
+4,fixed_regularized_poisson_xgboost,19740,"Denver-Aurora-Centennial, CO",8,6.8185858726501465
+4,nested_optuna_poisson_xgboost,19740,"Denver-Aurora-Centennial, CO",8,5.738536834716797
+4,training_mean_baseline,19740,"Denver-Aurora-Centennial, CO",8,4.846153846153846
+4,fixed_regularized_poisson_xgboost,38900,"Portland-Vancouver-Hillsboro, OR-WA",1,6.793235778808594
+4,nested_optuna_poisson_xgboost,38900,"Portland-Vancouver-Hillsboro, OR-WA",1,4.028273582458496
+4,training_mean_baseline,38900,"Portland-Vancouver-Hillsboro, OR-WA",1,4.846153846153846
+4,fixed_regularized_poisson_xgboost,16740,"Charlotte-Concord-Gastonia, NC-SC",7,4.548269271850586
+4,nested_optuna_poisson_xgboost,16740,"Charlotte-Concord-Gastonia, NC-SC",7,4.463013172149658
+4,training_mean_baseline,16740,"Charlotte-Concord-Gastonia, NC-SC",7,4.846153846153846
+4,fixed_regularized_poisson_xgboost,38300,"Pittsburgh, PA",9,4.095742702484131
+4,nested_optuna_poisson_xgboost,38300,"Pittsburgh, PA",9,3.288508892059326
+4,training_mean_baseline,38300,"Pittsburgh, PA",9,4.846153846153846
+4,fixed_regularized_poisson_xgboost,40900,"Sacramento-Roseville-Folsom, CA",0,3.2952239513397217
+4,nested_optuna_poisson_xgboost,40900,"Sacramento-Roseville-Folsom, CA",0,2.049722671508789
+4,training_mean_baseline,40900,"Sacramento-Roseville-Folsom, CA",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,28140,"Kansas City, MO-KS",1,3.6865429878234863
+4,nested_optuna_poisson_xgboost,28140,"Kansas City, MO-KS",1,3.7105884552001953
+4,training_mean_baseline,28140,"Kansas City, MO-KS",1,4.846153846153846
+4,fixed_regularized_poisson_xgboost,17140,"Cincinnati, OH-KY-IN",8,3.801933526992798
+4,nested_optuna_poisson_xgboost,17140,"Cincinnati, OH-KY-IN",8,3.8186252117156982
+4,training_mean_baseline,17140,"Cincinnati, OH-KY-IN",8,4.846153846153846
+4,fixed_regularized_poisson_xgboost,33340,"Milwaukee-Waukesha, WI",6,3.638073205947876
+4,nested_optuna_poisson_xgboost,33340,"Milwaukee-Waukesha, WI",6,3.707549571990967
+4,training_mean_baseline,33340,"Milwaukee-Waukesha, WI",6,4.846153846153846
+4,fixed_regularized_poisson_xgboost,15380,"Buffalo-Cheektowaga, NY",1,2.682731866836548
+4,nested_optuna_poisson_xgboost,15380,"Buffalo-Cheektowaga, NY",1,1.8621546030044556
+4,training_mean_baseline,15380,"Buffalo-Cheektowaga, NY",1,4.846153846153846
+4,fixed_regularized_poisson_xgboost,35380,"New Orleans-Metairie, LA",1,1.4083064794540405
+4,nested_optuna_poisson_xgboost,35380,"New Orleans-Metairie, LA",1,0.6196972131729126
+4,training_mean_baseline,35380,"New Orleans-Metairie, LA",1,4.846153846153846
+4,fixed_regularized_poisson_xgboost,15980,"Cape Coral-Fort Myers, FL",1,1.2824033498764038
+4,nested_optuna_poisson_xgboost,15980,"Cape Coral-Fort Myers, FL",1,0.37131091952323914
+4,training_mean_baseline,15980,"Cape Coral-Fort Myers, FL",1,4.846153846153846
+4,fixed_regularized_poisson_xgboost,12940,"Baton Rouge, LA",0,1.321945309638977
+4,nested_optuna_poisson_xgboost,12940,"Baton Rouge, LA",0,0.7751075029373169
+4,training_mean_baseline,12940,"Baton Rouge, LA",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,30780,"Little Rock-North Little Rock-Conway, AR",0,1.4497572183609009
+4,nested_optuna_poisson_xgboost,30780,"Little Rock-North Little Rock-Conway, AR",0,0.7340336441993713
+4,training_mean_baseline,30780,"Little Rock-North Little Rock-Conway, AR",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,24660,"Greensboro-High Point, NC",0,1.2884434461593628
+4,nested_optuna_poisson_xgboost,24660,"Greensboro-High Point, NC",0,0.5067277550697327
+4,training_mean_baseline,24660,"Greensboro-High Point, NC",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",0,1.349879264831543
+4,nested_optuna_poisson_xgboost,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",0,0.4893706142902374
+4,training_mean_baseline,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,42220,"Santa Rosa-Petaluma, CA",0,1.4099111557006836
+4,nested_optuna_poisson_xgboost,42220,"Santa Rosa-Petaluma, CA",0,0.5173258781433105
+4,training_mean_baseline,42220,"Santa Rosa-Petaluma, CA",0,4.846153846153846
+4,fixed_regularized_poisson_xgboost,22220,"Fayetteville-Springdale-Rogers, AR",3,1.3106491565704346
+4,nested_optuna_poisson_xgboost,22220,"Fayetteville-Springdale-Rogers, AR",3,0.6084354519844055
+4,training_mean_baseline,22220,"Fayetteville-Springdale-Rogers, AR",3,4.846153846153846
+4,fixed_regularized_poisson_xgboost,29540,"Lancaster, PA",0,1.5405809879302979
+4,nested_optuna_poisson_xgboost,29540,"Lancaster, PA",0,0.5493428111076355
+4,training_mean_baseline,29540,"Lancaster, PA",0,4.846153846153846
+5,fixed_regularized_poisson_xgboost,19100,"Dallas-Fort Worth-Arlington, TX",21,13.625694274902344
+5,nested_optuna_poisson_xgboost,19100,"Dallas-Fort Worth-Arlington, TX",21,13.483846664428711
+5,training_mean_baseline,19100,"Dallas-Fort Worth-Arlington, TX",21,4.538461538461538
+5,fixed_regularized_poisson_xgboost,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",17,10.915579795837402
+5,nested_optuna_poisson_xgboost,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",17,13.272216796875
+5,training_mean_baseline,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",17,4.538461538461538
+5,fixed_regularized_poisson_xgboost,12060,"Atlanta-Sandy Springs-Roswell, GA",15,8.39415454864502
+5,nested_optuna_poisson_xgboost,12060,"Atlanta-Sandy Springs-Roswell, GA",15,8.318767547607422
+5,training_mean_baseline,12060,"Atlanta-Sandy Springs-Roswell, GA",15,4.538461538461538
+5,fixed_regularized_poisson_xgboost,36740,"Orlando-Kissimmee-Sanford, FL",1,4.102138996124268
+5,nested_optuna_poisson_xgboost,36740,"Orlando-Kissimmee-Sanford, FL",1,2.3376150131225586
+5,training_mean_baseline,36740,"Orlando-Kissimmee-Sanford, FL",1,4.538461538461538
+5,fixed_regularized_poisson_xgboost,41180,"St. Louis, MO-IL",7,5.143983840942383
+5,nested_optuna_poisson_xgboost,41180,"St. Louis, MO-IL",7,5.622322082519531
+5,training_mean_baseline,41180,"St. Louis, MO-IL",7,4.538461538461538
+5,fixed_regularized_poisson_xgboost,26900,"Indianapolis-Carmel-Greenwood, IN",3,3.9853270053863525
+5,nested_optuna_poisson_xgboost,26900,"Indianapolis-Carmel-Greenwood, IN",3,3.7671985626220703
+5,training_mean_baseline,26900,"Indianapolis-Carmel-Greenwood, IN",3,4.538461538461538
+5,fixed_regularized_poisson_xgboost,18140,"Columbus, OH",5,4.0979204177856445
+5,nested_optuna_poisson_xgboost,18140,"Columbus, OH",5,4.9236531257629395
+5,training_mean_baseline,18140,"Columbus, OH",5,4.538461538461538
+5,fixed_regularized_poisson_xgboost,39580,"Raleigh-Cary, NC",2,3.514645576477051
+5,nested_optuna_poisson_xgboost,39580,"Raleigh-Cary, NC",2,4.871861934661865
+5,training_mean_baseline,39580,"Raleigh-Cary, NC",2,4.538461538461538
+5,fixed_regularized_poisson_xgboost,36420,"Oklahoma City, OK",1,1.8843703269958496
+5,nested_optuna_poisson_xgboost,36420,"Oklahoma City, OK",1,1.15229070186615
+5,training_mean_baseline,36420,"Oklahoma City, OK",1,4.538461538461538
+5,fixed_regularized_poisson_xgboost,35840,"North Port-Bradenton-Sarasota, FL",0,1.2897065877914429
+5,nested_optuna_poisson_xgboost,35840,"North Port-Bradenton-Sarasota, FL",0,0.5684144496917725
+5,training_mean_baseline,35840,"North Port-Bradenton-Sarasota, FL",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,36540,"Omaha, NE-IA",4,1.8073416948318481
+5,nested_optuna_poisson_xgboost,36540,"Omaha, NE-IA",4,1.8630092144012451
+5,training_mean_baseline,36540,"Omaha, NE-IA",4,4.538461538461538
+5,fixed_regularized_poisson_xgboost,16700,"Charleston-North Charleston, SC",0,1.4026401042938232
+5,nested_optuna_poisson_xgboost,16700,"Charleston-North Charleston, SC",0,0.7017942070960999
+5,training_mean_baseline,16700,"Charleston-North Charleston, SC",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,46060,"Tucson, AZ",0,1.2897065877914429
+5,nested_optuna_poisson_xgboost,46060,"Tucson, AZ",0,0.3009830415248871
+5,training_mean_baseline,46060,"Tucson, AZ",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,49340,"Worcester, MA",0,1.4319857358932495
+5,nested_optuna_poisson_xgboost,49340,"Worcester, MA",0,0.7731510996818542
+5,training_mean_baseline,49340,"Worcester, MA",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,10900,"Allentown-Bethlehem-Easton, PA-NJ",2,1.4116100072860718
+5,nested_optuna_poisson_xgboost,10900,"Allentown-Bethlehem-Easton, PA-NJ",2,0.7298225164413452
+5,training_mean_baseline,10900,"Allentown-Bethlehem-Easton, PA-NJ",2,4.538461538461538
+5,fixed_regularized_poisson_xgboost,38860,"Portland-South Portland, ME",0,1.5416525602340698
+5,nested_optuna_poisson_xgboost,38860,"Portland-South Portland, ME",0,0.8756082057952881
+5,training_mean_baseline,38860,"Portland-South Portland, ME",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,48620,"Wichita, KS",0,1.3895524740219116
+5,nested_optuna_poisson_xgboost,48620,"Wichita, KS",0,0.669985294342041
+5,training_mean_baseline,48620,"Wichita, KS",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,12540,"Bakersfield-Delano, CA",0,1.355866551399231
+5,nested_optuna_poisson_xgboost,12540,"Bakersfield-Delano, CA",0,0.4022318720817566
+5,training_mean_baseline,12540,"Bakersfield-Delano, CA",0,4.538461538461538
+5,fixed_regularized_poisson_xgboost,29460,"Lakeland-Winter Haven, FL",1,1.3455644845962524
+5,nested_optuna_poisson_xgboost,29460,"Lakeland-Winter Haven, FL",1,0.3667868375778198
+5,training_mean_baseline,29460,"Lakeland-Winter Haven, FL",1,4.538461538461538
