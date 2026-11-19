@@ -103,28 +103,33 @@ award recommendation, or causal model result.
 
 | Factor | Predictive-signal share | Invest Atlanta realism | Actionable-signal priority |
 | --- | ---: | ---: | ---: |
-| Average weekly wage | 68.9% | 46.7 | 32.1 |
-| Existing business density | 20.1% | 66.7 | 13.4 |
+| Average weekly wage (context only) | 68.9% | 0.0 | 0.0 |
+| Existing business density | 20.1% | 83.3 | 16.7 |
 | Finance-sector employment share | 6.9% | 46.7 | 3.2 |
 
 This reframes the policy story: wages have the strongest remaining statistical
-association but only limited direct City control; business density is the more
-realistic place-based lever through site, district, and redevelopment tools.
-Employment growth and manufacturing each score 100 for program fit, but they
-show no positive independent signal in this small normalized model, so they
-should not be elevated merely because a tool exists.
+association but receive a **zero realism score** because Invest Atlanta does
+not set private-sector wages. Business density is the more realistic
+place-based lever through site, construction, district, and redevelopment
+tools. Employment growth and manufacturing each score 100 for program fit, but
+they show no positive independent signal in this small normalized model, so
+they should not be elevated merely because a tool exists.
 
-The relevant current tools are published by Invest Atlanta: the Economic
-Opportunity Fund is a project-specific fund that can support acquisition,
-construction, relocation, workforce training, and job retention/creation;
-Industrial Revenue Bonds finance eligible manufacturing facilities; Lease
-Purchase Bonds have a property-assessment structure; and Georgia Opportunity
-Zone credits are state tax credits in eligible areas. [Invest Atlanta’s current
-incentive inventory](https://www.investatlanta.com/site-selectors/resources/bonds-loans-grants-incentives)
-also makes clear that these are conditional project tools, not a citywide
-corporate-tax-rate reduction. Tax Allocation Districts are place-based
-redevelopment financing in designated areas, rather than a universal
-headquarters subsidy. [Invest Atlanta TAD overview](https://www.investatlanta.com/about-us/tax-allocation-districts)
+The relevant current tools are published by Invest Atlanta. The Economic
+Opportunity Fund is a project-specific fund that can support acquisition or
+construction of land, buildings and equipment, infrastructure, leasehold
+improvements, relocation, and workforce training. Lease Purchase Bonds hold
+title to qualifying real and personal property for ten years under a published
+property-assessment ramp; their suggested minimum is $10 million. This is the
+closest listed property-tax mechanism, but approval is project-specific and
+requires a job creation/retention plan. [Invest Atlanta’s current incentive
+inventory](https://www.investatlanta.com/site-selectors/resources/bonds-loans-grants-incentives)
+
+Tax Allocation Districts are another realistic **site/development** tool only
+within a designated district: they direct future property-tax increments to
+redevelopment investments such as infrastructure and commercial spaces. They
+are not a universal corporate-income-tax subsidy. [Invest Atlanta TAD
+overview](https://www.investatlanta.com/about-us/tax-allocation-districts)
 
 ## Files
 

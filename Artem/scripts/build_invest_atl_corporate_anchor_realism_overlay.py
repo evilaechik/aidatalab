@@ -30,8 +30,8 @@ TADS = "https://www.investatlanta.com/about-us/tax-allocation-districts"
 # availability, eligibility approval, or expected project impact.
 PROGRAM_MAP = {
     "qcew_employment_growth": ("Employment growth", 3, 3, 3, "Economic Opportunity Fund; medium/large-business assistance", BONDS),
-    "avg_weekly_wage": ("Average weekly wage", 1, 1, 3, "Economic Opportunity Fund workforce-training support", BONDS),
-    "establishments_per_100_jobs": ("Existing business density", 2, 2, 2, "Tax Allocation District financing; Economic Opportunity Fund", TADS),
+    "avg_weekly_wage": ("Average weekly wage", 0, 0, 0, "No direct City wage-setting tool; retain as labor-market context only", BONDS),
+    "establishments_per_100_jobs": ("Existing business density", 2, 3, 3, "Economic Opportunity Fund; Lease Purchase Bonds; Tax Allocation District financing in eligible districts", BONDS),
     "share_manufacturing": ("Manufacturing employment share", 3, 3, 3, "Industrial Revenue Bonds; Economic Opportunity Fund", BONDS),
     "share_information": ("Information-sector employment share", 1, 1, 3, "Business assistance and site-selection support", BONDS),
     "share_finance": ("Finance-sector employment share", 1, 1, 3, "Business assistance and site-selection support", BONDS),
