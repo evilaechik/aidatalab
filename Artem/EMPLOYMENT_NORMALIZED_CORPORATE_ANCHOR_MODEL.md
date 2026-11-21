@@ -131,6 +131,19 @@ redevelopment investments such as infrastructure and commercial spaces. They
 are not a universal corporate-income-tax subsidy. [Invest Atlanta TAD
 overview](https://www.investatlanta.com/about-us/tax-allocation-districts)
 
+## Static presentation figures
+
+These are static Matplotlib exports. They are intended for the presentation
+and do not rely on the earlier browser-based visualization.
+
+![Size-adjusted model performance](figures/corporate_anchor_model/01_size_adjusted_model_performance.png)
+
+![Held-out prediction check](figures/corporate_anchor_model/02_held_out_prediction_check.png)
+
+![Held-out factor signal](figures/corporate_anchor_model/03_held_out_factor_signal.png)
+
+![Policy realism screen](figures/corporate_anchor_model/04_policy_realism_screen.png)
+
 ## Files
 
 - `data/big_business_presence/fortune500_employment_normalized_corporate_anchor_outcome_2026.csv`
@@ -139,6 +152,12 @@ overview](https://www.investatlanta.com/about-us/tax-allocation-districts)
 - `data/big_business_presence/invest_atl_corporate_anchor_realism_overlay_2026.csv`
 - `scripts/build_fortune500_employment_normalized_anchor_outcome.py`
 - `scripts/build_invest_atl_corporate_anchor_realism_overlay.py`
+- `scripts/make_corporate_anchor_matplotlib_figures.py`
+- `figures/corporate_anchor_model/` — static PNG and SVG figures for slides:
+  model performance, held-out prediction check, factor signal, and policy
+  realism screen. Rebuild with
+  `python3 Artem/scripts/make_corporate_anchor_matplotlib_figures.py` from the
+  repository root.
 
 ## Guardrails
 
