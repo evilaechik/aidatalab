@@ -1,0 +1,72 @@
+{
+  "0": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 25
+    }
+  },
+  "1": {
+    "FOCUS_GLOBAL": {
+      "C": 0.1,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.1,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  },
+  "2": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  },
+  "3": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  },
+  "4": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  }
+}

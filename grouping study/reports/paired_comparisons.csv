@@ -1,0 +1,16 @@
+comparison,metric,difference,ci_low,ci_high,interpretation
+GROUPED minus EMP,mae,0.15248616615315846,-1.124280858524974,1.298697360339416,fixed-prediction whole-metro percentile interval
+GROUPED minus EMP,rmse,-0.44285479319978016,-2.5405237972259105,1.4159002306798818,fixed-prediction whole-metro percentile interval
+GROUPED minus EMP,log_loss,0.0003583009467315601,-0.0013615832427426376,0.002058178824820282,fixed-prediction whole-metro percentile interval
+GROUPED minus EMP,brier,2.76995279736153e-06,-0.00012170155348764059,0.00010112987738319936,fixed-prediction whole-metro percentile interval
+GROUPED minus EMP,poisson_deviance,-0.09861775124593386,-1.389323728679894,1.1553539916642537,fixed-prediction whole-metro percentile interval
+GROUPED minus R1_GLOBAL,mae,0.3919448657747475,0.02768290197909449,0.8382994060248781,fixed-prediction whole-metro percentile interval
+GROUPED minus R1_GLOBAL,rmse,0.5185135591838037,0.07732535913038883,1.020328512649285,fixed-prediction whole-metro percentile interval
+GROUPED minus R1_GLOBAL,log_loss,0.0004942477324765548,2.005504097963747e-05,0.001033407678509063,fixed-prediction whole-metro percentile interval
+GROUPED minus R1_GLOBAL,brier,2.3739920950921478e-05,-5.406329350618683e-06,5.6068855288146885e-05,fixed-prediction whole-metro percentile interval
+GROUPED minus R1_GLOBAL,poisson_deviance,0.48895921545711385,0.09408077518842813,0.9523538175791146,fixed-prediction whole-metro percentile interval
+GROUPED minus FOCUS_GLOBAL,mae,0.09721030740214687,-0.05628194246033051,0.29529176093512244,fixed-prediction whole-metro percentile interval
+GROUPED minus FOCUS_GLOBAL,rmse,0.17132997331607935,-0.042572139116465936,0.4700818741786627,fixed-prediction whole-metro percentile interval
+GROUPED minus FOCUS_GLOBAL,log_loss,0.00021557950798220538,-0.00014180278261249416,0.0006563964151988236,fixed-prediction whole-metro percentile interval
+GROUPED minus FOCUS_GLOBAL,brier,8.865949457290828e-06,-1.370571727692606e-05,3.482922938698214e-05,fixed-prediction whole-metro percentile interval
+GROUPED minus FOCUS_GLOBAL,poisson_deviance,0.14637116808900208,-0.03570873461009113,0.42200476355881167,fixed-prediction whole-metro percentile interval

@@ -1,0 +1,716 @@
+{
+  "protocol": "1.0",
+  "frozen_at_utc": "2026-11-27T17:42:25.984419+00:00",
+  "target": "reported_hq_presence",
+  "seed": 20261125,
+  "threads": 1,
+  "bootstrap_replicates": 2000,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0"
+  },
+  "counts": {
+    "companies": 498,
+    "development_metros": 49,
+    "full_metros": 50,
+    "development_positives": 420
+  },
+  "regression": {
+    "target": "reported_hq_presence",
+    "primary_predictors": [
+      "log_msa_private_employment",
+      "log_msa_population",
+      "log_msa_gdp",
+      "msa_private_employment_growth_q4_2023_2024",
+      "msa_population_growth_2023_2024",
+      "bachelors_plus_share_2024",
+      "log_median_household_income",
+      "log_median_gross_rent",
+      "transit_commute_share_2024",
+      "regional_price_parity_2024",
+      "log_msa_private_average_pay",
+      "private_establishments_per_1000_jobs",
+      "cbp_manufacturing_share_2023",
+      "cbp_retail_share_2023",
+      "cbp_transport_warehousing_share_2023",
+      "cbp_information_share_2023",
+      "cbp_finance_insurance_share_2023",
+      "cbp_professional_technical_share_2023",
+      "cbp_health_social_share_2023",
+      "soc_management_jobs_per_1000",
+      "soc_management_wage_us_relative",
+      "soc_business_financial_jobs_per_1000",
+      "soc_business_financial_wage_us_relative",
+      "soc_computer_math_jobs_per_1000",
+      "soc_computer_math_wage_us_relative",
+      "soc_architecture_engineering_jobs_per_1000",
+      "soc_architecture_engineering_wage_us_relative",
+      "soc_legal_jobs_per_1000",
+      "soc_legal_wage_us_relative",
+      "soc_office_admin_jobs_per_1000",
+      "soc_office_admin_wage_us_relative",
+      "log_company_revenue",
+      "log_company_workforce",
+      "company_broad_industry",
+      "ownership_listing_type_2025",
+      "tech_x_computer_math_intensity",
+      "financials_x_finance_share",
+      "health_care_x_health_share",
+      "industrial_x_manufacturing_share",
+      "cbp_management_employment_share_2023",
+      "bds_establishment_entry_rate_2023",
+      "bds_establishment_exit_rate_2023"
+    ],
+    "main_effect_predictors": [
+      "log_msa_private_employment",
+      "log_msa_population",
+      "log_msa_gdp",
+      "msa_private_employment_growth_q4_2023_2024",
+      "msa_population_growth_2023_2024",
+      "bachelors_plus_share_2024",
+      "log_median_household_income",
+      "log_median_gross_rent",
+      "transit_commute_share_2024",
+      "regional_price_parity_2024",
+      "log_msa_private_average_pay",
+      "private_establishments_per_1000_jobs",
+      "cbp_manufacturing_share_2023",
+      "cbp_retail_share_2023",
+      "cbp_transport_warehousing_share_2023",
+      "cbp_information_share_2023",
+      "cbp_finance_insurance_share_2023",
+      "cbp_professional_technical_share_2023",
+      "cbp_health_social_share_2023",
+      "soc_management_jobs_per_1000",
+      "soc_management_wage_us_relative",
+      "soc_business_financial_jobs_per_1000",
+      "soc_business_financial_wage_us_relative",
+      "soc_computer_math_jobs_per_1000",
+      "soc_computer_math_wage_us_relative",
+      "soc_architecture_engineering_jobs_per_1000",
+      "soc_architecture_engineering_wage_us_relative",
+      "soc_legal_jobs_per_1000",
+      "soc_legal_wage_us_relative",
+      "soc_office_admin_jobs_per_1000",
+      "soc_office_admin_wage_us_relative",
+      "log_company_revenue",
+      "log_company_workforce",
+      "company_broad_industry",
+      "ownership_listing_type_2025",
+      "cbp_management_employment_share_2023",
+      "bds_establishment_entry_rate_2023",
+      "bds_establishment_exit_rate_2023"
+    ],
+    "categorical_predictors": [
+      "company_broad_industry",
+      "ownership_listing_type_2025"
+    ],
+    "prohibited_predictors": [
+      "company_id",
+      "cbsa",
+      "reported_hq_presence",
+      "company",
+      "metro_name",
+      "split_role",
+      "validation_fold"
+    ],
+    "feature_set": "R1",
+    "regional_predictor_n": 34,
+    "added_predictors": [
+      "cbp_management_employment_share_2023",
+      "bds_establishment_entry_rate_2023",
+      "bds_establishment_exit_rate_2023"
+    ]
+  },
+  "regional_blocks": {
+    "size": [
+      "log_msa_private_employment"
+    ],
+    "workforce": [
+      "bachelors_plus_share_2024",
+      "soc_business_financial_jobs_per_1000",
+      "soc_computer_math_jobs_per_1000"
+    ],
+    "industry": [
+      "cbp_manufacturing_share_2023",
+      "cbp_retail_share_2023",
+      "cbp_transport_warehousing_share_2023",
+      "cbp_information_share_2023",
+      "cbp_finance_insurance_share_2023",
+      "cbp_professional_technical_share_2023",
+      "cbp_health_social_share_2023"
+    ],
+    "cost": [
+      "log_median_gross_rent",
+      "regional_price_parity_2024"
+    ],
+    "dynamics": [
+      "bds_establishment_entry_rate_2023",
+      "bds_establishment_exit_rate_2023"
+    ]
+  },
+  "company_fields": [
+    "log_company_revenue",
+    "log_company_workforce",
+    "company_broad_industry",
+    "ownership_listing_type_2025"
+  ],
+  "company_weights": {
+    "numeric": 0.4,
+    "industry": 0.5,
+    "listing": 0.1
+  },
+  "grid": [
+    {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    {
+      "C": 0.1,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    {
+      "C": 1.0,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 0.01,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 0.1,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 5,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 10,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 25
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 75
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.25,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.5,
+      "k_m": 20,
+      "k_c": 150
+    },
+    {
+      "C": 1.0,
+      "alpha": 0.75,
+      "k_m": 20,
+      "k_c": 150
+    }
+  ],
+  "logistic": {
+    "solver": "lbfgs",
+    "penalty": "l2",
+    "fit_intercept": true,
+    "max_iter": 1500,
+    "tol": 1e-08,
+    "class_weight": null
+  },
+  "distance": "unique-training-entity median imputation and population z scores; equal mean of five block MSEs",
+  "kernel": "normalized exp(-D_squared/(2*h_squared)); kth donor bandwidth, string-ID ties, zero fallback to minimum positive or 1",
+  "focus": {
+    "blocks": "primary five blocks",
+    "bandwidth_rank": 10,
+    "weight": "exp(-D_squared/(2*h_squared))",
+    "normalize": "once per pooled split context"
+  },
+  "support": {
+    "metro_min": 10,
+    "company_min": 25,
+    "validation_min": 15,
+    "action": "effective alpha=0 if donor support fails"
+  },
+  "alpha_zero_explanation": "Bandwidths are inapplicable; km=20,kc=150 supply diagnostic donor explanations only, with effective alpha zero",
+  "splits": "supplied whole-MSA folds; inner training excludes both inner and outer held-out folds; Atlanta covariates only",
+  "selection": "focus count MAE then company log loss, absolute tie tolerance 1e-10; smaller alpha, larger km, larger kc, smaller C; family order EMP,R1_GLOBAL,FOCUS_GLOBAL,GROUPED",
+  "probability_scoring": {
+    "log_loss_clip": [
+      1e-12,
+      0.999999999999
+    ],
+    "original_probabilities_for_counts_and_brier": true
+  },
+  "uncertainty": "2000 whole-metro paired fixed-prediction draws, seed 20261125; weighted first-reaching 90th absolute-residual quantile for heuristic Atlanta band",
+  "sensitivities": [
+    "New York removal with refits and original focus weights",
+    "49 leave-one-donor-metro refits",
+    "five block omissions",
+    "nine bandwidth pairs"
+  ],
+  "input_manifest_sha256": "7bd686f8a1488856be1e0b513277cd2c69713fad669600e748e0b6b7b21bb29e",
+  "deviations": []
+}

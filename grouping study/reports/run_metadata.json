@@ -1,0 +1,61 @@
+{
+  "completed_at_utc": "2026-11-27T17:42:44.777133+00:00",
+  "assessment_labels_loaded_at_utc": "2026-11-27T17:42:40.324001+00:00",
+  "elapsed_seconds": 13.67003095799737,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-15.7.3-arm64-arm-64bit",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0"
+  },
+  "seed": 20261125,
+  "threads": 1,
+  "threadpools": [
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libomp",
+      "filepath": "/Users/shanelarkin/Downloads/aidatalab/study_1/.training_runtime/sklearn/.dylibs/libomp.dylib",
+      "version": null
+    }
+  ],
+  "selected_procedure": "R1_GLOBAL",
+  "final_settings": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "R1_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  },
+  "distinct_global_fits": 100,
+  "failures": 0,
+  "input_manifest_sha256": "7bd686f8a1488856be1e0b513277cd2c69713fad669600e748e0b6b7b21bb29e",
+  "contract_sha256": "e25fe835c466ecdc722d4d5aebc8881fd7b640d1b45dd7e43323efe9b7bbd8bb",
+  "selection_sha256": "9db2890ac965794eadb0fd65a6fc67f90bc435e99044a801107801e5087ad75c",
+  "code_hashes": {
+    "run_study.py": "4b95d295d2a475a5a89a06266345231eeff09452e626e6c98fd6deaadb66122e",
+    "common.py": "7b0b8784d96868d252e097ec3c73928d016ac84553e2f3c96e6b931620db7169",
+    "report_results.py": "0523f0c499ce8774f12ecc2165b1c60d119118e539e6218aca4907edcb63de82",
+    "verify.py": "7e5ab9620f860ff03118c5d0975061e19d9a3bdc46dbe32b930623bdeeeeb681",
+    "prepare.py": "b29a823eb8b623d64212d7450b10f678f56943a4cac6153344ad4ecf6fb3ff6b"
+  }
+}

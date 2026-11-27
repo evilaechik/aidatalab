@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "FOCUS_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "GROUPED": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    },
+    "R1_GLOBAL": {
+      "C": 0.01,
+      "alpha": 0,
+      "k_m": 0,
+      "k_c": 0
+    }
+  },
+  "selected_procedure": "R1_GLOBAL",
+  "frozen_at_utc": "2026-11-27T17:42:38.659783+00:00",
+  "atlanta_labels_loaded_for_assessment": false
+}
