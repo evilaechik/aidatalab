@@ -1,0 +1,499 @@
+company_id,company,log_company_revenue,log_company_workforce,company_broad_industry,ownership_listing_type_2025
+f2025_001,Walmart,13.4312955585,14.5574479027,Retailing,public_at_publisher_valuation
+f2025_002,Amazon,13.3660292969,14.2576289837,Retailing,public_at_publisher_valuation
+f2025_003,UnitedHealth Group,12.8999145847,12.8992198261,Health Care,public_at_publisher_valuation
+f2025_004,Apple,12.876552349,12.0076217068,Technology,public_at_publisher_valuation
+f2025_005,CVS Health,12.8288215031,12.4665119816,Health Care,public_at_publisher_valuation
+f2025_006,Berkshire Hathaway,12.8251237769,12.8800370067,Financials,public_at_publisher_valuation
+f2025_007,Alphabet,12.7657398607,12.1190049033,Technology,public_at_publisher_valuation
+f2025_008,Exxon Mobil Holdings,12.7645020157,11.0169884537,Energy,public_at_publisher_valuation
+f2025_009,McKesson,12.6409379673,10.7789562899,Health Care,public_at_publisher_valuation
+f2025_010,Cencora,12.5911942201,10.6919449129,Health Care,public_at_publisher_valuation
+f2025_011,JPMorgan Chase,12.5386300865,12.6673917986,Financials,public_at_publisher_valuation
+f2025_012,Costco Wholesale,12.4468714221,12.715897769,Retailing,public_at_publisher_valuation
+f2025_013,Cigna Group,12.4176333742,11.1899339537,Health Care,public_at_publisher_valuation
+f2025_014,Microsoft,12.4095113248,12.3371009079,Technology,public_at_publisher_valuation
+f2025_015,Cardinal Health,12.3319428914,10.7874823396,Health Care,public_at_publisher_valuation
+f2025_016,Chevron,12.2199361022,10.7210181604,Energy,public_at_publisher_valuation
+f2025_017,Bank of America,12.1675085168,12.2699531377,Financials,public_at_publisher_valuation
+f2025_018,General Motors,12.1412247432,11.9953516142,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_019,Ford Motor,12.1280678599,12.0494188355,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_020,Elevance Health,12.0839671565,11.5490548665,Health Care,public_at_publisher_valuation
+f2025_021,Citigroup,12.0479967722,12.3364647407,Financials,public_at_publisher_valuation
+f2025_022,Meta Platforms,12.0106719282,11.212725368,Technology,public_at_publisher_valuation
+f2025_023,Centene,12.0019409678,11.010398644,Health Care,public_at_publisher_valuation
+f2025_024,Home Depot,11.9798869716,13.060700717,Retailing,public_at_publisher_valuation
+f2025_025,Fannie Mae,11.9360340083,9.01188943325,Financials,public_at_publisher_valuation
+f2025_026,Walgreens Boots Alliance,11.9026540679,12.4391665277,Food & Drug Stores,public_at_publisher_valuation
+f2025_027,Kroger,11.8990242506,12.921470435,Food & Drug Stores,public_at_publisher_valuation
+f2025_028,Phillips 66,11.8879038738,9.48797210857,Energy,public_at_publisher_valuation
+f2025_029,Marathon Petroleum,11.852336237,9.81465633883,Energy,public_at_publisher_valuation
+f2025_030,Verizon Communications,11.8114584527,11.5089174436,Telecommunications,public_at_publisher_valuation
+f2025_031,Nvidia,11.779105517,10.4912742174,Technology,public_at_publisher_valuation
+f2025_032,Goldman Sachs Group,11.7507842147,10.7472075916,Financials,public_at_publisher_valuation
+f2025_033,Wells Fargo,11.7392399834,12.2899633249,Financials,public_at_publisher_valuation
+f2025_034,Valero Energy,11.7278271452,9.20129962732,Energy,public_at_publisher_valuation
+f2025_035,Comcast,11.7258651333,12.1117619661,Telecommunications,public_at_publisher_valuation
+f2025_036,State Farm Insurance,11.719541181,11.118118358,Financials,mutual
+f2025_037,AT&T,11.7145266365,11.8564442449,Telecommunications,public_at_publisher_valuation
+f2025_038,Freddie Mac,11.7122024624,8.99838401005,Financials,public_at_publisher_valuation
+f2025_039,Humana,11.6764124258,11.0925497441,Health Care,public_at_publisher_valuation
+f2025_040,Morgan Stanley,11.5832441239,11.2957391341,Financials,public_at_publisher_valuation
+f2025_041,Target,11.5765197905,12.9945300059,Retailing,public_at_publisher_valuation
+f2025_042,StoneX Group,11.5118028351,8.41183267576,Financials,public_at_publisher_valuation
+f2025_043,Tesla,11.4895544786,11.7413749151,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_044,Dell Technologies,11.4675828512,11.5898865061,Technology,public_at_publisher_valuation
+f2025_045,PepsiCo,11.427955639,12.6729463818,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_046,Walt Disney,11.4225739705,12.230960361,Media,public_at_publisher_valuation
+f2025_047,UPS,11.4193837206,12.8271328872,Transportation,public_at_publisher_valuation
+f2025_048,Johnson & Johnson,11.3943783875,11.8357333394,Health Care,public_at_publisher_valuation
+f2025_049,FedEx,11.3815973576,12.9529975318,Transportation,public_at_publisher_valuation
+f2025_050,Archer Daniels Midland,11.3566224706,10.6738966549,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_051,Procter & Gamble,11.3390362558,11.5898865061,Household Products,public_at_publisher_valuation
+f2025_052,Lowe's,11.334683575,12.2807161885,Retailing,public_at_publisher_valuation
+f2025_053,Energy Transfer,11.3226241545,9.69572510326,Energy,public_at_publisher_valuation
+f2025_054,RTX,11.2989646232,12.1335019527,Aerospace & Defense,public_at_publisher_valuation
+f2025_055,Albertsons,11.2802074746,12.1891807779,Food & Drug Stores,public_at_publisher_valuation
+f2025_056,Sysco,11.2752264956,11.2384886193,Wholesalers,public_at_publisher_valuation
+f2025_057,Progressive,11.2301911322,11.1020658325,Financials,public_at_publisher_valuation
+f2025_058,American Express,11.2145329062,11.2265758378,Financials,public_at_publisher_valuation
+f2025_059,Lockheed Martin,11.1710406065,11.7035458246,Aerospace & Defense,public_at_publisher_valuation
+f2025_060,MetLife,11.1702379535,10.7144177688,Financials,public_at_publisher_valuation
+f2025_061,HCA Healthcare,11.1648279155,12.5098740999,Health Care,public_at_publisher_valuation
+f2025_062,Prudential Financial,11.1620195624,10.5436558083,Financials,public_at_publisher_valuation
+f2025_063,Boeing,11.1052128331,12.0552497558,Aerospace & Defense,public_at_publisher_valuation
+f2025_064,Caterpillar,11.0791997616,11.6342577501,Industrials,public_at_publisher_valuation
+f2025_065,Merck,11.069259923,11.2118203722,Health Care,public_at_publisher_valuation
+f2025_066,Allstate,11.0682932423,10.9187182323,Financials,public_at_publisher_valuation
+f2025_067,Pfizer,11.0607931875,11.3022044337,Health Care,public_at_publisher_valuation
+f2025_068,International Business Machines,11.0469616646,12.5584885325,Technology,public_at_publisher_valuation
+f2025_069,New York Life Insurance,11.0451465592,9.62450089845,Financials,mutual
+f2025_070,Delta Air Lines,11.0291149579,11.5424842672,Transportation,public_at_publisher_valuation
+f2025_071,Publix Super Markets,11.0050454985,12.4490188241,Food & Drug Stores,unknown_private_or_other
+f2025_072,Nationwide,10.9792729454,10.0191795145,Financials,mutual
+f2025_073,TD Synnex,10.9759680268,10.1561899061,Wholesalers,public_at_publisher_valuation
+f2025_074,United Airlines Holdings,10.9519111996,11.5833839286,Transportation,public_at_publisher_valuation
+f2025_075,ConocoPhillips,10.9499816453,9.37585481045,Energy,public_at_publisher_valuation
+f2025_076,TJX,10.939514966,12.8049091466,Retailing,public_at_publisher_valuation
+f2025_077,AbbVie,10.9390535395,10.9150884642,Health Care,public_at_publisher_valuation
+f2025_078,Enterprise Products Partners,10.937010057,8.96187901268,Energy,public_at_publisher_valuation
+f2025_079,Charter Communications,10.9166327258,11.4563551135,Telecommunications,public_at_publisher_valuation
+f2025_080,Performance Food Group,10.9092752365,10.5136606498,Wholesalers,public_at_publisher_valuation
+f2025_081,American Airlines Group,10.9006391189,11.8003575062,Transportation,public_at_publisher_valuation
+f2025_082,Capital One Financial,10.8955905178,10.8704713987,Financials,public_at_publisher_valuation
+f2025_083,Cisco Systems,10.8930845067,11.4119995464,Technology,public_at_publisher_valuation
+f2025_084,HP,10.888539129,10.9681982895,Technology,public_at_publisher_valuation
+f2025_085,Tyson Foods,10.8838604514,11.8350089641,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_086,Intel,10.8799510394,11.5981853089,Technology,public_at_publisher_valuation
+f2025_087,Oracle,10.8773110726,11.9766594812,Technology,public_at_publisher_valuation
+f2025_088,Broadcom,10.8672723709,10.5186731916,Technology,public_at_publisher_valuation
+f2025_089,Deere,10.8535224904,10.9245706387,Industrials,public_at_publisher_valuation
+f2025_090,Nike,10.8466538784,11.2822536472,Apparel,public_at_publisher_valuation
+f2025_091,Liberty Mutual Insurance Group,10.8283216854,10.5966347331,Financials,unknown_private_or_other
+f2025_092,Plains GP Holdings,10.8212372196,8.34283980427,Energy,public_at_publisher_valuation
+f2025_093,United Services Automobile Assn.,10.7905554257,10.5458150108,Financials,unknown_private_or_other
+f2025_094,Bristol-Myers Squibb,10.7851868396,10.4370526633,Health Care,public_at_publisher_valuation
+f2025_095,Ingram Micro Holding,10.7786166489,10.1706479893,Wholesalers,public_at_publisher_valuation
+f2025_096,General Dynamics,10.7730220504,11.6699292138,Aerospace & Defense,public_at_publisher_valuation
+f2025_097,Coca-Cola,10.7591999115,11.1519555967,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_098,TIAA,10.7567490238,9.65649946641,Financials,mutual
+f2025_099,Travelers,10.7455503051,10.4341158036,Financials,public_at_publisher_valuation
+f2025_100,Eli Lilly,10.7153662077,10.7579028807,Health Care,public_at_publisher_valuation
+f2025_101,Uber Technologies,10.6914447879,10.3449630982,Technology,public_at_publisher_valuation
+f2025_102,Massachusetts Mutual Life Insurance,10.670628413,9.32295451635,Financials,mutual
+f2025_103,Dow,10.6681178347,10.4912742174,Chemicals,public_at_publisher_valuation
+f2025_104,Thermo Fisher Scientific,10.6661374746,11.7360690163,Technology,public_at_publisher_valuation
+f2025_105,U.S. Bancorp,10.6622351902,11.1600006235,Financials,public_at_publisher_valuation
+f2025_106,World Kinect,10.6494169185,8.46484671104,Energy,public_at_publisher_valuation
+f2025_107,Abbott Laboratories,10.6442337119,11.6439537274,Health Care,public_at_publisher_valuation
+f2025_108,Best Buy,10.6341231775,11.3504065355,Retailing,public_at_publisher_valuation
+f2025_109,Northwestern Mutual,10.632122526,9.01784725986,Financials,mutual
+f2025_110,Northrop Grumman,10.6221319,11.4824662575,Aerospace & Defense,public_at_publisher_valuation
+f2025_111,Molina Healthcare,10.612754115,9.79812703688,Health Care,public_at_publisher_valuation
+f2025_112,Dollar General,10.6118262554,12.1766438348,Retailing,public_at_publisher_valuation
+f2025_113,Bank of New York (BNY),10.5944824185,10.8551454282,Financials,public_at_publisher_valuation
+f2025_114,Warner Bros. Discovery,10.5795140063,10.4631033405,Media,public_at_publisher_valuation
+f2025_115,CHS,10.5779920328,9.28079883562,"Food, Beverages & Tobacco",unknown_private_or_other
+f2025_116,Netflix,10.5713425658,9.5468126086,Media,public_at_publisher_valuation
+f2025_117,Qualcomm,10.5703420911,10.7995755771,Technology,public_at_publisher_valuation
+f2025_118,GE Aerospace,10.5636465573,10.8780471925,Aerospace & Defense,public_at_publisher_valuation
+f2025_119,Honeywell Technologies,10.5583615709,11.5327280923,Industrials,public_at_publisher_valuation
+f2025_120,Salesforce,10.5425744562,11.2444314519,Technology,public_at_publisher_valuation
+f2025_121,Philip Morris International,10.5421257476,11.3277999808,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_122,US Foods Holding,10.5420993467,10.3089526606,Wholesalers,public_at_publisher_valuation
+f2025_123,D.R. Horton,10.5132911669,9.60008251962,Engineering & Construction,public_at_publisher_valuation
+f2025_124,Lithia Motors,10.5080930949,10.3144044393,Retailing,public_at_publisher_valuation
+f2025_125,Mondelēz International,10.5034497934,11.4075649493,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_126,Starbucks,10.496156723,12.7966332373,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_127,Visa,10.4892165463,10.3609123996,Business Services,public_at_publisher_valuation
+f2025_128,CBRE Group,10.4847809596,11.8493977016,Financials,public_at_publisher_valuation
+f2025_129,Lennar Corporation,10.4756387289,9.49288426657,Engineering & Construction,public_at_publisher_valuation
+f2025_130,GE Vernova,10.461244471,11.2489599191,Energy,public_at_publisher_valuation
+f2025_131,PNC Financial Services Group,10.4469739585,10.9047626083,Financials,public_at_publisher_valuation
+f2025_132,Cummins,10.4371113126,11.1505198463,Industrials,public_at_publisher_valuation
+f2025_133,Paccar,10.424178355,10.3122804507,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_134,Amgen,10.4170294838,10.2399597892,Health Care,public_at_publisher_valuation
+f2025_135,PBF Energy,10.4077506902,8.257126286,Energy,public_at_publisher_valuation
+f2025_136,GuideWell Mutual Holding,10.4028982735,9.79456514531,Financials,unknown_private_or_other
+f2025_137,PayPal Holdings,10.3671272247,10.1023384113,Business Services,public_at_publisher_valuation
+f2025_138,United Natural Foods,10.341097114,10.251782482,Wholesalers,public_at_publisher_valuation
+f2025_139,Dollar Tree,10.3367493936,11.8463358761,Retailing,public_at_publisher_valuation
+f2025_140,Nucor,10.3331248126,10.3951303569,Materials,public_at_publisher_valuation
+f2025_141,Penske Automotive Group,10.3240120303,10.2729108893,Retailing,public_at_publisher_valuation
+f2025_142,Coupang,10.3178463278,11.4616321706,Retailing,public_at_publisher_valuation
+f2025_143,Hewlett Packard Enterprise,10.3131770586,11.0186291432,Technology,public_at_publisher_valuation
+f2025_144,Duke Energy,10.3068838555,10.1816115922,Energy,public_at_publisher_valuation
+f2025_145,KKR,10.304958026,8.48342956126,Financials,public_at_publisher_valuation
+f2025_146,Ferguson Enterprises,10.2967113742,10.4631033405,Wholesalers,public_at_publisher_valuation
+f2025_147,Paramount Skydance,10.2823690947,9.92083619087,Media,public_at_publisher_valuation
+f2025_148,Jabil,10.2710084657,11.8350089641,Technology,public_at_publisher_valuation
+f2025_149,Gilead Sciences,10.266532167,9.77565418103,Health Care,public_at_publisher_valuation
+f2025_150,HF Sinclair,10.2604624515,8.57489590154,Energy,public_at_publisher_valuation
+f2025_151,CarMax,10.2475523214,10.3034709971,Retailing,public_at_publisher_valuation
+f2025_152,Mastercard,10.2459063589,10.4716382429,Business Services,public_at_publisher_valuation
+f2025_153,NRG Energy,10.2445919015,9.65739517984,Energy,public_at_publisher_valuation
+f2025_154,Arrow Electronics,10.2372167447,9.97673801428,Wholesalers,public_at_publisher_valuation
+f2025_155,Baker Hughes,10.2338339214,10.9508065468,Energy,public_at_publisher_valuation
+f2025_156,Southwest Airlines,10.2213229107,11.1906519477,Transportation,public_at_publisher_valuation
+f2025_157,AIG,10.2128454967,10.0078475679,Financials,public_at_publisher_valuation
+f2025_158,Applied Materials,10.2100895098,10.4829059678,Technology,public_at_publisher_valuation
+f2025_159,Occidental Petroleum,10.1991377946,9.49724714396,Energy,public_at_publisher_valuation
+f2025_160,AutoNation,10.1948652876,10.1306231251,Retailing,public_at_publisher_valuation
+f2025_161,Southern,10.193317317,10.256149455,Energy,public_at_publisher_valuation
+f2025_162,Hartford Insurance Group,10.1862198953,9.85744361403,Financials,public_at_publisher_valuation
+f2025_163,Apollo Global Management,10.1758783064,8.53856321715,Financials,public_at_publisher_valuation
+f2025_164,Charles Schwab,10.1658133547,10.3766113091,Financials,public_at_publisher_valuation
+f2025_165,McDonald's,10.1627701505,11.9183905731,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_166,Kraft Heinz,10.1599111291,10.4912742174,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_167,Advanced Micro Devices,10.1575482065,10.2399597892,Technology,public_at_publisher_valuation
+f2025_168,Truist Financial,10.1508162706,10.5334819181,Financials,public_at_publisher_valuation
+f2025_169,Freeport-McMoRan,10.1446674663,10.2576593663,Energy,public_at_publisher_valuation
+f2025_170,Micron Technology,10.1310612761,10.7789562899,Technology,public_at_publisher_valuation
+f2025_171,Marriott International,10.1306231251,11.9511803959,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_172,Carrier Global,10.1189617695,10.7789562899,Industrials,public_at_publisher_valuation
+f2025_173,NextEra Energy,10.1167019728,9.72913416539,Energy,public_at_publisher_valuation
+f2025_174,3M,10.109484945,11.0267924538,Chemicals,public_at_publisher_valuation
+f2025_175,Marsh & McLennan,10.1047126397,11.4075649493,Financials,public_at_publisher_valuation
+f2025_176,PG&E,10.1031167968,10.2544964748,Energy,public_at_publisher_valuation
+f2025_177,Union Pacific,10.0961718964,10.3871166816,Transportation,public_at_publisher_valuation
+f2025_178,Synchrony,10.0927019656,9.90348755254,Financials,public_at_publisher_valuation
+f2025_179,Block,10.0908422551,9.33890947277,Business Services,public_at_publisher_valuation
+f2025_180,Danaher,10.0805871653,11.034889664,Health Care,public_at_publisher_valuation
+f2025_181,Avnet,10.0756367122,9.64614067988,Wholesalers,public_at_publisher_valuation
+f2025_182,Booking Holdings,10.0748745443,10.0932397668,Technology,public_at_publisher_valuation
+f2025_183,EOG Resources,10.0731459354,8.05515773182,Energy,public_at_publisher_valuation
+f2025_184,Quanta Services,10.0720819887,10.9750711688,Engineering & Construction,public_at_publisher_valuation
+f2025_185,Discover,10.0704416322,9.95227771671,Financials,public_at_publisher_valuation
+f2025_186,Constellation Energy,10.0676451387,9.56381018497,Energy,public_at_publisher_valuation
+f2025_187,Genuine Parts,10.0641853247,11.0508900054,Wholesalers,public_at_publisher_valuation
+f2025_188,Jones Lang LaSalle,10.0618962968,11.6271466091,Financials,public_at_publisher_valuation
+f2025_189,Lear,10.0564661171,12.0650849522,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_190,Live Nation Entertainment,10.0499919309,10.0941079121,Media,public_at_publisher_valuation
+f2025_191,Sherwin-Williams,10.0475229593,11.0649181336,Chemicals,public_at_publisher_valuation
+f2025_192,Exelon,10.0444661458,9.90418730765,Energy,public_at_publisher_valuation
+f2025_193,Macy's,10.0435103305,11.4530586809,Retailing,public_at_publisher_valuation
+f2025_194,Halliburton,10.0408117434,10.7789562899,Energy,public_at_publisher_valuation
+f2025_195,Stryker,10.0254839218,10.8780471925,Health Care,public_at_publisher_valuation
+f2025_196,Reinsurance Group of America,10.0036495794,8.31874225269,Financials,public_at_publisher_valuation
+f2025_197,Waste Management,10.0016572763,11.0300392099,Business Services,public_at_publisher_valuation
+f2025_198,State Street,10.0012492703,10.8709655732,Financials,public_at_publisher_valuation
+f2025_199,WESCO International,9.99052726246,9.90348755254,Wholesalers,public_at_publisher_valuation
+f2025_200,Oneok,9.98497536938,8.5519810169,Energy,public_at_publisher_valuation
+f2025_201,Adobe,9.97604074522,10.3323110502,Technology,public_at_publisher_valuation
+f2025_202,American Family Insurance Group,9.96831040825,9.3122649917,Financials,unknown_private_or_other
+f2025_203,L3Harris Technologies,9.96763537236,10.7579028807,Aerospace & Defense,public_at_publisher_valuation
+f2025_204,Ross Stores,9.95841124903,11.5805841134,Retailing,public_at_publisher_valuation
+f2025_205,CDW,9.95221581003,9.6224500228,Technology,public_at_publisher_valuation
+f2025_206,Tenet Healthcare,9.93619672695,11.3648893861,Health Care,public_at_publisher_valuation
+f2025_207,BJ's Wholesale Club,9.92826796615,10.4042628404,Retailing,public_at_publisher_valuation
+f2025_208,Fiserv,9.92603151697,10.5453414387,Business Services,public_at_publisher_valuation
+f2025_209,Altria Group,9.92544471989,8.73230457103,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_210,BlackRock,9.92363325823,9.95702831946,Financials,public_at_publisher_valuation
+f2025_211,Becton Dickinson,9.91234818097,11.2118203722,Health Care,public_at_publisher_valuation
+f2025_212,Colgate-Palmolive,9.90852484405,10.4341158036,Household Products,public_at_publisher_valuation
+f2025_213,Kimberly-Clark,9.90638335565,10.5453414387,Household Products,public_at_publisher_valuation
+f2025_214,Group 1 Automotive,9.90019714508,9.92392723177,Retailing,public_at_publisher_valuation
+f2025_215,Parker-Hannifin,9.89996134276,11.0205944238,Industrials,public_at_publisher_valuation
+f2025_216,General Mills,9.89632194075,10.4341158036,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_217,Cognizant Technology Solutions,9.89019965821,12.7272445614,Technology,public_at_publisher_valuation
+f2025_218,American Electric Power,9.8894545489,9.70075918596,Energy,public_at_publisher_valuation
+f2025_219,GE HealthCare,9.8869515839,10.8780471925,Health Care,public_at_publisher_valuation
+f2025_220,Automatic Data Processing,9.86280096551,11.0666383623,Business Services,public_at_publisher_valuation
+f2025_221,Cleveland-Cliffs,9.86188400268,10.3089526606,Materials,public_at_publisher_valuation
+f2025_222,Aflac,9.84834475304,9.44888471987,Financials,public_at_publisher_valuation
+f2025_223,Goodyear Tire & Rubber,9.84575250188,11.1272629842,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_224,Corebridge Financial,9.84060099948,8.55641390457,Financials,public_at_publisher_valuation
+f2025_225,Newmont,9.83531577243,10.0078475679,Energy,public_at_publisher_valuation
+f2025_226,International Paper,9.8319378437,10.5186731916,Materials,public_at_publisher_valuation
+f2025_227,AutoZone,9.82500154924,11.5208936346,Retailing,public_at_publisher_valuation
+f2025_228,Lincoln National,9.8223859511,9.18840146446,Financials,public_at_publisher_valuation
+f2025_229,PulteGroup,9.79517824903,8.82364794919,Engineering & Construction,public_at_publisher_valuation
+f2025_230,Ameriprise Financial,9.79400745192,9.51782507172,Financials,public_at_publisher_valuation
+f2025_231,Murphy USA,9.79308099366,9.35444071595,Retailing,public_at_publisher_valuation
+f2025_232,ManpowerGroup,9.78997725074,10.1924188444,Business Services,public_at_publisher_valuation
+f2025_233,C.H. Robinson Worldwide,9.7827313514,9.53104611088,Transportation,public_at_publisher_valuation
+f2025_234,PPG Industries,9.78261851006,10.7363966755,Chemicals,public_at_publisher_valuation
+f2025_235,Edison International,9.77559736123,9.54774074917,Energy,public_at_publisher_valuation
+f2025_236,Steel Dynamics,9.77226207068,9.47270463644,Materials,public_at_publisher_valuation
+f2025_237,Loews,9.77052742528,9.47270463644,Financials,public_at_publisher_valuation
+f2025_238,Emerson Electric,9.76949891253,11.1982147201,Industrials,public_at_publisher_valuation
+f2025_239,Aramark,9.76426571428,12.4938047167,Business Services,public_at_publisher_valuation
+f2025_240,MGM Resorts International,9.75501654612,11.1418617836,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_241,Vistra,9.75405903904,8.83200393126,Energy,public_at_publisher_valuation
+f2025_242,Asbury Automotive Group,9.75200165236,9.61580548008,Retailing,public_at_publisher_valuation
+f2025_243,W.W. Grainger,9.75080246487,10.1266311039,Wholesalers,public_at_publisher_valuation
+f2025_244,Global Partners,9.75054614125,8.25140306538,Energy,public_at_publisher_valuation
+f2025_245,Jacobs Solutions,9.73943214915,10.6930806314,Business Services,public_at_publisher_valuation
+f2025_246,Corteva,9.73554216169,9.99879773234,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_247,Peter Kiewit Sons',9.7313935159,10.3672215688,Engineering & Construction,unknown_private_or_other
+f2025_248,Boston Scientific,9.72597441673,10.8780471925,Health Care,public_at_publisher_valuation
+f2025_249,O'Reilly Automotive,9.72367285095,11.3571952049,Retailing,public_at_publisher_valuation
+f2025_250,Leidos Holdings,9.72088595653,10.7789562899,Technology,public_at_publisher_valuation
+f2025_251,Markel Group,9.71841020203,9.99879773234,Financials,public_at_publisher_valuation
+f2025_252,Whirlpool,9.71757957221,10.6919449129,Industrials,public_at_publisher_valuation
+f2025_253,Guardian Life Ins. Co. of America,9.70935653778,8.91891797991,Financials,mutual
+f2025_254,Builders FirstSource,9.70506710115,10.275051109,Materials,public_at_publisher_valuation
+f2025_255,Ally Financial,9.70436565706,9.27799902045,Financials,public_at_publisher_valuation
+f2025_256,Targa Resources,9.70390792831,8.12266802335,Energy,public_at_publisher_valuation
+f2025_257,Fluor,9.69984020903,10.1986168256,Engineering & Construction,public_at_publisher_valuation
+f2025_258,Intuit,9.69799971771,10.0941079121,Technology,public_at_publisher_valuation
+f2025_259,AECOM,9.69791988646,10.8395809117,Engineering & Construction,public_at_publisher_valuation
+f2025_260,Jones Financial (Edward Jones),9.69627886423,10.9150884642,Financials,unknown_private_or_other
+f2025_261,Kohl's,9.69406197805,11.0020998412,Retailing,public_at_publisher_valuation
+f2025_262,Land O'Lakes,9.69318618624,9.10497985632,"Food, Beverages & Tobacco",unknown_private_or_other
+f2025_263,Principal Financial,9.68829356951,9.88837391473,Financials,public_at_publisher_valuation
+f2025_264,Dominion Energy,9.68470945873,9.59560277277,Energy,public_at_publisher_valuation
+f2025_265,Kyndryl Holdings,9.68358873139,11.2897819137,Technology,public_at_publisher_valuation
+f2025_266,Republic Services,9.68234200388,10.6454248973,Business Services,public_at_publisher_valuation
+f2025_267,Devon Energy,9.67658695234,7.74066440192,Energy,public_at_publisher_valuation
+f2025_268,Illinois Tool Works,9.67394859413,10.6919449129,Industrials,public_at_publisher_valuation
+f2025_269,Northern Trust,9.67253861832,10.0562086396,Financials,public_at_publisher_valuation
+f2025_270,Auto-Owners Insurance,9.67023053206,8.89959435993,Financials,mutual
+f2025_271,Universal Health Services,9.66952948457,11.3793940723,Health Care,public_at_publisher_valuation
+f2025_272,Pacific Life,9.66947262133,8.3742461821,Financials,unknown_private_or_other
+f2025_273,EchoStar,9.66937784209,9.52515111182,Telecommunications,public_at_publisher_valuation
+f2025_274,Ecolab,9.66404946338,10.7789562899,Chemicals,public_at_publisher_valuation
+f2025_275,Cheniere Energy,9.66160705588,7.44658509916,Energy,public_at_publisher_valuation
+f2025_276,Omnicom Group,9.66072148271,11.2239091695,Business Services,public_at_publisher_valuation
+f2025_277,Texas Instruments,9.65765095067,10.4341158036,Technology,public_at_publisher_valuation
+f2025_278,United States Steel,9.6575870141,10.001203926,Materials,public_at_publisher_valuation
+f2025_279,Estée Lauder,9.6555388823,10.878235854,Household Products,public_at_publisher_valuation
+f2025_280,Farmers Insurance Exchange,9.64577843603,9.20119871406,Financials,mutual
+f2025_281,Kenvue,9.64568785457,9.99879773234,Household Products,public_at_publisher_valuation
+f2025_282,IQVIA Holdings,9.64244741103,11.3850920935,Health Care,public_at_publisher_valuation
+f2025_283,Stanley Black & Decker,9.63989303161,10.7893190769,Industrials,public_at_publisher_valuation
+f2025_284,Keurig Dr Pepper,9.63893589747,10.2887499533,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_285,United Rentals,9.63854496705,10.2363819678,Retailing,public_at_publisher_valuation
+f2025_286,Consolidated Edison,9.63272814728,9.62225132757,Energy,public_at_publisher_valuation
+f2025_287,Amphenol,9.63054301384,11.7360690163,Technology,public_at_publisher_valuation
+f2025_288,Baxter International,9.62568980216,10.5453414387,Health Care,public_at_publisher_valuation
+f2025_289,Kinder Morgan,9.6224500228,9.29954101743,Energy,public_at_publisher_valuation
+f2025_290,Gap,9.62152244041,11.3144745262,Retailing,public_at_publisher_valuation
+f2025_291,Nordstrom,9.61687157827,10.6213273457,Retailing,public_at_publisher_valuation
+f2025_292,Super Micro Computer,9.61509189221,8.64541048922,Technology,public_at_publisher_valuation
+f2025_293,First Citizens BancShares,9.61366986795,9.76036747794,Financials,public_at_publisher_valuation
+f2025_294,Raymond James Financial,9.61065892593,9.85219425815,Financials,public_at_publisher_valuation
+f2025_295,Lam Research,9.60947884238,9.76709492763,Technology,public_at_publisher_valuation
+f2025_296,Tractor Supply,9.60798833903,10.5713169251,Retailing,public_at_publisher_valuation
+f2025_297,Casey's General Stores,9.60662345401,10.4087074938,Retailing,public_at_publisher_valuation
+f2025_298,Viatris,9.59827267479,10.3734911818,Health Care,public_at_publisher_valuation
+f2025_299,Mutual of Omaha,9.59029620078,8.78446845409,Financials,mutual
+f2025_300,Emcor Group,9.58645219006,10.6065850639,Engineering & Construction,public_at_publisher_valuation
+f2025_301,CSX,9.58465875109,10.0662864428,Transportation,public_at_publisher_valuation
+f2025_302,LKQ,9.57185359256,10.7579028807,Wholesalers,public_at_publisher_valuation
+f2025_303,Otis Worldwide,9.56528381774,11.184421398,Industrials,public_at_publisher_valuation
+f2025_304,Sonic Automotive,9.56270704864,9.28730141311,Retailing,public_at_publisher_valuation
+f2025_305,S&P Global,9.56156046523,10.6537237001,Business Services,public_at_publisher_valuation
+f2025_306,Regeneron Pharmaceuticals,9.56113807874,9.62284729487,Health Care,public_at_publisher_valuation
+f2025_307,BorgWarner,9.55293667531,10.5532051752,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_308,Fox,9.54538301579,9.23014299927,Media,public_at_publisher_valuation
+f2025_309,Reliance,9.53495689222,9.68346412856,Materials,public_at_publisher_valuation
+f2025_310,Western & Southern Financial Group,9.53018949272,7.91717198885,Financials,mutual
+f2025_311,Textron,9.52529708656,10.4341158036,Aerospace & Defense,public_at_publisher_valuation
+f2025_312,Expedia Group,9.52449396163,9.71111565989,Technology,public_at_publisher_valuation
+f2025_313,Fidelity National Financial,9.52376328792,10.0661589704,Financials,public_at_publisher_valuation
+f2025_314,Carvana,9.52317836431,9.7642254852,Retailing,public_at_publisher_valuation
+f2025_315,DXC Technology,9.52273944696,11.7752897294,Technology,public_at_publisher_valuation
+f2025_316,W.R. Berkley,9.52067395099,9.0602149134,Financials,public_at_publisher_valuation
+f2025_317,M&T Bank,9.50695740849,10.0033781354,Financials,public_at_publisher_valuation
+f2025_318,Dick's Sporting Goods,9.50619892571,10.5280881906,Retailing,public_at_publisher_valuation
+f2025_319,Xcel Energy,9.50606501607,9.33961270768,Energy,public_at_publisher_valuation
+f2025_320,Fifth Third Bancorp,9.49363784611,9.83177670498,Financials,public_at_publisher_valuation
+f2025_321,Blackstone,9.49024225711,8.49596955496,Financials,public_at_publisher_valuation
+f2025_322,Sempra,9.48683509879,9.72752572969,Energy,public_at_publisher_valuation
+f2025_323,Erie Insurance Group,9.48622057554,8.81685324063,Financials,mutual
+f2025_324,Corning,9.48174061185,10.9384498141,Industrials,public_at_publisher_valuation
+f2025_325,Lumen Technologies,9.48097800982,10.1266311039,Telecommunications,public_at_publisher_valuation
+f2025_326,FirstEnergy,9.47600687037,9.41686661747,Energy,public_at_publisher_valuation
+f2025_327,Hess,9.47408829413,7.49387388678,Energy,public_at_publisher_valuation
+f2025_328,Labcorp Holdings,9.47338901759,11.0890417713,Health Care,public_at_publisher_valuation
+f2025_329,Western Digital,9.47293537905,10.8395809117,Technology,public_at_publisher_valuation
+f2025_330,Unum Group,9.46399760929,9.30091207016,Financials,public_at_publisher_valuation
+f2025_331,DaVita,9.45841845783,11.2384886193,Health Care,public_at_publisher_valuation
+f2025_332,Kellanova,9.45320811614,10.0858091093,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_333,Henry Schein,9.44722902508,10.1266311039,Health Care,public_at_publisher_valuation
+f2025_334,Ryder System,9.44430516192,10.8336811896,Transportation,public_at_publisher_valuation
+f2025_335,Community Health Systems,9.44414687146,10.8685684486,Health Care,public_at_publisher_valuation
+f2025_336,Delek US Holdings,9.43061581419,7.59438124255,Energy,public_at_publisher_valuation
+f2025_337,DTE Energy,9.43003799289,9.15904707759,Energy,public_at_publisher_valuation
+f2025_338,Equitable Holdings,9.42843117965,9.23989917422,Financials,public_at_publisher_valuation
+f2025_339,DuPont,9.4243220815,10.0858091093,Chemicals,public_at_publisher_valuation
+f2025_340,LPL Financial Holdings,9.42424941617,9.10497985632,Financials,public_at_publisher_valuation
+f2025_341,Citizens Financial Group,9.42238253022,9.75771005292,Financials,public_at_publisher_valuation
+f2025_342,MasTec,9.41763905373,10.3734911818,Engineering & Construction,public_at_publisher_valuation
+f2025_343,AES,9.41556432199,9.1160296925,Energy,public_at_publisher_valuation
+f2025_344,Berry Global Group,9.41393406405,10.6454248973,Materials,public_at_publisher_valuation
+f2025_345,Westlake,9.40442579569,9.65117262392,Chemicals,public_at_publisher_valuation
+f2025_346,Norfolk Southern,9.40285975375,9.88328484522,Transportation,public_at_publisher_valuation
+f2025_347,Air Products & Chemicals,9.40101031713,10.0179316869,Chemicals,public_at_publisher_valuation
+f2025_348,J.B. Hunt Transport Services,9.39990232043,10.4236494573,Transportation,public_at_publisher_valuation
+f2025_349,Ball,9.39731774031,9.68034400122,Materials,public_at_publisher_valuation
+f2025_350,Conagra Brands,9.39689462493,9.82552601107,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_351,Huntington Bancshares,9.38940663605,9.9000817594,Financials,public_at_publisher_valuation
+f2025_352,Hormel Foods,9.38604005246,9.90348755254,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_353,Eversource Energy,9.38436090373,9.27612811251,Energy,public_at_publisher_valuation
+f2025_354,Alcoa,9.38387342274,9.53964411912,Materials,public_at_publisher_valuation
+f2025_355,Entergy,9.38258634007,9.41466800903,Energy,public_at_publisher_valuation
+f2025_356,Assurant,9.38240113306,9.56099724359,Financials,public_at_publisher_valuation
+f2025_357,Chewy,9.38103627869,9.79812703688,Retailing,public_at_publisher_valuation
+f2025_358,Wayfair,9.38016753119,9.40096073158,Retailing,public_at_publisher_valuation
+f2025_359,Crown Holdings,9.37593955263,10.0432494949,Materials,public_at_publisher_valuation
+f2025_360,Avis Budget Group,9.37492217229,9.92818016513,Retailing,public_at_publisher_valuation
+f2025_361,Intercontinental Exchange,9.37254425185,9.46653177734,Financials,public_at_publisher_valuation
+f2025_362,Alaska Air Group,9.37033110829,10.3758010121,Transportation,public_at_publisher_valuation
+f2025_363,GXO Logistics,9.36811305585,11.7636841833,Transportation,public_at_publisher_valuation
+f2025_364,AGCO,9.36408239689,10.0858091093,Industrials,public_at_publisher_valuation
+f2025_365,Graybar Electric,9.36267511828,9.21034037198,Wholesalers,unknown_private_or_other
+f2025_366,Molson Coors Beverage,9.36108525867,9.72913416539,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_367,Arthur J. Gallagher,9.35486486841,10.9326961711,Financials,public_at_publisher_valuation
+f2025_368,Huntington Ingalls Industries,9.35314117061,10.6919449129,Aerospace & Defense,public_at_publisher_valuation
+f2025_369,International Flavors & Fragrances,9.34871004124,10.0168162378,Chemicals,public_at_publisher_valuation
+f2025_370,Darden Restaurants,9.34049105644,12.1605782942,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_371,Cincinnati Financial,9.33587109442,8.63479843349,Financials,public_at_publisher_valuation
+f2025_372,Chipotle Mexican Grill,9.33378733726,11.7791591566,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_373,Yum China Holdings,9.33282345619,12.4110522262,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_374,Las Vegas Sands,9.33238099789,10.5991316133,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_375,Ulta Beauty,9.33217740131,10.5713169251,Retailing,public_at_publisher_valuation
+f2025_376,Caesars Entertainment,9.32989960703,10.8197782844,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_377,BrightSpring Health Services,9.32958899979,10.5186731916,Health Care,public_at_publisher_valuation
+f2025_378,Andersons,9.32878985218,7.72400465668,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_379,Hershey,9.32387439334,9.86708287064,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_380,Hilton Worldwide Holdings,9.32134493002,12.1062523102,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_381,Mosaic,9.31675233467,9.52988441758,Chemicals,public_at_publisher_valuation
+f2025_382,Airbnb,9.31488055125,8.89562962714,Technology,public_at_publisher_valuation
+f2025_383,Diamondback Energy,9.31163262346,7.59236612852,Energy,public_at_publisher_valuation
+f2025_384,American Tower,9.30913538179,8.45340105833,Financials,public_at_publisher_valuation
+f2025_385,Vertex Pharmaceuticals,9.30747615708,8.71604405016,Health Care,public_at_publisher_valuation
+f2025_386,ServiceNow,9.30419494745,10.177058023,Technology,public_at_publisher_valuation
+f2025_387,Owens Corning,9.30337523794,10.1266311039,Materials,public_at_publisher_valuation
+f2025_388,Thrivent Financial,9.29819555952,8.28979058318,Financials,mutual
+f2025_389,Advance Auto Parts,9.29568285714,10.7789562899,Retailing,public_at_publisher_valuation
+f2025_390,Toll Brothers,9.29161616524,8.4969904841,Engineering & Construction,public_at_publisher_valuation
+f2025_391,Mohawk Industries,9.29071225623,10.6430411059,Household Products,public_at_publisher_valuation
+f2025_392,Motorola Solutions,9.28887424963,9.95227771671,Technology,public_at_publisher_valuation
+f2025_393,Oshkosh,9.28081747478,9.82552601107,Industrials,public_at_publisher_valuation
+f2025_394,DoorDash,9.28005298439,10.0732303271,Technology,public_at_publisher_valuation
+f2025_395,Accendra Health,9.27808312906,10.0519075577,Health Care,public_at_publisher_valuation
+f2025_396,NVR,9.2773352488,8.85366542804,Engineering & Construction,public_at_publisher_valuation
+f2025_397,Interpublic Group,9.2772230185,10.8836916102,Business Services,public_at_publisher_valuation
+f2025_398,Booz Allen Hamilton Holding,9.27443191824,10.4399809231,Technology,public_at_publisher_valuation
+f2025_399,Burlington Stores,9.27188692163,10.7641598606,Retailing,public_at_publisher_valuation
+f2025_400,Expeditors Intl. of Washington,9.2686564488,9.84781626767,Transportation,public_at_publisher_valuation
+f2025_402,Fidelity National Information (FIS),9.2629328221,10.8197782844,Business Services,public_at_publisher_valuation
+f2025_403,Jefferies Financial Group,9.26056759832,8.96469555532,Financials,public_at_publisher_valuation
+f2025_404,Williams,9.25941620962,8.67060073805,Energy,public_at_publisher_valuation
+f2025_405,VF,9.25480691705,10.0858091093,Apparel,public_at_publisher_valuation
+f2025_406,FM,9.25086792315,8.67334187391,Financials,unknown_private_or_other
+f2025_408,Westinghouse Air Brake,9.24831030323,10.2921455423,Industrials,public_at_publisher_valuation
+f2025_409,Public Service Enterprise Group,9.23892782883,9.47631350127,Energy,public_at_publisher_valuation
+f2025_410,Dana,9.23834456839,10.5865843972,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_411,Ebay,9.23824732523,9.35010231435,Technology,public_at_publisher_valuation
+f2025_412,Celanese,9.23795553901,9.40615383562,Chemicals,public_at_publisher_valuation
+f2025_413,Global Payments,9.22087469069,10.203592145,Business Services,public_at_publisher_valuation
+f2025_414,News Corp.,9.21880445039,10.0816337379,Media,public_at_publisher_valuation
+f2025_415,Thor Industries,9.21467098134,10.0123419574,Motor Vehicles & Parts,public_at_publisher_valuation
+f2025_416,QVC Group,9.21403354381,9.85135179812,Retailing,public_at_publisher_valuation
+f2025_417,Icahn Enterprises,9.21233837464,9.61826910952,Financials,public_at_publisher_valuation
+f2025_418,Constellation Brands,9.20651305714,9.13776967914,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_419,Quest Diagnostics,9.19745774615,10.8297286153,Health Care,public_at_publisher_valuation
+f2025_420,KLA,9.19138178837,9.62344290721,Technology,public_at_publisher_valuation
+f2025_421,QXO Building Products,9.18637549452,8.99566089907,Wholesalers,public_at_publisher_valuation
+f2025_422,APA,9.18368834098,7.74283595543,Energy,public_at_publisher_valuation
+f2025_423,Gold.com,9.17977806639,6.1862086239,Wholesalers,public_at_publisher_valuation
+f2025_424,Biogen,9.17739353683,8.93656120469,Health Care,public_at_publisher_valuation
+f2025_425,Campbell's,9.17326136373,9.57498348556,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_426,Concentrix,9.17148519201,13.0170028617,Technology,public_at_publisher_valuation
+f2025_427,Cintas,9.16916414806,10.7472075916,Business Services,public_at_publisher_valuation
+f2025_428,SpartanNash,9.16422313236,9.61580548008,Wholesalers,public_at_publisher_valuation
+f2025_429,Ace Hardware,9.15814140443,9.43348392329,Wholesalers,unknown_private_or_other
+f2025_430,Analog Devices,9.15135440683,10.0858091093,Technology,public_at_publisher_valuation
+f2025_431,Eastman Chemical,9.14654823889,9.5468126086,Chemicals,public_at_publisher_valuation
+f2025_432,Interactive Brokers Group,9.14590851182,8.00570067866,Financials,public_at_publisher_valuation
+f2025_433,Regions Financial,9.14558849475,9.88552722716,Financials,public_at_publisher_valuation
+f2025_434,JetBlue Airways,9.13550906135,9.89454771097,Transportation,public_at_publisher_valuation
+f2025_435,Zoetis,9.13302726887,9.53242387115,Health Care,public_at_publisher_valuation
+f2025_436,KeyCorp,9.13086417047,9.72633262569,Financials,public_at_publisher_valuation
+f2025_437,Oscar Health,9.12452101153,7.78322401634,Health Care,public_at_publisher_valuation
+f2025_438,Ovintiv,9.12172771362,7.39203156751,Energy,public_at_publisher_valuation
+f2025_439,Seaboard,9.1160296925,9.5468126086,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_440,Hertz Global Holdings,9.11040953335,10.165851817,Retailing,public_at_publisher_valuation
+f2025_441,Skechers U.S.A.,9.10157406318,9.6224500228,Apparel,public_at_publisher_valuation
+f2025_442,Optimum Communications,9.09990031058,9.29651806822,Telecommunications,public_at_publisher_valuation
+f2025_443,NOV,9.0904300753,10.434409878,Energy,public_at_publisher_valuation
+f2025_444,Graphic Packaging Holding,9.08330213881,10.0432494949,Materials,public_at_publisher_valuation
+f2025_445,Avery Dennison,9.07746019584,10.4631033405,Materials,public_at_publisher_valuation
+f2025_446,Equinix,9.0765803818,9.51826615091,Financials,public_at_publisher_valuation
+f2025_447,Insight Enterprises,9.07127368785,9.56969173112,Technology,public_at_publisher_valuation
+f2025_448,Sirius XM Holdings,9.07096335551,8.61522693169,Media,public_at_publisher_valuation
+f2025_449,PVH,9.06564980385,9.99879773234,Apparel,public_at_publisher_valuation
+f2025_450,CenterPoint Energy,9.06450502375,9.09065552903,Energy,public_at_publisher_valuation
+f2025_451,WEC Energy Group,9.05950585427,8.85609105525,Energy,public_at_publisher_valuation
+f2025_452,Xylem,9.0550890867,10.0432494949,Industrials,public_at_publisher_valuation
+f2025_453,Franklin Templeton,9.04522985191,9.23014299927,Financials,public_at_publisher_valuation
+f2025_454,PPL,9.04334083128,8.80282315974,Energy,public_at_publisher_valuation
+f2025_455,Workday,9.04144823549,9.92730173064,Technology,public_at_publisher_valuation
+f2025_456,Dover,9.03887566572,10.0858091093,Industrials,public_at_publisher_valuation
+f2025_457,Packaging Corp. of America,9.03399691071,9.6421227884,Materials,public_at_publisher_valuation
+f2025_458,ABM Industries,9.03114193317,11.6699292138,Business Services,public_at_publisher_valuation
+f2025_459,Intuitive Surgical,9.03026828323,9.65745912868,Health Care,public_at_publisher_valuation
+f2025_460,American Financial Group,9.02689818751,9.07107830464,Financials,public_at_publisher_valuation
+f2025_461,Rockwell Automation,9.01968821186,10.203592145,Industrials,public_at_publisher_valuation
+f2025_462,Solventum,9.01845321031,9.99879773234,Health Care,public_at_publisher_valuation
+f2025_463,Old Republic International,9.01572353709,9.14846496826,Financials,public_at_publisher_valuation
+f2025_464,Securian Financial Group,9.01509161786,8.62515033292,Financials,unknown_private_or_other
+f2025_465,Prologis,9.01208453617,7.90211754628,Financials,public_at_publisher_valuation
+f2025_466,J.M. Smucker,9.00928849276,9.10497985632,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_467,Taylor Morrison Home,9.00799160267,8.00636756765,Engineering & Construction,public_at_publisher_valuation
+f2025_468,XPO,8.99615656203,10.5840559509,Transportation,public_at_publisher_valuation
+f2025_469,Voya Financial,8.99342737041,9.21034037198,Financials,public_at_publisher_valuation
+f2025_470,Palo Alto Networks,8.99062842596,9.63488889456,Technology,public_at_publisher_valuation
+f2025_471,Vertiv Holdings,8.98867073392,10.3417424835,Industrials,public_at_publisher_valuation
+f2025_472,Welltower,8.98608370137,6.52941883826,Financials,public_at_publisher_valuation
+f2025_473,Foot Locker,8.98569569454,10.3163585029,Retailing,public_at_publisher_valuation
+f2025_474,Par Pacific Holdings,8.98400422976,7.48829351516,Energy,public_at_publisher_valuation
+f2025_475,TransDigm Group,8.97966855424,9.71715797434,Aerospace & Defense,public_at_publisher_valuation
+f2025_476,Commercial Metals,8.97790377375,9.48630405147,Materials,public_at_publisher_valuation
+f2025_477,Post Holdings,8.9774873358,9.34836166987,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_478,Masco,8.96546232852,9.79812703688,Household Products,public_at_publisher_valuation
+f2025_479,Rush Enterprises,8.96248139531,8.97233695775,Retailing,public_at_publisher_valuation
+f2025_480,KBR,8.95441533114,10.5453414387,Technology,public_at_publisher_valuation
+f2025_481,Sprouts Farmers Market,8.95147896533,10.4631033405,Food & Drug Stores,public_at_publisher_valuation
+f2025_482,Williams-Sonoma,8.95046800016,9.88328484522,Retailing,public_at_publisher_valuation
+f2025_483,Zimmer Biomet Holdings,8.94619251786,9.74096862304,Health Care,public_at_publisher_valuation
+f2025_484,CACI International,8.94374115273,10.0858091093,Technology,public_at_publisher_valuation
+f2025_485,Microchip Technology,8.9404196291,10.0123419574,Technology,public_at_publisher_valuation
+f2025_486,Watsco,8.93830852668,8.88985958777,Wholesalers,public_at_publisher_valuation
+f2025_487,Newell Brands,8.93353229608,10.0732303271,Household Products,public_at_publisher_valuation
+f2025_488,ARKO,8.93209364631,9.37347910935,Retailing,public_at_publisher_valuation
+f2025_489,Sanmina,8.93172375054,10.448714603,Technology,public_at_publisher_valuation
+f2025_490,Electronic Arts,8.93089098445,9.52515111182,Media,public_at_publisher_valuation
+f2025_491,Yum Brands,8.92917038314,10.3637880079,"Hotels, Restaurants & Leisure",public_at_publisher_valuation
+f2025_492,Fastenal,8.92877290052,9.95027571403,Wholesalers,public_at_publisher_valuation
+f2025_493,CMS Energy,8.92465630219,9.02689818751,Energy,public_at_publisher_valuation
+f2025_494,Monster Beverage,8.92168449219,8.70665585636,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_495,Endeavor Group Holdings,8.92037569637,9.21034037198,Media,unknown_private_or_other
+f2025_496,Science Applications International,8.91985437219,10.0858091093,Technology,public_at_publisher_valuation
+f2025_497,Core & Main,8.9147605274,8.64822145382,Wholesalers,public_at_publisher_valuation
+f2025_498,Howmet Aerospace,8.91328113771,10.0828881809,Aerospace & Defense,public_at_publisher_valuation
+f2025_499,Ingredion,8.91328113771,9.32366905728,"Food, Beverages & Tobacco",public_at_publisher_valuation
+f2025_500,Vulcan Materials,8.91162431506,9.39024233725,Materials,public_at_publisher_valuation

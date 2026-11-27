@@ -1,0 +1,11 @@
+check,passed
+fixture_training_median_population_scale,True
+fixture_constant_column,True
+fixture_reject_all_missing,True
+fixture_rank_tie_normalization,True
+fixture_zero_bandwidth_positive_fallback,True
+fixture_all_identical_distances,True
+fixture_underflow_logged,True
+fixture_factorized_probability,True
+fixture_support_fallback_and_blend,True
+fixture_alpha_zero_identity,True

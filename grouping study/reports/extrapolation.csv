@@ -1,0 +1,3 @@
+diagnostic,atlanta,cross_fitted_95th_percentile,warning,qualification
+nearest_metro_distance,0.6433524817124336,0.9215566172992589,False,outer-selected bandwidths vary across folds
+metro_bandwidth,1.188048152325821,1.8065238209918806,False,outer-selected bandwidths vary across folds
